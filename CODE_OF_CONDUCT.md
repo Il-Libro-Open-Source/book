@@ -121,6 +121,5 @@ Mozilla](https://github.com/mozilla/diversity).
 [homepage]: https://www.contributor-covenant.org
 
 Per riposte a domande comuni riguardo questo codice di condotta,controlla le
-domande frequenti al link https://www.contributor-covenant.org/faq.Le
-traduzioni sono disponibili al link https://www.contributor-
-covenant.org/translations.
+domande frequenti al link https://www.contributor-covenant.org/faq.
+Le traduzioni sono disponibili al link https://www.contributor-covenant.org/translations.
