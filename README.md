@@ -9,7 +9,8 @@ Puoi contribuire al progetto in moltissimi modi.
 Il primo è certamente quello di mettere una stella e di condividere il progetto con chiunque tu conosca.  
 Il secondo è quello di contribuire attivamente al progetto, scrivendo, traducendo, revisionando, disegnando, ecc.  
 Durante la vita del progetto saranno aperte discussioni, sondaggi, pull requests e issue per permettere a chiunque di contribuire in maniera attiva al progetto.  
-Inoltre, puoi diventare un Ambassador del progetto, che ti permetterà di avere un ruolo attivo nella gestione del progetto stesso. Vedi la sezione [Ambassadors](#ambassadors) per maggiori informazioni.
+Inoltre, puoi diventare un Ambassador del progetto, che ti permetterà di avere un ruolo attivo nella gestione del progetto stesso. Vedi la sezione [Ambassadors](#ambassadors) per maggiori informazioni.  
+Maggiori dettagli [qui](CONTRIBUTING.md).
 
 ## Codice di condotta
 
