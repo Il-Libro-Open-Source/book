@@ -30,6 +30,6 @@ Nella discussione [Idee sparse](https://github.com/Il-Libro-Open-Source/book/dis
 ## Ambassadors
 
 Chi sono gli Ambassador?
-Sono coloro che hanno deciso di contribuire al progetto in maniera diretta, prendendosi la responsabilità di uno o più capitoli, piuttosto che di altre aree come la grafica, la traduzione, la revisione, ecc.  
+Sono coloro che hanno deciso di contribuire al progetto in maniera diretta, prendendosi la responsabilità di uno o più capitoli, oppure di altre aree come la grafica, la traduzione, la revisione, ecc.  
 Ad Agosto sono partite le prime votazioni per il ruolo di Ambassador.  
 Per saperne di più, visita la pagina dedicata: [Ambassadors](AMBASSADORS.md).
