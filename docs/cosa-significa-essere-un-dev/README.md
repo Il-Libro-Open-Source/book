@@ -40,7 +40,21 @@ _Persevera con passione: a quel punto l'unico limite che avrai, sarai tu._
 
 ## La curiosità: il potere della scoperta
 
-Work in progress...
+Qualità caratteristica dell'essere umano, la curiosità è l'impulso a scoprire, ricercare e comprendere ciò che ancora non conosciamo. Se cerchiamo la definizione di "curiosità" su Wikipedia infatti, scopriamo che:
+
+> _La curiosità è un aspetto emozionale che descrive un numero di meccanismi e comportamenti che hanno come fine il placare l'impulso degli esseri viventi a trarre informazioni ed interagire con l'ambiente._
+
+Il percorso che hai deciso di intraprendere pullula di informazioni che non aspettano altro che essere scoperte, studiate e messe in pratica; ci teniamo però a preparti: alcune nozioni potranno risultarti piuttosto semplici, altre dannatamente complesse.
+
+Nonostante ciò, non scoraggiarti; la nostra intenzione non è spaventarti, ma consigliarti e guidarti nel migliore dei modi; proprio per questo, ti inviatiamo a riflettere su un'aspetto tanto scontato quanto potente: il potere dell'informazione libera.
+
+Proprio come il libro che stai leggendo in questo momento, in rete esistono miliardi di informazioni a cui puoi avere accesso: aspettano solo di essere ricercate! Queste pagine che stai leggendo sono presenti sul web, e molto probabilmente ne sei venuto a conoscenza perché ti sei imbattuto in esse navigando per la rete, o magari perché chi ti ha consigliato questo libro lo ha cercato a sua volta. Poco importa, quello che è davvero importante è che tu prenda consapevolezza del fatto che il web pullula di informazioni a cui puoi accedere, e che l'unica cosa che ti separa da esse, indovina un po', _sei tu_!
+
+Le informazioni presenti in rete però, per quanto siano molteplici e liberamente fruibili, da sole non hanno alcun effetto sulla tua formazione; analogamente a quanto avviene con un esplosivo, la polvere da sparo, per quanto potente possa essere, da sola non basta; serve un'innesco o, per meglio dire, serve **una scintilla che sia in grado di innescare la miccia**.
+
+A questo punto, caro lettore, avrai capito dove vogliamo andare a parare: ciò che non deve mai mancare in te è la curiosità!
+
+Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, prona all'apprendimento e alla crescita professionale; fintanto che questa scintilla resterà accesa, non avrai limiti nell'apprendimento: anche qui, l'unico limite che avrai, _sei tu_.
 
 ## L'empatia: la capacità di impersonare il prossimo
 
