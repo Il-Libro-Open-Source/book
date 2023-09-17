@@ -74,10 +74,24 @@ Ed è proprio per questo che ti parlo di empatia: durante il tuo percorso, che s
 
 Forte di questa consapevolezza, prendi coraggio e sii empatico: pubblica, ovunque tu voglia e in qualsiasi formato tu preferisca, ciò che hai imparato: per te sarà un notevole esercizio di ripasso e pratica sul campo; chiunque fruità dei tuoi contenuti te ne sarà grato e sarà propenso a diventare un membro della tua community, ma sopra ogni cosa sarà ispirato a condividere a sua volta le nozioni che imparerà lungo il suo percorso...proprio come hai fatto tu prima di lui.
 
-Ciò che vogliamo trasmetterti è la propensione ad adottare uno spirito di condivisione: oltre ad essere il cuore pulsante del movimento Open Source, e quindi del libro che stai leggendo, è anche un principio nobile e al contempo stesso utile; qualora non ne comprenderai subito il senso ed il potenziale, e magari ti sembrerà una perdita di tempo, ti facciamo una promessa: arriverà il giorno in cui ringrazierai chi, prima di te, ha seguito il nostro consiglio.
+Ciò che vogliamo trasmetterti è la propensione ad adottare uno spirito di condivisione: oltre ad essere il cuore pulsante del movimento Open Source, e quindi del libro che stai leggendo, è anche un principio nobile e al contempo stesso utile; qualora non ne comprenderai subito il senso ed il potenziale, o magari ti sembrerà una perdita di tempo, ti a mente quanto segue: arriverà il giorno in cui ringrazierai chi, prima di te, ha seguito il nostro consiglio.
 
 Fidati di noi: fidati di chi, prima di te, è stato aiutato e che oggi è qui a condividere il suo sapere con te.
 
 ## La contaminazione: fare squadra nel modo giusto
 
-Work in progress...
+"Essere un dev", tra le tante altre cose, significa *essere parte di una comunità*.
+
+Una comunità composta da altri professionisti, persone che come te hanno scelto di lavorare in questo settore.
+
+Con il tempo, magari collaborando ad un progetto Open Source o lavorando in qualche azienda, ti troverai a dover collaborare a stretto contatto (che sia esso virtuale o fisico) con altri sviluppatori.
+
+Scenario ben diverso da ciò che magari sei stato abituato a fare fino a quel momento; d'altro canto, un conto è scrivere codice in solitudine per un progetto a cui stiamo lavorando, e un conto è scrivere codice collaborativo con un numero indefinito di altre persone, tutte con lo stesso obiettivo.
+
+In queste circostante, ciò che solitamente fà la differenza è lo spirito con cui si affrontano queste situazioni; partire prevenuti non serve a niente, e anzi il più delle volte potrebbe addirittura risultare controproducente; ha molto più senso invece partire dall'assunto che **ognuno di noi può insegnarci qualcosa**, e dunque, **possiamo sempre imparare qualcosa, anche da chi è meno esperto di noi**.
+
+Adottare un'atteggiamento del genere significa abbracciare l'idea di poter apprendere sempre qualcosa, indipendentemente dal nostro grado di conoscenza o da chi abbiamo davanti...significa **lasciarsi contaminare**.
+
+La contaminazione, in un gruppo di persone aventi lo stesso obiettivo, è un'atteggiamento prono al successo, è inclusivo e privo di qualsiasi pregiudizio di genere: è un modo sano di fare gruppo, contribuendo alla sua crescita e apprendendo da esso.
+
+In fondo, come abbiamo già detto qualche riga fà, Open Source significa anche questo: contribuire condividendo il proprio sapere, ed apprendere da chi a sua volta condivide il suo sapere con noi.
