@@ -1,8 +1,8 @@
 # Cosa significa essere un dev
 
-*Cosa significa "essere un dev"?* 
+_Cosa significa "essere un dev"?_
 
-La domanda, di per se, è piuttosto semplice. 
+La domanda, di per se, è piuttosto semplice.
 
 Non si può dire però altrettanto per la risposta...o, per meglio dire, le risposte.
 
@@ -24,13 +24,13 @@ Caratteristiche che nulla hanno a che fare con la scrittura del codice, né pres
 
 Decidere di "diventare un dev" significa scegliere di "sacrificare" buona parte del proprio tempo al fine di raggiungere un'obiettivo; non sarà un percorso facile, tantomeno breve; ci saranno momenti di eccitazione, ma anche di sconforto; ci saranno giorni in cui tutto sembrerà andare per il verso giusto, ed altri in cui ogni nostra singola attività verrà minata dalle difficoltà che ci si pareranno davanti; ci saranno concetti che domeremo con estrema facilità, ed altri in cui ne usciremo sconfitti e con la coda tra le gambe.
 
-Fà tutto parte del gioco: *abbraccialo, comprendilo e fallo tuo*; magari non oggi e forse nemmeno domani, ma arriverà il momento in cui riuscirai dove prima hai fallito.
+Fà tutto parte del gioco: _abbraccialo, comprendilo e fallo tuo_; magari non oggi e forse nemmeno domani, ma arriverà il momento in cui riuscirai dove prima hai fallito.
 
 Solitamente, quando ci appassioniamo a qualcosa tendiamo a dedicare molto del nostro tempo a quella specifica attività; la coltiviamo negli anni prendendocene cura, approfondendo ogni aspetto e cercando di scoprire ogni singola caratteristica che possiede...in buona sostanza: _la rendiamo nostra_.
 
 Forti di questa consapevolezza possiamo quindi affermare che ciò che farà la differenza tra il nostro successo e la nostra sconfitta sarà la passione che metteremo in ciò che facciamo; se non avremo passione, difficilmente riusciremo ad accettare una sconfitta e a rialzarci più forti di prima; senza passione non riusciremo a trovare la forza di studiare, magari dopo una giornata di lavoro.
 
-Se però avremo passione, avremo dalla nostra una risorsa sorprendente: il dono della *Perseveranza*.
+Se però avremo passione, avremo dalla nostra una risorsa sorprendente: il dono della _Perseveranza_.
 
 Non importerà quindi quante volte proveremo, senza successo, a completare un'esercizio o ad imparare una tecnologia: avremo sempre la forza necessaria per incassare il colpo, prendere fiato, e provare a superare noi stessi.
 
@@ -80,7 +80,7 @@ Fidati di noi: fidati di chi, prima di te, è stato aiutato e che oggi è qui a 
 
 ## La contaminazione: fare squadra nel modo giusto
 
-"Essere un dev", tra le tante altre cose, significa *essere parte di una comunità*.
+"Essere un dev", tra le tante altre cose, significa _essere parte di una comunità_.
 
 Una comunità composta da altri professionisti, persone che come te hanno scelto di lavorare in questo settore.
 
