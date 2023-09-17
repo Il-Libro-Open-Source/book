@@ -16,7 +16,7 @@ O ancora, volendola vedere sotto un punto di vista più etico: "_Essere un dev s
 
 La verità, caro lettore, è che essere un dev significa essere tante cose contemporaneamente.
 
-Tante _definizioni_, se così vogliamo chiamarle, che però affondano le loro radici su dei principi solidi e genuini: [**passione**](#la-passione-il-combustibile-per-eccellenza), [**curiosità**](#la-curiosità-il-potere-della-scoperta), [**empatia**](#lempatia-la-capacità-di-impersonare-il-prossimo) e [**contaminazione**](#la-contaminazione-fare-squadra-nel-modo-giusto).
+Tante _definizioni_, se così vogliamo chiamarle, che però affondano le loro radici su dei principi solidi e genuini: [**passione**](#la-passione-il-combustibile-per-eccellenza), [**curiosità**](#la-curiosità-il-potere-della-scoperta), [**empatia**](#lempatia-la-capacità-di-impersonare-il-prossimo) e [**contaminazione**](#la-contaminazione-fare-squadra-nel-modo-giusto); principi su cui, peraltro, nasce questo libro.
 
 Caratteristiche che nulla hanno a che fare con la scrittura del codice, né presentano alcun tipo di legame diretto con specifiche competenze tecniche; nonostante ciò, risultano essere caratteristiche **fondamentali** per intraprendere questa carriera al meglio, lasciarsi coinvolgere da essa e riuscire a portare valore in questo settore.
 
@@ -58,7 +58,25 @@ Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, p
 
 ## L'empatia: la capacità di impersonare il prossimo
 
-Work in progress...
+Forse ti starai chiedendo cosa c'entri una qualità come l'empatia in un percorso di apprendimento e crescita professionale in un settore come quello della programmazione.
+
+Se ad un primo impatto potrebbe sembrare un dubbio legittimo, la verità è che l'empatia in questo caso gioca un ruolo fondamentale.
+
+Durante il tuo percorso, presto o tardi ti capiterà di imbatterti in un problema a cui non saprai far fronte; a quel punto, molto probabilmente il tuo primo impulso sarà quello di cercare in rete una soluzione e, pensa un po', la troverai!
+
+Penserai "_Che fortuna che ho avuto!_", ed è qui che sbaglieresti...**sbaglieresti di grosso**.
+
+Quella soluzione, che molto probabilmente ti aiuterà a risolvere il tuo problema, è lì per un motivo ben preciso: qualcuno, prima di te, ha avuto il tuo stesso problema; al contrario di te però, quel qualcuno non è stato "_così fortunato_" da trovare una soluzione online, ma è stato abbastanza empatico da mettersi nei panni di chi, come te, quel problema prima o poi lo avrebbe avuto; una volta trovata la soluzione quindi, si è adoperato per metterla a disposizione di tutti, **gratuitamente** e in maniera del tutto spontanea.
+
+Questo, caro lettore, è uno dei principi fondamentali su cui verte questo libro: **la condivisione libera del sapere (in questo caso collettivo) con chiunque ne abbia bisogno**.
+
+Ed è proprio per questo che ti parlo di empatia: durante il tuo percorso, che sia grazie a questo libro o ad altro, apprenderai un'enorme quantità di informazioni; mentre lo farai, rifletti sul perché ti è possibile farlo, e domandati se le nozioni da te apprese potranno in futuro essere utile a chi muoverà i primi passi in questo settore, proprio come stai facendo tu ora grazie al manoscritto che stai leggendo.
+
+Forte di questa consapevolezza, prendi coraggio e sii empatico: pubblica, ovunque tu voglia e in qualsiasi formato tu preferisca, ciò che hai imparato: per te sarà un notevole esercizio di ripasso e pratica sul campo; chiunque fruità dei tuoi contenuti te ne sarà grato e sarà propenso a diventare un membro della tua community, ma sopra ogni cosa sarà ispirato a condividere a sua volta le nozioni che imparerà lungo il suo percorso...proprio come hai fatto tu prima di lui.
+
+Ciò che vogliamo trasmetterti è la propensione ad adottare uno spirito di condivisione: oltre ad essere il cuore pulsante del movimento Open Source, e quindi del libro che stai leggendo, è anche un principio nobile e al contempo stesso utile; qualora non ne comprenderai subito il senso ed il potenziale, e magari ti sembrerà una perdita di tempo, ti facciamo una promessa: arriverà il giorno in cui ringrazierai chi, prima di te, ha seguito il nostro consiglio.
+
+Fidati di noi: fidati di chi, prima di te, è stato aiutato e che oggi è qui a condividere il suo sapere con te.
 
 ## La contaminazione: fare squadra nel modo giusto
 
