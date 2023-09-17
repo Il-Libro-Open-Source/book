@@ -46,7 +46,7 @@ Qualità caratteristica dell'essere umano, la curiosità è l'impulso a scoprire
 
 Il percorso che hai deciso di intraprendere pullula di informazioni che non aspettano altro che essere scoperte, studiate e messe in pratica; ci teniamo però a preparti: alcune nozioni potranno risultarti piuttosto semplici, altre dannatamente complesse.
 
-Nonostante ciò, non scoraggiarti; la nostra intenzione non è spaventarti, ma consigliarti e guidarti nel migliore dei modi; proprio per questo, ti inviatiamo a riflettere su un'aspetto tanto scontato quanto potente: il potere dell'informazione libera.
+Nonostante ciò, non scoraggiarti; la nostra intenzione non è quella di spaventarti, ma di consigliarti e guidarti nel migliore dei modi; proprio per questo, ti inviatiamo a riflettere su un'aspetto tanto scontato quanto potente: il potere dell'informazione libera.
 
 Proprio come il libro che stai leggendo in questo momento, in rete esistono miliardi di informazioni a cui puoi avere accesso: aspettano solo di essere ricercate! Queste pagine che stai leggendo sono presenti sul web, e molto probabilmente ne sei venuto a conoscenza perché ti sei imbattuto in esse navigando per la rete, o magari perché chi ti ha consigliato questo libro lo ha cercato a sua volta. Poco importa, quello che è davvero importante è che tu prenda consapevolezza del fatto che il web pullula di informazioni a cui puoi accedere, e che l'unica cosa che ti separa da esse, indovina un po', _sei tu_!
 
@@ -54,7 +54,7 @@ Le informazioni presenti in rete però, per quanto siano molteplici e liberament
 
 A questo punto, caro lettore, avrai capito dove vogliamo andare a parare: ciò che non deve mai mancare in te è la curiosità!
 
-Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, prona all'apprendimento e alla crescita professionale; fintanto che questa scintilla resterà accesa, non avrai limiti nell'apprendimento: anche qui, l'unico limite che avrai, _sei tu_.
+Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, prona all'apprendimento e alla crescita professionale; fintanto che questa scintilla resterà accesa, non avrai limiti nell'apprendimento: anche qui, l'unico limite che avrai, _sarai tu_.
 
 ## L'empatia: la capacità di impersonare il prossimo
 
@@ -70,11 +70,11 @@ Quella soluzione, che molto probabilmente ti aiuterà a risolvere il tuo problem
 
 Questo, caro lettore, è uno dei principi fondamentali su cui verte questo libro: **la condivisione libera del sapere (in questo caso collettivo) con chiunque ne abbia bisogno**.
 
-Ed è proprio per questo che ti parlo di empatia: durante il tuo percorso, che sia grazie a questo libro o ad altro, apprenderai un'enorme quantità di informazioni; mentre lo farai, rifletti sul perché ti è possibile farlo, e domandati se le nozioni da te apprese potranno in futuro essere utile a chi muoverà i primi passi in questo settore, proprio come stai facendo tu ora grazie al manoscritto che stai leggendo.
+Ed è proprio per questo che ti parlo di empatia: durante il tuo percorso, che sia grazie a questo libro o ad altro, apprenderai un'enorme quantità di informazioni; mentre lo farai, rifletti sul perché ti è possibile farlo, e domandati se le nozioni da te apprese potranno in futuro essere utili a chi muoverà i primi passi in questo settore, proprio come stai facendo tu ora grazie al manoscritto che stai leggendo.
 
-Forte di questa consapevolezza, prendi coraggio e sii empatico: pubblica, ovunque tu voglia e in qualsiasi formato tu preferisca, ciò che hai imparato: per te sarà un notevole esercizio di ripasso e pratica sul campo; chiunque fruità dei tuoi contenuti te ne sarà grato e sarà propenso a diventare un membro della tua community, ma sopra ogni cosa sarà ispirato a condividere a sua volta le nozioni che imparerà lungo il suo percorso...proprio come hai fatto tu prima di lui.
+Forte di questa consapevolezza, prendi coraggio e sii empatico: pubblica, ovunque tu voglia e in qualsiasi formato tu preferisca, ciò che hai imparato: per te sarà un notevole esercizio di ripasso e pratica sul campo; chiunque fruirà dei tuoi contenuti te ne sarà grato e sarà propenso a diventare un membro della tua community, ma sopra ogni cosa sarà ispirato a condividere a sua volta le nozioni che imparerà lungo il suo percorso...proprio come hai fatto tu prima di lui.
 
-Ciò che vogliamo trasmetterti è la propensione ad adottare uno spirito di condivisione: oltre ad essere il cuore pulsante del movimento Open Source, e quindi del libro che stai leggendo, è anche un principio nobile e al contempo stesso utile; qualora non ne comprenderai subito il senso ed il potenziale, o magari ti sembrerà una perdita di tempo, ti a mente quanto segue: arriverà il giorno in cui ringrazierai chi, prima di te, ha seguito il nostro consiglio.
+Ciò che vogliamo trasmetterti è la propensione ad adottare uno spirito di condivisione: oltre ad essere il cuore pulsante del movimento Open Source, e quindi del libro che stai leggendo, è anche un principio nobile e al contempo stesso utile; qualora non ne comprenderai subito il senso ed il potenziale, o magari ti sembrerà una perdita di tempo, tieni a mente quanto segue: arriverà il giorno in cui ringrazierai chi, prima di te, ha seguito il nostro consiglio.
 
 Fidati di noi: fidati di chi, prima di te, è stato aiutato e che oggi è qui a condividere il suo sapere con te.
 
