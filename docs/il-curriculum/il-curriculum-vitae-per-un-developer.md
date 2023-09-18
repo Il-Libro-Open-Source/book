@@ -31,4 +31,10 @@ Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV
 
 "Per scrivere un buon CV (e il CV serve ancora, credimi) si parte dalla consapevolezza di sé e, attraverso un percorso che tocca diverse tappe, si arriva alla capacità di esprimere chi si é, il valore che si porta, le competenze maturate e i propri obiettivi in modo credibile e convincente."
 
+*UN CV DI ESEMPIO*
+
+Come anticipato in precedenza, di seguito trovi un esempio di un CV dal quale potrai prendere ispirazione:
+
+![CV-Luke-Skywalker-FE-Developer_v3.png](./docs/il-curriculum/CV-Luke-Skywalker-FE-Developer_v3.png)
+
 
