@@ -36,4 +36,4 @@ _UN CV DI ESEMPIO_
 
 Come anticipato in precedenza, di seguito trovi un esempio di un CV dal quale potrai prendere ispirazione:
 
-![CV-Luke-Skywalker-FE-Developer_v3.png](./docs/il-curriculum/CV-Luke-Skywalker-FE-Developer_v3.png)
+![CV-Luke-Skywalker-FE-Developer_v3.png](./CV-Luke-Skywalker-FE-Developer_v3.png)
