@@ -6,7 +6,7 @@ Le indicazioni che troverai in questo capitolo saranno squisitamente di tipo tec
 Alcuni consigli utili prima di entrare nel vivo:
 
 - È bene cercare di costruire il CV di una sola pagina (un/una recruiter esperto ci mette circa 10–20 secondi per leggerne uno) per catturare subito l’interesse e l’attenzione di chi riceverà il documento. _Content is king_, ma anche l’occhio vuole la sua parte!
-- Come vedrai nell’esempio in basso, il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione  alla quale stai applicando
+- Come vedrai nell’esempio in basso, il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione alla quale stai applicando
 - Occhio alla lingua nella quale è scritto l’annuncio! Se l’annuncio è scritto in inglese, è sempre meglio inviare il CV in inglese, se in italiano invialo in italiano. Avere quindi due versioni del CV è sempre cosa buona e giusta
 - Personalizza! L'europass è un formato ormai datato e senza alcuna possibilità di personalizzazione grafica. L'esempio che troverai in basso è stato creato con [Canva](https://www.canva.com/), contenente centinaia di template validi che puoi scegliere.
   Potresti usare anche [LaTeX](https://www.latextemplates.com/) oppure [OverLeaf](https://www.overleaf.com/))
@@ -18,10 +18,10 @@ Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV
 
 - in primis poca connessione e conoscenza di te
 - scarsa stima del tuo valore e delle tue risorse
-- idee poco chiare rispetto a ciò che stai cercando, a chi stai parlando, alla direzione   che vuoi perseguire
+- idee poco chiare rispetto a ciò che stai cercando, a chi stai parlando, alla direzione che vuoi perseguire
 - urgenza (scriverlo quando sei nel bisogno e non nella presenza a te e ai tuoi obiettivi)
 - poca cura della struttura, della gerarchia delle informazioni e della componente grafica e visual
-- difficoltà a selezionare le informazioni che servono (scartando quelle che non  aggiungono valore)
+- difficoltà a selezionare le informazioni che servono (scartando quelle che non aggiungono valore)
 - convinzione che tanto c'è LinkedIn e il CV non serve a niente (errore)
 - pensare che basti solo il CV in pdf per cercare e trovare lavoro
 - non metterti nei panni di chi legge
@@ -36,5 +36,3 @@ _UN CV DI ESEMPIO_
 Come anticipato in precedenza, di seguito trovi un esempio di un CV dal quale potrai prendere spunto, creato su Canva:
 
 ![CV-Luke-Skywalker-FE-Developer_v3.png](./CV-Luke-Skywalker-FE-Developer_v3.png)
-
-
