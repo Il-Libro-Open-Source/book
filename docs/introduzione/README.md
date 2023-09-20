@@ -12,7 +12,7 @@ Questo libro non è un monologo; è una **sinfonia collaborativa**. Ogni capitol
 
 Proseguendo con questa lettura tieni però sempre a mente quanto segue: il nostro progresso è saldamente ancorato a questi principi fondamentali per tutte le persone coinvolte. Open Source, Open Governance e collaborazione non sono soltanto parole, ma fari che illuminano le acque in cui navighiamo. Abbracciamo quindi questi ideali, rendiamoci disponibili ad imparare gli uni dagli altri e costruiamo, assieme, un futuro in cui lo sviluppo sarà accessibile a tutti e le cui porte rimarranno aperte per chiunque voglia entrare.
 
-A te che hai intrapreso questo viaggio, non sei semplicemente un passeggero in questa avventura cosmica; tu sei una parte vitale della narrazione. Insieme, esploreremo il percorso per lavorare nel mondo dello sviluppo, qualsiasi cosa questo voglia dire, e ovunque questo possa portarci.
+A te che hai decios di intraprendere questo viaggio, sappi che non sei semplicemente un passeggero in questa avventura cosmica; tu sei una parte vitale della narrazione. Insieme, esploreremo il percorso per lavorare nel mondo dello sviluppo, qualsiasi cosa questo voglia dire, e ovunque questo possa portarci.
 
 Chi ti accompagnerà in questo viaggio? Chiunque tu voglia. Questo libro è per tutti. Questo libro è per te. Mentre lo leggi, lascia un commento sul nostro [repository su GitHub](https://github.com/Il-Libro-Open-Source/book) e dicci cosa ne pensi.
 
