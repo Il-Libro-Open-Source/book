@@ -14,7 +14,7 @@ Da dove nasce questo libro? Da una comunità di persone che hanno deciso di cond
 
 Al centro di questo viaggio c'è un profondo impegno nei confronti dei principi dell'**Open Source**. Crediamo che la conoscenza debba essere condivisa liberamente, che il codice debba essere aperto e che la saggezza collettiva di una comunità allargata sia una potente forza di progresso. Nello spirito di apertura, questo libro è esso stesso un progetto Open Source, che è disponibile oggi e per sempre in maniera gratuita, a testimonianza della nostra convinzione che insieme possiamo creare qualcosa di più grande della somma delle sue parti.
 
-Ma l’Open Source è solo l’inizio. Sosteniamo inoltre gli ideali di **Governance aperta**, riconoscendo che la vera collaborazione prospera in un ambiente di trasparenza, responsabilità e inclusività. Proprio come nel mondo del software, dove il miglior codice emerge da diverse prospettive e idee, noi adottiamo un modello di governance che invita tutte le voci al tavolo. Il nostro team di "Ambassador" incarna questa etica, lavorando fianco a fianco con la comunità per plasmare il futuro di questo libro.
+Ma l’Open Source è solo l’inizio. Sosteniamo inoltre gli ideali di **Open Governance**, riconoscendo che la vera collaborazione prospera in un ambiente di trasparenza, responsabilità e inclusività. Proprio come nel mondo del software, dove il miglior codice emerge da diverse prospettive e idee, noi adottiamo un modello di governance che invita tutte le voci al tavolo. Il nostro team di "Ambassador" incarna questa etica, lavorando fianco a fianco con la comunità per plasmare il futuro di questo libro.
 
 Questo libro non è un monologo; è una **sinfonia collaborativa**. Ogni capitolo, paragrafo e frase è stato realizzato con cura, con il contributo di persone che hanno dedicato la propria esperienza e il proprio tempo a servizio di chiunque leggerà queste pagine, condividendone la visione. Come membro di questo mondo, anche tu sei invitato a prendere parte a questa conversazione in continua evoluzione.
 
@@ -22,7 +22,7 @@ Proseguendo con questa lettura tieni sempre a mente quanto segue: il nostro prog
 
 L'Open Source è ovunque. Non ci credi?  
 OpenUK nel 2021 ha calcolato che il 90% delle aziende del mondo, grandi o piccole, tech o non tech, utilizzano software Open Source.  
-GitHub nel 2022 ha pubblicati i seguenti numeri: La piattaforma conta 94 milioni di sviluppatori che hanno effettuato 413 milioni di contributi. Dallo stesso report si evince che il 90% delle aziende Fortune 100 utilizza GitHub in qualche forma.
+GitHub nel 2022 ha pubblicato i seguenti numeri: La piattaforma conta 94 milioni di sviluppatori che hanno effettuato 413 milioni di contributi. Dallo stesso report si evince che il 90% delle aziende Fortune 100 utilizza GitHub in qualche forma.
 
 ## I temi
 
