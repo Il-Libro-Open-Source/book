@@ -4,9 +4,9 @@
 
 Chiunque tu sia, da qualunque posto tu provenga, benvenuto in un viaggio incredibile nel mondo dello sviluppo software.
 
-In queste pagine approfondiremo assieme l'essenza del developer, non puntando alla padronanza tecnica di un linguaggio di programmazione o di uno specifico framework, ma a una comprensione più profonda dei valori che sono alla base di questo mestiere.  
+In queste pagine approfondiremo assieme l'essenza del developer, non puntando alla padronanza tecnica di un linguaggio di programmazione o di uno specifico framework, ma a una comprensione più profonda dei valori che sono alla base di questo mestiere.
 
-Questo libro è per chiunque voglia intraprendere un percorso nel mondo dello sviluppo, migliorare le proprie competenze, scoprire nuovi orizzonti.  
+Questo libro è per chiunque voglia intraprendere un percorso nel mondo dello sviluppo, migliorare le proprie competenze, scoprire nuovi orizzonti.
 
 Da dove nasce questo libro? Da una comunità di persone che hanno deciso di condividere le proprie esperienze, le proprie conoscenze, le proprie storie. Ed è proprio la comunità il cuore pulsante di questo libro, e speriamo che, una volta terminata la lettura, tu possa e voglia sentirti parte di questa comunità.
 
