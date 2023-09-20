@@ -10,7 +10,7 @@ Ma l’Open Source è solo l’inizio. Sosteniamo inoltre gli ideali di **Govern
 
 Questo libro non è un monologo; è una **sinfonia collaborativa**. Ogni capitolo, paragrafo e frase è stato realizzato con cura, con il contributo di persone che hanno dedicato la propria esperienza e il proprio tempo a servizio di chiunque leggerà queste pagine, condividendone la visione. Come membro di questo mondo, anche tu sei invitato a prendere parte a questa conversazione in continua evoluzione.
 
-Proseguendo con questa lettura tieni però sempre a mente quanto segue: il nostro progresso è saldamente ancorato a questi principi per tutti noi fondamentali; Open Source, Open Governance e collaborazione non sono soltanto parole, ma fari che illuminano le acque in cui navighiamo. Abbracciamo quindi questi ideali, rendiamoci disponibili ad imparare gli uni dagli altri e costruiamo, assieme, un futuro in cui lo sviluppo sarà accessibile a tutti e le cui porte rimarranno aperte per chiunque voglia entrare
+Proseguendo con questa lettura tieni però sempre a mente quanto segue: il nostro progresso è saldamente ancorato a questi principi per tutti noi fondamentali. Open Source, Open Governance e collaborazione non sono soltanto parole, ma fari che illuminano le acque in cui navighiamo. Abbracciamo quindi questi ideali, rendiamoci disponibili ad imparare gli uni dagli altri e costruiamo, assieme, un futuro in cui lo sviluppo sarà accessibile a tutti e le cui porte rimarranno aperte per chiunque voglia entrare.
 
 Caro viaggiatore, non sei semplicemente un passeggero in questa avventura cosmica; tu sei una parte vitale della narrazione. Insieme, esploreremo il percorso per diventare sviluppatori, qualsiasi cosa questo voglia dire, e ovunque questo possa portarci.
 
