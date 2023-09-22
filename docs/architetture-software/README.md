@@ -92,7 +92,7 @@ Solitamente questa architettura viene identificata anche come _Layered Architect
 
 Il monolite modulare è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto, ma con la differenza che il codice è organizzato in moduli. Questi moduli possono essere sviluppati e distribuiti in maniera indipendente, ma sono comunque parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
 
-I moduli devono essere quanto possibile indipendenti tra di loro, il che affianca questa architettura al concetto di _architettura esagonale_, tanto che alle volte i due termini vengono usati indistintamente per intendere lo stesso concetto.
+I moduli devono essere quanto possibile indipendenti tra di loro, il che affianca questa architettura al concetto di _architettura esagonale_, tanto che alle volte i due termini vengono usati indistintamente per intendere lo stesso concetto. La forza di questa architettura è comunque la possibilità, seppur da tenere sotto controllo, di far comunicare tra di loro i moduli.
 
 Da non confondersi con altre architetture, in questo caso i moduli sono parte dello stesso processo o applicativo, rendendo necessaria la _scalabilità verticale_.
 
@@ -103,4 +103,18 @@ Da non confondersi con altre architetture, in questo caso i moduli sono parte de
 - **Scalabilità**: 1. Il monolite, anche in forma modulare, è l'architettura software più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
 - **Performance**: 1. La performance del monolite modulare presenta le stesse falle del monolite _classico_, con l'aggiunta che per far funzionare questa architettura è necessario un ulteriore livello di astrazione, ovvero il modulo, che può portare ad un degrado delle performance.
 
-[TODO] microkernel, microservices, service-based, service-oriented, event-driven, space-based.
+## Architettura a Microkernel
+
+Chiamata anche _architettura a plugin_, si compone essenzialmente di un nucleo centrale che si occupa di gestire le comunicazioni tra i vari componenti, che sono sviluppati e distribuiti come plugin.
+Questi plugin possono essere sviluppati e distribuiti in maniera indipendente, ma funzionando attorno ad un nucleo centrale, faranno sempre parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
+
+Il concetto principale attorno a questa architettura è l'indipendenza totale tra i plugin. Per definizione, nessun plugin dovrebbe avere come dipendenza un altro plugin.
+
+- **Start-up**: 4. Essendo una variante del monolite, la start-up è molto semplice, ma la necessità di organizzare il codice in un nucleo centrale e implementare un sistema di plugin può richiedere un po' di tempo.
+- **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
+- **Sviluppo e manutenzione**: 4. Trattasi di un'architettura semplice da mantenere e sul quale aggiungere funzionalità, ma la necessità di non far comunicare i plugin tra di loro può aggiungere una lieve complessità.
+- **Tracciabilità**: 3. Testare e tracciare eventuali bug in questa architettura è mediamente complesso. L'isolamento dei plugin aiuta con il testing, ma la correlazione col nucleo centrale a volte può rallentare il processo di tracciamento.
+- **Scalabilità**: 2. Le difficoltà di scalabilità sono anche in questo caso dovute alla _singola unità di rilascio_ o _single deployment unit_, che non ne permette la _scalabilità orizzontale_.
+- **Performance**: 4. Processi di comunicazione semplice e isolabilità rendono questa architettura molto performante.
+
+[TODO] microservices, service-based, service-oriented, event-driven, space-based.
