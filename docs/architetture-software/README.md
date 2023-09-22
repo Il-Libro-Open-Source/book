@@ -79,11 +79,28 @@ Il monolite è un'architettura software in cui tutte le funzionalità sono svilu
 
 Trattasi dell'architettura software più semplice da implementare e più diffusa, ma anche la più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro.
 
+Solitamente questa architettura viene identificata anche come _Layered Architecture_.
+
 - **Start-up**: 5. Il monolite è l'architettura software più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti o una necessità di valutazioni iniziali elevate. Molti linguaggi di programmazione, inoltre, offrono dei framework che permettono di implementare un monolite in pochi minuti. Esempi principali sono Ruby on Rails, Django, Spring Boot, Laravel, ecc.
-- **Costi**: 2. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
-- **Sviluppo e manutenzione**: 4. Il monolite è l'architettura software più semplice da sviluppare e mantenere, per gli stessi motivi espressi nella voce _start-up_. Inoltre, essendo un'architettura molto diffusa, è facile trovare persone che la conoscano e che possano aiutare a sviluppare e mantenere il software.
+- **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
+- **Sviluppo e manutenzione**: 4. Il monolite è tra le architetture software più semplice da sviluppare e mantenere, per gli stessi motivi espressi nella voce _start-up_. I framework sono ormai molto maturi e permettono di sviluppare e mantenere un monolite in maniera molto semplice.
 - **Tracciabilità**: 4. Essendo tutti i componenti parte dello stesso processo o blocco, è facile individuare la porzione di codice che ha generato un problema o un bug.
-- **Scalabilità**: 1. Il monolite è l'architettura software più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
+- **Scalabilità**: 1. Il monolite è tra le architetture software più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
 - **Performance**: 2. La performance del monolite è legata alla capacità di scalare le risorse hardware a disposizione del sistema. Di conseguenza la curva di crescita dei tempi di risposta tende ad essere esponenziale. Solitamente le performance, seppur notevoli nelle prime fasi di vita del software, tendono a degradare nel tempo.
 
-[TODO] Layered architecture, modular monolith, microkernel, microservices, service-based, service-oriented, event-driven, space-based.
+### Monolite Modulare
+
+Il monolite modulare è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto, ma con la differenza che il codice è organizzato in moduli. Questi moduli possono essere sviluppati e distribuiti in maniera indipendente, ma sono comunque parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
+
+I moduli devono essere quanto possibile indipendenti tra di loro, il che affianca questa architettura al concetto di _architettura esagonale_, tanto che alle volte i due termini vengono usati indistintamente per intendere lo stesso concetto.
+
+Da non confondersi con altre architetture, in questo caso i moduli sono parte dello stesso processo o applicativo, rendendo necessaria la _scalabilità verticale_.
+
+- **Start-up**: 4. Essendo una variante del monolite, la start-up è molto semplice, ma la necessità di organizzare il codice in moduli può richiedere un po' di tempo.
+- **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
+- **Sviluppo e manutenzione**: 5. Rispetto a un monolite _classico_, il monolite modulare è più semplice da sviluppare e mantenere, in quanto i moduli hanno un compito ben definito e sono quanto più possibile indipendenti tra di loro.
+- **Tracciabilità**: 2. Compattando i moduli in un unico blocco, è più difficile individuare la porzione di codice che ha generato un problema o un bug in quanto solitamente il codice dei singoli moduli viene minificato o comunque ottimizzato per la produzione.
+- **Scalabilità**: 1. Il monolite, anche in forma modulare, è l'architettura software più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
+- **Performance**: 1. La performance del monolite modulare presenta le stesse falle del monolite _classico_, con l'aggiunta che per far funzionare questa architettura è necessario un ulteriore livello di astrazione, ovvero il modulo, che può portare ad un degrado delle performance.
+
+[TODO] microkernel, microservices, service-based, service-oriented, event-driven, space-based.
