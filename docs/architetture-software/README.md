@@ -103,7 +103,7 @@ Da non confondersi con altre architetture, in questo caso i moduli sono parte de
 - **Scalabilità**: 1. Il monolite, anche in forma modulare, è l'architettura software più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
 - **Performance**: 1. La performance del monolite modulare presenta le stesse falle del monolite _classico_, con l'aggiunta che per far funzionare questa architettura è necessario un ulteriore livello di astrazione, ovvero il modulo, che può portare ad un degrado delle performance.
 
-## Architettura a Microkernel
+## Microkernel
 
 Chiamata anche _architettura a plugin_, si compone essenzialmente di un nucleo centrale che si occupa di gestire le comunicazioni tra i vari componenti, che sono sviluppati e distribuiti come plugin.
 Questi plugin possono essere sviluppati e distribuiti in maniera indipendente, ma funzionando attorno ad un nucleo centrale, faranno sempre parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
@@ -117,4 +117,19 @@ Il concetto principale attorno a questa architettura è l'indipendenza totale tr
 - **Scalabilità**: 2. Le difficoltà di scalabilità sono anche in questo caso dovute alla _singola unità di rilascio_ o _single deployment unit_, che non ne permette la _scalabilità orizzontale_.
 - **Performance**: 4. Processi di comunicazione semplice e isolabilità rendono questa architettura molto performante.
 
-[TODO] microservices, service-based, service-oriented, event-driven, space-based.
+## Microservizi
+
+La _buzzword_ per eccellenza degli ultimi anni.
+
+Spesso affiancata alle architetture orientate agli eventi, questa architettura software si compone di un insieme di servizi indipendenti tra di loro, ognuno con un compito ben definito, che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
+
+A differenza delle architetture _a singolo blocco_ viste sopra, questa architettura permette di scalare i singoli servizi, in quanto ogni servizio è un'unità di rilascio indipendente dagli altri.
+
+- **Start-up**: 2. La start-up di un'architettura di questo tipo è complessa, in quanto è necessario stabilire sistemi di _orchestrazione_ o di _coreografia_ dei microservizi. Inoltre, il tipo di comunicazione (sincrono o asincrono) e il metodo adottato (HTTP, AMQP, ecc.) devono essere valutati con attenzione.
+- **Costi**: 4. Potendo scalare indipendentemente i singoli servizi, i costi sono contenuti, in quanto è possibile scalare solo i servizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
+- **Sviluppo e manutenzione**: 2. Il sistema di orchestrazione o coreografia dei microservizi può aggiungere una complessità non indifferente, soprattutto se non si ha esperienza in questo campo. Inoltre, la necessità di comunicare tra i microservizi può aggiungere un ulteriore livello di complessità.
+- **Tracciabilità**: 3. Testare e tracciare eventuali bug in questa architettura è complesso. L'isolamento dei microservizi aiuta in questo caso, ma la tracciabilità è molto complessa e spesso richiede sviluppi ad hoc di _distributed tracing_ o _open telemetry_.
+- **Scalabilità**: 5. La scalabilità è il punto di forza di questa architettura, in quanto ogni microservizio può essere scalato indipendentemente dagli altri.
+- **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli microservizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
+
+[TODO] service-based, service-oriented, event-driven, space-based.
