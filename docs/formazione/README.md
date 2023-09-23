@@ -8,16 +8,16 @@ Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozio
 
 Ma chi è questo fantomatico _Fullstack Developer_ e come mai è così ricercato dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
 
-Il _Fullstack Developer_ è uno sviluppatore che, teoricamente, conosce uno o più linguaggi di _frontend_ e di _backend.
+Il _Fullstack Developer_ è uno sviluppatore che, teoricamente, conosce uno o più linguaggi di _frontend_ e di \_backend.
 Ok, qui si apre un sipario enorme che però cercherò di ridurre molto semplicemente come segue.
 Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque diventare dei programmatori.
 Quindi il programmatore crea il programma.
 Il programma è composto da una parte grafica ed una parte logica.
 
 Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione): il web.
-Un programma sul web à un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
+Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
 
-Un tempo, ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
+Un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
 Poi siamo passati ad avere 2 figure: il _Web Designer_ (colui che si occupava di realizzare l'interfaccia grafica UI/UX) ed il _Web Developer_ (colui che traduceva in codice ciò che veniva designato dal _Web Designer_).
 Oggi la situazione è differente, e per fare un sito web servono 3 figure: il _Designer_ (colui che si occupa di realizzare l'interfaccia grafica UI/UX), il _Frontend Developer_ ed il _Backend Developer_.
 
@@ -47,10 +47,14 @@ Per tale motivo spesso chi fa formazione propone dei percorsi di _fullstack_ in 
 "Ok, ma come mai parliamo di siti web e non di videogiochi?"
 Perchè la curva di apprendimento è più bassa nel caso dei siti web, quindi è più facile che sia a portata di molta più gente, e se teniamo a mente sempre il concetto fondamentale per cui "se si inizia come _frontend_ non è detto che si finisca da _frontend_" allora vien da sè pensare che un _frontend_ oggi possa diventare un _Game Developer_ domani.
 
+Inoltre le tecnologie che si toccano con mano durante la fase di apprendimento in ambito web sono diverse (HTML, CSS, JavaScript) e ciò permette di avere una overview più ampia.
+
+Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo, grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**, addirittura con JavaScipt oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
+
 "Mi stai dicendo che se voglio fare il _Game Developer_ devo prima diventare un **programmatore web**?"
 Assolutamente no.
 
-Se si hanno le idee chiare si da subito allora la scelta del percorso formativo è molto più semplice, se si hanno invece le idee confuse, inizialmente, allora partire dallo sviluppo web è la strada migliore, in quanto più accessibile.
+Se si hanno le idee chiare si da subito allora la scelta del percorso formativo è molto più semplice, se si hanno invece le idee confuse, inizialmente, allora partire dallo sviluppo web è la strada migliore in quanto più accessibile.
 
 "Mi stai dicendo che è più facile fare i siti web piuttosto che i giochi?"
 Assolutamente no.
@@ -112,6 +116,7 @@ Quindi chi progettava i Layout ha dovuto apprendere tali "standard" per non rima
 I _Web Designer_ di ieri, che si limitavano solamente ad impostare graficamente gli elementi a schermo, sono diventati oggi dei _Frontend Developer_ che sanno mettere mano a _Framework_ e varie _librerie_.
 
 Questo concetto spiega bene 2 cose:
+
 - bisogna continuare ad imparare e ad aggiornarsi
 - non si può fare affidamento ad una tecnologia
 
@@ -121,5 +126,31 @@ Il settore della programmazione, come detto in precedenza, non è un settore in 
 Basta una piccola ricerca su google per rendersi conto di quanta domanda c'è da parte delle aziende.
 
 Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione ha a disposizione alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
+
+"Cosa mi posso aspettare al termine di un percorso di formazione? Sarò autonomo e pronto per il mondo del lavoro?"
+Sicuramente a termine di un percorso di formazione si è più consapevoli di cosa faccia un programmatore, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono un bravo programmatore, e soprattutto di cosa ci si aspetta da lì a poco.
+
+Sia che il corso duri 3 mesi, o 6, o addirittura 12, si è ancora _Junior_.
+Una figura _Junior_ rimane tale fino a quando non ottiene la completa **autonomia** lavorativa, sia con gli strumenti che già conosce e sia con gli strumenti che dovrà apprendere.
+
+Ricordiamo che l'apprendimento nel mondo della progammazione è una costante, e ricordiamo anche che la maggior parte del tempo, durante la carriera professionale, apprendiamo da soli.
+
+Al termine del percorso di formazione si faranno le prime esperienze lavorative sia sotto l'aspetto colloquiale (eh si anche quelli sono tosti) sia sotto l'aspetto lavorativo nudo e crudo.
+
+Scegliete un percorso di formazione che vi permette di lavorare in **team** facendovi sporcare le mani con vari progetti da realizzare ed altrettanti strumenti da padroneggiare.
+
+"Ok tutto chiaro, ma le aziende cosa cercano? Perchè dovrebbero prendere una persona che ha fatto un corso?"
+Le aziende cercano, e cercheranno sempre, figure _Junior_ perchè esse sono più "malleabili" e quindi è più facile "impostarle" per quelle che sono le necessità specifiche dell'azienda in questione.
+
+Quando una azienda assume significa che è pronta ad investire del tempo e del denaro su delle nuove risorse, quindi è pronta a fare crescere qualcuno all'interno del proprio ambiente.
+
+Ciò significa 2 cose:
+
+- dovrete ancora imparare
+- crescita personale e formativa
+
+Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente riguardo la parte tecnica, non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
+
+Dunque scegliere un percorso di formazione, se si ha la possibilità, sicuramente è meglio piuttosto che decidere di intraprendere un percorso da "autodidatta" sia perchè otterrete dei risultati tangibili in minor tempo, sia anche perchè il percorso di formazione stesso vi farà da "garante".
 
 Quindi, per concludere, se parti spaesato buttati che strada facendo troverai quella più adatta alle tue esigenze, se invece hai già le idee chiare allora è tutto più semplice (ma ricordati di essere pronto al cambiamento).
