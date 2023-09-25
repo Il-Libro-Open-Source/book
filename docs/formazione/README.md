@@ -90,7 +90,7 @@ Il tempo è il maggiore investimento in questa fase, più tempo dedicate miglior
 "Va bene, quindi quanto tempo serve e quanto tempo dovrei dedicare alla mia formazione?"
 Il tempo non è mai abbastanza, quindi la risposta giusta è: il più possibile.
 
-Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare almeno altre 3 ore di pratica e approndimenti.
+Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare almeno altre 3 ore di pratica e approfondimenti.
 
 In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** del programmatore.
 
