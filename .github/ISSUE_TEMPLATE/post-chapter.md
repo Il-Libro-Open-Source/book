@@ -1,24 +1,24 @@
---- 
+---
 name: 🆕 Nuovo capitolo
 about: Usa questo template per aggiungere un nuovo capitolo
 title: "[NUOVO-CAPITOLO]: NOME_DEL_CAPITOLO"
 labels: ["nuovo-capitolo"]
-assignees: ''
+assignees: ""
 ---
-
 
 # **🆕 Nuovo capitolo - NOME_DEL_CAPITOLO**
 
 ## **Descrizione**
+
 <!-- Descrivi quali sono gli argomenti che andrai ad affrontare in questo capitolo. -->
 
 Lorem ipsum
 
 ## **Fonti**
+
 <!-- Se hai preso immagini, frasi, citazioni o risorse esterne usa questa sezione per citarle -->
 
 Lorem ipsum
-
 
 <!--📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛
 

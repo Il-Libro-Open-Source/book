@@ -1,24 +1,24 @@
---- 
+---
 name: ✍️ Modifica capitolo
 about: Usa questo template per modificare/migliorare un nuovo capitolo
 title: "[MODIFICA-CAPITOLO]: NOME_DEL_CAPITOLO"
 labels: ["modifica-capitolo"]
-assignees: ''
+assignees: ""
 ---
-
 
 # **✍️ Modifica capitolo - NOME_DEL_CAPITOLO**
 
 ## **Descrizione**
+
 <!-- Descrivi quali sono gli argomenti che andrai ad modificare/eliminare/migliorare in questo capitolo. -->
 
 Lorem ipsum
 
 ## **Fonti**
+
 <!-- Se hai preso immagini, frasi, citazioni o risorse esterne usa questa sezione per citarle -->
 
 Lorem ipsum
-
 
 <!--📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛📛
 
