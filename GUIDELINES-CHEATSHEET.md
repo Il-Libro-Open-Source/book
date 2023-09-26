@@ -1,18 +1,22 @@
 # $\textsf{Cheatsheet}$
 
-## $\textsf{Struttura dei capitoli}$ 
--   Limitare il titolo a 5-6 parole massime;
--   Scegliere un titolo auto-esplicativo, rappresentativo e rispettare le regole di scrittura;
--   Utilizzare il "tu" anziché il "voi" per creare empatia con il lettore;
--   Limitarsi a una gerarchia di sezioni fino al terzo livello;
--   Utilizzare la sezione H1 solo per il titolo del capitolo.
+## $\textsf{Struttura dei capitoli}$
 
-## $\textsf{Strategie di scrittura}$ 
--   Dare visibilità a un genere neutrale o oscurare entrambi i generi per inclusività;
--   Utilizzare formulazioni neutre o riformulare con "chi" per evitare riferimenti di genere;
--   Utilizzare nomi collettivi o parole inglesi per evitare specificazioni di genere;
--   Utilizzare forme impersonali o del passivo per evitare forme personali.
-## $\textsf{Esempi}$ 
+- Limitare il titolo a 5-6 parole massime;
+- Scegliere un titolo auto-esplicativo, rappresentativo e rispettare le regole di scrittura;
+- Utilizzare il "tu" anziché il "voi" per creare empatia con il lettore;
+- Limitarsi a una gerarchia di sezioni fino al terzo livello;
+- Utilizzare la sezione H1 solo per il titolo del capitolo.
+
+## $\textsf{Strategie di scrittura}$
+
+- Dare visibilità a un genere neutrale o oscurare entrambi i generi per inclusività;
+- Utilizzare formulazioni neutre o riformulare con "chi" per evitare riferimenti di genere;
+- Utilizzare nomi collettivi o parole inglesi per evitare specificazioni di genere;
+- Utilizzare forme impersonali o del passivo per evitare forme personali.
+
+## $\textsf{Esempi}$
+
 | **Invece di...**                 | **Meglio usare...**                                           |
 | -------------------------------- | ------------------------------------------------------------- |
 | L'uomo/la donna                  | Le persone                                                    |
@@ -27,5 +31,6 @@
 | Blacklist                        | Ignorelist                                                    |
 | Whitelist                        | Allowlist                                                     |
 
-___
+---
+
 Puoi consultare le linee guida complete nel file [GUIDELINES.md](GUIDELINES.md).
