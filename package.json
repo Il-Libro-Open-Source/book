@@ -1,8 +1,7 @@
 {
   "scripts": {
     "format:check": "npx prettier --check \"**/*.md\"",
-    "format:write": "prettier --write",
-    "prepare": "husky install"
+    "format:write": "prettier --write"
   },
   "devDependencies": {
     "lefthook": "^1.5.0",
