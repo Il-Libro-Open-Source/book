@@ -1,0 +1,7 @@
+colors: true
+pre-commit:
+  parallel: true
+  commands:
+    prettier:
+      glob: "*.md"
+      run: npm run format:write {staged_files}
