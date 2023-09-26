@@ -54,7 +54,33 @@ Apiumhub nel 2020 ha pubblicato un post sul proprio blog in cui definisce questo
 
 > La _fitness functions_ è un tipo di funzione obiettivo utilizzata per riassumere quanto una determinata soluzione di architettura software sia vicina al raggiungimento degli obiettivi prefissati. Nel definire un'architettura evolutiva, l'architetto del software cerca un algoritmo "migliore"; la funzione fitness definisce cosa significa "migliore" in questo contesto.
 
-[TODO] Espandere il concetto, triggered vs continous functions
+Esempi di fitness function possono essere: punteggio di scalabilità , percentuale di errori, tempo medio di risposta, quantità di messaggi persi dal broker, ecc.
+
+### Triggered Fitness functions
+
+Le _triggered fitness functions_ (funzioni di fitness _attivate_ o _triggerate_) vengono eseguite in base a un evento particolare, ad esempio il team di sviluppo che esegue un test unitario, una pipeline di distribuzione che esegue una serie di operazione o una persona del QA che esegue determinate attività stabilite.
+
+Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguite in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentative di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
+
+### Continuous Fitness functions
+
+Le _continuous fitness functions_ (funzioni di fitness _continue_) vengono eseguite in modo continuo sull'ambiente in analisi, tramite raccolta di metriche in tempo reale o comunque a cadenze rapide. Questo tipo di funzioni di fitness sono utili per monitorare il sistema e rilevare eventuali problemi prima che si verifichino, o analizzare dei trend.
+
+Questo tipo di funzioni ha da un lato il vantaggio di rappresentare la situazione reale, dall'altro lato ha il difetto di non essere replicabile, in quanto si basa su dati presi dall'ambiente che si sta analizzando (Solitamente quello di produzione).
+
+## Architecture Decision Records
+
+Le _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
+
+A differenza di una classica documentazione tecnica o di un diagramma, le ADR sono molto più semplici da scrivere e da leggere, in quanto sono composte da pochi elementi:
+
+- **Titolo**: il titolo della decisione presa.
+- **Stato**: lo stato della decisione presa. Solitamente può essere _Proposta_, _Accettata_, _Completata_, _Rifiutata_ o _Sostituita_.
+- **Contesto**: il contesto in cui è stata presa la decisione.
+- **Decisione**: la decisione presa.
+- **Conseguenze**: le conseguenze della decisione presa.
+
+Le ADR vengono spesso utilizzate nelle aziende in cui si fa leva sul _BDD_ (Behavior Driven Development) per la stesura dei ticket nel proprio sistema di ticketing, puntando ad uno specifico ADR per dare informazioni aggiuntive e contesto a chi legge il ticket.
 
 ## Quali sono le principali architetture software?
 
@@ -81,6 +107,8 @@ Trattasi dell'architettura software più semplice da implementare e più diffusa
 
 Solitamente questa architettura viene identificata anche come _Layered Architecture_.
 
+In questa architettura il database, il back-end e il front-end sono tutti parte dello stesso processo/applicativo.
+
 - **Start-up**: 5. Il monolite è l'architettura software più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti o una necessità di valutazioni iniziali elevate. Molti linguaggi di programmazione, inoltre, offrono dei framework che permettono di implementare un monolite in pochi minuti. Esempi principali sono Ruby on Rails, Django, Spring Boot, Laravel, ecc.
 - **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
 - **Sviluppo e manutenzione**: 4. Il monolite è tra le architetture software più semplice da sviluppare e mantenere, per gli stessi motivi espressi nella voce _start-up_. I framework sono ormai molto maturi e permettono di sviluppare e mantenere un monolite in maniera molto semplice.
@@ -96,6 +124,8 @@ I moduli devono essere quanto possibile indipendenti tra di loro, il che affianc
 
 Da non confondersi con altre architetture, in questo caso i moduli sono parte dello stesso processo o applicativo, rendendo necessaria la _scalabilità verticale_.
 
+In questa architettura il database, il back-end e il front-end sono tutti parte dello stesso processo/applicativo.
+
 - **Start-up**: 4. Essendo una variante del monolite, la start-up è molto semplice, ma la necessità di organizzare il codice in moduli può richiedere un po' di tempo.
 - **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
 - **Sviluppo e manutenzione**: 5. Rispetto a un monolite _classico_, il monolite modulare è più semplice da sviluppare e mantenere, in quanto i moduli hanno un compito ben definito e sono quanto più possibile indipendenti tra di loro.
@@ -109,6 +139,8 @@ Chiamata anche _architettura a plugin_, si compone essenzialmente di un nucleo c
 Questi plugin possono essere sviluppati e distribuiti in maniera indipendente, ma funzionando attorno ad un nucleo centrale, faranno sempre parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
 
 Il concetto principale attorno a questa architettura è l'indipendenza totale tra i plugin. Per definizione, nessun plugin dovrebbe avere come dipendenza un altro plugin.
+
+In questa architettura il database, il back-end e il front-end sono tutti parte dello stesso processo/applicativo.
 
 - **Start-up**: 4. Essendo una variante del monolite, la start-up è molto semplice, ma la necessità di organizzare il codice in un nucleo centrale e implementare un sistema di plugin può richiedere un po' di tempo.
 - **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
@@ -124,6 +156,8 @@ La _buzzword_ per eccellenza degli ultimi anni.
 Spesso affiancata alle architetture orientate agli eventi, questa architettura software si compone di un insieme di servizi indipendenti tra di loro, ognuno con un compito ben definito, che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
 
 A differenza delle architetture _a singolo blocco_ viste sopra, questa architettura permette di scalare i singoli servizi, in quanto ogni servizio è un'unità di rilascio indipendente dagli altri.
+
+In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (Basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
 
 - **Start-up**: 2. La start-up di un'architettura di questo tipo è complessa, in quanto è necessario stabilire sistemi di _orchestrazione_ o di _coreografia_ dei microservizi. Inoltre, il tipo di comunicazione (sincrono o asincrono) e il metodo adottato (HTTP, AMQP, ecc.) devono essere valutati con attenzione.
 - **Costi**: 4. Potendo scalare indipendentemente i singoli servizi, i costi sono contenuti, in quanto è possibile scalare solo i servizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
