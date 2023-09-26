@@ -4,6 +4,8 @@
     "format:write": "prettier --write"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
     "lefthook": "^1.5.0",
     "prettier": "^3.0.2"
   }
