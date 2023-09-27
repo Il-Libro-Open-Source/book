@@ -1,0 +1,10 @@
+branchName: '${issue.title,}'
+gitSafeReplacementChar: '-'
+openDraftPR: true
+branches:
+  - label: new-chap
+    prefix: add/
+  - label: edit-chap
+    prefix: patch/
+  - label: '*'
+    prefix: issues/
