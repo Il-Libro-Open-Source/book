@@ -40,7 +40,7 @@ Sapere che esistono questi 2 mondi, _frontend_ e _backend_, permette di fare una
 La cosa fondamentale che bisogna tenere a mente quando si inizia ad intraprendere un percorso di formazione nell'ambito della programmazione è: se inizi con una cosa non è detto che poi farai quella per tutto il resto della carriera.
 
 "Cosa vuol dire?"
-Ad esempio: se inizi come _Frontend Developer_ non è detto che un domani tu non possa cambiare strada e passare al lato osscuro (_backend_).
+Ad esempio: se inizi come _Frontend Developer_ non è detto che un domani tu non possa cambiare strada e passare al lato oscuro (_backend_).
 
 Per tale motivo spesso chi fa formazione propone dei percorsi di _fullstack_ in ambito web.
 
@@ -49,12 +49,12 @@ Perchè la curva di apprendimento è più bassa nel caso dei siti web, quindi è
 
 Inoltre le tecnologie che si toccano con mano durante la fase di apprendimento in ambito web sono diverse (HTML, CSS, JavaScript) e ciò permette di avere una overview più ampia.
 
-Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo, grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**, addirittura con JavaScipt oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
+Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo, grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**, addirittura con JavaScript oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
 
 "Mi stai dicendo che se voglio fare il _Game Developer_ devo prima diventare un **programmatore web**?"
 Assolutamente no.
 
-Se si hanno le idee chiare si da subito allora la scelta del percorso formativo è molto più semplice, se si hanno invece le idee confuse, inizialmente, allora partire dallo sviluppo web è la strada migliore in quanto più accessibile.
+Se si hanno le idee chiare sin da subito allora la scelta del percorso formativo è molto più semplice, se si hanno invece le idee confuse, inizialmente, allora partire dallo sviluppo web è la strada migliore in quanto più accessibile.
 
 "Mi stai dicendo che è più facile fare i siti web piuttosto che i giochi?"
 Assolutamente no.
@@ -70,7 +70,7 @@ Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi 
 Non c'è un giusto o sbagliato, l'importante è tenere a mente un altro concetto fondamentale: il programmatore non smette mai di imparare, e la maggior parte delle volte impara da solo.
 Personalmente mi sento di consigliare, almeno nella fase iniziale, di essere seguiti ed essere curiosi.
 Essere seguiti ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio è molto meglio piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
-Essere curiosi invece ci permette di imparare ad essere autonomi e soprattutto, cosa molto impotante, a trovare la nostra strada.
+Essere curiosi invece ci permette di imparare ad essere autonomi e soprattutto, cosa molto improtante, a trovare la nostra strada.
 
 **Google è il nostro migliore amico**.
 
@@ -96,7 +96,7 @@ In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, 
 
 "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
 Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (3 o 6 mesi) è molto elevata.
-Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo, ovvero l'autodidatta oppure un percorso persosnalizzato, in questo caso però non sarà possibile ottenere un risultato in soli 3/6 mesi ma ci vorrà molto più tempo.
+Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo, ovvero l'autodidatta oppure un percorso personalizzato, in questo caso però non sarà possibile ottenere un risultato in soli 3/6 mesi ma ci vorrà molto più tempo.
 
 Quindi se non avete pazienza, tempo, passione, curiosità e voglia è meglio lasciare perdere.
 
@@ -128,7 +128,7 @@ Basta una piccola ricerca su google per rendersi conto di quanta domanda c'è da
 Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione ha a disposizione alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
 
 "Cosa mi posso aspettare al termine di un percorso di formazione? Sarò autonomo e pronto per il mondo del lavoro?"
-Sicuramente a termine di un percorso di formazione si è più consapevoli di cosa faccia un programmatore, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono un bravo programmatore, e soprattutto di cosa ci si aspetta da lì a poco.
+Sicuramente al termine di un percorso di formazione si è più consapevoli di cosa faccia un programmatore, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono un bravo programmatore, e soprattutto di cosa ci si aspetta da lì a poco.
 
 Sia che il corso duri 3 mesi, o 6, o addirittura 12, si è ancora _Junior_.
 Una figura _Junior_ rimane tale fino a quando non ottiene la completa **autonomia** lavorativa, sia con gli strumenti che già conosce e sia con gli strumenti che dovrà apprendere.
