@@ -58,15 +58,15 @@ Esempi di fitness function possono essere: punteggio di scalabilità , percentua
 
 ### Triggered Fitness functions
 
-Le _triggered fitness functions_ (funzioni di fitness _attivate_ o _triggerate_) vengono eseguite in base a un evento particolare, ad esempio il team di sviluppo che esegue un test unitario, una pipeline di distribuzione che esegue una serie di operazione o una persona del QA che esegue determinate attività stabilite.
+Le _triggered fitness functions_ (funzioni di fitness _attivate_ o _triggerate_) vengono eseguite in base a un evento particolare, ad esempio il team di sviluppo che esegue un test unitario, una pipeline di distribuzione che esegue una serie di operazioni o una persona del QA che esegue determinate attività stabilite.
 
-Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguite in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentative di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
+Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguito in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentative di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
 
 ### Continuous Fitness functions
 
 Le _continuous fitness functions_ (funzioni di fitness _continue_) vengono eseguite in modo continuo sull'ambiente in analisi, tramite raccolta di metriche in tempo reale o comunque a cadenze rapide. Questo tipo di funzioni di fitness sono utili per monitorare il sistema e rilevare eventuali problemi prima che si verifichino, o analizzare dei trend.
 
-Questo tipo di funzioni ha da un lato il vantaggio di rappresentare la situazione reale, dall'altro lato ha il difetto di non essere replicabile, in quanto si basa su dati presi dall'ambiente che si sta analizzando (Solitamente quello di produzione).
+Questo tipo di funzioni ha da un lato il vantaggio di rappresentare la situazione reale, dall'altro lato ha il difetto di non essere replicabile, in quanto si basa su dati presi dall'ambiente che si sta analizzando (solitamente quello di produzione).
 
 ## Architecture Decision Records
 
@@ -157,7 +157,7 @@ Spesso affiancata alle architetture orientate agli eventi, questa architettura s
 
 A differenza delle architetture _a singolo blocco_ viste sopra, questa architettura permette di scalare i singoli servizi, in quanto ogni servizio è un'unità di rilascio indipendente dagli altri.
 
-In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (Basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
+In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
 
 - **Start-up**: 2. La start-up di un'architettura di questo tipo è complessa, in quanto è necessario stabilire sistemi di _orchestrazione_ o di _coreografia_ dei microservizi. Inoltre, il tipo di comunicazione (sincrono o asincrono) e il metodo adottato (HTTP, AMQP, ecc.) devono essere valutati con attenzione.
 - **Costi**: 4. Potendo scalare indipendentemente i singoli servizi, i costi sono contenuti, in quanto è possibile scalare solo i servizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
