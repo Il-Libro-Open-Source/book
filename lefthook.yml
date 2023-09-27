@@ -1,0 +1,16 @@
+colors: true
+pre-commit:
+  commands:
+    prettier:
+      glob: "*.md"
+      run: npm run format:write {staged_files}
+commit-msg:
+  scripts:
+    "commitlint.sh":
+      runner: bash
+pre-push:
+  commands:
+    format-check:
+      glob: "*.md"
+      run: npm run format:check
+      
