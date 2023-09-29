@@ -199,4 +199,4 @@ D'altro canto, si consiglia a chiunque legga questi contenuti di non basarsi sul
 
 ## Riferimenti
 
-La lista di architetture software è ispirata e rivisitata a partire dal materiale prodotto e distribuito da Mark Richards, autore di molti libri sull'architettura software, video e webinar pubblicati su varie piattaforme.
+La lista di architetture software è ispirata e rivisitata a partire dal materiale prodotto e distribuito da Mark Richards, autore di molti libri sull'architettura software, video e webinar pubblicati su varie piattaforme, tra cui O'Reilly e YouTube. 
