@@ -183,4 +183,18 @@ Questa architettura viene spesso indicata come "l'anello mancante" tra il monoli
 - **Scalabilità**: 4. La scalabilità è il punto di forza di questa architettura, in quanto ogni servizio può essere scalato indipendentemente dagli altri, ma la dimensione degli stessi può rendere più complicato del previsto il processo.
 - **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli servizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
 
-[TODO] service-oriented, event-driven, space-based.
+## Altre architetture e pattern
+
+Architetture come la _space-based architecture_ vengono utilizzate in contesti specifici e non sono solitamente utilizzate come architetture software di riferimento, di conseguenza vengono citate solo per completezza d'informazione.
+
+Altri termini, come la _event-driven architecture_ o la _event-sourcing architecture_ in realtà vanno ad intendere un pattern di progettazione, ovvero un modo di progettare un sistema software, e non un'architettura software a tutti gli effetti. Il concetto di _event-driven_ viene infatti _affiancato_ più che _sostituito_ ad un'architettura software, come nel caso dei microservizi o del service-oriented.
+
+## Conclusioni
+
+L'architettura software è un argomento molto vasto e complesso, ma è un argomento che ognuno di noi dovrebbe conoscere e comprendere, in quanto influenza ogni aspetto dello sviluppo software.
+
+Un'architettura scelta in maniera frettolosa o senza una valutazione attenta può portare a conseguenze disastrose, come ad esempio un sistema che non riesce a gestire il carico di lavoro o che non riesce a soddisfare i requisiti di qualità e scalabilità richiesti.
+
+## Riferimenti
+
+La lista di architetture software è ispirata e rivisitata a partire dal materiale prodotto e distribuito da Mark Richards, autore di molti libri sull'architettura software, video e webinar pubblicati su varie piattaforme.
