@@ -1,7 +1,7 @@
 {
   "scripts": {
     "format:check": "npx prettier --check \"**/*.md\"",
-    "format:write": "prettier --write \"**/*.md\""
+    "format:write": "prettier --write"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
