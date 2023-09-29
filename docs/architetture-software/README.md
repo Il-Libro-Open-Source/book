@@ -195,8 +195,8 @@ L'architettura software è un argomento molto vasto e complesso, ma è un argome
 
 Un'architettura scelta in maniera frettolosa o senza una valutazione attenta può portare a conseguenze disastrose, come ad esempio un sistema che non riesce a gestire il carico di lavoro o che non riesce a soddisfare i requisiti di qualità e scalabilità richiesti.
 
-D'altro canto, si consiglia a chiunque legga questi contenuti di non basarsi sulle mere valutazioni fatte, che sono generaliste e non applicabili a tutti i contesti, ma di approfondire l'argomento e di valutare con attenzione ogni aspetto, in quanto ogni architettura software ha i suoi pro e i suoi contro, e ogni progetto ha le sue esigenze, e spesso la verità sta nel mezzo o, come piace dire a noi dev, _dipende_. 
+D'altro canto, si consiglia a chiunque legga questi contenuti di non basarsi sulle mere valutazioni fatte, che sono generaliste e non applicabili a tutti i contesti, ma di approfondire l'argomento e di valutare con attenzione ogni aspetto, in quanto ogni architettura software ha i suoi pro e i suoi contro, e ogni progetto ha le sue esigenze, e spesso la verità sta nel mezzo o, come piace dire a noi dev, _dipende_.
 
 ## Riferimenti
 
-La lista di architetture software è ispirata e rivisitata a partire dal materiale prodotto e distribuito da Mark Richards, autore di molti libri sull'architettura software, video e webinar pubblicati su varie piattaforme, tra cui O'Reilly e YouTube. 
+La lista di architetture software è ispirata e rivisitata a partire dal materiale prodotto e distribuito da Mark Richards, autore di molti libri sull'architettura software, video e webinar pubblicati su varie piattaforme, tra cui O'Reilly e YouTube.
