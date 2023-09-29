@@ -160,10 +160,27 @@ A differenza delle architetture _a singolo blocco_ viste sopra, questa architett
 In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
 
 - **Start-up**: 2. La start-up di un'architettura di questo tipo è complessa, in quanto è necessario stabilire sistemi di _orchestrazione_ o di _coreografia_ dei microservizi. Inoltre, il tipo di comunicazione (sincrono o asincrono) e il metodo adottato (HTTP, AMQP, ecc.) devono essere valutati con attenzione.
-- **Costi**: 4. Potendo scalare indipendentemente i singoli servizi, i costi sono contenuti, in quanto è possibile scalare solo i servizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
+- **Costi**: 4. Potendo scalare indipendentemente i singoli microservizi, i costi sono contenuti, in quanto è possibile scalare solo i microservizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
 - **Sviluppo e manutenzione**: 2. Il sistema di orchestrazione o coreografia dei microservizi può aggiungere una complessità non indifferente, soprattutto se non si ha esperienza in questo campo. Inoltre, la necessità di comunicare tra i microservizi può aggiungere un ulteriore livello di complessità.
-- **Tracciabilità**: 3. Testare e tracciare eventuali bug in questa architettura è complesso. L'isolamento dei microservizi aiuta in questo caso, ma la tracciabilità è molto complessa e spesso richiede sviluppi ad hoc di _distributed tracing_ o _open telemetry_.
+- **Tracciabilità**: 3. Testare e tracciare eventuali bug in questa architettura è complesso. L'isolamento dei microservizi aiuta in questo caso, ma la tracciabilità è piuttosto complessa e richiede integrazione di _distributed tracing_ o _open telemetry_.
 - **Scalabilità**: 5. La scalabilità è il punto di forza di questa architettura, in quanto ogni microservizio può essere scalato indipendentemente dagli altri.
 - **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli microservizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
 
-[TODO] service-based, service-oriented, event-driven, space-based.
+## Service-oriented
+
+Il _service-oriented_ è un'architettura software in cui l'applicativo viene suddiviso in una manciata di servizi (Solitamente da 3 a 12) che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
+
+Ci si aspetta che i servizi abbiano una costante comunicazione tra di loro e che rispettino dei contratti (interfacce) ben stabilite. Questo tipo di architettura è molto simile a quella dei microservizi, ma con la differenza che i servizi sono solitamente più grandi e con un compito ben definito.
+
+In questa architettura ogni servizio solitamente ha il proprio database, il proprio back-end e il proprio front-end, anche se ci sono casi in cui il database sia condiviso tra i servizi (In questo caso si suggerisce un utente con accesso alle sole tabelle o schemi di pertinenza), altri in cui il front-end vive in un applicativo separato o, ancora, altri in cui il front-end è unico per tutti i servizi.
+
+Questa architettura viene spesso indicata come "l'anello mancante" tra il monolite e i microservizi, anche se la dimensione dei servizi e il successivo _decoupling_ sono temi piuttosto complessi da gestire.
+
+- **Start-up**: 3. La start-up di un'architettura di questo tipo è complessa, ma non quanto quella dei microservizi, anche se molte delle sfide sono simili.
+- **Costi**: 4. Potendo scalare indipendentemente i singoli servizi, i costi sono contenuti, in quanto è possibile scalare solo i servizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
+- **Sviluppo e manutenzione**: 3. Come per lo start-up, le sfide e le necessità sono simili a quelle dei microservizi, ma essendo entità più grandi, la complessità diminuisce.
+- **Tracciabilità**: 4. Testare e tracciare eventuali bug in questa architettura è piuttosto semplice vista la normale dimensione che i servizi hanno. L'isolamento aiuta, e anche qui si suggerisce l'integrazione di _distributed tracing_ o _open telemetry_.
+- **Scalabilità**: 4. La scalabilità è il punto di forza di questa architettura, in quanto ogni servizio può essere scalato indipendentemente dagli altri, ma la dimensione degli stessi può rendere più complicato del previsto il processo.
+- **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli servizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
+
+[TODO] service-oriented, event-driven, space-based.
