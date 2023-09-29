@@ -2,40 +2,42 @@
 
 Quando si muovono i primi passi, quelli dettati dalla curiosità e dalla voglia di intraprendere un nuovo percorso formativo/lavorativo, ci si imbatte sin da subito con il mondo della **formazione**.
 
-Basta una semplice ricerca su Google, del tipo: _"Come diventare un programmatore"_
+Basta una semplice ricerca su Google, del tipo: _"Come diventare un developer"_
 
 Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozionali di YouTube alle inserzioni su Facebook, inizieranno a proporre differenti percorsi formativi, principalmente incentrati sulla figura professionale del _Fullstack Developer_.
 
 Ma chi è questo fantomatico _Fullstack Developer_ e come mai è così ricercato dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
 
 Il _Fullstack Developer_ è uno sviluppatore che, teoricamente, conosce uno o più linguaggi di _frontend_ e di \_backend.
-Ok, qui si apre un sipario enorme che però cercherò di ridurre molto semplicemente come segue.
-Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque diventare dei programmatori.
-Quindi il programmatore crea il programma.
+Ok, qui si apre un sipario enorme che cercheremmo di ridurre molto semplicemente come segue.
+Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque entrare nel mondo dello sviluppo.
+Quindi chi programma crea il programma.
 Il programma è composto da una parte grafica ed una parte logica.
 
 Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione): il web.
 Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
 
 Un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
-Poi siamo passati ad avere 2 figure: il _Web Designer_ (colui che si occupava di realizzare l'interfaccia grafica UI/UX) ed il _Web Developer_ (colui che traduceva in codice ciò che veniva designato dal _Web Designer_).
-Oggi la situazione è differente, e per fare un sito web servono 3 figure: il _Designer_ (colui che si occupa di realizzare l'interfaccia grafica UI/UX), il _Frontend Developer_ ed il _Backend Developer_.
+Poi siamo passati ad avere 2 figure: _Web Designer_ (la figura che si occupava di realizzare l'interfaccia grafica, detta anche UI/UX) ed _Web Developer_ (che traduceva in codice ciò che veniva designato dalla prima figura).
+Oggi la situazione è differente, e per fare un sito web servono almeno 3 figure: _Designer_ (colui che si occupa di realizzare l'interfaccia grafica UI/UX), _Frontend Developer_ e _Backend Developer_.
 
-Tutto ciò ovviamente oggi ha un costo nettamente superiore in termini anche aziendali, quindi nel tempo è nata questa figura ovvero il _Fullstack Developer_ che è in grado di tradurre le componenti prodotte dal _Designer_ e agganciare le logiche funzionali del progetto.
+Tutto ciò ovviamente oggi ha un costo nettamente superiore in termini anche aziendali, per questo motivo il mercato necessita di  _Fullstack Developer_ che siano in grado di tradurre le componenti prodotte dal _Designer_ e agganciare le logiche funzionali del progetto.
 
 Bisogna però che ci addentriamo un pochino meglio nella questione per comprendere bene la differenza tra _Frontend Developer_ e _Backend Developer_.
 
-Il _Frontend Developer_ si occupa di programmare tutta la parte "statica" del progetto. Quindi appunto traduce in codice tutto ciò che è stato disegnato dal _Designer_.
-Ma sappiamo tutti che se schiacciamo un bottone su un _sito web_ quel bottone farà qualcosa, giusto? Ecco quell'azione comportamentale del bottone, come anche degli altri componenti che formano il _sito web_ sono dettati dalla parte _backend_ ovvero dal _Backend Developer_.
+Chi copre il ruolo di _Frontend Developer_ dovrà programmare tutta la parte "statica" del progetto. Quindi appunto tradurrà in codice tutto ciò che è stato progettato nel _design_.
+Invece chi copre il ruolo di _Backend Developer_ dovrà realizzare tutta la parte logica e funzionale, e quindi del comportamento, del progetto.
 Possiamo dire che è una spiegazione un pò approssimativa ma per ora dovrebbe bastare.
 
 Quindi, per sommi capi, il _Fullstack Developer_ è la fusione tra il _Frontend Developer_ ed il _Backend Developer_.
 
-I professionisti di settore sono ben consapevoli che ad oggi, con l'evoluzione dei linguaggi di programmazione, risulta **difficilissimo** conoscere e padroneggiare in maniera corretta ed approfondita entrambi gli aspetti (_frontend_ e _backend_), però i percorsi di formazione mirano piuttosto a fornire un'infarinatura generale di entrambi gli aspetti per permettere poi al futuro "programmatore" di scegliere in autonomia quale strada seguire.
+I professionisti di settore sono ben consapevoli che ad oggi, con l'evoluzione dei linguaggi di programmazione, risulta **difficilissimo** conoscere e padroneggiare in maniera corretta ed approfondita entrambi gli aspetti (_frontend_ e _backend_), però i percorsi di formazione mirano piuttosto a fornire un'infarinatura generale di entrambi gli aspetti per permettere poi al futuro "developer" di scegliere in autonomia quale strada seguire.
+
+_Con il termine "fullstack" intendiamo una figura che però non ha necessariamente competenze sistemistiche, di infrastruttura, di UI/UX e tutte quelle nuances che al giorno d'oggi sono però fondamentali._
 
 "Ok, ma queste informazioni come possono essermi utili nella **scelta degli argomenti su cui formarmi?**"
 
-Sapere che esistono questi 2 mondi, _frontend_ e _backend_, permette di fare una piccolissima cernita tra le varie strade che si possono intraprendere nel diventare **programmatore**.
+Sapere che esistono questi 2 mondi, _frontend_ e _backend_, permette di fare una piccolissima cernita tra le varie strade che si possono intraprendere nel diventare **developer**.
 
 La cosa fondamentale che bisogna tenere a mente quando si inizia ad intraprendere un percorso di formazione nell'ambito della programmazione è: se inizi con una cosa non è detto che poi farai quella per tutto il resto della carriera.
 
@@ -51,10 +53,11 @@ Inoltre le tecnologie che si toccano con mano durante la fase di apprendimento i
 
 Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo, grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**, addirittura con JavaScript oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
 
-"Mi stai dicendo che se voglio fare il _Game Developer_ devo prima diventare un **programmatore web**?"
+"Mi stai dicendo che se voglio fare il _Game Developer_ devo prima diventare un **developer web**?"
 Assolutamente no.
 
 Se si hanno le idee chiare sin da subito allora la scelta del percorso formativo è molto più semplice, se si hanno invece le idee confuse, inizialmente, allora partire dallo sviluppo web è la strada migliore in quanto più accessibile.
+La permeanza della tecnologia web permette anche un accesso al mercato più facile e rapido rispetto ad altri campi.
 
 "Mi stai dicendo che è più facile fare i siti web piuttosto che i giochi?"
 Assolutamente no.
@@ -67,32 +70,32 @@ Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dal p
 ## Prima fase: come approcciare lo studio
 
 Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi che invece seguono più assiduamente i propri alunni.
-Non c'è un giusto o sbagliato, l'importante è tenere a mente un altro concetto fondamentale: il programmatore non smette mai di imparare, e la maggior parte delle volte impara da solo.
-Personalmente mi sento di consigliare, almeno nella fase iniziale, di essere seguiti ed essere curiosi.
-Essere seguiti ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio è molto meglio piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
-Essere curiosi invece ci permette di imparare ad essere autonomi e soprattutto, cosa molto improtante, a trovare la nostra strada.
+Non c'è un giusto o sbagliato, l'importante è tenere a mente un altro concetto fondamentale: il developer non smette mai di imparare, e la maggior parte delle volte impara da solo.
+Sicuramente sarebbe meglio, almeno nella fase iniziale, essere seguiti ed essere curiosi.
+Essere seguiti ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
+Essere curiosi invece ci permette di imparare ad essere autonomi e soprattutto, cosa molto importante, a trovare la nostra strada.
 
 **Google è il nostro migliore amico**.
 
 ## Seconda fase: il tempo
 
-Alcuni percorsi di formazione propongono 3 mesi altri 6 mesi, altri invece hanno dei pacchetti personalizzati.
+Alcuni percorsi di formazione si stendono su periodi di 3 mesi, altri di 6, altri ancora offrono dei pacchetti personalizzati.
 Alcuni sono costituiti da classi e le lezioni si tengono in presenza, altri invece completamente da remoto con lezioni live oppure on-demand.
-Anche qui non c'è una formula magica.
+Anche qui, una formula magica non esiste.
 
-Diventare programmatore non è semplice, essere programmatore è una questione di **mindset**, quindi serve del tempo per cambiare il nostro modo di approcciare e di vedere le cose.
+Diventare developer non è semplice, essere developer è una questione di **mindset**, quindi serve del tempo per cambiare il nostro modo di approcciare e di vedere le cose.
 In sostanza... ci vuole tempo.
 
 Quindi maggiore tempo dedichiamo alla nostra formazione e migliore è il risultato che otterremo alla fine del processo.
 La scelta dovrebbe essere soggettiva e ponderata, basandosi sulla quantità di tempo che si ha a disposizione.
-Il tempo è il maggiore investimento in questa fase, più tempo dedicate migliore sarà il risultato finale.
+Il tempo è il maggiore investimento in questa fase; più tempo dedicate, migliore sarà il risultato finale.
 
 "Va bene, quindi quanto tempo serve e quanto tempo dovrei dedicare alla mia formazione?"
 Il tempo non è mai abbastanza, quindi la risposta giusta è: il più possibile.
 
 Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare almeno altre 3 ore di pratica e approfondimenti.
 
-In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** del programmatore.
+In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** da developer.
 
 "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
 Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (3 o 6 mesi) è molto elevata.
@@ -128,7 +131,7 @@ Basta una piccola ricerca su google per rendersi conto di quanta domanda c'è da
 Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione ha a disposizione alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
 
 "Cosa mi posso aspettare al termine di un percorso di formazione? Sarò autonomo e pronto per il mondo del lavoro?"
-Sicuramente al termine di un percorso di formazione si è più consapevoli di cosa faccia un programmatore, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono un bravo programmatore, e soprattutto di cosa ci si aspetta da lì a poco.
+Sicuramente al termine di un percorso di formazione si è più consapevoli di cosa faccia un developer, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono un bravo developer, e soprattutto di cosa ci si aspetta da lì a poco.
 
 Sia che il corso duri 3 mesi, o 6, o addirittura 12, si è ancora _Junior_.
 Una figura _Junior_ rimane tale fino a quando non ottiene la completa **autonomia** lavorativa, sia con gli strumenti che già conosce e sia con gli strumenti che dovrà apprendere.
