@@ -6,15 +6,15 @@ labels: ["modifica-capitolo"]
 assignees: ""
 ---
 
-# **✍️ Modifica capitolo - NOME_DEL_CAPITOLO**
+# ✍️ Modifica capitolo - NOME_DEL_CAPITOLO
 
-## **Descrizione**
+## Descrizione
 
 <!-- Descrivi quali sono gli argomenti che andrai ad modificare/eliminare/migliorare in questo capitolo. -->
 
 Lorem ipsum
 
-## **Fonti**
+## Fonti
 
 <!-- Se hai preso immagini, frasi, citazioni o risorse esterne usa questa sezione per citarle -->
 
