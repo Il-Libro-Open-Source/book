@@ -48,7 +48,7 @@ di rimuovere, modificare o rifiutare commenti, commit, codice, modifiche alla
 wiki, issue e altri contributi non allineati a questo Codice di Comportamento,
 comunicandole ragioni dell'intervento di moderazione quando opportuno.
 
-Gli Ambassador appartenenti al gruppo Discussion e responsabili del seguente regolamento, oltre alle responsabilità come Ambassador hanno il diritto e la responsabilità di monitorare, gestire e soprassedere le discussioni derivanti dall’applicazione del Codice di Comportamento.
+Le figure Ambassador appartenenti al gruppo Discussion e responsabili del seguente regolamento, oltre alle responsabilità come Ambassador hanno il diritto e la responsabilità di monitorare, gestire e soprassedere le discussioni derivanti dall’applicazione del Codice di Comportamento.
 
 Attualmente gli Ambassador appartenenti al gruppo Discussion che hanno la responsabilità in prima persona di questo regolamento e della gestione dei casi sono:
 Alessandro Cappellozza
