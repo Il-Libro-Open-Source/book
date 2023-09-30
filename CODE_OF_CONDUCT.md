@@ -51,7 +51,6 @@ comunicandole ragioni dell'intervento di moderazione quando opportuno.
 Le figure Ambassador appartenenti al gruppo Discussion e responsabili del seguente regolamento, oltre alle responsabilità come Ambassador hanno il diritto e la responsabilità di monitorare, gestire e soprassedere le discussioni derivanti dall’applicazione del Codice di Comportamento.
 
 Attualmente le figure Ambassador appartenenti al gruppo Discussion che hanno la responsabilità in prima persona di questo regolamento e della gestione dei casi sono quelle presenti nel team @Il-Libro-Open-Source/discussion-group, la cui lista viene manutenuta ed aggiornata [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/WG.md)
-Alessandro Cappellozza
 Simone Gizzi
 Andrea Guzzo
 
