@@ -43,7 +43,7 @@ e dell'applicazione degli standard di comportamento accettabili e sono tenuti
 ad intraprendere azioni correttive appropriate ed eque in risposta a qualsiasi
 caso di comportamento inaccettabile, minaccioso, offensivo o dannoso.
 
-Le persone alla guida della comunità (gli Ambassador) hanno il diritto e la responsabilità
+Le persone alla guida della comunità (Ambassador) hanno il diritto e la responsabilità
 di rimuovere, modificare o rifiutare commenti, commit, codice, modifiche alla
 wiki, issue e altri contributi non allineati a questo Codice di Comportamento,
 comunicandole ragioni dell'intervento di moderazione quando opportuno.
