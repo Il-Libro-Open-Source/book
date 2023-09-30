@@ -38,7 +38,7 @@ Esempi di comportamento inaccettabile:
 
 ## Adempimento e Responsabilità
 
-Le persone alla guida della comunità (gli Ambassador) sono responsabili del chiarimento
+Le persone alla guida della comunità (Ambassador) sono responsabili del chiarimento
 e dell'applicazione degli standard di comportamento accettabili e sono tenuti
 ad intraprendere azioni correttive appropriate ed eque in risposta a qualsiasi
 caso di comportamento inaccettabile, minaccioso, offensivo o dannoso.
