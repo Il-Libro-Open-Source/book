@@ -62,12 +62,21 @@ Le _triggered fitness functions_ (funzioni di fitness _attivate_ o _triggerate_)
 
 Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguito in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentative di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
 
+Queste funzioni di fitness vengono spesso lanciate durante una _pipeline_ di distribuzione, in modo da intercettare eventuali variazioni prima che il software venga rilasciato in produzione.
+
+Questo tipo di _fitness function_ richiedono solitamente più manutenzione rispetto alle _continuous fitness functions_, in quanto devono essere aggiornate durante la vita del software, in base alle modifiche che vengono apportate.
+
+Alcuni esempi sono i test unitari, i test di integrazione, ecc.
+
 ### Continuous Fitness functions
 
 Le _continuous fitness functions_ (funzioni di fitness _continue_) vengono eseguite in modo continuo sull'ambiente in analisi, tramite raccolta di metriche in tempo reale o comunque a cadenze rapide. Questo tipo di funzioni di fitness sono utili per monitorare il sistema e rilevare eventuali problemi prima che si verifichino, o analizzare dei trend.
 
 Questo tipo di funzioni ha da un lato il vantaggio di rappresentare la situazione reale, dall'altro lato ha il difetto di non essere replicabile, in quanto si basa su dati presi dall'ambiente che si sta analizzando (solitamente quello di produzione).
 
+Queste funzioni di fitness vengono spesso lanciate in un ambiente di produzione, in modo da avere contezza del reale contesto nel quale vengono eseguite.
+
+Alcuni esempi sono il monitoraggio dei tempi medi di risposta, il monitoraggio dei messaggi inviati e ricevuti in una coda, ecc.
 ## Architecture Decision Records
 
 Le _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
