@@ -1,7 +1,7 @@
 ---
 name: 🆕 Nuovo capitolo
 about: Usa questo template per aggiungere un nuovo capitolo
-title: "[NUOVO-CAPITOLO]: NOME_DEL_CAPITOLO"
+title: "[🆕]: NOME_DEL_CAPITOLO"
 labels: ["nuovo-capitolo"]
 assignees: ""
 ---

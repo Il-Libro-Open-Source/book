@@ -1,7 +1,7 @@
 ---
 name: ✍️ Modifica capitolo
 about: Usa questo template per modificare/migliorare un nuovo capitolo
-title: "[MODIFICA-CAPITOLO]: NOME_DEL_CAPITOLO"
+title: "[✍️]: NOME_DEL_CAPITOLO"
 labels: ["modifica-capitolo"]
 assignees: ""
 ---
