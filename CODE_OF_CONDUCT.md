@@ -31,7 +31,7 @@ Esempi di comportamento inaccettabile:
 - Comportamenti da troll;
 - Molestie in pubblico o in privato;
 - Pubblicazione di informazioni private altrui, ad esempio un indirizzo postale o elettronico, senza autorizzazione esplicita;
-  -- Pubblicazione e/o condivisione, sotto qualsiasi forma, di contenuti che invogliano, contengono o generano attività illegali;
+- Pubblicazione e/o condivisione, sotto qualsiasi forma, di contenuti che invogliano, contengono o generano attività illegali;
 - Pubblicazione e/o condivisione, sotto qualsiasi forma, di contenuti che violano espressamente diritti di copyright;
 - Condivisione di link e/o contenuti senza essersi prima appurati che siano sicuri e privi di minacce.
 - Altri comportamenti che potrebbero ragionevolmente essere considerati inappropriati in un contesto professionale, come a titolo esemplificativo ma non esaustivo, l’uso di linguaggio offensivo comprensivo di, ma non limitato a, religione o ideologia;
