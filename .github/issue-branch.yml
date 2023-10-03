@@ -1,4 +1,4 @@
-branchName: '${issue.title,}'
+branchName: '${issue.title[5],}'
 gitSafeReplacementChar: '-'
 branches:
   - label: nuovo-capitolo
