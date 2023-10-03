@@ -70,7 +70,7 @@ Tutte le persone responsabili della comunità e che prenderanno in carico la sup
 ## Linee guida all'applicazione
 
 Le guide della comunità seguiranno queste linee guida per determinare le
-azioni correttive contro azioni che ritengono violare questo Codice di Condotta.
+azioni correttive contro azioni che ritengono violare questo Codice di Comportamento.
 
 ### 1. Correzione
 
