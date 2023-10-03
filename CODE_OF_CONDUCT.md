@@ -101,7 +101,7 @@ La gravità dell’impatto verrà valutata dal gruppo responsabile della gestion
 
 **Conseguenze**: Espulsione temporanea per un periodo di tempo che può andare da 1 mese a 6 mesi a qualsiasi sorta di interazione o comunicazione con la comunità. Durante
 questo periodo non è permesso nessun dialogo pubblico o privato con le persone
-coinvolte,comprese coloro che applicano il Codice di Condotta. Violare questi
+coinvolte,comprese coloro che applicano il Codice di Comportamento. Violare questi
 termini può portare ad una espulsione permanente.
 La notifica dell’espulsione sarà espressa in forma privata con le motivazioni e l’indicazione del tempo specificato.
 
