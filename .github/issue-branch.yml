@@ -1,6 +1,5 @@
 branchName: '${issue.title,}'
 gitSafeReplacementChar: '-'
-openDraftPR: true
 branches:
   - label: nuovo-capitolo
     prefix: add/
