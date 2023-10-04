@@ -48,11 +48,11 @@ Il percorso che hai deciso di intraprendere pullula di informazioni che non aspe
 
 Nonostante ciò, non scoraggiarti; la nostra intenzione non è quella di spaventarti, ma di consigliarti e guidarti nel migliore dei modi; proprio per questo, ti inviatiamo a riflettere su un aspetto tanto scontato quanto potente: il potere dell'informazione libera.
 
-Proprio come il libro che stai leggendo in questo momento, in rete esistono miliardi di informazioni a cui puoi avere accesso: aspettano solo di essere ricercate! Queste pagine che stai leggendo sono presenti sul web, e molto probabilmente ne sei venuto a conoscenza perché ti sei imbattuto in esse navigando per la rete, o magari perché chi ti ha consigliato questo libro lo ha cercato a sua volta. Poco importa, quello che è davvero importante è che tu prenda consapevolezza del fatto che il web pullula di informazioni a cui puoi accedere, e che l'unica cosa che ti separa da esse, indovina un po', _sei tu_!
+Proprio come questo libro, in rete esistono miliardi di informazioni a cui puoi avere accesso: aspettano solo di essere ricercate! Queste pagine che stai leggendo sono presenti sul web, e molto probabilmente ne sei a conoscenza perché è stato semplice imbattersi in esse navigando per la rete, o magari perché chi ti ha consigliato questo libro lo ha cercato a sua volta. Poco importa, quello che è davvero importante è che tu prenda consapevolezza del fatto che il web pullula di informazioni a cui puoi accedere, e che l'unica cosa che ti separa da esse, indovina un po', _sei tu_!
 
-Le informazioni presenti in rete però, per quanto siano molteplici e liberamente fruibili, da sole non hanno alcun effetto sulla tua formazione; analogamente a quanto avviene con un esplosivo, la polvere da sparo, per quanto potente possa essere, da sola non basta; serve un'innesco o, per meglio dire, serve **una scintilla che sia in grado di innescare la miccia**.
+Le informazioni presenti in rete però, per quanto siano molteplici e liberamente fruibili, da sole non hanno alcun effetto sulla tua formazione; analogamente a quanto avviene con un esplosivo, la polvere da sparo, per quanto potente possa essere, da sola non basta; serve un innesco o, per meglio dire, serve **una scintilla che sia in grado di innescare la miccia**.
 
-A questo punto, caro lettore, avrai capito dove vogliamo andare a parare: ciò che non deve mai mancare in te è la curiosità!
+A questo punto, a te che leggi, avrai capito dove vogliamo andare a parare: ciò che non deve mai mancare in te è la curiosità!
 
 Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, prona all'apprendimento e alla crescita professionale; fintanto che questa scintilla resterà accesa, non avrai limiti nell'apprendimento: anche qui, l'unico limite che avrai, _sarai tu_.
 
@@ -64,7 +64,7 @@ Se ad un primo impatto potrebbe sembrare un dubbio legittimo, la verità è che 
 
 Durante il tuo percorso, presto o tardi ti capiterà di imbatterti in un problema a cui non saprai far fronte; a quel punto, molto probabilmente il tuo primo impulso sarà quello di cercare in rete una soluzione e, pensa un po', la troverai!
 
-Penserai "_Che fortuna che ho avuto!_", ed è qui che sbaglieresti...**sbaglieresti di grosso**.
+Penserai "_Che fortuna che ho avuto!_", ed è qui che potresti sbagliarti...**sbaglieresti di grosso**.
 
 Quella soluzione, che molto probabilmente ti aiuterà a risolvere il tuo problema, è lì per un motivo ben preciso: qualcuno, prima di te, ha avuto il tuo stesso problema; al contrario di te però, quel qualcuno non è stato "_così fortunato_" da trovare una soluzione online, ma è stato abbastanza empatico da mettersi nei panni di chi, come te, quel problema prima o poi lo avrebbe avuto; una volta trovata la soluzione quindi, si è adoperato per metterla a disposizione di tutti, **gratuitamente** e in maniera del tutto spontanea.
 
@@ -80,7 +80,7 @@ Fidati di noi: fidati di chi, prima di te, è stato aiutato e che oggi è qui a 
 
 ## La contaminazione: fare squadra nel modo giusto
 
-"Essere un dev", tra le tante altre cose, significa _essere parte di una comunità_.
+"Indossare i panni di dev", tra le tante altre cose, significa _essere parte di una comunità_.
 
 Una comunità composta da altri professionisti, persone che come te hanno scelto di lavorare in questo settore.
 
@@ -88,7 +88,7 @@ Con il tempo, magari collaborando ad un progetto Open Source o lavorando in qual
 
 Scenario ben diverso da ciò che magari sei stato abituato a fare fino a quel momento; d'altro canto, un conto è scrivere codice in solitudine per un progetto a cui stiamo lavorando, e un conto è scrivere codice collaborativo con un numero indefinito di altre persone, tutte con lo stesso obiettivo.
 
-In queste circostante, ciò che solitamente fà la differenza è lo spirito con cui si affrontano queste situazioni; partire prevenuti non serve a niente, e anzi il più delle volte potrebbe addirittura risultare controproducente; ha molto più senso invece partire dall'assunto che **ognuno di noi può insegnarci qualcosa**, e dunque, **possiamo sempre imparare qualcosa, anche da chi è meno esperto di noi**.
+In queste circostante, ciò che solitamente fa la differenza è lo spirito con cui si affrontano queste situazioni; partire prevenuti non serve a niente, e anzi il più delle volte potrebbe addirittura risultare controproducente; ha molto più senso invece partire dall'assunto che **ognuno di noi può insegnarci qualcosa**, e dunque, **possiamo sempre imparare qualcosa, anche da chi è meno esperto di noi**.
 
 Adottare un atteggiamento del genere significa abbracciare l'idea di poter apprendere sempre qualcosa, indipendentemente dal nostro grado di conoscenza o da chi abbiamo davanti...significa **lasciarsi contaminare**.
 
