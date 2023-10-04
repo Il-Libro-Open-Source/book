@@ -17,7 +17,7 @@ Tutti i file markdown devono essere formattati con [Prettier](https://prettier.i
 Per formattare da linea di comando tutti i file è necessario avere [Node](https://nodejs.org/it) installato sul proprio computer e lanciare il seguente comando nella cartella del repository:
 
 ```bash
-npm run format
+npm run format:write -- *.md
 ```
 
 Fortunatamente i principali IDE supportano Prettier tramite delle estensioni, di seguito alcuni esempi:

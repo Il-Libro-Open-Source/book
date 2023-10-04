@@ -17,6 +17,8 @@ dist/
 .DS_Store
 .idea/*
 .vscode/*
+!.vscode/settings.json
+!.vscode/extension.json
 
 # Environments
 .env
