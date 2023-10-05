@@ -77,6 +77,7 @@ Questo tipo di funzioni ha da un lato il vantaggio di rappresentare la situazion
 Queste funzioni di fitness vengono spesso lanciate in un ambiente di produzione, in modo da avere contezza del reale contesto nel quale vengono eseguite.
 
 Alcuni esempi sono il monitoraggio dei tempi medi di risposta, il monitoraggio dei messaggi inviati e ricevuti in una coda, ecc.
+
 ## Architecture Decision Records
 
 Le _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
