@@ -165,7 +165,7 @@ La _buzzword_ per eccellenza degli ultimi anni.
 
 Spesso affiancata alle architetture orientate agli eventi, questa architettura software si compone di un insieme di servizi indipendenti tra di loro, ognuno con un compito ben definito, che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
 
-A differenza delle architetture _a singolo blocco_ viste sopra, questa architettura permette di scalare i singoli servizi, in quanto ogni servizio è un'unità di rilascio indipendente dagli altri.
+A differenza delle architetture _a singolo blocco_ viste sopra, questa architettura permette di scalare i singoli servizi, in quanto ogni servizio viene rilasciato in maniera indipendente.
 
 In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
 
