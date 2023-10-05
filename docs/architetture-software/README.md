@@ -80,7 +80,7 @@ Alcuni esempi sono il monitoraggio dei tempi medi di risposta, il monitoraggio d
 
 ## Architecture Decision Records
 
-Le _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
+Gli _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
 
 A differenza di una classica documentazione tecnica o di un diagramma, le ADR sono molto più semplici da scrivere e da leggere, in quanto sono composte da pochi elementi:
 
