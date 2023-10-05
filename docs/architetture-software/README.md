@@ -6,7 +6,7 @@ Il termine "architettura software" viene spesso utilizzato in maniera molto gene
 
 Inoltre, cercheremo di dare una definizione di "chi si occupa di architetture software" e di descrivere il suo ruolo all'interno di un team di sviluppo.
 
-L'argomento è molto vasto e complesso, per cui cercheremo di dare una visione generale, senza entrare troppo nel dettaglio, in quanto ogni singola sezione di questo capitolo potrebbe essere un libro a sé stante.
+L'argomento è molto vasto e complesso, per cui proveremo a dare una visione generale, senza entrare troppo nel dettaglio, in quanto ogni singola sezione di questo capitolo potrebbe concretizzarsi in un libro a sé stante.
 
 ## Cos'è l'architettura software?
 
