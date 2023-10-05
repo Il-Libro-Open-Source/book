@@ -60,11 +60,11 @@ Esempi di fitness function possono essere: punteggio di scalabilità , percentua
 
 Le _triggered fitness functions_ (funzioni di fitness _attivate_ o _triggerate_) vengono eseguite in base a un evento particolare, ad esempio il team di sviluppo che esegue un test unitario, una pipeline di distribuzione che esegue una serie di operazioni o una persona del QA che esegue determinate attività stabilite.
 
-Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguito in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentative di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
+Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguito in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentativo di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
 
 Queste funzioni di fitness vengono spesso lanciate durante una _pipeline_ di distribuzione, in modo da intercettare eventuali variazioni prima che il software venga rilasciato in produzione.
 
-Questo tipo di _fitness function_ richiedono solitamente più manutenzione rispetto alle _continuous fitness functions_, in quanto devono essere aggiornate durante la vita del software, in base alle modifiche che vengono apportate.
+Questo tipo di _fitness function_ richiede solitamente più manutenzione rispetto alle _continuous fitness functions_, in quanto deve essere aggiornato durante la vita del software, in base alle modifiche che vengono apportate.
 
 Alcuni esempi sono i test unitari, i test di integrazione, ecc.
 
