@@ -26,7 +26,7 @@ L'architettura software è un argomento molto vasto e complesso, ma possiamo ide
 - **Attributi di qualità**: soddisfa i requisiti non funzionali, come prestazioni, sicurezza, scalabilità e manutenibilità. Gli architetti prendono decisioni di progettazione per ottimizzare il software per queste qualità.
 - **Vincoli e modelli**: l'architettura software spesso opera entro determinati vincoli, come budget, stack tecnologico o standard di conformità. Gli architetti sfruttano i modelli di progettazione e le migliori pratiche per soddisfare questi vincoli ottenendo al tempo stesso la funzionalità desiderata.
 
-In sostanza, l'architettura software fornisce un approccio strutturato alla costruzione di sistemi software complessi, garantendo che siano scalabili, manutenibili e in grado di soddisfare i requisiti e gli standard di qualità previsti. È una disciplina cruciale nell'ingegneria del software che aiuta gli sviluppatori a prendere decisioni informate e a creare software che resista alla prova del tempo.
+In sostanza, l'architettura software fornisce un approccio strutturato alla costruzione di sistemi software complessi, garantendo che siano scalabili, manutenibili e in grado di soddisfare i requisiti e gli standard di qualità previsti. È una disciplina cruciale nell'ingegneria del software che aiuta gli sviluppatori a prendere decisioni informate e a creare software che resistano alla prova del tempo.
 
 ## Chi si occupa di architetture software?
 
