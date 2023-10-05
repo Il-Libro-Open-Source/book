@@ -20,7 +20,7 @@ In parole povere, l'architettura software è l'insieme di tutte le decisioni pre
 
 L'architettura software è un argomento molto vasto e complesso, ma possiamo identificare alcuni punti chiave in comune:
 
-- **Componenti e moduli**: identifica i principali componenti o moduli del software e descrive le loro responsabilità. Questi componenti possono essere funzioni, classi o persino interi microservizi in un sistema distribuito.
+- **Componenti e moduli**: identificano i principali componenti o moduli del software e descrivono le loro responsabilità. Questi componenti possono essere funzioni, classi o persino interi microservizi in un sistema distribuito.
 - **Flusso e comunicazione dei dati**: descrive il modo in cui i dati fluiscono tra le diverse parti del sistema, inclusi meccanismi di input e output, database e servizi esterni. Comprendere il flusso di dati è fondamentale per garantire una comunicazione e un'elaborazione dei dati efficiente.
 - **Comportamento del sistema**: definisce il comportamento previsto del software in varie condizioni, incluso il modo in cui gestisce gli errori, ripristina i guasti e si adatta per far fronte all'aumento del carico.
 - **Attributi di qualità**: soddisfa i requisiti non funzionali, come prestazioni, sicurezza, scalabilità e manutenibilità. Gli architetti prendono decisioni di progettazione per ottimizzare il software per queste qualità.
