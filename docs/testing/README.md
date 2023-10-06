@@ -12,13 +12,14 @@ Si fa spesso riferimento alla piramide del testing, che rappresenta la proporzio
 Di seguito vedremo nel dettaglio i diversi tipi di test.
 
 ### Unit test
+
 Il test unitario è un processo di sviluppo software in cui le parti testabili più piccole di un'applicazione, denominate unità, vengono esaminate individualmente per verificarne il corretto funzionamento. Chi sviluppa e talvolta il personale del controllo qualità completano i test unitari durante il processo di sviluppo. Per unità solitamente si intende una funzione o una piccola serie di funzioni i cui comportamenti sono strettamente legati.
 
 Il punto principale è la presenza di un contesto isolato con un obiettivo.
 
 Non dovrebbe avere dipendenze, se presenti queste dovrebbero essere messe sotto mock quando possibile.
 
-Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità.  
+Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità.
 
 Solitamente i problemi nati negli unit test sono più facili da correggere perché riguardano piccole porzioni di codice e molti test sono riutilizzabili anche in altri progetti se si usa codice condiviso.
 
@@ -29,11 +30,13 @@ D'altro canto, se i test sono scritti male o non hanno una buona coverage, danno
 Il test di integrazione è una tecnica di test del software che si concentra sul test delle interazioni e dell'integrazione tra più componenti o moduli di un sistema software. Ha lo scopo di verificare che i diversi componenti, quando combinati, funzionino correttamente e producano i risultati attesi.
 
 Concetti principali:
+
 - **Scope**: Anche qui parliamo di contesto e obiettivi specifici.
 - **Stubs**: Sostituti di moduli e dipendenze necessari al funzionamento dei test.
 - **Spettro più ampio**: A differenza dello unit test che verifica un modulo / una funzione / un contesto specifico e ridotto, l’integration testing integra più moduli e ne testa le interdipendenze e la comunicazione.
 
 Tipologie di test:
+
 - **Big-bang**: Si creano decine, centinaia, migliaia di test in base alla dimensione della codebase. Si testa tutto, tutto assieme. Solitamente il tutto viene fatto in un singolo integration test, o in pochissimi. Funziona per codebase ridotte.
 - **Top-down testing**: Approccio incrementale, si parte dai moduli ad altissimo livello (Controller nel caso di un MVC) e si scende al livello più basso (Se si utilizzano i fat model si arriva anche fino a lì). Funziona per codebase grosse, iniziare è più tosta ma ha più impatto, pian piano diventa sempre più facile perché le parti "sopra" sono già state testate.
 - **Bottom-up testing**: Approccio incrementale al contrario. Si parte da sotto e si va in alto. Anche qui parliamo di grosse codebase, iniziare è più facile ma ha meno impatto, proseguendo anche qui diventa sempre più facile perché l’impalcatura sotto funziona.
