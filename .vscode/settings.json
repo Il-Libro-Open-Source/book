@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "git.autofetch": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+}
