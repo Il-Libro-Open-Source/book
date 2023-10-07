@@ -178,7 +178,7 @@ In questa architettura ogni microservizio solitamente ha il proprio database e i
 
 ## Service-based
 
-Il _service-based è un'architettura software in cui l'applicativo viene suddiviso in una manciata di servizi (Solitamente da 3 a 12) che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
+Il _service-based è un'architettura software in cui l'applicativo viene suddiviso in una manciata di servizi (Solitamente da 3 a 12) che comunicano tra di loro attraverso un meccanismo di comunicazione \_solitamente_ asincrono.
 
 Ci si aspetta che i servizi siano in costante comunicazione tra di loro e che rispettino dei contratti (interfacce) precedentemente stabiliti. Questo tipo di architettura è molto simile a quella dei microservizi, ma con la differenza che i servizi sono solitamente più grandi e con un compito ben definito.
 
