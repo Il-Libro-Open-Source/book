@@ -6,15 +6,15 @@ labels: ["nuovo-capitolo"]
 assignees: ""
 ---
 
-# **🆕 Nuovo capitolo - NOME_DEL_CAPITOLO**
+# 🆕 Nuovo capitolo - NOME_DEL_CAPITOLO
 
-## **Descrizione**
+## Descrizione
 
 <!-- Descrivi quali sono gli argomenti che andrai ad affrontare in questo capitolo. -->
 
 Lorem ipsum
 
-## **Fonti**
+## Fonti
 
 <!-- Se hai preso immagini, frasi, citazioni o risorse esterne usa questa sezione per citarle -->
 
