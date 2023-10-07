@@ -176,9 +176,9 @@ In questa architettura ogni microservizio solitamente ha il proprio database e i
 - **Scalabilità**: 5. La scalabilità è il punto di forza di questa architettura, in quanto ogni microservizio può essere replicato indipendentemente dagli altri.
 - **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli microservizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
 
-## Service-oriented
+## Service-based
 
-Il _service-oriented_ è un'architettura software in cui l'applicativo viene suddiviso in una manciata di servizi (Solitamente da 3 a 12) che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
+Il _service-based è un'architettura software in cui l'applicativo viene suddiviso in una manciata di servizi (Solitamente da 3 a 12) che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
 
 Ci si aspetta che i servizi siano in costante comunicazione tra di loro e che rispettino dei contratti (interfacce) precedentemente stabiliti. Questo tipo di architettura è molto simile a quella dei microservizi, ma con la differenza che i servizi sono solitamente più grandi e con un compito ben definito.
 
@@ -195,7 +195,7 @@ Questa architettura viene spesso indicata come "l'anello mancante" tra il monoli
 
 ## Altre architetture e pattern
 
-Architetture come la _space-based architecture_ vengono utilizzate in contesti specifici e non sono solitamente utilizzate come architetture software di riferimento, di conseguenza vengono citate solo per completezza d'informazione.
+Architetture come la _space-based architecture_ o la _service-oriented architecture_ vengono utilizzate in contesti specifici e non sono solitamente utilizzate come architetture software di riferimento, di conseguenza vengono citate solo per completezza d'informazione.
 
 Altri termini, come la _event-driven architecture_ o la _event-sourcing architecture_ in realtà spesso si riferiscono ad un pattern di progettazione, ovvero un modo di progettare un sistema software, e non un'architettura software a tutti gli effetti. Il concetto di _event-driven_ viene infatti _affiancato_ più che _sostituito_ ad un'architettura software, come nel caso dei microservizi o del service-oriented.
 
