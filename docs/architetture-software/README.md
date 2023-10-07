@@ -169,6 +169,10 @@ A differenza delle architetture _a singolo blocco_ viste sopra, questa architett
 
 In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
 
+Per definizione i microservizi non dovrebbero comporsi di più di una manciata di endpoint e relative funzioni, in quanto altrimenti si parla più di _service-based architecture_.
+
+Da notare che il _decoupling_ creato da questa architettura può portare ad un notevole aumento della complessità.
+
 - **Start-up**: 2. Lo start-up di un'architettura di questo tipo è complessa, in quanto è necessario stabilire sistemi di _orchestrazione_ o di _coreografia_ dei microservizi. Inoltre, il tipo di comunicazione (sincrono o asincrono) e il protocollo adottato (HTTP, AMQP, ecc.) devono essere valutati con attenzione.
 - **Costi**: 4. Potendo scalare indipendentemente i singoli microservizi, i costi sono contenuti, in quanto è possibile scalare solo i microservizi che ne hanno bisogno, e solo nei momenti in cui si ritiene necessario.
 - **Sviluppo e manutenzione**: 2. Il sistema di orchestrazione o coreografia dei microservizi può aggiungere una complessità non indifferente, soprattutto se non si ha esperienza in questo campo. Inoltre, la necessità di comunicare tra i microservizi può aggiungere un ulteriore livello di complessità.
