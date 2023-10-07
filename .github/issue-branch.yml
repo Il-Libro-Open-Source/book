@@ -1,0 +1,9 @@
+branchName: '${issue.title[5],}'
+gitSafeReplacementChar: '-'
+branches:
+  - label: nuovo-capitolo
+    prefix: add/
+  - label: modifica-capitolo
+    prefix: patch/
+  - label: '*'
+    prefix: issues/
