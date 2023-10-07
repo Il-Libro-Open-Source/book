@@ -90,13 +90,13 @@ Esistono tre tecniche di test, ognuna con un suo scopo ben preciso. Vediamole br
 - **White-box testing**: Il test _white-box_ è una tecnica di test in cui il tester ha conoscenza dell'implementazione del sistema.
 - **Grey-box testing**: Il test _grey-box_ è una tecnica di test in cui il tester ha conoscenza parziale dell'implementazione del sistema.
 
-Di solito queste tre tecniche vengono utilizzate per individuare eventuali falle nel sistema.
+Di solito queste tre tecniche vengono utilizzate per individuare eventuali falle nel sistema. Solitamente il _Black-box testing_ è la tecnica più utilizzata, in quanto permette di individuare falle che non sono state individuate durante lo sviluppo e non richiede una conoscenza pregressa del sistema.
 
 ## Metodologie di testing
 
 ### Manual testing
 
-Il manual testing è una metodologia di testing in cui i test vengono eseguiti manualmente dalla figura del tester. Questo approccio ha diversi svantaggi e solitamente viene utilizzato solo per testare le funzionalità più critiche del sistema quando non è possibile automatizzare i test.
+Il manual testing è una metodologia di testing in cui i test vengono eseguiti manualmente dalla figura del tester. Questo approccio ha diversi svantaggi e solitamente viene utilizzato solo per testare le funzionalità più critiche del sistema quando non è possibile automatizzare i test. Questa metodologia viene chiamata anche _explorative testing_, tramite la quale si prova a rompere l'applicazione creando scenari difficilmente automatizzabili e scrivendo di conseguenza i test.
 
 ### Automated testing
 
@@ -113,3 +113,9 @@ Il test-driven development (TDD) è una metodologia di sviluppo software che pre
 ### Behavior-driven development
 
 Il behavior-driven development (BDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice, ma con un approccio più orientato al comportamento dell'applicazione.
+
+## Test Coverage
+
+La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile. Inoltre, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come una coverage del 50% non garantisce che il codice sorgente sia pieno di bug. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
+
+**La test coverage ci dice quanto del nostro codice si comporta come ci aspettiamo, ma non è detto che ciò che ci aspettiamo sia corretto.**
