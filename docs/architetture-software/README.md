@@ -193,7 +193,7 @@ Questa architettura viene spesso indicata come "l'anello mancante" tra il monoli
 - **Start-up**: 3. Lo start-up di un'architettura di questo tipo è complessa, ma non quanto quella a microservizi, anche se molte delle problematiche sono simili.
 - **Costi**: 4. Potendo scalare indipendentemente i singoli servizi, i costi sono contenuti, in quanto è possibile scalare solo i servizi che ne hanno bisogno, e solo nei momenti in cui lo si ritiene necessario.
 - **Sviluppo e manutenzione**: 3. Come per lo start-up, le sfide e le necessità sono simili a quelle dei microservizi, ma trattandosi di entità più grandi, la complessità diminuisce.
-- **Tracciabilità**: 4. Testare e tracciare eventuali bug in questa architettura è piuttosto semplice vista la normale dimensione che i servizi hanno. L'isolamento aiuta, e anche qui si suggerisce l'integrazione di _distributed tracing_ o _open telemetry_.
+- **Tracciabilità**: 4. Testare e tracciare eventuali bug in questa architettura è piuttosto semplice vista la normale dimensione dei servizi. L'isolamento aiuta, e anche qui si suggerisce l'integrazione di _distributed tracing_ o _open telemetry_.
 - **Scalabilità**: 4. La scalabilità è il punto di forza di questa architettura, in quanto ogni servizio può essere replicato indipendentemente dagli altri, ma la dimensione degli stessi può rendere più complicato del previsto il processo.
 - **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli servizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
 
