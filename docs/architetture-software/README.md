@@ -18,7 +18,7 @@ In parole povere, l'architettura software è l'insieme di tutte le decisioni pre
 
 ## Punti chiave dell'architettura software
 
-L'architettura software è un argomento molto vasto e complesso, ma possiamo identificare alcuni punti chiave in comune:
+L'architettura software è un argomento molto vasto e complesso, ma possiamo identificare alcuni punti chiave che si applicano nella maggior parte dei casi:
 
 - **Componenti e moduli**: identificano i principali componenti o moduli del software e descrivono le loro responsabilità. Questi componenti possono essere funzioni, classi o persino interi microservizi in un sistema distribuito.
 - **Flusso e comunicazione dei dati**: descrive il modo in cui i dati attraversano le diverse parti del sistema, inclusi meccanismi di input e output, database e servizi esterni. Comprendere il flusso di dati è fondamentale per garantire una comunicazione e un'elaborazione dei dati efficiente.
