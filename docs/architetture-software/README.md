@@ -169,6 +169,8 @@ A differenza delle architetture _a singolo blocco_ viste sopra, questa architett
 
 In questa architettura ogni microservizio solitamente ha il proprio database e il proprio back-end (basato su API), mentre il front-end è solitamente un'interfaccia grafica che comunica con i microservizi attraverso le API, a prescindere da dove risieda o da come sia implementato. I database sono solitamente piccoli e si occupano di gestire solo i dati necessari al microservizio in questione.
 
+A differenza delle altre architetture citate, la condivisione del database è da considerarsi un _anti-pattern_, ovvero una pratica da non adottare, in quanto può portare a problemi di _coupling_ tra i microservizi, esattamente l'opposto di quanto si vuole ottenere con questa architettura.
+
 Per definizione i microservizi non dovrebbero comporsi di più di una manciata di endpoint e relative funzioni, in quanto altrimenti si parla più di _service-based architecture_.
 
 Da notare che il _decoupling_ creato da questa architettura può portare ad un notevole aumento della complessità.
