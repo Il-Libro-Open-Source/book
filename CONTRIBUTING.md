@@ -42,3 +42,7 @@ git commit -m "feat: Aggiunta nuova pagina"
 Il libro è, in questo momento, orientato ad un pubblico italiano.  
 Volendo essere accessibile alla platea più ampia possibile, è necessario utilizzare un linguaggio semplice e chiaro, espresso in lingua italiana, per i contenuti, le cartelle, i commit, le Pull Requests, i commenti, ecc.  
 Seppur abituati a scrivere in inglese commit e Pull Requests, richiediamo a chi contribuisce di utilizzare la lingua italiana anche in questi casi, _al netto del `<type>` dei commit_ per seguire i [Conventional Commits](#conventional-commits), che resteranno in inglese.
+
+## Linee Guida
+
+Prima di stendere contenuti o proporre delle Pull Request si suggerisce di dare una lettura alle [Linee Guida](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES.md) (E relativo [Cheatsheet](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CHEATSHEET.md)) da rispettare quando si interagisce con il repository.
