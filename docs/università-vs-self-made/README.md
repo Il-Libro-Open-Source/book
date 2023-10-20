@@ -23,6 +23,14 @@ Per integrare in modo corretto e graduale la “Teoria” e la “Pratica”, il
 
 <br>
 
+**_“Come posso trovare gli ITS?”_**
+
+Prima di darti la risposta a questa domanda, tengo a precisare che gli ITS in Italia offrono una vasta gamma di corsi dedicati a settori diversi, tra cui tecnologia, industria, e servizi. Per ovvi motivi in questo libro, più precisamente in questo capitolo, si parlerà di quelli legati al settore IT.
+
+Chiusa questa parentesi, il sito dell’**_[INDIRE](https://www.indire.it/progetto/its-istituti-tecnici-superiori/dove-sono-gli-its/)_** (_Istituto Nazionale Documentazione Innovazione Ricerca Educativa_) è sicuramente la miglior risposta a questa domanda. Ovviamente non l’unica, ma sicuramente tra tutte le pagine risulta essere la più completa, presentando anche a sostegno i dati relativi agli ITS della regione e all’occupazione degli studenti diplomati.
+
+<br>
+
 **“_Perché l’ITS potrebbe risultare un’ottima via?”_**
 
 Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso (quindi con un test di ammissione) e alla portata di tutti dal punto di vista economico, dal momento che l’iscrizione è gratuita o a costo molto ridotto. Solitamente viene fornito un PC da poter utilizzare durante le lezioni e dedicato completamente per la programmazione, ma soprattutto, ciò che contraddistingue l’ITS (e il motivo per cui viene citato in questo capitolo) è la sua **dualità tra lezioni in aula e stage in azienda** per poter testare in modo pratico “sul campo” i concetti appresi.
