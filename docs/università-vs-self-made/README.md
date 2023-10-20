@@ -6,11 +6,24 @@ Nel momento in cui si vuole intraprendere la via della “specializzazione” da
 
 La risposta non è sempre così scontata, vista anche la soggettività del tema. Nel primo caso stiamo parlando di un percorso che dura minimo tre anni (o cinque, a seconda dell’obiettivo), strutturato e tenuto da docenti, mentre nel secondo di uno la cui durata è ignota e che si fonda esclusivamente sulla nostra organizzazione, disciplina e motivazione.
 
-In molti però non sono a conoscenza di una terza via, ovvero degli ITS (_Istituto Tecnico Superiore_) di programmazione, degli enti solitamente finanziati dalla regione e/o da alcune aziende del settore, il cui scopo è quello di formare nel giro di un paio d’anni delle figure professionali da inserire nel mondo dell’IT.
+In molti però non sono a conoscenza di una terza via, ovvero degli [ITS (_Istituto Tecnico Superiore_)](https://www.miur.gov.it/web/guest/tematica-its) di programmazione, degli enti solitamente finanziati dalla regione e/o da alcune aziende del settore, il cui scopo è quello di formare nel giro di un paio d’anni delle figure professionali da inserire nel mondo dell’IT.
 
 ### Un ibrido tra Teoria e Pratica
 
-“_Perché l’ITS potrebbe risultare un’ottima via?”_
+**_“Come è strutturato il percorso formativo di un ITS?”_**
+
+Per integrare in modo corretto e graduale la “Teoria” e la “Pratica”, il piano formativo standard di un ITS prevede:
+
+- **Primo Anno**: Prevalentemente dedicato alle **lezioni in aula**, dove avrai l'opportunità di apprendere dalle competenze di **docenti aziendali**<sup>1</sup> e universitari, i concetti, i linguaggi e gli strumenti fondamentali della figura professionale a cui è dedicato il corso.
+  Inoltre c’è da menzionare che in alcuni ITS viene inoltre offerta la possibilità di prepararsi e sostenere esami per certificazioni esterne quali: [CISCO IT Essentials](https://www.netacad.com/courses/os-it/it-essentials), [ECDL](https://www.aicanet.it/aica/qualita/ecdl-full-standard) e [PET/FIRST/ecc.](https://www.cambridgeenglish.org/exams-and-tests/) per citarne solo alcune.
+
+    <br>
+
+- **Secondo Anno**: Dopo una breve fase di lezioni dedicate agli ultimi moduli, mirate a esplorare concetti più avanzati, come l'_Architettura del Software_ per esempio, l'attenzione si sposterà principalmente sullo **stage lavorativo**, nonché ultima attività prima dell’esame finale (necessario per conseguire un _Diploma di [V livello EQF](https://europa.eu/europass/it/description-eight-eqf-levels)_).
+
+<br>
+
+**“_Perché l’ITS potrebbe risultare un’ottima via?”_**
 
 Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso (quindi con un test di ammissione) e alla portata di tutti dal punto di vista economico, dal momento che l’iscrizione è gratuita o a costo molto ridotto. Solitamente viene fornito un PC da poter utilizzare durante le lezioni e dedicato completamente per la programmazione, ma soprattutto, ciò che contraddistingue l’ITS (e il motivo per cui viene citato in questo capitolo) è la sua **dualità tra lezioni in aula e stage in azienda** per poter testare in modo pratico “sul campo” i concetti appresi.
 
@@ -22,4 +35,10 @@ Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso 
 
 L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza, che oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓) ci aiuterà a crescere come figura professionale e a farci vedere di buon occhio da aziende in cui si potrebbe fare esperienza oltre ad imparare concetti nuovi.
 
-A proposito di prime esperienze a livello aziendale, ti invito a leggere l'apposito capitolo “Carriera - Junior” in cui il tema viene trattato in modo più approfondito e sicuramente più stimolante
+A proposito di prime esperienze a livello aziendale, ti invito a leggere l'apposito capitolo “Carriera - Junior” in cui il tema viene trattato in modo più approfondito e sicuramente più stimolante.
+
+---
+
+### Note
+
+> <sup>1</sup>**Docente Aziendale**: Una figura che lavora nel settore e che tende dunque a spiegare i concetti più da un punto di vista aziendale/lavorativo. Le loro lezioni sono molto importanti in vista dello stage, che per molti potrebbe essere la prima vera e propria esperienza lavorativa
