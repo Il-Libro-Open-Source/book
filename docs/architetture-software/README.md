@@ -10,7 +10,7 @@ L'argomento è molto vasto e complesso, per cui proveremo a dare una visione gen
 
 ## Cos'è l'architettura software?
 
-Wikipedia ci da uno spunto di partenza:
+Wikipedia ci dà uno spunto di partenza:
 
 > L'architettura software è l'insieme delle strutture necessarie per ragionare su un sistema software e la disciplina per creare tali strutture e sistemi. Ogni struttura comprende elementi software, relazioni tra loro e proprietà di entrambi gli elementi e delle relazioni.
 
