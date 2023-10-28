@@ -1,3 +1,3 @@
 ## Indice del libro
 
-- [Introduzione](./introduzione/introduzione.md)
+- [Introduzione](./it/introduzione.md)
