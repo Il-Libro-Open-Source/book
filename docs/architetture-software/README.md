@@ -215,7 +215,7 @@ Architetture come la _space-based architecture_ o la _service-oriented architect
 
 Una nota importante riguarda la _cell-based architecture_ che si pone come punto di incontro tra i microservizi e la _service-based architecture_. Partendo dal concetto di microservizi, potremmo identificare una _cell_ come un conglomerato di microservizi che rispondono a una necessità di business con una interfaccia unificata. Se si parte invece dal concetto di _service-based_, potremmo identificare una _cell_ come ulteriore scomposizione per facilitarne la manutenzione e la scalabilità.
 
-Altri termini, come la _event-driven architecture_ o la _event-sourcing architecture_ in realtà spesso si riferiscono ad un pattern di progettazione, ovvero un modo di progettare un sistema software, e non un'architettura software a tutti gli effetti. Il concetto di _event-driven_ viene infatti _affiancato_ più che _sostituito_ ad un'architettura software, come nel caso dei microservizi o del service-oriented.
+Altri termini, come la _event-driven architecture_ o la _event-sourcing architecture_ in realtà spesso si riferiscono ad un pattern di progettazione, ovvero un modo di progettare un sistema software, e non un'architettura software a tutti gli effetti. Il concetto di _event-driven_ viene infatti _affiancato_ più che _sostituito_ ad un'architettura software, come nel caso dei microservizi o del _service-based_.
 
 ## Conclusioni
 
