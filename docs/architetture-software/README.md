@@ -16,6 +16,16 @@ Wikipedia ci da uno spunto di partenza:
 
 In parole povere, l'architettura software è l'insieme di tutte le decisioni prese durante la progettazione di un sistema software.
 
+## Il contesto aziendale
+
+Chi si occupa di architetture software non può vivere in una bolla e non può esulare dal contesto aziendale nel quale si trova, in quanto comprendere questo contesto è fondamentale per individuare una corretta architettura.
+
+L'architettura software gioca un ruolo fondamentale nel plasmare non solo gli aspetti tecnici di un sistema software ma anche l'organizzazione e la cultura più ampia all'interno della quale viene sviluppato e mantenuto. Un'architettura software ben progettata può favorire una cultura organizzativa positiva in diversi modi. In primo luogo, può promuovere la collaborazione e la comunicazione tra i team di sviluppo fornendo un modello chiaro della struttura e dei componenti del sistema. Quando i membri del team hanno una comprensione condivisa dell'architettura, diventa più facile per loro lavorare insieme in modo efficace, allineare i propri sforzi e prendere decisioni informate, promuovendo una cultura del lavoro di squadra e della cooperazione.
+
+Inoltre, l'architettura del software può influenzare la strategia e gli obiettivi generali dell'organizzazione. Un'architettura ben ponderata può garantire che il sistema software sia allineato con gli obiettivi aziendali, rendendo più facile per l'organizzazione adattarsi alle mutevoli condizioni del mercato e alle esigenze dei clienti. Questo allineamento tra software e obiettivi aziendali può aiutare a promuovere una cultura di agilità e reattività, in cui l'organizzazione è più propensa ad abbracciare il cambiamento e l'innovazione.
+
+In sintesi, l'architettura software non è solo un dettaglio tecnico ma un potente strumento in grado di plasmare la cultura dell'organizzazione. Quando è progettato tenendo conto della collaborazione, della comunicazione e dell'allineamento con gli obiettivi aziendali, può promuovere una cultura del lavoro di squadra, dell'adattabilità e dell'innovazione all'interno dell'organizzazione, contribuendo in definitiva al successo dei progetti di sviluppo software e dell'azienda nel suo insieme.
+
 ## Punti chiave dell'architettura software
 
 L'architettura software è un argomento molto vasto e complesso, ma possiamo identificare alcuni punti chiave che si applicano nella maggior parte dei casi:
@@ -27,6 +37,7 @@ L'architettura software è un argomento molto vasto e complesso, ma possiamo ide
 - **Vincoli e modelli**: l'architettura software spesso opera entro determinati vincoli, come budget, stack tecnologico o standard di conformità. Gli architetti sfruttano i modelli di progettazione e le migliori pratiche per soddisfare questi vincoli ottenendo al tempo stesso la funzionalità desiderata.
 
 In sostanza, l'architettura software fornisce un approccio strutturato alla costruzione di sistemi software complessi, garantendo che siano scalabili, manutenibili e in grado di soddisfare i requisiti e gli standard di qualità previsti. È una disciplina cruciale nell'ingegneria del software che aiuta gli sviluppatori a prendere decisioni informate e a creare software che resistano alla prova del tempo.
+
 
 ## Chi si occupa di architetture software?
 
@@ -40,9 +51,9 @@ Di seguito le caratteristiche chiave che chi ricopre questo ruolo dovrebbe avere
 - **Leadership**: Queste figure spesso assumono ruoli di leadership, guidando i team di sviluppo, facendo da mentor a figure junior e garantendo che la visione architetturale venga seguita durante tutto il ciclo di vita del progetto.
 - **Design Thinking**: Le persone che ricoprono questo ruolo dovrebbero possedere una mentalità orientata al design, concentrandosi sulla creazione di soluzioni eleganti ed efficienti. Ciò include la progettazione per scalabilità, prestazioni, sicurezza ed esperienza utente.
 - **Conoscenza del business**: comprendere gli obiettivi aziendali e i vincoli del progetto o prodotto è fondamentale. Queste figure devono allineare le loro decisioni tecniche con gli obiettivi strategici dell'organizzazione.
-- **Adattabilità**: il panorama del software è in continua evoluzione. La figura dovrebbe essere aperta e adattarsi a nuove tecnologie e metodologie, nonché capace di rivalutare e riadattare l’architettura quando necessario.
+- **Adattabilità**: il panorama del software è in continua evoluzione. La figura dovrebbe essere aperta e adattarsi a nuove tecnologie e metodologie, nonché capace di rivalutare e riadattare l'architettura quando necessario.
 
-## Ma quindi chi si occupa di architetture software deve essere necessariamente un senior?
+## Ma quindi chi si occupa di architetture software deve essere necessariamente senior?
 
 No, non necessariamente. Sebbene sia vero che il ruolo viene ricoperto da persone con una certa esperienza, non è detto che una figura junior non possa occuparsi di architetture software. Anzi, è molto importante che lo faccia, in quanto è un ottimo modo per imparare e crescere, ma il consiglio è di affiancare sempre una figura senior che possa guidare e supportare la persona junior.
 
@@ -202,6 +213,8 @@ Questa architettura viene spesso indicata come "l'anello mancante" tra il monoli
 ## Altre architetture e pattern
 
 Architetture come la _space-based architecture_ o la _service-oriented architecture_ vengono utilizzate in contesti specifici e non sono solitamente utilizzate come architetture software di riferimento, di conseguenza vengono citate solo per completezza d'informazione.
+
+Una nota importante riguarda la _cell-based architecture_ che si pone come punto di incontro tra i microservizi e la _service-based architecture_. Partendo dal concetto di microservizi, potremmo identificare una _cell_ come un conglomerato di microservizi che rispondono a una necessità di business con una interfaccia unificata. Se si parte invece dal concetto di _service-based_, potremmo identificare una _cell_ come ulteriore scomposizione per facilitarne la manutenzione e la scalabilità.
 
 Altri termini, come la _event-driven architecture_ o la _event-sourcing architecture_ in realtà spesso si riferiscono ad un pattern di progettazione, ovvero un modo di progettare un sistema software, e non un'architettura software a tutti gli effetti. Il concetto di _event-driven_ viene infatti _affiancato_ più che _sostituito_ ad un'architettura software, come nel caso dei microservizi o del service-oriented.
 
