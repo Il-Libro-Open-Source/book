@@ -38,7 +38,6 @@ L'architettura software è un argomento molto vasto e complesso, ma possiamo ide
 
 In sostanza, l'architettura software fornisce un approccio strutturato alla costruzione di sistemi software complessi, garantendo che siano scalabili, manutenibili e in grado di soddisfare i requisiti e gli standard di qualità previsti. È una disciplina cruciale nell'ingegneria del software che aiuta gli sviluppatori a prendere decisioni informate e a creare software che resistano alla prova del tempo.
 
-
 ## Chi si occupa di architetture software?
 
 Chi si occupa di architettura del software è di solito una persona con una certa seniority nel campo dell'ingegneria del software, responsabile della progettazione e della supervisione della struttura di alto livello e della visione tecnica di un progetto o sistema software. Queste figure sono fondamentali per colmare il divario tra i requisiti concettuali di una soluzione software e la sua diretta implementazione. Il ruolo va oltre il codice: implica prendere decisioni strategiche sulla progettazione del sistema, garantire che sia in linea con gli obiettivi dell'organizzazione e ottimizzarlo per prestazioni, scalabilità e manutenibilità.
