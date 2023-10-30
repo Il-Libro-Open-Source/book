@@ -10,7 +10,7 @@ Ebbene si, essere un dev va oltre una singola e banale definizione: a tale doman
 
 Oppure si potrebbe dire che "_Essere dev significa essere persone altamente competenti nel campo informatico; figure prettamente tecniche e verticalizzate in uno o più linguaggi di programmazione_"...ma anche qui, **sarebbe come indossare un maglione troppo stretto**: dopo un po' pizzica.
 
-Potremmo continuare dicendo che "_Essere un dev significa essere un artigiano del mondo digital: un professionista in grado di trovare la soluzione ad uno specifico problema ed essere in grado di applicarla in un contesto digitale_".
+Potremmo continuare dicendo che "_Essere dev significa essere artigiani del mondo digital: un professionista in grado di trovare la soluzione ad uno specifico problema ed essere in grado di applicarla in un contesto digitale_".
 
 O ancora, volendola vedere sotto un punto di vista più etico: "_Essere dev significa abbracciare il movimento Open Source, apportando il proprio contributo senza pretendere nulla in cambio e contribuendo così a far crescere la community stessa, oltre che il proprio know-how_".
 
