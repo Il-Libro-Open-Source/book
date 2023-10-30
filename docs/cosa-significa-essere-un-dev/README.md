@@ -1,6 +1,6 @@
 # Cosa significa essere un dev
 
-_Cosa significa "essere un dev"?_
+_Cosa significa "essere dev"?_
 
 La domanda, di per sé, è piuttosto semplice.
 
