@@ -40,7 +40,7 @@ In sostanza, l'architettura software fornisce un approccio strutturato alla cost
 
 ## Chi si occupa di architetture software?
 
-Chi si occupa di architettura del software è di solito una persona con una certa seniority nel campo dell'ingegneria del software, responsabile della progettazione e della supervisione della struttura di alto livello e della visione tecnica di un progetto o sistema software. Queste figure sono fondamentali per colmare il divario tra i requisiti concettuali di una soluzione software e la sua diretta implementazione. Il ruolo va oltre il codice: implica prendere decisioni strategiche sulla progettazione del sistema, garantire che sia in linea con gli obiettivi dell'organizzazione e ottimizzarlo per prestazioni, scalabilità e manutenibilità.
+Chi si occupa di architettura del software è di solito una persona con una certa seniority nel campo dell'ingegneria del software, responsabile della progettazione e della supervisione della struttura di alto livello e della visione tecnica di un progetto o sistema software. Queste figure sono fondamentali per colmare il divario tra i requisiti concettuali di una soluzione software e la sua diretta implementazione. Il ruolo va oltre il codice: implica prendere decisioni strategiche sulla progettazione del sistema, garantire che sia in linea con gli obiettivi dell'organizzazione e ottimizzarlo in base ai vincoli prestabiliti.
 
 Di seguito le caratteristiche chiave che chi ricopre questo ruolo dovrebbe avere:
 
