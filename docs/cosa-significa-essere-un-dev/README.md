@@ -6,7 +6,7 @@ La domanda, di per sé, è piuttosto semplice.
 
 Non si può dire però altrettanto per la risposta... o, per meglio dire, le risposte.
 
-Ebbene si, essere un dev va oltre una singola e banale definizione: a tale domanda si potrebbe rispondere con un "_Essere un dev significa ricoprire una figura professionale dedita alla stesura del codice e con il fine ultimo di creare prodotti digitali_"... ma sarebbe riduttivo.
+Ebbene si, essere dev va oltre una singola e banale definizione: a tale domanda si potrebbe rispondere "_Essere dev significa ricoprire una figura professionale dedita alla stesura del codice e con il fine ultimo di creare prodotti digitali_"... ma sarebbe riduttivo.
 
 Oppure si potrebbe dire che "_Essere dev significa essere persone altamente competenti nel campo informatico; figure prettamente tecniche e verticalizzate in uno o più linguaggi di programmazione_"...ma anche qui, **sarebbe come indossare un maglione troppo stretto**: dopo un po' pizzica.
 
