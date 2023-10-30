@@ -49,7 +49,7 @@ Di seguito le caratteristiche chiave che chi ricopre questo ruolo dovrebbe avere
 - **Comunicazione**: una comunicazione efficace è fondamentale poiché le persone che ricoprono questo ruolo devono collaborare con team interfunzionali, parti interessate e con il team di sviluppo. Devono articolare la propria visione, le scelte progettuali e i concetti tecnici alle parti interessate non tecniche, facendo da ponte tra i due mondi.
 - **Leadership**: Queste figure spesso assumono ruoli di leadership, guidando i team di sviluppo, facendo da mentor a figure junior e garantendo che la visione architetturale venga seguita durante tutto il ciclo di vita del progetto.
 - **Design Thinking**: Le persone che ricoprono questo ruolo dovrebbero possedere una mentalità orientata al design, concentrandosi sulla creazione di soluzioni eleganti ed efficienti. Ciò include la progettazione per scalabilità, prestazioni, sicurezza ed esperienza utente.
-- **Conoscenza del business**: comprendere gli obiettivi aziendali e i vincoli del progetto o prodotto è fondamentale. Queste figure devono allineare le loro decisioni tecniche con gli obiettivi strategici dell'organizzazione.
+- **Conoscenza del business**: comprendere il contesto di business aziendale e gli obiettivi che l'azienda si è posta di raggiungere. Queste figure devono allineare le loro decisioni tecniche con gli obiettivi strategici dell'organizzazione.
 - **Adattabilità**: il panorama del software è in continua evoluzione. La figura dovrebbe essere aperta e adattarsi a nuove tecnologie e metodologie, nonché capace di rivalutare e riadattare l'architettura quando necessario.
 
 ## Ma quindi chi si occupa di architetture software deve essere necessariamente senior?
