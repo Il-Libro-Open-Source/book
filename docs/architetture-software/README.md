@@ -24,7 +24,7 @@ Inoltre, l'architettura del software può influenzare la strategia e gli obietti
 
 In sintesi, l'architettura software non è solo un dettaglio tecnico ma un potente strumento in grado di plasmare la cultura dell'organizzazione. Quando è progettato tenendo conto della collaborazione, della comunicazione e dell'allineamento con gli obiettivi aziendali, può promuovere una cultura del lavoro di squadra, dell'adattabilità e dell'innovazione all'interno dell'organizzazione, contribuendo in definitiva al successo dei progetti di sviluppo software e dell'azienda nel suo insieme.
 
-## Punti chiave dell'architettura software
+## I diversi aspetti dell'architettura software
 
 L'architettura software è un argomento molto vasto e complesso, ma possiamo identificare alcuni punti chiave che si applicano nella maggior parte dei casi:
 
