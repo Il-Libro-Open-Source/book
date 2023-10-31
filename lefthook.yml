@@ -3,7 +3,7 @@ pre-commit:
   commands:
     prettier:
       glob: "*.md"
-      run: npm run format:write {staged_files}
+      run: npm run format:write:automation {staged_files}
 commit-msg:
   scripts:
     "commitlint.sh":
