@@ -1,5 +1,3 @@
-# Testing
-
 Il testing è una parte fondamentale di ogni progetto software. In questo capitolo vedremo come testare il nostro codice in modo efficace.
 
 ## Piramide del testing
