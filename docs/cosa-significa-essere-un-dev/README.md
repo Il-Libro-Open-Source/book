@@ -88,7 +88,7 @@ Con il tempo, magari collaborando ad un progetto Open Source o lavorando in qual
 
 Scenario ben diverso da ciò che magari sei stato abituato a fare fino a quel momento; d'altro canto, un conto è scrivere codice in solitudine per un progetto a cui stiamo lavorando, e un conto è scrivere codice collaborativo con un numero indefinito di altre persone, tutte con lo stesso obiettivo.
 
-In queste circostante, ciò che solitamente fa la differenza è lo spirito con cui si affrontano queste situazioni; partire prevenuti non serve a niente, e anzi il più delle volte potrebbe addirittura risultare controproducente; ha molto più senso invece partire dall'assunto che **ognuno di noi può insegnarci qualcosa**, e dunque, **possiamo sempre imparare qualcosa, anche da chi è meno esperto di noi**.
+In queste circostanze, ciò che solitamente fa la differenza è lo spirito con cui si affrontano queste situazioni; partire prevenuti non serve a niente, e anzi il più delle volte potrebbe addirittura risultare controproducente; ha molto più senso invece partire dall'assunto che **ognuno di noi può insegnarci qualcosa**, e dunque, **possiamo sempre imparare qualcosa, anche da chi è meno esperto di noi**.
 
 Adottare un atteggiamento del genere significa abbracciare l'idea di poter apprendere sempre qualcosa, indipendentemente dal nostro grado di conoscenza o da chi abbiamo davanti...significa **lasciarsi contaminare**.
 
