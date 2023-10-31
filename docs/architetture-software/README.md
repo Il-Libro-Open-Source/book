@@ -111,7 +111,7 @@ Ad ogni architettura software è associato un elenco contenente i punti chiave c
 - **Sviluppo e manutenzione**: La facilità con il quale è possibile effettuare modifiche e manutenzione al software. Per semplicità, anche l'aspetto del testing viene incluso in questo punto.
 - **Tracciabilità**: La facilità con la quale è possibile individuare problemi o bug all'interno del software.
 - **Scalabilità**: La facilità con la quale è possibile scalare il software, ovvero la capacità di gestire un carico di lavoro maggiore. Questo punto non fa riferimento alla scalabilità orizzontale o a quella verticale e non tiene conto dei costi, quanto dell'impegno tecnico necessario per scalare il software.
-- **Performance**: La velocità con la quale il software è in grado di elaborare i dati e restituire una risposta o rispondere ad un'esigenza.
+- **Performance**: La velocità con la quale il software è in grado di elaborare i dati per rispondere ad un'esigenza di business.
 
 Questi punti chiave sono da intendersi come una valutazione soggettiva, in quanto ogni architettura software può essere implementata in modi diversi, con conseguenze diverse, valutando criteri e parametri differenti in base alle proprie necessità e, pur essendo un elenco piuttosto esaustivo, mix di queste architetture hanno dimostrato di essere vincenti in molti casi, anche a discapito di quanto riportato qui sopra.
 
