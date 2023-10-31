@@ -106,7 +106,7 @@ Esistono diverse architetture software, ognuna con i suoi pro e i suoi contro. Q
 
 Ad ogni architettura software è associato un elenco contenente i punti chiave che seguono:
 
-- **Start-up**: Il tempo necessario per implementare questa architettura software e cominciare a sviluppare funzionalità. Potremmo anche definirla come la _time to market_.
+- **Start-up**: Il tempo necessario per definire l'architettura software e cominciare a sviluppare funzionalità. Tale tempo non è da sottovalutare poiché potrebbe richiede, in base al contesto aziendale, una serie di procedure che possono essere automatizzate da tools come le `platform engineering tools`.
 - **Costi**: Il costo che si affronta nell'arco della vita di un progetto o un prodotto che implementi questa architettura.
 - **Sviluppo e manutenzione**: La facilità con il quale è possibile effettuare modifiche e manutenzione al software. Per semplicità, anche l'aspetto del testing viene incluso in questo punto.
 - **Tracciabilità**: La facilità con la quale è possibile individuare problemi o bug all'interno del software.
