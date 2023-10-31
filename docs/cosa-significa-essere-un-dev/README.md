@@ -76,7 +76,7 @@ Forte di questa consapevolezza, prendi coraggio e sii empatico: pubblica, ovunqu
 
 Ciò che vogliamo trasmetterti è la propensione ad adottare uno spirito di condivisione: oltre ad essere il cuore pulsante del movimento Open Source, e quindi del libro che stai leggendo, è anche un principio nobile e al contempo stesso utile; qualora non ne comprenderai subito il senso ed il potenziale, o magari ti sembrerà una perdita di tempo, tieni a mente quanto segue: arriverà il giorno in cui ringrazierai chi, prima di te, ha seguito il nostro consiglio.
 
-Fidati di noi: fidati di chi, prima di te, è stato aiutato e che oggi è qui a condividere il suo sapere con te.
+Fidati di chi, prima di te, è stato aiutato e che oggi è qui a condividere il suo sapere.
 
 ## La contaminazione: fare squadra nel modo giusto
 
