@@ -1,5 +1,3 @@
-#Aziende di consulenza vs prodotto
-
 ## Obiettivo del capitolo
 
 TODO: Spiegare perché è importante per la propria carriera sapere le differenze tra un'azienda di consulenza ed una di prodotto.
