@@ -4,7 +4,7 @@ La domanda, di per sé, è piuttosto semplice.
 
 Non si può dire però altrettanto per la risposta... o, per meglio dire, le risposte.
 
-Ebbene sì, essere dev va oltre una singola e banale definizione: a tale domanda si potrebbe rispondere "_Essere dev significa ricoprire una figura professionale dedita alla stesura del codice e con il fine ultimo di creare prodotti digitali_"... ma sarebbe riduttivo.
+Ebbene sì, essere dev va oltre una singola e banale definizione: a tale domanda si potrebbe rispondere "_Essere dev significa svolgere una professione dedita alla stesura del codice e con il fine ultimo di creare prodotti digitali_"... ma sarebbe riduttivo.
 
 Oppure si potrebbe dire che "_Essere dev significa essere persone altamente competenti nel campo informatico; figure prettamente tecniche e verticalizzate in uno o più linguaggi di programmazione_"...ma anche qui, **sarebbe come indossare un maglione troppo stretto**: dopo un po' pizzica.
 
@@ -22,7 +22,7 @@ Caratteristiche che nulla hanno a che fare con la scrittura del codice, né pres
 
 Decidere di "diventare dev" significa scegliere di "sacrificare" parte del proprio tempo al fine di raggiungere un obiettivo; non sarà un percorso facile, tantomeno breve; ci saranno momenti di eccitazione, ma anche di sconforto; ci saranno giorni in cui tutto sembrerà andare per il verso giusto, ed altri in cui ogni nostra singola attività verrà minata dalle difficoltà che ci si pareranno davanti; ci saranno concetti che domeremo con estrema facilità, ed altri in cui ne usciremo sconfitti e con la coda tra le gambe.
 
-Fa tutto parte del gioco: _abbraccialo, comprendilo e fallo tuo_; magari non oggi e forse nemmeno domani, ma arriverà il momento in cui riuscirai dove prima hai fallito.
+Fa tutto parte del gioco: _abbraccialo, comprendilo, e fallo tuo_; magari non oggi e forse nemmeno domani, ma arriverà il momento in cui riuscirai dove prima hai fallito.
 
 Solitamente, quando ci appassioniamo a qualcosa tendiamo a dedicare molto del nostro tempo a quella specifica attività; la coltiviamo negli anni prendendocene cura, approfondendo ogni aspetto e cercando di scoprire ogni singola caratteristica che possiede...in buona sostanza: _la rendiamo nostra_.
 
@@ -52,7 +52,7 @@ Le informazioni presenti in rete però, per quanto siano molteplici e liberament
 
 A questo punto, a te che leggi, avrai capito dove vogliamo andare a parare: ciò che non deve mai mancare in te è la curiosità!
 
-Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, prona all'apprendimento e alla crescita professionale; fintanto che questa scintilla resterà accesa, non avrai limiti nell'apprendimento: anche qui, l'unico limite che avrai, _sarai tu_.
+Essa sarà la scintilla in grado di innescare in te una forma mentis vincente, prona all'apprendimento e alla crescita professionale; fintanto che questa scintilla continuerà a scattare, non avrai limiti nell'apprendimento: anche qui, l'unico limite che avrai, _sarai tu_.
 
 ## L'empatia: la capacità di impersonare il prossimo
 
