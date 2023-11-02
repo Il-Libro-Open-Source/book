@@ -54,7 +54,7 @@ Spesso realizzare questi test è più complesso perché bisogna prima avere idea
 
 ### End-to-end test
 
-Il test end-to-end (E2E) è una metodologia di test del software che si concentra sul test dell'intero sistema software dall'inizio alla fine, simulando scenari del mondo reale e interazioni dell'utente. Ha lo scopo di garantire che il sistema funzioni correttamente nel suo insieme e soddisfi i requisiti aziendali desiderati.
+Il test end-to-end (E2E) è una metodologia di test del software che si concentra sul test dell'intero sistema software dall'inizio alla fine, simulando scenari del mondo reale e interazioni dell'utente. Ha lo scopo di garantire che il sistema funzioni correttamente nel suo insieme e soddisfi i requisiti aziendali desiderati. A differenza degli altri tipi di test, fin ora trattati, qui il test interagisce con l'appricativo __solo__ attraverso le interfacce più esterne (Browser o Api).
 
 E qui sta il punto. I requisiti sono essenzialmente aziendali e non tecnici.
 
@@ -109,10 +109,35 @@ Il continuous testing è una metodologia di testing in cui i test vengono esegui
 ### Test-driven development
 
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
+La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare. 
+
+Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD è semplice ma potente:
+
+1. Scrivi un Test: Inizia scrivendo un test che descriva il comportamento che desideri implementare. Questo test inizierà sicuramente come un test fallito, poiché il codice non esiste ancora.
+
+2. Scrivi il Codice Minimale: Scrivi il codice minimo necessario per far passare il test. In questa fase, non preoccuparti troppo della qualità del codice; l'obiettivo è far passare il test.
+
+3. Rifattorizza il Codice: Ora che il test è passato, puoi iniziare a migliorare la qualità del tuo codice. Rimuovi duplicazioni, migliora la leggibilità e assicurati che il codice sia pulito e ben strutturato.
 
 ### Behavior-driven development
 
-Il behavior-driven development (BDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice, ma con un approccio più orientato al comportamento dell'applicazione.
+Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior conprensione delli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
+
+Questo tipo di test vengono scritti con un linguaggio chiamato gherkins, composto da Feature e vari scenari, composti da una fase di creazione delle precondizioni (Given), una parte di azione sotto test (When) ed in fine una condizione da verificare (Then).
+
+```
+Feature: Google Searching
+  As a web surfer, I want to search Google, so that I can learn new things.
+  
+  Scenario: Simple Google search
+    Given a web browser is on the Google page
+    When the search phrase "panda" is entered
+    Then results for "panda" are shown
+```
+
+Un altro vantaggio, del TDD è che crea una documentazione tecnica. Guardando la destrizione dei test , si capisce come deve comportarsi l'applicazione.
+
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
 ## Test Coverage
 
