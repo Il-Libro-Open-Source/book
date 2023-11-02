@@ -121,9 +121,15 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 
 ### Behavior-driven development
 
-Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior conprensione delli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
+Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione delli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
 
-Questo tipo di test vengono scritti con un linguaggio chiamato gherkins, composto da Feature e vari scenari, composti da una fase di creazione delle precondizioni (Given), una parte di azione sotto test (When) ed in fine una condizione da verificare (Then).
+Questo tipo di test vengono scritti con un linguaggio chiamato gherkins, composto da Feature e vari scenari. Ogni scenario è composto da:
+
+1. Given: una fase di creazione delle precondizioni
+2. When: un'azione sotto test
+3. Then:  una condizione da verificare.
+
+Un esmpio che descrive una semplice ricerca su Google
 
 ```
 Feature: Google Searching
@@ -137,7 +143,7 @@ Feature: Google Searching
 
 Un altro vantaggio, del TDD è che crea una documentazione tecnica. Guardando la destrizione dei test , si capisce come deve comportarsi l'applicazione.
 
-Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoler, qeusti esercizi vengono spesso usati in fase di colloghio.
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
 ## Test Coverage
 
