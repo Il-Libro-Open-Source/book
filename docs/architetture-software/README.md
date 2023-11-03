@@ -140,7 +140,7 @@ In questa architettura il database, il back-end e il front-end sono tutti parte 
 
 Il monolite modulare è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto, ma con la differenza che il codice è organizzato in moduli. Questi moduli possono essere sviluppati e distribuiti in maniera indipendente, ma sono comunque parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
 
-I moduli devono essere quanto possibile indipendenti tra di loro, il che affianca questa tipologia al concetto di _architettura esagonale_, tanto che a volte i due termini vengono usati indistintamente per intendere lo stesso concetto. La forza di questa architettura è comunque la possibilità, seppur da tenere sotto controllo, di far comunicare tra di loro i moduli.
+I moduli devono essere quanto possibile indipendenti tra di loro in modo da avere una suddivisione delle funzionalità segregata. La forza di questa architettura è comunque la possibilità, seppur da tenere sotto controllo, di far comunicare tra di loro i moduli tramite delle interfacce pubbliche.
 
 Da non confondersi con altre architetture, in questo caso i moduli sono parte dello stesso processo o applicativo, rendendo necessaria la _scalabilità verticale_.
 
