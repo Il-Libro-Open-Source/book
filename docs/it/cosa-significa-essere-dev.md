@@ -1,4 +1,4 @@
-_Cosa significa "essere dev"?_
+# _Cosa significa "essere dev"?_
 
 La domanda, di per sé, è piuttosto semplice.
 
