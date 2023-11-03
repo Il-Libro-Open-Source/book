@@ -9,7 +9,7 @@
 
 In questo capitolo affronteremo il tema dell'età nel mondo IT, un tema che spesso viene sottovalutato ma che è molto importante per chi lavora in questo settore e che spesso si trova a dover fare i conti con la propria età chiedendosi se è ancora competitivo sul mercato del lavoro, se è ancora in grado di stare al passo con le nuove tecnologie o se invece è costretto a districarsi tra ruoli manageriali e non più tecnici.
 
-E' opportuno precisare che l'obiettivo di questo capitolo non è di certo dare delle certezze assolute o percorsi di carriera uguali per tutti, in quanto ogni persona è unica e diversa in termini di passioni, ambizioni e attitudini. Faremo comunque delle considerazioni che potranno aiutarti a compredere come vuoi vivere la tua carriera dopo molti anni di esperienza e riflettere sulle implicazioni che potrebbero comportare alcune scelte.
+E' opportuno precisare che l'obiettivo di questo capitolo non è di certo dare delle certezze assolute o percorsi di carriera uguali per tutti, in quanto ogni persona è unica e diversa in termini di passioni, ambizioni e attitudini. Faremo infatti delle considerazioni personali che potranno aiutarti a compredere come vuoi vivere la tua carriera dopo molti anni di esperienza e riflettere sulle implicazioni che potrebbero comportare alcune scelte.
 
 # Posso continuare ad essere dev, oppure devo diventare manager?
 
