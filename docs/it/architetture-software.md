@@ -50,7 +50,6 @@ Di seguito le caratteristiche chiave che chi ricopre questo ruolo dovrebbe avere
 - **Conoscenza del business**: comprendere il contesto di business aziendale e gli obiettivi che l'azienda si è posta di raggiungere. Queste figure devono allineare le loro decisioni tecniche con gli obiettivi strategici dell'organizzazione.
 - **Adattabilità**: il panorama del software è in continua evoluzione. La figura dovrebbe essere aperta e adattarsi a nuove tecnologie e metodologie, nonché capace di rivalutare e riadattare l'architettura quando necessario.
 
-
 Sebbene sia vero che il ruolo viene ricoperto da persone con una certa esperienza, non è detto che una figura junior non possa occuparsi di architetture software. Anzi, è molto importante che lo faccia, in quanto è un ottimo modo per imparare e crescere, ma il consiglio è di affiancare sempre una figura senior che possa guidare e supportare la persona junior.
 
 ## Misurare la bontà di un'architettura
