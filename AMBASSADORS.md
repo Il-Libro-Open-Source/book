@@ -11,5 +11,5 @@
 # Come si diventa Ambassador?
 
 1. È presente una [discussione ad hoc](https://github.com/Il-Libro-Open-Source/book/discussions/5) che resterà sempre aperta permettendo a chiunque di candidarsi per un posto tra gli Ambassadors.
-2. Ogni _X_ settimane, numero che stabiliremo assieme in seguito, i candidati di quel periodo e quelli precedentemente non eletti verranno votati in apposite survey per riempire i posti aperti in quello specifico momento. I candidati verranno nominati Ambassador a partire dal candidato con il maggior numero di punti fino ad esaurimento posti disponibili alla fine degli _Y_ giorni stabiliti assieme per considerare chiuso il processo di nomina.
+2. A periodi non ancora definiti, i candidati verranno votati in apposite survey per riempire i posti aperti in quello specifico momento. I candidati verranno nominati Ambassador a partire dal candidato con il maggior numero di punti fino ad esaurimento posti disponibili alla fine dei giorni stabiliti assieme per considerare chiuso il processo di nomina.
 3. Una volta nominato, un ambassador diventerà effettivo nel tempo pratico necessario agli owner del progetto di nominarlo, quindi da una manciata di ore a qualche giorno in base alla disponibilità.
