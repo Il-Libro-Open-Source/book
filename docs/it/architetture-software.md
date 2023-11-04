@@ -18,7 +18,7 @@ In altre parole, l'architettura software è l'insieme di tutte le decisioni pres
 
 ## Il contesto aziendale
 
-Chi si occupa di architetture software non può vivere in una bolla e non può esulare dal contesto aziendale nel quale si trova, in quanto, uno sviluppo/progetto si inserisce in un contesto aziendale che deve essere tenuto in conto per una più facile integrazione.
+Chi si occupa di architetture software non può vivere in una bolla e non può esulare dal contesto aziendale nel quale si trova: ogni progetto si inserisce in un contesto aziendale che deve essere tenuto in conto in fase di progettazione per rendere l'implementazione più semplice.
 
 L'architettura software gioca un ruolo fondamentale nel plasmare non solo gli aspetti tecnici di un sistema software ma anche l'organizzazione e la cultura più ampia all'interno della quale viene sviluppato e mantenuto. Un'architettura software ben progettata può favorire una cultura organizzativa positiva in diversi modi. In primo luogo, può promuovere la collaborazione e la comunicazione tra i team di sviluppo fornendo un modello chiaro della struttura e dei componenti del sistema. Quando i membri del team hanno una comprensione condivisa dell'architettura, diventa più facile per loro lavorare insieme in modo efficace, allineare i propri sforzi e prendere decisioni informate, promuovendo una cultura del lavoro di squadra e della cooperazione.
 
