@@ -1,7 +1,5 @@
 # Architetture Software
 
-## Una doverosa premessa
-
 Il termine "architettura software" viene spesso utilizzato in maniera molto generica e impropria. In questo documento cercheremo di dare una definizione di architettura software e di descriverne le principali.
 
 Inoltre, cercheremo di dare una definizione di "chi si occupa di architetture software" e di descrivere il suo ruolo all'interno di un team di sviluppo.
