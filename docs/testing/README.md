@@ -54,7 +54,7 @@ Spesso realizzare questi test è più complesso perché bisogna prima avere idea
 
 ### End-to-end test
 
-Il test end-to-end (E2E) è una metodologia di test del software che si concentra sul test dell'intero sistema software dall'inizio alla fine, simulando scenari del mondo reale e interazioni dell'utente. Ha lo scopo di garantire che il sistema funzioni correttamente nel suo insieme e soddisfi i requisiti aziendali desiderati. A differenza degli altri tipi di test, fin ora trattati, qui il test interagisce con l'appricativo __solo__ attraverso le interfacce più esterne (Browser o Api).
+Il test end-to-end (E2E) è una metodologia di test del software che si concentra sul test dell'intero sistema software dall'inizio alla fine, simulando scenari del mondo reale e interazioni dell'utente. Ha lo scopo di garantire che il sistema funzioni correttamente nel suo insieme e soddisfi i requisiti aziendali desiderati. A differenza degli altri tipi di test, fin ora trattati, qui il test interagisce con l'applicativo __solo__ attraverso le interfacce più esterne (Browser o Api).
 
 E qui sta il punto. I requisiti sono essenzialmente aziendali e non tecnici.
 
@@ -111,7 +111,7 @@ Il continuous testing è una metodologia di testing in cui i test vengono esegui
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
 La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare. 
 
-Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD è semplice ma potente:
+Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD - Spesso chiamato _red-green-refactor_ - è semplice ma potente:
 
 1. Scrivi un Test: Inizia scrivendo un test che descriva il comportamento che desideri implementare. Questo test inizierà sicuramente come un test fallito, poiché il codice non esiste ancora.
 
@@ -121,15 +121,15 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 
 ### Behavior-driven development
 
-Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione delli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
+Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione degli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
 
-Questo tipo di test vengono scritti con un linguaggio chiamato gherkins, composto da Feature e vari scenari. Ogni scenario è composto da:
+Questo tipo di test viene scritto con un linguaggio chiamato _gherkins_, composto da Feature e vari scenari. Ogni scenario è composto da:
 
-1. Given: una fase di creazione delle precondizioni
-2. When: un'azione sotto test
-3. Then:  una condizione da verificare.
+1. Given: una fase di creazione delle pre-condizioni.
+2. When: un'azione sotto test.
+3. Then: una condizione da verificare.
 
-Un esmpio che descrive una semplice ricerca su Google
+Di seguito un esmpio che descrive una semplice ricerca su Google:
 
 ```
 Feature: Google Searching
@@ -141,7 +141,7 @@ Feature: Google Searching
     Then results for "panda" are shown
 ```
 
-Un altro vantaggio, del TDD è che crea una documentazione tecnica. Guardando la destrizione dei test , si capisce come deve comportarsi l'applicazione.
+Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
 
 Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
