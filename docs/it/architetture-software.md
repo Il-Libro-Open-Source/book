@@ -24,7 +24,7 @@ L'architettura software gioca un ruolo fondamentale nel plasmare non solo gli as
 
 Inoltre, l'architettura del software può seguire la strategia e gli obiettivi generali dell'organizzazione. Un'architettura ben ponderata può garantire che il sistema software sia allineato con gli obiettivi aziendali, rendendo più facile per l'organizzazione adattarsi alle mutevoli condizioni del mercato e alle esigenze dei clienti. Questo allineamento tra software e obiettivi aziendali può aiutare a promuovere una cultura di agilità e reattività, in cui l'organizzazione è più propensa ad abbracciare il cambiamento e l'innovazione.
 
-In sintesi, l'architettura software non è solo un dettaglio tecnico ma un potente strumento in grado di plasmare la cultura dell'organizzazione. Quando è progettato tenendo conto della collaborazione, della comunicazione e dell'allineamento con gli obiettivi aziendali, può promuovere una cultura del lavoro di squadra, dell'adattabilità e dell'innovazione all'interno dell'organizzazione, contribuendo in definitiva al successo dei progetti di sviluppo software e dell'azienda nel suo insieme.
+In sintesi, l'architettura software non è solo un dettaglio tecnico ma un potente strumento in grado di plasmare la cultura dell'organizzazione. Quando è progettata tenendo conto della collaborazione, della comunicazione e dell'allineamento con gli obiettivi aziendali, può promuovere una cultura del lavoro di squadra, dell'adattabilità e dell'innovazione all'interno dell'organizzazione, contribuendo in definitiva al successo dei progetti di sviluppo software e dell'azienda nel suo insieme.
 
 ## I diversi aspetti dell'architettura software
 
