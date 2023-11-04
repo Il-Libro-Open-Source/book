@@ -21,7 +21,7 @@ Ma torniamo al pianeta IT: se hai già letto il capitolo _Cosa significa "essere
 
 ## Pensare al "vero" obiettivo
 
-Ripetiamo: il lavoro del developer è (anche) risolvere problemi. Il nostro scopo non è, e non sarà sempre, trovare soluzioni accativanti, magari con le tecnologie del momento. Ed è questa la maturità che deve acquisire un developer negli anni e con l'esperienza. 
+Ripetiamo: il lavoro del developer è (anche) risolvere problemi. Il nostro scopo non è, e non sarà sempre, trovare soluzioni accativanti, magari con le tecnologie del momento. Ed è questa la maturità che deve acquisire un developer negli anni e con l'esperienza.
 
 Vogliamo evidenziare questo aspetto con un aneddoto riportato nel libro Clean Architecure di Robert C. Martin. Senza entrare troppo nei dettagli che puoi trovare nel libro, durante una sua esperienza lavorativa alla fine degli anni Ottanta, ha dovuto, per pura esigenza di marketing, impiegare un database relazionale in sistema di cui occupava. Ma per motivi ingegneristici lui affermava che non era assolutamente necessario avere un database in quel sistema, che raggiungeva appieno il suo scopo così com'era, ma il mercato di quel perido voleva i databasa nei sistemi, e l'azienda "accontentò" il mercato. Dal canto suo, Martin era focalizzato sull'obiettivo igegneristoco reale, e crediamo che debba essere questa una compentenza di un developer.
 
@@ -31,11 +31,10 @@ Al di là dei vantaggi (e svantaggi) di questa architettura, sembra che non se n
 I due esempi, sono diversi in termini di situazione e tempi, ma ci fanno comprendere una cosa: il nostro lavoro è cercare il modo migliore di raggiungere l'obiettivo ingegneristico che aiuta al business, e non le mode del momento.
 
 Se sei un developer che sa cosa da valore nelle scelte che dobbiamo fare, perché preoccuparsi se l'età avanza?
- 
 
 ## Diventare manager
 
-Facciamo una  breve considerazione sul diventare manager in modo da giungere alle dovute riflessioni che potranno esserti utile quando un giorno dovrai fare questa scelta. Per manager intendiamo, per semplicità e senza andare troppo nel dettaglio, quei ruoli che non sono coinvolti nelle decisoni e operativi per quanto concerne l'aspetto tecnico, ma sostanzialmente incentrati nella gestione di alto livello dei progetti e dei team.
+Facciamo una breve considerazione sul diventare manager in modo da giungere alle dovute riflessioni che potranno esserti utile quando un giorno dovrai fare questa scelta. Per manager intendiamo, per semplicità e senza andare troppo nel dettaglio, quei ruoli che non sono coinvolti nelle decisoni e operativi per quanto concerne l'aspetto tecnico, ma sostanzialmente incentrati nella gestione di alto livello dei progetti e dei team.
 Abbiamo constatato che è possibile rimanere dev anche con l'avanzare dell'età, ma molto spesso diventare manager sembra quasi l'unico modo per fare carriera. Ci sono realtà aziendali che hanno una gerarchia tale per cui chi fa sviluppo sembra essere giunto ad un primo step della carriera, una specie di base dalla quale poter avanzare, prima o poi, abbandonando la via del codice. Noi ci auguriamo che questo non sia il tuo caso, ma può capiare che il contesto lavorativo in cui ci si trova influenzi il modo di percepire la carriera e di conseguenza le nostre scelte, perché vediamo un'unica strada davanti a noi. Questo potrebbe far pensare che non raggiungere un ruolo manageriale dopo molti anni di esperienza equivalga a un fallimento nella tua carriera, sentendoti inadeguato sul mercato. Per evitare ciò, si diventa manager per raggiungere una sorta di traguardo professionale e, perchè no, anche salariale.
 
 Caro lettore, vogliamo dirti che non è così: se in te c'è passione per lo sviluppo non sei costretto a intrapendere percorsi manageriali. La programmazione offre davvero tane sfide e soddisfazioni che puoi trovare in contesti diversi in cui forse ti trovi attualmente. Continua a studiare, ad approfondire e confrontati con altre persone con la nostra stessa passione dove puoi scoprire che c'è un mondo del lavoro per i developers molto stimolante. E se realizzi che ti trovi nel contesto non adatto a te, cerca realtà aziendali dove ci sono percorsi alternativi, che ti permetteranno di crescere tecnicamente e di continuare a crescere.
@@ -43,6 +42,7 @@ Caro lettore, vogliamo dirti che non è così: se in te c'è passione per lo svi
 Concludiamo questa sezione dicendoti che non vogliamo convincerti a non diventare manager. Ci sono tante sfide in questo ruolo che sicuramente dà molte soddisfazioni. Diventa manager, abbandonando pure la parte tecnica e il codice, se ti rivedi in questa figura, se questo ruolo ti appassiona e sei convinto di questa decisione. Siamo certi che se intraprendi questo percorso con decisione e passione potrai diventare un manager con il quale tutti i devs avranno piacere di collaborare.
 
 # Ruoli tecnici sfidanti
+
 TODO Sezione per rispondere alla domanda: Quali sono i percorsi alternativi che permettono di essere sempre in prima linea sull'aspetto tecnico?
 L'idea è di parlare di qualche ruolo tecnico oltre il senior dev. Per esempio: Team Leader, Solution Architect, Staff Engineriing, forse il cto?
 
