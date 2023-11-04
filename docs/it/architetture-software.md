@@ -14,7 +14,7 @@ Wikipedia ci dà uno spunto di partenza:
 
 > L'architettura software è l'insieme delle strutture necessarie per ragionare su un sistema software e la disciplina per creare tali strutture e sistemi. Ogni struttura comprende elementi software, relazioni tra loro e proprietà di entrambi gli elementi e delle relazioni.
 
-In parole povere, l'architettura software è l'insieme di tutte le decisioni prese durante la progettazione di un sistema software.
+In altre parole, l'architettura software è l'insieme di tutte le decisioni prese durante la progettazione di un sistema software.
 
 ## Il contesto aziendale
 
