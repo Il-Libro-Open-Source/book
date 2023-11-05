@@ -1,4 +1,4 @@
 ## Indice del libro
 
-- [Capitolo di esempio](index.md)
-  - [Paragrafo di esempio](index.md)
+- [Introduzione](./it/introduzione.md)
+- [Cosa significa essere Dev](./it/cosa-significa-essere-dev.md)
