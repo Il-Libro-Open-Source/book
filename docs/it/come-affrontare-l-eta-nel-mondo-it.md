@@ -28,7 +28,7 @@ Vogliamo evidenziare questo aspetto con un aneddoto riportato nel libro Clean Ar
 Facciamo un esempio più recente: i microservizi. Chissà in quanti annunci di lavoro li avrai visti in questi ultimi anni.
 Al di là dei vantaggi (e svantaggi) di questa architettura, sembra che non se ne possa più fare a meno, la panacea di tutti i mali. Ma nel marzo 2023, il team di Prime Video ha pubblicato un post sul proprio blog, indicando che con il passaggio da un'architettura distribuita a microservizi a un'architettura monolitica ha ridotto i costi infrastrutturali di oltre il 90%. Il team di Prime Video si è focalizzato su un obiettivo preciso: ottimizzare i costi. E ci sono riusciti con una soluzione tanto semplice quanto _classica_, il monolite.
 
-I due esempi, sono diversi in termini di situazione e tempi, ma ci fanno comprendere una cosa: il nostro lavoro è cercare il modo migliore di raggiungere l'obiettivo ingegneristico che aiuta al business, e non le mode del momento.
+I due esempi sono diversi in termini di situazione e tempi, ma ci fanno comprendere una cosa: il nostro lavoro è cercare il modo migliore di raggiungere l'obiettivo ingegneristico che aiuti al business, a prescindere dalle mode del momento.
 
 Se sei un developer che sa cosa da valore nelle scelte che dobbiamo fare, perché preoccuparsi se l'età avanza?
 
