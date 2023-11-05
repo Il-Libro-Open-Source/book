@@ -30,7 +30,7 @@ Al di là dei vantaggi (e svantaggi) di questa architettura, sembra che non se n
 
 I due esempi sono diversi in termini di situazione e tempi, ma ci fanno comprendere una cosa: il nostro lavoro è cercare il modo migliore di raggiungere l'obiettivo ingegneristico che aiuti al business, a prescindere dalle mode del momento.
 
-Se sei un developer che sa cosa da valore nelle scelte che dobbiamo fare, perché preoccuparsi se l'età avanza?
+Se sei un developer che sa cosa dia valore nelle scelte che dobbiamo fare, perché preoccuparsi se l'età avanza?
 
 ## Diventare manager
 
