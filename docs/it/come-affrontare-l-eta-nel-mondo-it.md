@@ -39,7 +39,7 @@ Abbiamo constatato che è possibile rimanere dev anche con l'avanzare dell'età,
 
 Caro lettore, vogliamo dirti che non è così: se in te c'è passione per lo sviluppo non sei costretto a intrapendere percorsi manageriali. La programmazione offre davvero tane sfide e soddisfazioni che puoi trovare in contesti diversi in cui forse ti trovi attualmente. Continua a studiare, ad approfondire e confrontati con altre persone con la nostra stessa passione dove puoi scoprire che c'è un mondo del lavoro per i developers molto stimolante. E se realizzi che ti trovi nel contesto non adatto a te, cerca realtà aziendali dove ci sono percorsi alternativi, che ti permetteranno di crescere tecnicamente e di continuare a crescere.
 
-Concludiamo questa sezione dicendoti che non vogliamo convincerti a non diventare manager. Ci sono tante sfide in questo ruolo che sicuramente dà molte soddisfazioni. Diventa manager, abbandonando pure la parte tecnica e il codice, se ti rivedi in questa figura, se questo ruolo ti appassiona e sei convinto di questa decisione. Siamo certi che se intraprendi questo percorso con decisione e passione potrai diventare un manager con il quale tutti i devs avranno piacere di collaborare.
+Concludiamo questa sezione dicendoti che non vogliamo convincerti a non diventare manager. Ci sono tante sfide in questo ruolo che sicuramente ti darebbero molte soddisfazioni. Diventa manager, abbandonando pure la parte tecnica e il codice, se ti rivedi in questa figura, se questo ruolo ti appassiona e sei convinto di questa decisione. Siamo certi che se intraprenderai questo percorso con decisione e passione potrai diventare un manager con il quale tutti avranno piacere di collaborare.
 
 # Ruoli tecnici sfidanti
 
