@@ -9,7 +9,7 @@ Sulla base di questo un Ambassador è:
 2. Una persona che fa parte di un working group - in questo caso il contributo che porta al progetto non riguarda i contenuti ma altri compiti comunque importanti a livello gestionale.
 3. Una persona che svolge entrambe le funzioni di cui ai punti 1 e 2.
 
-Va ribadito che il fatto di "seguire le guideline" è conditio sine qua non, si applica quindi a tutti i casi 1 2 e 3, senza bisogno di essere nelle definizioni stesse.
+Va ribadito che il fatto di "seguire le linee guida" è conditio sine qua non, si applica quindi a tutti i casi 1 2 e 3, senza bisogno di essere nelle definizioni stesse.
 
 NOTA: Il title "Ambassador" è in fase di valutazione; dal momento che stiamo valutando diversi tipi di contribuzione, può darsi che il termine "Ambassador" possa essere tramutato in "Maintainer", ed affiancato ai ruoli di Ambassador propriamente detti, "Friends" e "Contributors".
 Il team Governance si preoccuperà di dare aggiornamenti a riguardo.
