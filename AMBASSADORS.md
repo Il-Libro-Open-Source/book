@@ -1,6 +1,6 @@
 # Cos'è un Ambassador?
 
-Importante partire dal "Why" e dall'outcome: avere il Libro Open Source.
+Importante partire dal "Perché" e dal risultato: avere il Libro Open Source.
 Nessuna delle decisioni che prendiamo ha alcun senso se il libro non viene scritto ed il progetto non va avanti.
 
 Sulla base di questo un Ambassador è:
