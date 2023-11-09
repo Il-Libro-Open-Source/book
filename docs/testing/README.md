@@ -109,7 +109,7 @@ Il continuous testing è una metodologia di testing in cui i test vengono esegui
 ### Test-driven development
 
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
-La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare. 
+La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare.
 
 Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD - Spesso chiamato _red-green-refactor_ - è semplice ma potente:
 
@@ -118,6 +118,10 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 2. Scrivi il Codice Minimale: Scrivi il codice minimo necessario per far passare il test. In questa fase, non preoccuparti troppo della qualità del codice; l'obiettivo è far passare il test.
 
 3. Rifattorizza il Codice: Ora che il test è passato, puoi iniziare a migliorare la qualità del tuo codice. Rimuovi duplicazioni, migliora la leggibilità e assicurati che il codice sia pulito e ben strutturato.
+
+Un altro vantaggio, del TDD è che crea una documentazione tecnica. Guardando la destrizione dei test, si capisce come deve comportarsi l'applicazione.
+
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
 ### Behavior-driven development
 
@@ -140,10 +144,6 @@ Feature: Google Searching
     When the search phrase "panda" is entered
     Then results for "panda" are shown
 ```
-
-Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
-
-Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
 ## Test Coverage
 
