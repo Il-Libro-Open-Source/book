@@ -119,6 +119,10 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 
 3. Rifattorizza il Codice: Ora che il test è passato, puoi iniziare a migliorare la qualità del tuo codice. Rimuovi duplicazioni, migliora la leggibilità e assicurati che il codice sia pulito e ben strutturato.
 
+Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
+
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
+
 ### Behavior-driven development
 
 Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione degli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
@@ -140,10 +144,6 @@ Feature: Google Searching
     When the search phrase "panda" is entered
     Then results for "panda" are shown
 ```
-
-Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
-
-Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
 ## Test Coverage
 
