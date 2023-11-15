@@ -56,7 +56,7 @@ Sebbene sia vero che il ruolo viene ricoperto da persone con una certa esperienz
 
 Il termine _fitness function_ viene spesso adottato quando si parla di architetture evolutive, ovvero architetture software il cui scopo è quello di evolvere nel tempo, adattandosi ai cambiamenti del business e del mercato. Possono essere assimilabili a delle metriche che permettono di valutare quanto un'architettura software sia adatta a raggiungere gli obiettivi prefissati o ad eventuali obiettivi futuri del business.
 
-Apiumhub nel 2020 ha pubblicato un post sul proprio blog in cui definisce questo concetto in maniera molto chiara:
+Apiumhub nel 2020 ha pubblicato un [post](https://apiumhub.com/tech-blog-barcelona/architectural-fitness-function) sul proprio blog in cui definisce questo concetto in maniera molto chiara:
 
 > La _fitness functions_ è un tipo di funzione obiettivo utilizzata per riassumere quanto una determinata soluzione di architettura software sia vicina al raggiungimento degli obiettivi prefissati. Nel definire un'architettura evolutiva, l'architetto del software cerca un algoritmo "migliore"; la funzione fitness definisce cosa significa "migliore" in questo contesto.
 
