@@ -115,6 +115,17 @@ Questi punti chiave sono da intendersi come una valutazione soggettiva, in quant
 
 I punti chiave sono espressi con dei voti che vanno da 1 a 5, dove 1 è il voto più basso e 5 il voto più alto. Per _alto_ si intende il valore migliore per il punto chiave in questione, mentre per _basso_ si intende il valore peggiore per il punto chiave in questione, ovvero il valore che si vorrebbe evitare. Nel caso di _costi_, ad esempio, un voto alto significa che i costi sono bassi, mentre un voto basso significa che i costi sono alti.
 
+Segue una tabella riepilogativa dei punti di forza e di debolezza di ogni architettura.
+
+|                             | **Monolite** | **Monolite modulare** | **Microkernel** | **Microservizi** | **Service-based** |
+|-----------------------------|--------------|-----------------------|-----------------|------------------|-------------------|
+| **Start-up**                |     ⭐️⭐️⭐️⭐️⭐️    |          ⭐️⭐️⭐️⭐️         |       ⭐️⭐️⭐️⭐️      |        ⭐️⭐️        |        ⭐️⭐️⭐️        |
+| **Costi**                   |      ⭐️⭐️⭐️     |          ⭐️⭐️⭐️          |       ⭐️⭐️⭐️       |       ⭐️⭐️⭐️⭐️       |        ⭐️⭐️⭐️⭐️       |
+| **Sviluppo e manutenzione** |     ⭐️⭐️⭐️⭐️     |         ⭐️⭐️⭐️⭐️⭐️         |       ⭐️⭐️⭐️⭐️      |        ⭐️⭐️        |        ⭐️⭐️⭐️        |
+| **Tracciabilità**           |     ⭐️⭐️⭐️⭐️     |           ⭐️⭐️          |       ⭐️⭐️⭐️       |        ⭐️⭐️⭐️       |        ⭐️⭐️⭐️⭐️       |
+| **Scalabilità**             |       ⭐️      |           ⭐️           |        ⭐️⭐️       |       ⭐️⭐️⭐️⭐️⭐️      |        ⭐️⭐️⭐️⭐️       |
+| **Performance**             |      ⭐️⭐️      |           ⭐️           |       ⭐️⭐️⭐️⭐️      |       ⭐️⭐️⭐️⭐️       |        ⭐️⭐️⭐️⭐️       |
+
 ### Monolite
 
 Il monolite è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto. È il tipo di architettura più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti, in quanto questi ultimi risiedono all'interno dello stesso processo.
