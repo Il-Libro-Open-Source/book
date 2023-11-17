@@ -45,23 +45,17 @@ Concludiamo questa sezione dicendoti che non vogliamo convincerti a non diventar
 
 In questa sezione rifletteremo brevemente su una domanda in apparenza semplice ma allo stesso tempo interessante: se desideriamo continuare a scrivere codice, è necessario rimanere developers per sempre?
 
-Probabilmente nella tua mente starai già pensando al tuo contesto aziendale o alle tue precedenti esperienze, cercando figure _ibride_ tra ruoli tecnici e manageriali: per citarne alcune ci sono figure come Team Leader, Tech Lead e Solution Architect a cui i developers fanno riferimento per ciò che riguarda decisioni più o meno delicate su aspetti tecnici. Come forse saprai, non è detto che queste figure, prese da altre responsabilità o coinvolte in altri processi più organizzativi,  riescano ancora effettivamente a scrivere codice. Ogni realtà solitamente ridefinisce questi ruoli, proiettandoli nei propri contesti. Per esempio, un team leder in una start-up che è poco strutturata è probabile che continui a sviluppare, rispetto a realtà più grandi e strutturate dove il team leader è più simile ad una figura manageriale. Ci sono, invece, realtà molto flessibili che danno la libertà ai propri team leader di gestirsi e decidere quanto addentrarsi negli aspetti tecnici.
+Probabilmente nella tua mente starai già pensando al tuo contesto aziendale o alle tue precedenti esperienze, cercando figure _ibride_ tra ruoli tecnici e manageriali: per citarne alcune ci sono figure come Team Leader, Tech Lead e Solution Architect a cui i developers fanno riferimento per ciò che riguarda decisioni più o meno delicate su aspetti tecnici. Come forse saprai, non è detto che queste figure, prese da altre responsabilità o coinvolte in altri processi più organizzativi, riescano ancora effettivamente a scrivere codice. Ogni realtà solitamente ridefinisce questi ruoli, proiettandoli nei propri contesti. Per esempio, un team leder in una start-up che è poco strutturata è probabile che continui a sviluppare, rispetto a realtà più grandi e strutturate dove il team leader è più simile ad una figura manageriale. Ci sono, invece, realtà molto flessibili che danno la libertà ai propri team leader di gestirsi e decidere quanto addentrarsi negli aspetti tecnici.
 
 Questi ruoli sono molto interessanti e sfidanti qualora fare _solo coding_ iniziasse a non bastarti. Se vuoi gestire un team e avere responsabiltà più importanti, sicuramente prima o poi potrai intrapendere uno di questi percorsi senza rinunciare del tutto all'aspetto tecnico.
 
 Al di là della tua scelta, ricorda che se vuoi essere un developer che aggiunge valore nonostante l'età, non è sufficiente che ti limiti al coding, cerca sempre di contribuire a ogni aspetto del progetto: sia che tu rivesta il ruolo di developer o di team leader, impegnati costantemente nel risolvere problemi e suggerire soluzioni ottimali, senza concentrarti sui limiti assegnati dai ruoli.
 Se sei ancora un junior, proponi soluzioni anche se non sei del tutto sicuro della loro correttezza. Non solo l'impegno nello studio e nell'approfondimento, ma anche trarre insegnamento dai propri errori rappresenta uno dei migliori modi per crescere.
-Così, dopo anni di esperienza, potrai mettere in campo molte conoscenze che figure più giovani del team probabilmente non avranno.  
+Così, dopo anni di esperienza, potrai mettere in campo molte conoscenze che figure più giovani del team probabilmente non avranno.
 
 Un developer che sa comunicare e sa trasmettere le proprie conoscenze ad altri, sarà sempre di grande valore per un team e avrà un'autorevolezza al suo interno a prescindere dal ruolo e soprattutto dall'età.
-
 
 ## Conclusioni
 
 In questo capitolo abbiamo parlato di come affrontare l'età nel mondo IT. Questo è sempre un tema delicato, e non riguarda solo il mondo IT, senza considerare che ci sono tanti fattori collegati ad esso: famiglia, figli, tempo che non basta mai per aggiornarsi e studiare, stanchezza ecc..
 Ma il nostro obiettivo era di darti modo di fare le tue considerazioni, con l'auspicio che ciò possa portarti a una maggiore chiarezza riguardo al tuo percorso professionale futuro, e che la passione, la volontà di dare sempre il tuo contributo e di condividere le tue esperienze con il team, possano continuare a farti a sviluppare con entusiasmo senza timore dell'età che avanza.
-
-
-
-
-
