@@ -41,7 +41,7 @@ Caro lettore, vogliamo dirti che non è così: se in te c'è passione per lo svi
 
 Concludiamo questa sezione dicendoti che non vogliamo convincerti a non diventare manager. Ci sono tante sfide in questo ruolo che sicuramente ti darebbero molte soddisfazioni. Diventa manager, abbandonando pure la parte tecnica e il codice, se ti rivedi in questa figura, se questo ruolo ti appassiona e sei convinto di questa decisione. Siamo certi che se intraprenderai questo percorso con decisione e passione potrai diventare un manager con il quale tutti avranno piacere di collaborare.
 
-## Non _solo_ developers
+## Non _solo_ developer
 
 In questa sezione rifletteremo brevemente su una domanda in apparenza semplice ma allo stesso tempo interessante: se desideriamo continuare a scrivere codice, è necessario rimanere developer per sempre?
 
