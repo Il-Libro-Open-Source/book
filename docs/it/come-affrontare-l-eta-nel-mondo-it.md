@@ -43,7 +43,7 @@ Concludiamo questa sezione dicendoti che non vogliamo convincerti a non diventar
 
 ## Non _solo_ developers
 
-In questa sezione rifletteremo brevemente su una domanda in apparenza semplice ma allo stesso tempo interessante: se desideriamo continuare a scrivere codice, è necessario rimanere developers per sempre?
+In questa sezione rifletteremo brevemente su una domanda in apparenza semplice ma allo stesso tempo interessante: se desideriamo continuare a scrivere codice, è necessario rimanere developer per sempre?
 
 Probabilmente nella tua mente starai già pensando al tuo contesto aziendale o alle tue precedenti esperienze, cercando figure _ibride_ tra ruoli tecnici e manageriali: per citarne alcune ci sono figure come Team Leader, Tech Lead e Solution Architect a cui i developers fanno riferimento per ciò che riguarda decisioni più o meno delicate su aspetti tecnici. Come forse saprai, non è detto che queste figure, prese da altre responsabilità o coinvolte in altri processi più organizzativi, riescano ancora effettivamente a scrivere codice. Ogni realtà solitamente ridefinisce questi ruoli, proiettandoli nei propri contesti. Per esempio, un team leder in una start-up che è poco strutturata è probabile che continui a sviluppare, rispetto a realtà più grandi e strutturate dove il team leader è più simile ad una figura manageriale. Ci sono, invece, realtà molto flessibili che danno la libertà ai propri team leader di gestirsi e decidere quanto addentrarsi negli aspetti tecnici.
 
