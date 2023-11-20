@@ -57,5 +57,5 @@ Un developer che sa comunicare e sa trasmettere le proprie conoscenze ad altri, 
 
 ## Conclusioni
 
-In questo capitolo abbiamo parlato di come affrontare l'età nel mondo IT. Questo è sempre un tema delicato, e non riguarda solo il mondo IT, senza considerare che ci sono tanti fattori collegati ad esso: famiglia, figli, tempo che non basta mai per aggiornarsi e studiare, stanchezza ecc..
+In questo capitolo abbiamo parlato di come affrontare l'età nel mondo IT. Questo è sempre un tema delicato, e non riguarda solo il mondo IT, senza considerare che ci sono tanti fattori collegati ad esso: famiglia, figli, tempo che non basta mai per aggiornarsi e studiare, stanchezza, ecc..
 Ma il nostro obiettivo era di darti modo di fare le tue considerazioni, con l'auspicio che ciò possa portarti a una maggiore chiarezza riguardo al tuo percorso professionale futuro, e che la passione, la volontà di dare sempre il tuo contributo e di condividere le tue esperienze con il team, possano continuare a farti a sviluppare con entusiasmo senza timore dell'età che avanza.
