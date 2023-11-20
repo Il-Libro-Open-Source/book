@@ -49,7 +49,7 @@ Probabilmente nella tua mente starai già pensando al tuo contesto aziendale o a
 
 Questi ruoli sono molto interessanti e sfidanti qualora fare _solo coding_ iniziasse a non bastarti. Se vuoi gestire un team e avere responsabilità differenti, sicuramente prima o poi potrai intraprendere uno di questi percorsi senza rinunciare del tutto all'aspetto tecnico.
 
-Al di là della tua scelta, ricorda che se vuoi essere un developer che aggiunge valore nonostante l'età, non è sufficiente che ti limiti al coding, cerca sempre di contribuire a ogni aspetto del progetto: sia che tu rivesta il ruolo di developer o di team leader, impegnati costantemente nel risolvere problemi e suggerire soluzioni ottimali, senza concentrarti sui limiti assegnati dai ruoli.
+Al di là della tua scelta, ricorda che se vuoi essere un developer che aggiunga valore nonostante l'età, non è sufficiente che ti limiti al coding, cerca sempre di contribuire a ogni aspetto del progetto: sia che tu rivesta il ruolo di developer o di team leader, impegnati costantemente nel risolvere problemi e suggerire soluzioni ottimali, senza concentrarti sui limiti assegnati dai ruoli.
 Se sei ancora junior, proponi soluzioni anche se non sei del tutto sicuro della loro correttezza. Non solo l'impegno nello studio e nell'approfondimento, ma anche e soprattutto trarre insegnamento dai propri errori è un ottimo modo per crscere.
 Così, dopo anni di esperienza, potrai mettere in campo molte conoscenze che figure più giovani del team probabilmente non avranno.
 
