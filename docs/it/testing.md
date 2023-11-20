@@ -153,4 +153,13 @@ La test coverage è una metrica che indica la percentuale di codice sorgente che
 
 ### Ping Pong TDD
 
-Tendenzialmente quando si fa Test Driven Development si è da soli davanti al proprio programma da completare e davanti alla propria tastiera. Esiste però una pratica che porta più persone a fare Test Driven Developement insieme. Questo è un modo molto coinvolgente di applicare il TDD. Innanzi tutto necessario essere almeno in due per poterlo mettere in pratica. Le regole di questo "gioco" stanno nell'alternarsi alla tastiera quando si scrive un test rosso. Il primo "turno" è diverso da tutti i successivi: chi si trova per primo alla tastiera, scrive un test che fallisce, poi passa la tastiera al suo pair. Da questo e per tutti i turni successivi, quando una persona inizia il proprio turno deve: per prima cosa far diventare verdi i test scrivendo il codice di produzione adatto, e come seconda cosa dovra scrivere a sua volta un test rosso. Una volta che il test rosso viene scritto, il turno sarà finito e la tastiera tornerà a chi ha iniziato la sessione di ping pong. In pratica ad ogni turno si fan diventare verdi i test e successivamente se ne crea uno nuovo per far avanzare il software.
+Tendenzialmente quando si fa Test Driven Development si è da soli davanti al proprio programma da completare e davanti alla propria tastiera. Esiste però una pratica che porta più persone a fare Test Driven Development insieme che prende il nome di _Ping Pong TDD_.
+Questo è un metodo molto coinvolgente di applicare il TDD.
+
+Come accennato, è un pre-requisito del metodo essere almeno in due.
+
+Le regole di questo _gioco_ si basano sull'alternarsi alla tastiera quando si scrive un test. Il primo "turno" è diverso da tutti i successivi: chi si trova per primo alla tastiera scrive un test che fallisce, poi passa la tastiera al suo pair. Da questo e per tutti i turni successivi, quando una persona inizia il proprio turno deve:
+- Far diventare verdi i test scrivendo il codice di produzione adatto.
+- Scrivere un test rosso.
+
+Una volta che il test rosso viene scritto, il turno sarà finito e la tastiera tornerà a chi ha iniziato la sessione di ping pong. In pratica ad ogni turno l'obiettivo è far passare i test e successivamente crearne di nuovi fino al completamento del software.
