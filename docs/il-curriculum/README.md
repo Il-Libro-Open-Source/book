@@ -1,3 +1,5 @@
+# Il Curriculum
+
 Se stai leggendo questo capitolo probabilmente ti stai guardando attorno, alla ricerca di un nuovo lavoro, una nuova collaborazione, una nuova RAL (si spera più alta dell'attuale).
 E, probabilmente, ti stai facendo anche un'altra domanda: davvero il CV si usa ancora? Ebbene sì! Il CV rimane lo strumento fondamentale (ma va ovviamente affiancato ad altri strumenti che vedremo in seguito) per proporsi a chi sta offrendo lavoro.
 Partiamo da un assunto fondamentale: il CV perfetto NON ESISTE, così come non esiste “il CV a prova di ATS” (Applicant Tracking System).
