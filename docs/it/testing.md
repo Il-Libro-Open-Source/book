@@ -123,6 +123,19 @@ Un altro vantaggio del TDD è che si sta automaticamente creando una documentazi
 
 Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
 
+**Ping Pong TDD**
+
+Tendenzialmente quando si fa Test Driven Development si è da soli davanti al proprio programma da completare e davanti alla propria tastiera. Esiste però una pratica che porta più persone a fare Test Driven Development insieme che prende il nome di _Ping Pong TDD_.
+Questo è un metodo molto coinvolgente di applicare il TDD.
+
+Come accennato, è un pre-requisito del metodo essere almeno in due.
+
+Le regole di questo _gioco_ si basano sull'alternarsi alla tastiera quando si scrive un test. Il primo "turno" è diverso da tutti i successivi: chi si trova per primo alla tastiera scrive un test che fallisce, poi passa la tastiera al suo pair. Da questo e per tutti i turni successivi, quando una persona inizia il proprio turno deve:
+- Far diventare verdi i test scrivendo il codice di produzione adatto.
+- Scrivere un test rosso.
+
+Una volta che il test rosso viene scritto, il turno sarà finito e la tastiera tornerà a chi ha iniziato la sessione di ping pong. In pratica ad ogni turno l'obiettivo è far passare i test e successivamente crearne di nuovi fino al completamento del software.
+
 ### Behavior-driven development
 
 Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione degli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
@@ -150,7 +163,3 @@ Feature: Google Searching
 La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile. Inoltre, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come una coverage del 50% non garantisce che il codice sorgente sia pieno di bug. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
 
 **La test coverage ci dice quanto del nostro codice si comporta come ci aspettiamo, ma non è detto che ciò che ci aspettiamo sia corretto.**
-
-### Ping Pong TDD
-
-Tendenzialmente quando si fa test driven development si è da soli davanti al proprio programma da completare e davanti alla propria tastiera. Esiste però una pratica che porta più persone a fare test driven developement insieme. Questo è un modo molto coinvolgente di applicare il tdd. Innanzi tutto necessario essere almeno in due per poterlo mettere in pratica. Le regole di questo "gioco" stanno nell'alternarsi alla tastiera. Il primo "turno" è diverso da tutti i successivi: il primo programmatore, scrive un test che fallisce, poi passa la tastiera al suo collega. Da questo e per tutti i turni successivi, il programmatore di turno deve: per prima cosa far diventare verdi i test scrivendo il codice di produzione adatto, e come seconda cosa dovra scrivere a sua volta un test rosso. Una volta che il test rosso viene scritto, il turno sarà finito e la tastiera tornerà al primo programmatgore. In pratica ad ogni turno si fan diventare verdi i test e successivamente di crea il test per far proseguire il software.
