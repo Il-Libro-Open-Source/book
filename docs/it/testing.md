@@ -131,6 +131,7 @@ Questo è un metodo molto coinvolgente di applicare il TDD.
 Come accennato, è un pre-requisito del metodo essere almeno in due.
 
 Le regole di questo _gioco_ si basano sull'alternarsi alla tastiera quando si scrive un test. Il primo "turno" è diverso da tutti i successivi: chi si trova per primo alla tastiera scrive un test che fallisce, poi passa la tastiera al suo pair. Da questo e per tutti i turni successivi, quando una persona inizia il proprio turno deve:
+
 - Far diventare verdi i test scrivendo il codice di produzione adatto.
 - Scrivere un test rosso.
 
