@@ -121,7 +121,7 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 
 Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
 
-Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, qeusti esercizi vengono spesso usati in fase di colloghio.
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, questi esercizi vengono spesso usati in fase di colloquio.
 
 **Ping Pong TDD**
 
