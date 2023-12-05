@@ -111,6 +111,10 @@ Ad ogni architettura software è associato un elenco contenente i punti chiave c
 - **Scalabilità**: La facilità con la quale è possibile scalare il software, ovvero la capacità di gestire un carico di lavoro maggiore. Questo punto non fa riferimento alla scalabilità orizzontale o a quella verticale e non tiene conto dei costi, quanto dell'impegno tecnico necessario per scalare il software.
 - **Performance**: La velocità con la quale il software è in grado di elaborare i dati per rispondere ad un'esigenza di business.
 
+Quando parliamo di _scalabilità verticale_ ci riferiamo all'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro.
+
+Quando parliamo di _scalabilità orizzontale_ ci riferiamo alla replicazione dei componenti del sistema, in modo da poter gestire un carico di lavoro maggiore. Le tecniche di scalabilità orizzontale sono varie e possono essere implementate in modi diversi, in base alle esigenze del sistema.
+
 Questi punti chiave sono da intendersi come una valutazione soggettiva, in quanto ogni architettura software può essere implementata in modi diversi, con conseguenze diverse, valutando criteri e parametri differenti in base alle proprie necessità e, pur essendo un elenco piuttosto esaustivo, mix di queste architetture hanno dimostrato di essere vincenti in molti casi, anche a discapito di quanto riportato qui sopra.
 
 I punti chiave sono espressi con dei voti che vanno da 1 a 5, dove 1 è il voto più basso e 5 il voto più alto. Per _alto_ si intende il valore migliore per il punto chiave in questione, mentre per _basso_ si intende il valore peggiore per il punto chiave in questione, ovvero il valore che si vorrebbe evitare. Nel caso di _costi_, ad esempio, un voto alto significa che i costi sono bassi, mentre un voto basso significa che i costi sono alti.
