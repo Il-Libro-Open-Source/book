@@ -17,17 +17,17 @@ Il test unitario è un processo di sviluppo software in cui le parti testabili p
 
 Il punto principale è la presenza di un contesto isolato con un obiettivo.
 
-Non dovrebbe avere dipendenze, se presenti queste dovrebbero essere messe sotto mock quando possibile.
+Non dovrebbe avere dipendenze, se presenti queste dovrebbero essere messe sotto mock quando possibile. Un mock è letteralmente un classe che finge di essere la classe che vogliamo mockare. Questo è importante perché ci permette di simulare tutti i comportamenti che potrebbe avere la dipendenza senza dipendere direttamente da essa.
 
-Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità.
+Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità. Più righe di codice sono coperte da un test, più è facile raggiungere la coverage al 100%
 
-Solitamente i problemi nati negli unit test sono più facili da correggere perché riguardano piccole porzioni di codice e molti test sono riutilizzabili anche in altri progetti se si usa codice condiviso.
+Solitamente i problemi rilevabili negli unit test sono più facili da correggere perché riguardano piccole porzioni di codice e molti test sono riutilizzabili anche in altri progetti se si usa codice condiviso.
 
 D'altro canto, se i test sono scritti male o non hanno una buona coverage, danno falsa sicurezza e non prevengono i bug, inoltre impiegano tanto tempo ad essere scritti.
 
 ### Integration test
 
-Il test di integrazione è una tecnica di test del software che si concentra sul test delle interazioni e dell'integrazione tra più componenti o moduli di un sistema software. Ha lo scopo di verificare che i diversi componenti, quando combinati, funzionino correttamente e producano i risultati attesi.
+Il test di integrazione è una tecnica di test del software che ha come obiettivo quello di testare le integrazioni tra più componenti o moduli di un sistema software. Ha lo scopo di verificare che i diversi componenti, quando combinati, funzionino correttamente e producano i risultati attesi.
 
 Concetti principali:
 
@@ -38,12 +38,12 @@ Concetti principali:
 Tipologie di test:
 
 - **Big-bang**: Si creano decine, centinaia, migliaia di test in base alla dimensione della codebase. Si testa tutto, tutto assieme. Solitamente il tutto viene fatto in un singolo integration test, o in pochissimi. Funziona per codebase ridotte.
-- **Top-down testing**: Approccio incrementale, si parte dai moduli ad altissimo livello (Controller nel caso di un MVC) e si scende al livello più basso (Se si utilizzano i fat model si arriva anche fino a lì). Funziona per codebase grosse, iniziare è più tosta ma ha più impatto, pian piano diventa sempre più facile perché le parti "sopra" sono già state testate.
+- **Top-down testing**: Approccio incrementale, si parte dai moduli ad altissimo livello (Controller nel caso di un MVC) e si scende al livello più basso (Se si utilizzano i fat model si arriva anche fino a lì). Funziona per codebase grosse, iniziare è più complesso ma ha più impatto, pian piano diventa sempre più facile perché i livelli superiori sono già stati testati.
 - **Bottom-up testing**: Approccio incrementale al contrario. Si parte da sotto e si va in alto. Anche qui parliamo di grosse codebase, iniziare è più facile ma ha meno impatto, proseguendo anche qui diventa sempre più facile perché l’impalcatura sotto funziona.
 - **Sandwich** o **Hybrid Testing**: Combinazione dei due approcci sopra basati su un planning di priorità.
 
 Quando si lavora in team più o meno grandi non sempre ci si può assicurare che quanto sviluppato da una parte del team comunichi correttamente con quanto sviluppato da un’altra parte del team, questi test sono fondamentali in questi contesti, inoltre è facile individuare e correggere il comportamento di una specifica funzione (Tramite unit test o tramite semplice attenzione quando si sviluppa), più difficile è notare eventuali differenze nel modo in cui i componenti di un’applicazione interagiscono tra di loro. I test di integrazione sono OTTIMI per garantire questa sicurezza.
-Infine, l’integrazione tra componenti non è solo da intendersi come "corretta comunicazione e scambio di informazioni tra le parti" ma anche "corretta gestione degli errori". In definitiva, se so che quei due componenti funzionano assieme e ho scritto correttamente i test dormo sonni tranquilli.
+Infine, l’integrazione tra componenti non è solo da intendersi come "corretta comunicazione e scambio di informazioni tra le parti" ma anche "corretta gestione degli errori". In definitiva, se due o più componenti funzionano assieme e i test sono stati scritti correttamente, abbiamo quasi l'assoluta certezza del loro funzionamento combinato.
 
 D'altro canto è complesso realizzare dei test di integrazione e mantenerli nel tempo per via dell’evoluzione naturale del software su cui si lavora.
 
@@ -60,7 +60,7 @@ E qui sta il punto. I requisiti sono essenzialmente aziendali e non tecnici.
 
 Nei test E2E, l'intera applicazione o sistema viene testato in un modo che imita il modo in cui verrebbe utilizzato dagli utenti finali. Implica la simulazione delle interazioni dell'utente, l'inserimento dei dati e la convalida degli output previsti su più componenti, moduli e livelli del sistema.
 
-Anche qui parliamo di contesto e obiettivi, ma chiaramente non sono più “specifici” di per se, perché testate “specificatamente” un flusso di pagamento coinvolge centinaia di parti. Inoltre, vista la complessità di realizzare questi test, solitamente si usano strumenti che perlomeno automatizzino alcune parti del processo, come un live recording via estensione del browser.
+Anche qui parliamo di contesto e obiettivi, ma chiaramente non sono più “specifici” di per se perché, ad esempio, testare “specificatamente” un flusso di pagamento coinvolge centinaia di parti. Inoltre, vista la complessità rilevata nel realizzare questi test, solitamente si usano strumenti che perlomeno automatizzino alcune parti del processo, come un live recording via estensione del browser.
 
 A differenza degli altri tipi di test, qui possiamo verificare se l’esigenza non funzionale, e quindi di business, sia rispecchiata nel comportamento della piattaforma.
 
@@ -109,7 +109,7 @@ Il continuous testing è una metodologia di testing in cui i test vengono esegui
 ### Test-driven development
 
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
-La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo, partendo dai test che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare.
+La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo partendo dagli obiettivi, sottoforma di test, che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare.
 
 Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD - Spesso chiamato _red-green-refactor_ - è semplice ma potente:
 
@@ -121,7 +121,7 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 
 Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
 
-Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata. Piccolo spoiler, questi esercizi vengono spesso usati in fase di colloquio.
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata, spesso usati in sede di colloquio.
 
 **Ping Pong TDD**
 
@@ -161,6 +161,6 @@ Feature: Google Searching
 
 ## Test Coverage
 
-La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile. Inoltre, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come una coverage del 50% non garantisce che il codice sorgente sia pieno di bug. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
+La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile. Inoltre, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
 
 **La test coverage ci dice quanto del nostro codice si comporta come ci aspettiamo, ma non è detto che ciò che ci aspettiamo sia corretto.**
