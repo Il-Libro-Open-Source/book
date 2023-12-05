@@ -31,10 +31,10 @@ L'architettura software è un argomento molto vasto e complesso, ma possiamo ide
 - **Componenti e moduli**: identificano i principali componenti o moduli del software e descrivono le loro responsabilità. Questi componenti possono essere funzioni, classi o persino interi microservizi in un sistema distribuito.
 - **Flusso e comunicazione dei dati**: descrive il modo in cui i dati attraversano le diverse parti del sistema, inclusi meccanismi di input e output, database e servizi esterni. Comprendere il flusso di dati è fondamentale per garantire una comunicazione e un'elaborazione dei dati efficiente.
 - **Comportamento del sistema**: definisce il comportamento previsto del software in varie condizioni, incluso il modo in cui vengono gestiti gli errori, ripristinati i guasti e organizzati gli adattamenti per far fronte all'aumento del carico.
-- **Attributi di qualità**: soddisfano i requisiti non funzionali, come prestazioni, sicurezza, scalabilità e manutenibilità. Gli architetti prendono decisioni di progettazione per ottimizzare il software in funzione di queste qualità.
-- **Vincoli e modelli**: l'architettura software spesso opera entro determinati vincoli, come budget, stack tecnologico o standard di conformità. Gli architetti sfruttano i modelli di progettazione e le migliori pratiche per soddisfare questi vincoli ottenendo al tempo stesso la funzionalità desiderata.
+- **Attributi di qualità**: soddisfano i requisiti non funzionali, come prestazioni, sicurezza, scalabilità e manutenibilità. Le decisioni di progettazione per ottimizzare il software vengono prese in funzione di queste qualità.
+- **Vincoli e modelli**: l'architettura software spesso opera entro determinati vincoli, come budget, stack tecnologico o standard di conformità. Chi si occupa dell'architettura sfrutta i modelli di progettazione e le migliori pratiche per soddisfare questi vincoli, ottenendo al tempo stesso la funzionalità desiderata.
 
-In sostanza, l'architettura software fornisce un approccio strutturato alla costruzione di sistemi software complessi, garantendo che siano scalabili, manutenibili e in grado di soddisfare i requisiti e gli standard di qualità previsti. È una disciplina cruciale nell'ingegneria del software che aiuta gli sviluppatori a prendere decisioni informate e a creare software che resistano alla prova del tempo.
+In sostanza, l'architettura software fornisce un approccio strutturato alla costruzione di sistemi software complessi, garantendo che siano scalabili, manutenibili e in grado di soddisfare i requisiti e gli standard di qualità previsti. È una disciplina cruciale nell'ingegneria del software che aiuta chi sviluppa a prendere decisioni informate e a creare software che resistano alla prova del tempo.
 
 ## Chi si occupa di architetture software?
 
@@ -128,7 +128,7 @@ Segue una tabella riepilogativa dei punti di forza e di debolezza di ogni archit
 
 ### Monolite
 
-Il monolite è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto. È il tipo di architettura più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti, in quanto questi ultimi risiedono all'interno dello stesso processo.
+Il monolite è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto. È il tipo di architettura più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti, dal momento che questi ultimi risiedono all'interno dello stesso processo.
 
 Trattasi dell'architettura software più semplice da implementare e più diffusa, ma anche la più difficile da scalare, in quanto non è possibile replicare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_, ovvero l'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro.
 
@@ -171,7 +171,7 @@ In questa architettura il database, il back-end e il front-end sono tutti parte 
 
 - **Start-up**: 4. Essendo una variante del monolite, lo start-up è molto semplice, ma la necessità di organizzare il codice in un nucleo centrale e implementare un sistema di plugin può richiedere più tempo.
 - **Costi**: 3. Pur essendo un'architettura _a costo zero_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
-- **Sviluppo e manutenzione**: 4. Trattasi di un'architettura semplice da mantenere e sul quale aggiungere funzionalità, ma la necessità di non far comunicare i plugin tra di loro può aggiungere una lieve complessità.
+- **Sviluppo e manutenzione**: 4. Trattasi di un'architettura semplice da mantenere e sulla quale aggiungere funzionalità, ma la necessità di non far comunicare i plugin tra di loro può aggiungere una lieve complessità.
 - **Tracciabilità**: 3. Testare e tracciare eventuali bug in questa architettura è mediamente complesso. L'isolamento dei plugin aiuta con il testing, ma la correlazione col nucleo centrale a volte può rallentare il processo di tracciamento.
 - **Scalabilità**: 2. Le difficoltà di scalabilità sono anche in questo caso dovute alla _singola unità di rilascio_ o _single deployment unit_, che non ne permette la _scalabilità orizzontale_.
 - **Performance**: 4. Processi di comunicazione semplici e isolabilità rendono questa architettura molto performante.
