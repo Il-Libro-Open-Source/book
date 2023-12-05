@@ -80,7 +80,7 @@ Esistono diverse tipologie di test, ognuna con un suo scopo ben preciso. Vediamo
 - **Security testing**: Il test di sicurezza è un tipo di test in cui il target è la sicurezza del sistema. Il sistema viene infatti testato rispetto ai requisiti di sicurezza, garantendo che questi siano adeguatamente soddisfatti dall'applicazione.
 - **Regression testing**: Il test di regressione è un tipo di test in cui il target è la regressione del sistema. Il sistema viene infatti testato rispetto ai requisiti di regressione, garantendo che questi siano adeguatamente soddisfatti dall'applicazione.
 
-Esistono molte altre tipologie di test, come _compatibility testing_, _acceptance testing_, _exploratory testing_, ma queste sono le più comuni.
+Esistono molte altre tipologie di test, come _compatibility testing_, _acceptance testing_, _exploratory testing_, _golden testing_, _contract testing_, ma queste sono le più comuni.
 
 ## Tecniche di test
 
