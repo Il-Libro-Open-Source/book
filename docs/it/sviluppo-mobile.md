@@ -50,7 +50,47 @@ Questi due linguaggi di programmazione hanno dominato e tutt'ora dominano la sce
 
 ## Modalità di sviluppo: Nativo vs Ibrido
 
-TODO
+Agli albori dello sviluppo mobile, l'unico modo possibile per realizzare applicazioni per smartphone e tablet consisteva nello studiare il linguaggio di programmazione di riferimento per poter interagire con l'SDK messo a disposizione da Apple o Google per programmare le app. Con il consolidarsi dei due principali sistemi operativi Android ed iOS, chi scriveva codice per realizzare app mobile poteva fondamentalmente scegliere se verticalizzare le proprie competenze su uno dei due per diventare un Android Mobile Developer o un iOS Mobile Developer, o se studiarli entrambi, diventando di fatto un Mobile Developer a tutto tondo.
+
+Realizzare la stessa applicazione per due sistemi operativi diversi significava avere due codici sorgenti completamente diversi, utilizzare due design system differenti, affrontare bug e problematiche diverse in funzione della piattaforma di riferimento, e soprattutto imparare due linguaggi di programmazione con un paradigma molto diverso fra loro: Java per Android ed objectiveC per iOS.
+
+Con il diffondersi degli smartphone e di internet, e con la progressiva transizione al contenuto mobile-first, molti web developer hanno deciso di convertirsi al mobile. L'unico limite a questo punto restava il linguaggio di programmazione: la maggior parte dei web developer era poco avvezzo all'utilizzo di Java e objectiveC, e questo ha contribuito a far nascere i framework di sviluppo ibridi di prima generazione.
+
+Lo sviluppo ibrido nasce per far fronte al problema di dover necessariamente conoscere linguaggi di programmazione ed SDK di riferimento per ogni piattaforma mobile esistente: dato che la maggiorparte delle prime applicazioni non presenti sugli store girava sui browser degli smartphone, si è deciso di sfruttare javascript come linguaggio di programmazione per modellare dei framework che consentissero con un unico codice sorgente ed un unico design system, di realizzare applicazioni per entrambi i sistemi operativi di riferimento.
+
+Per farla breve, tutti i framework di sviluppo ibrido di prima generazione come Cordova, Phonegap e Ionic non facevano altro che renderizzare un sito web realizzato con il tris di tecnologie HTML, Javascript e CSS all'interno di una webview in una app nativa. Sebbene questo consentisse di realizzare applicazioni più rapidamente e meno prone a bug o problematiche di vario genere, di contro ci si doveva scontrare con i limiti prestazionali dettati dalla tecnologia, dalle latenze di javascript, e soprattutto dall'assenza di fluidità d'esecuzione a causa dell'assenza di motori di rendering pensati per interagire nativamente con l'hardware del dispositivo.
+
+Questo ha spinto i progettisti a ripensare l'approccio allo sviluppo ibrido: invece di utilizzare delle webview per renderizzare dei siti web, si è deciso di utilizzare in linguaggio di programmazione di riferimento per comunicare con un motore di rendering che consentisse di disegnare le interfacce in modo completamente nativo sugli smartphone. I framework di seconda generazione come Xamarin, Flutter, MAUI e React Native fondamentalmente producono un artefatto la cui logica di business scritta con il linguaggio di programmazione target è stata tradotta in codice macchina.
+
+Qui la domanda potrebbe sorgere spontanea: ma quindi realizzare app con un framework di sviluppo ibrido di seconda generazione ci consente di fatto di sviluppare app native? La risposta in questo caso è sì. E verrebbe quindi naturale chiedersi che tipo di strategia adottare quando si ha la necessità di realizzare una applicazione mobile, soprattutto se queste valutazioni devono tradursi in un percorso di carriera professionale.
+
+Sviluppare in nativo o sviluppare in ibrido, come tutte le cose, ha dei pro e dei contro, vediamo insieme vantaggi e svantaggi delle due soluzioni:
+
+Vantaggi dello sviluppo nativo:
+
+- Prestazioni massime: è pressoché impossibile battere le performance del codice nativo dato che lo stesso non passa attraverso un motore di rendering, le istruzioni vengono tradotte in codice macchina
+- Miglior interazione: come per il punto precedente, comunicare con la sensoristica o con gli accessori dello smartphone è pressoché immediato
+- User experience proprietaria: ogni piattaforma target ha ormai un design system di riferimento, è possibile quindi utilizzare le componenti standard per modellare le interfacce grafiche
+- Applicazioni più leggere: l'assenza di un framework si traduce in zero overhead in memoria o sullo storage
+
+Svantaggi dello sviluppo nativo:
+
+- Codice sorgente duplicato: se l'obiettivo è raggiungere entrambe le piattaforme, è necessario scrivere l'applicazione sia per Android che per iOS
+- Bug e problematiche duplicate: questa è una diretta conseguenza di avere un doppio codice sorgente; un errore di business è ridondante, un bug proveniente da un'implementazione strettamente legata al target di riferimento esisterà solo su quella determinata piattaforma
+- Costi: anche in questo caso il doppio codice sorgente si traduce in tempistiche, costi di sviluppo e manutenzione pressoché doppi
+
+Vantaggi dello sviluppo ibrido:
+
+- Singola codebase: come menzionato più volte precedentemente, questo aspetto ha un impatto sui tempi e sui costi di sviluppo e di manutenzione dell'intera codebase e dell'intero team
+- Design system unico: quando si ha la necessità di realizzare applicazioni fortemente tematiche o con una brand identity ben strutturata, avere un unico design system consente di comunicare le idee del prodotto in modo più efficace
+- Prestazioni ottime: a meno di realizzare prodotti molto di nicchia (realtà aumentata o videogames), l'uso dei motori di rendering consente di disegnare sullo schermo componenti con una reattività prossima al nativo e con una latenza del tutto impercettibile
+
+Svantaggi dello sviluppo ibrido:
+
+- Overhead del framework: questo problema si traduce fondamentalmente in applicazioni leggermente più pesanti in memoria e sullo storage
+- Interazione limitata: spesso interagire con sensori o strumenti del dispositivo si traduce nell'introdurre canali di comunicazione, definendo ulteriori layer di scambio dati fra framework e codice nativo
+
+Quando scegliere se realizzare una applicazione in nativo o con un approccio ibrido? Nessuno conosce questa risposta in quanto la stessa dipende fondamentalmente dal tipo di prodotto che si vuole realizzare, dalle prestazioni che si intende ricercare, e soprattutto dai costi da affrontare. Ad oggi i framework di sviluppo ibridi di seconda generazione ci consentono di realizzare la maggior parte delle applicazioni mobile presenti sul mercato senza scomodare lo sviluppo nativo.
 
 ## Modalità di rilascio
 
@@ -71,5 +111,13 @@ Con il passare degli anni, il diffondersi di smartphone e tablet, e il passaggio
 Lato iOS, il principale output file ottenibile a valle di una compilazione di una app ha come estensione IPA che sta per iOS App Package (l'acronimo risponde anche alla definizione iPhone Application prima che Apple rivoluzionasse la lineup dei nomi dei propri sistemi operativi mobile). Come per l'APK, questo file contiene alcuni descrittori del prodotto, questa volta in formato .plist, un formato molto conosciuto nel mondo Apple, e la logica dell'applicazione in formato .app, oltre ad una serie di file aggiuntivi come le icone.
 
 ## Il ruolo di chi sviluppa su mobile
+
+TODO
+
+## Pattern architetturali e design pattern
+
+TODO
+
+## Design system per mobile
 
 TODO
