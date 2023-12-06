@@ -112,7 +112,19 @@ Lato iOS, il principale output file ottenibile a valle di una compilazione di un
 
 ## Il ruolo di chi sviluppa su mobile
 
-TODO
+Chi sviluppa su mobile è fondamentalmente un full-stack developer le cui competenze sono modellate in modalità Pi-shaped. Sebbene lo sviluppo mobile si possa concretizzare di fatto in una branca del frontend, la necessità di interagire con strumenti molto più a basso livello come i sensori o il dover scrivere logica di business che spesso elabora dati e li memorizza su basi di dati o su storage ospitati localmente al dispositivo, rende questa figura professionale uno specialista del backend. Quale miglior figura condivide sia le competenze backend che quelle frontend se non un full-stack developer? La specializzazione orizzontale del Pi-Shaped invece si concretizzano nel possedere conoscenze minime di UI e UX quando si tratta di disegnare e progettare interfacce grafiche, e di CI/CD quando è necessario compilare e rilasciare gli artefatti sui principali store.
+
+Il percorso di formazione e specializzazione di chi sviluppa su mobile è molto complesso e richiede più competenze trasversali:
+
+- Padronanza dei linguaggi di programmazione: fondamentalmente chi sviluppa mobile deve conoscere più linguaggi di programmazione sebbene lo stesso decida di seguire la strada della programmazione ibrida. Conoscere Kotlin o Swift quando programmiamo con React Native o Flutter ci consente di scrivere moduli nativi quando abbiamo la necessità di interfacciarci con l'hardware di smartphone e tablet
+- Conoscenza del sistema target: per costruire applicazioni accattivanti e funzionali, è necessario conoscere i behavior pattern del sistema operativo di riferimento. Disporre le componenti grafiche in un certo modo all'interno dell'applicazione o sfruttare determinati flussi dettati dalle tecnologie proprietarie del dispositivo consente agli utenti delle nostre app di sentirsi a casa propria quando usano i nostri prodotti.
+- Competenze di ingegneria del software: utilizzare i giusti pattern architetturali, scegliere i design pattern corretti, e scrivere gli algoritmi per la logica di business nel modo giusto consente di realizzare applicazioni robuste, performanti e facilmente estendibili.
+- Conoscenze di basi di dati e storage: spesso e volentieri si renderà necessario memorizzare i dati all'interno di una base di dati o sul file system del dispositivo. Sapere come progettare un database, ottimizare l'indicizzazione dei dati ed eseguire query ottimizzate può avere un forte impatto sulle performance e sull'estendibilità della nostra applicazione
+- Competenze di rete: chi sviluppa su mobile deve essere in grado di costruire client in grado di scambiare i dati con un server remoto in sicurezza e soprattutto deve poter modulare le modalità di presentazione dei dati in funzione della presenza/assenza di connessione
+- Competenze da DevOps: integrare strumenti di test all'interno di un processo di continuous integration finalizzato al rilascio dell'applicazione sui principali store è fondamentale per chi sviluppa su mobile
+- Padronanza di UI/UX: saper riconoscere interfacce ben progettate e ben bilanciate sono ottime skill di contorno che qualunque mobile developer dovrebbe possedere
+
+Sebbene non sia necessario verticalizzarsi su ognuna di queste competenze, è importante avere almeno un'infarinatura di base delle skill che possono poi essere interpretate da altri stakeholders all'interno del proprio team di sviluppo. Una formazione impostata su conoscenze Pi-Shaped in ambito mobile non può che portar giovamento nell'interazione con gli altri attori quali backend engineers, UI/UX designers, DevOps, eccetera.
 
 ## Pattern architetturali e design pattern
 
