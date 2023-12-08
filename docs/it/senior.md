@@ -24,7 +24,6 @@ Ma prima di imbarcarci in questo viaggio, é importante puntializzare che non es
 
 La nostra esplorazione sará contaminata dalle opinioni e le esperienze personali degli autori e lo spirito di questo capitolo non é quello di offrire una guida assolutamente corretta su come diventare senior in 10 mosse, ma piuttosto essere un piccolo almanacco di buone pratiche per ispirare coloro che ambiscono a diventare senior e per coloro che sono giá riconosciuti come tali e sono alla ricerca di spunti per migliorarsi.
 
-
 ## Senior? Si, ma quanto?
 
 Immaginiamo per un attimo di essere il CTO di un'azienda in forte crescita. Abbiamo costruito un prodotto grazie al supporto di un'azienda di consulenza esterna, ma adesso é fondamentale portare lo sviluppo in-house e costruire un team interno per poter rendere l'azienda stabile e raggiungere i prossimi obiettivi di crescita.
@@ -33,7 +32,7 @@ Quello che ci serve in questa fase é un team di sviluppatori senior che possa e
 
 Iniziamo a pensare a come scrivere una job spec per la ricerca di questi sviluppatori senior. Cosa dovremmo scrivere? Cosa dovremmo cercare? Come definiamo il profilo che stiamo cercando?
 
-Non abbiamo ancora scritto neanche il titolo del profilo ricercato e siamo giá in preda ad un blocco creativo. Forse é il caso di andare a sbirciare cosa fanno le aziende concorrenti o altre aziende  leader nel mercato del softare...
+Non abbiamo ancora scritto neanche il titolo del profilo ricercato e siamo giá in preda ad un blocco creativo. Forse é il caso di andare a sbirciare cosa fanno le aziende concorrenti o altre aziende leader nel mercato del softare...
 
 Dopo una breve ricerca online, ci troviamo ad avere compilato una lista di possibili ruoli che sembrano essere sinonimi di "senior": Sviluppatore Senior, Sviluppatore _Staff_, Sviluppatore _Principal_, Architetto del software, Sviluppatore Mago, Sviluppatore Barbabianca, Sviluppatore Unicorno, Rockstar, Ninja, Guru...
 
@@ -43,12 +42,11 @@ Dopo aver preso un caffé e aver fatto un giretto in giardino, torniamo alla scr
 
 Cosa ci serve? Cosa ci aspettiamo da questi sviluppatori senior?
 
-Un senior deve essere qualcuno che sia in grado di far progredire progetti e persone. Qualcuno che, con le proprie competenze, possa moltiplicare la produttivitá aziendale. Si, un  _"moltiplicatore di forze"_, questo é quello che ci serve!
+Un senior deve essere qualcuno che sia in grado di far progredire progetti e persone. Qualcuno che, con le proprie competenze, possa moltiplicare la produttivitá aziendale. Si, un _"moltiplicatore di forze"_, questo é quello che ci serve!
 
 Non vogliamo un eroe solitario in grado di scrivere migliaia di righe di codice al giorno e di produrre tanto quanto 10 svilupattori! Piuttosto cerchiamo un individuo che sappia giocare di squadra e che sappia valorizzare e massimizzare le competenze e le esperienze di tutti i membri del team.
 
 Ok, facile a dirsi... ma, nella pratica, di quali competenze, compiti e responsabilitá stiamo parlando? Quale dovrebbe essere l'attitudine di questo profilo senior?
-
 
 ## Gli anni di esperienza
 
@@ -80,7 +78,6 @@ Mi é anche capitato di lavorare con colleghi con tanti anni di esperienza e anc
 
 Certo, questi sono esempi estremi e non sono sicuramente la norma. Il punto é che non bisogna assolutamente puntare ne agli anni di esperienza ne all'etá, ma bisogna piuttosto mirare alle competenze acquisite e alla capacitá (e volontá) di continuare ad acquisirne di nuove.
 
-
 ## Le competenze
 
 Se non é una questione di anni di esperienza sul campo su cosa dobbiamo concentrarci?
@@ -93,20 +90,19 @@ A volte le skill non tecniche possono risultare anche piú importanti di quelle 
 
 L’attitudine al comando è altrettanto importante, in quanto è responsabilità del senior quella di fare da tutor ai junior della squadra, dirigere i vari gruppi del progetto e prendere le scelte tecniche più difficili. Ed è suo anche il compito di motivare la squadra, assegnare i compiti in modo efficace e fare da guida e supporto all’occorrenza.
 
-Un’altra capacità indispensabile per lo sviluppatore senior è la propensione alla risoluzione dei problemi. Uno sviluppatore senior deve essere in grado di pensare in modo critico, analizzare problemi complessi  e trovare soluzioni creative. Dovrebbe essere a suo agio all’interno di situazioni poco chiare e non ancora definite, pronto ad adattarsi ad ogni nuovo sviluppo.
+Un’altra capacità indispensabile per lo sviluppatore senior è la propensione alla risoluzione dei problemi. Uno sviluppatore senior deve essere in grado di pensare in modo critico, analizzare problemi complessi e trovare soluzioni creative. Dovrebbe essere a suo agio all’interno di situazioni poco chiare e non ancora definite, pronto ad adattarsi ad ogni nuovo sviluppo.
 
 In fin dei conti, l’ingegneria del software non è altro che risoluzione di problemi!
 
-Tuttavia i problemi non sono sempre di natura tecnica, specie all’interno delle organizzazioni più strutturate, dove sono presenti interlocutori con esperienze diverse e di differente formazione, e i problemi possono essere comunicati nel modo sbagliato e mutare di frequente. Per questo diventa fondamentale contribuire alla comprensione dei problemi che si stanno riscontrando, formulare e condividere gli obiettivi  e guidare la squadra di lavoro nella giusta direzione; competenze cruciali, queste, che possono avere un  impatto enorme.
+Tuttavia i problemi non sono sempre di natura tecnica, specie all’interno delle organizzazioni più strutturate, dove sono presenti interlocutori con esperienze diverse e di differente formazione, e i problemi possono essere comunicati nel modo sbagliato e mutare di frequente. Per questo diventa fondamentale contribuire alla comprensione dei problemi che si stanno riscontrando, formulare e condividere gli obiettivi e guidare la squadra di lavoro nella giusta direzione; competenze cruciali, queste, che possono avere un impatto enorme.
 
 La migliore soluzione da un punto di vista strettamente tecnico non è necessariamente la migliore soluzione per una data azienda.
 
-Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbandonare soluzioni tecnicamente ottimnali in favore di soluzioni piú adatte alla squadra e alle circostanze di business. 
+Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbandonare soluzioni tecnicamente ottimnali in favore di soluzioni piú adatte alla squadra e alle circostanze di business.
 
 Un esempio estremo potrebbe essere quello di uno sviluppatore capace di scrivere codice di basso livello e iper-ottimizzato per un dato obiettivo. Questo approccio potrebbe limitare l'accesso al progretto a pochissimi individui con competenze simili. Quante aziende hanno veramente l'esigenza di produrre codice cosí ottimizzato? Spesso é piú conveniente puntare all'agilitá e alla possibilitá di iterare e sperimentare velocemente.
 
 Le competenze tecniche da sole non bastano a comprendere tutte le sfaccettature di un progetto e a trovare soluzioni che soddisfano tutte le necessità di business e spesso i migliori compromessi possono essere trovati con il giusto equilibrio di competenze sia tecniche che di business.
-
 
 ## Il profilo a "T"
 
@@ -120,12 +116,11 @@ Questo tipo di profilo permette al singolo individuo di poter contribuire in pi�
 
 Un buon modo per costruire il profilo a T è quello di iniziare a sviluppare il tuo tratto verticale, ovvero quello che alla fine diventerà il tuo punto di forza! Concentrati per un po’ su una singola area. Ovviamente é meglio preferire delle aree tecniche per le quale ci si senta particolarmente propoensi e per le quali si abbia un grosso interesse. Piú qualcosa ci appassiona, piú é facile stare al passo con l'innovazione e trovare il tempo per sperimentare ed imparare.
 
-Quando pensi di avere raggiunto la padronanza di una data competenza tecnica, allora potrai espandere la tua conoscenza partendo da lì, sviluppando cosí il tratto orizzontale. Esci fuori dalla tua comfort zone ed esplora argomenti correlati. Questi argomenti dovrebbero auspicabilmente arricchire le tue conoscenze pregresse  e permetterti di contribuire in modo piú esteso ai vari aspetti dello sviluppo di un prodotto software.
+Quando pensi di avere raggiunto la padronanza di una data competenza tecnica, allora potrai espandere la tua conoscenza partendo da lì, sviluppando cosí il tratto orizzontale. Esci fuori dalla tua comfort zone ed esplora argomenti correlati. Questi argomenti dovrebbero auspicabilmente arricchire le tue conoscenze pregresse e permetterti di contribuire in modo piú esteso ai vari aspetti dello sviluppo di un prodotto software.
 
 Se, ad esempio, sei diventato esperto in sviluppo di API REST, potresti voler approfondire i database o lo sviluppo front-end, in quanto l'insieme di queste competenze ti permetterebbe di avvicinarti ad un profilo da programmatore full-stack. Allo stesso modo, potresti anche approfondire l’argomento IaC (infrastructure-as-code) ed imparare ad implementarlo nel processo produttivo. Non limirarti a scrivere software ma cerca di capire anche cosa é necessario per portare quel software in produzione.
 
 Il segreto non sta nel diventare un esperto in ognuna di queste ulteriori aree ma nell’apprendere quanto basta per capire le basi e per poter collaborare in modo efficace con chi, invece, le padroneggia a fondo.
-
 
 ## Comprendere i compromessi
 
@@ -137,7 +132,7 @@ Un esempio classico potrebbe essere quello di comprendere e discutere le differe
 
 Non ci sono soluzioni corrette e soluzioni sbagliate, ci sono solo diversi compromessi. Ed é fondamentale comprendere questi compromessi e prevedere l’effetto, sia nel breve che nel lungo termine, dei compromessi fatti. La domanda da farsi é "quale compromesso é quello migliore per gli obiettivi di business presenti e futuri"?
 
-Raggiungere questo livello di maturitá è tutto fuorché semplice. Sicuramente necessita di  una significativa quantità di tempo investito nello sviluppare prodotti software, adottando diverse pratiche, diversi linguaggi di programmazione, framework, metodologie e così via.
+Raggiungere questo livello di maturitá è tutto fuorché semplice. Sicuramente necessita di una significativa quantità di tempo investito nello sviluppare prodotti software, adottando diverse pratiche, diversi linguaggi di programmazione, framework, metodologie e così via.
 
 Potrai ampliare le tue conoscenze solamente se saprai riconoscere che ogni scelta tecnica comporta una serie di compromessi. Ci saranno sempre aspetti positivi e negativi.
 
@@ -145,10 +140,9 @@ Purtroppo non esiste una formula magica per la tecnologia!
 
 Non esiste un singolo linguaggio o framework che possa essere utilizzato per costruire qualsiasi tipo di applicazione in modo ottimale! Se hai una visione sufficientemente completa del panorama tecnologico, dovresti essere in grado di capire quale insieme di tecnologie è il piú adatto per affrontare un problema specifico. Talvolta questo significa essere in grado di mettere da parte le nostre tecnologie preferite o quelle che fanno parte delle nostre competenze primarie e che ci fanno sentire piú produttivi a livello individuale.
 
-Ovviamente, non sempre possiamo avere una visione cristallina di ogni problema. Spesso bisogna confermare le proprie assunzioni con degli esperimenti ad hoc ed essere pronti ad essere smentiti. 
+Ovviamente, non sempre possiamo avere una visione cristallina di ogni problema. Spesso bisogna confermare le proprie assunzioni con degli esperimenti ad hoc ed essere pronti ad essere smentiti.
 
 Bisogna trovare il modo di lasciare margine per commettere errori, imparare dai fallimenti e provare approcci alternativi. La strada per il successo raramente è una linea retta…
-
 
 ## Andare a caccia di bug
 
@@ -170,7 +164,6 @@ Inizia accettando il fatto che il codice non testato è cattivo codice (o per lo
 
 Impara i diversi tipi e i diversi framework di test. Infine, impara quali tipi di test forniscono il maggior valore per l’azienda e ottimizza il flusso di lavoro del team per concentrarvi maggiormente su questi fattori.
 
-
 ## Promuovere le buone pratiche
 
 Uno sviluppatore senior dovrebbe aver sviluppato un certo grado di affinitá con diversi linguaggi di programmazione e dovrebbe conoscere diversi paradigmi e le loro differenze. Ad esempio la programmazione ad oggetti (OOP) e quella funzionale; uno stile dichiarativo rispetto ad uno imperativo; differenze tra linguaggi compilati e interpretati. Possedere questo tipo ci competenze puó essere utile per risolvere lo stesso problema utilizzando strumenti e tecniche differenti e potendo cosí scegliere la soluzione che offre i compromessi piú idonei per il problema in questione e per il team con cui si lavora.
@@ -185,7 +178,6 @@ A volte, del codice semplice e imperativo, benché possa apparire poco elegante,
 
 Come sviluppatore senior, essere in grado di fornire opinioni critiche su questi temi puó avere un impatto estremamente positivo sul resto del team durante sessioni di pair programming o revisioni del codice.
 
-
 ## Quali tipi di soft skills?
 
 Abbiamo discusso le competenze tecniche che ti daranno un vantaggio nella tua carriera e ti permetteranno di essere riconosciuto come sviluppatore senior. Ma queste da sole non ti porteranno molto lontano. É arrivato il momento di discutere delle fantomatiche "soft skills".
@@ -198,7 +190,6 @@ Ok, ok, ma quali sono queste soft skills? Come faccio a svilupparle? Come faccio
 
 Di seguito discuteremo alcune soft skills che ritengo essere fondamentali per un senior. Non é una lista da considerare esaustiva ma piuttosto un punto di partenza per capire in quali ambiti é possibile misurarsi e migliorarsi.
 
-
 ## Voglia di crescere
 
 La mentalità di uno sviluppatore senior è cruciale quanto le sue competenze tecniche. Un ingegnere senior deve avere una mentalità incline alla crescita, la volontà di imparare e adattarsi e la propensione al continuo miglioramento.
@@ -209,14 +200,13 @@ Imparare peró significa anche essere a proprio agio con i fallimenti e vederli 
 
 Ogni fallimento peró é un passo in avanti verso il successo, una lezione appresa che ci permetterá di non ripetere gli stessi errori in futuro e di essere piú consapevoli delle scelte che facciamo.
 
-
 ## Essere una leva attiva, saper dire "NO" e debito tecnico
 
 Uno sviluppatore senior deve avere un ruolo molto proattivo in un’organizzazione. Non dovrebbe isolarsi in una stanza e continuare a sbattere le dita contro la tastiera. Un senior deve sapere quando è il momento di fare domande difficili e prendere in mano la situazione.
 
-Essere in grado di fornire un punto di vista fortemente tecnico in una conversazione aziendale può avere grande impatto e informare l’azienda su quale sia la strategia migliore  per andare avanti. A tutti gli effetti, un senior dovrebbe diventare un ponte tra il prodotto e la tecnologia.
+Essere in grado di fornire un punto di vista fortemente tecnico in una conversazione aziendale può avere grande impatto e informare l’azienda su quale sia la strategia migliore per andare avanti. A tutti gli effetti, un senior dovrebbe diventare un ponte tra il prodotto e la tecnologia.
 
-Questo a volte significa che un senior dovrebbe anche sapere quando è il momento di dire NO. No a soluzioni rapide e sporche (che alla fine si ritorceranno contro) solo per rispettare una scadenza. No a piani che prevedono solo la costruzione di funzionalità su funzionalità senza considerare l’esperienza dell’utente e la stabilità a lungo termine del prodotto.  No a scelte tecniche arbitrarie solo perché “abbiamo sempre fatto così ed è sempre andata bene”.
+Questo a volte significa che un senior dovrebbe anche sapere quando è il momento di dire NO. No a soluzioni rapide e sporche (che alla fine si ritorceranno contro) solo per rispettare una scadenza. No a piani che prevedono solo la costruzione di funzionalità su funzionalità senza considerare l’esperienza dell’utente e la stabilità a lungo termine del prodotto. No a scelte tecniche arbitrarie solo perché “abbiamo sempre fatto così ed è sempre andata bene”.
 
 Dire NO è facile ma al tempo stesso molto difficile. Tutti possono dire NO, questa è la parte facile! Il difficile è argomentare il perché di quel NO, proporre punti di vista alternativi, trovare compromessi e disinnescare bombe a orologeria a breve o lungo termine.
 
@@ -232,7 +222,6 @@ Il debito tecnico é un argomento molto complesso e non esiste una soluzione uni
 
 Le capacitá di un senior dovrebbero permettergli di capire quando é il momento di accettare un debito tecnico e quando é il momento di investire tempo per ripagarlo. Inoltre, dovrebbe essere in grado di comunicare in modo efficace i rischi associati al debito tecnico e le conseguenze che questo potrebbe avere sul business. Infine un senior dovrebbe riuscire a negozioare con i product manager e i dirigenti per trovare il giusto compromesso tra debito tecnico e scadenze.
 
-
 ## Capire l’azienda
 
 Per poter essere una leva attiva bisogna capire l’azienda il più profondamente possibile.
@@ -243,7 +232,6 @@ Un senior che sa rispondere a queste domande é in una buona posizione per utili
 
 Solo con una solida comprensione dell’azienda sarai in grado di scegliere le battaglie giuste, concentrarti su ciò che conta e di contribuire alla progettazione di sistemi che possano servire l’azienda oggi ma anche essere adattati alle esigenze future.
 
-
 ## La Comunicazione
 
 > "La buona comunicazione è stimolante quanto il caffè nero e rende altrettanto difficile il prendere sonno poi" - Anne Morrow Lindbergh
@@ -252,7 +240,7 @@ Come ingegnere del software, le capacità comunicative sono fondamentali per il 
 
 Poiché dovrai parlare con tutti gli interlocutori, dovresti imparare a comunicare concetti tecnici a interlocutori non tecnici in un modo che sia facile da comprendere. Ciò significa anche saper ascoltare i commenti e incorporarli nel tuo lavoro. La capacità di comunicare efficacemente con gli interlocutori è essenziale per garantire che tutti siano sulla stessa lunghezza d’onda e che i progetti siano portati a termine con successo.
 
-Un’altra importante abilità comunicativa per un ingegnere del software è quella di spiegare le incertezze e proporre idee su come affrontarle. Lo sviluppo del software è un processo intrinsecamente incerto e ci saranno sempre incognite e sfide impreviste. 
+Un’altra importante abilità comunicativa per un ingegnere del software è quella di spiegare le incertezze e proporre idee su come affrontarle. Lo sviluppo del software è un processo intrinsecamente incerto e ci saranno sempre incognite e sfide impreviste.
 
 Come ingegnere del software, devi essere in grado di comunicare queste incertezze in modo chiaro e conciso. Devi anche essere in grado di proporre idee su come affrontare queste incertezze e far progredire il progetto.
 
@@ -262,19 +250,17 @@ Le capacità comunicative sono essenziali anche per la stesura della documentazi
 
 Una buona comunicazione può aprire molte porte e sbloccare situazioni complesse. Assicurati quindi di esercitarla il più possibile!
 
-
 ## Supporto alla gestione
 
 Quando sei un buon comunicatore, diventi una persona che può essere molto efficace nel supportare diverse attività di gestione. Ad esempio nella pianificazione e nell’organizzazione degli incontri. Puoi aiutare a tenere traccia delle priorità e del debito tecnico e a suddividere i compiti difficili in parti più gestibili.
 
-Ti trovi  in una posizione unica per capire e sfruttare i punti di forza del team e per coinvolgere le persone giuste al momento giusto. Lavorando a stretto contatto con la direzione, puoi assicurarti che il tuo lavoro sia in linea con gli obiettivi aziendali generali e che gli sforzi del tuo team siano incanalati nella giusta direzione.
+Ti trovi in una posizione unica per capire e sfruttare i punti di forza del team e per coinvolgere le persone giuste al momento giusto. Lavorando a stretto contatto con la direzione, puoi assicurarti che il tuo lavoro sia in linea con gli obiettivi aziendali generali e che gli sforzi del tuo team siano incanalati nella giusta direzione.
 
 La pianificazione è un’altra abilità determinante per un ingegnere del software. Richiede di suddividere i progetti di grandi dimensioni in attività più piccole e gestibili, di stimare il tempo necessario per ciascuna attività e di stabilirne la priorità. Una pianificazione efficace contribuisce a garantire che i progetti siano portati a termine in tempo e nel rispetto del budget.
 
 L’organizzazione degli incontri, come le riunioni in piedi, le revisioni informali e le retrospettive, possono offrire l’opportunità di condividere i progressi, identificare i problemi e pianificare il futuro. Come ingegnere del software, devi contribuire a guidare questi incontri e assicurarti che siano produttivi ed efficienti.
 
 Ovviamente gli sviluppatori senior non devono e non possono sostituire il ruolo dei project manager o dei product manager, ma piuttosto devono supportare questi ruoli e fornire la loro prospettiva tecnica riuscire a mantenere gli obiettivi, i piani e l’esecuzione in linea con le aspettative del team tecnico.
-
 
 ## Autonomia e attenzione alla consegna
 
@@ -294,7 +280,7 @@ Se hai già una vasta competenza, dovrebbe essere quasi istintivo aggiungerne al
 
 In teoria, un ingegnere del software senior non ha bisogno di troppe indicazioni. È in grado di capire da solo ciò che è necessario per portare avanti le cose e di coinvolgere gli altri quando è necessario.
 
-Un altro aspetto riguarda la negoziazione delle aspettative e la comprensione di ciò che significa avere successo nell’ambiente attuale. 
+Un altro aspetto riguarda la negoziazione delle aspettative e la comprensione di ciò che significa avere successo nell’ambiente attuale.
 
 È bene essere chiari con la direzione e con il resto del team tecnico e definire le caratteristiche del successo individuale e di squadra. Se non sai cosa ci si aspetta da te e dal resto del team, anche se pensi di fare la cosa giusta, potresti finire per non fornire il valore che ci si aspetta da te; allo stesso modo, potresti non essere in grado di aiutare il tuo team ad avere successo.
 
@@ -305,7 +291,6 @@ Avere un simile atteggiamento di schiettezza e chiarezza di solito mantiene l’
 Se sei un ingegnere del software e vuoi aumentare le tue competenze e diventare un membro senior del tuo team, potresti chiederti quali sono i passi da intraprendere per raggiungere questo obiettivo.
 
 Beh, non temere! Ecco 4 idee (più alcune extra) che credo ti aiuteranno nel tuo percorso.
-
 
 ## Scendere giú di un livello
 
@@ -345,7 +330,7 @@ Quando si applica questa mentalità di apprendimento continuo e di condivisione 
 
 Un’altra idea per far entrare le persone in sintonia tra loro e generare una stimolazione reciproca delle idee è quella di organizzare hackathon aziendali o giornate di studio gratuite. Questi sono ottimi modi per aiutare i team ad appassionarsi a ciò che fanno, a esplorare nuove idee, a imparare cose nuove e, in definitiva, a mettere le persone in condizione di fornire più valore nel breve e nel lungo termine.
 
-## Pair programming 
+## Pair programming
 
 Il pair programming è un altro grande strumento che puoi sfruttare per dare una spinta alle tue competenze. Collaborare con il maggior numero possibile di persone all’interno dell’organizzazione è fondamentale. Anche se qualcuno è più giovane di te, può comunque avere intuizioni e prospettive che forse non avevi considerato prima. La programmazione in coppia offre una piattaforma per condividere idee e imparare gli uni dagli altri.
 
@@ -357,7 +342,7 @@ Alla fine, la cosa più importante è rimanere aperti a nuove idee e approcci. C
 
 ## Creazione di contenuti
 
-Prima di tutto, la creazione di contenuti può assumere diverse forme: articoli, presentazioni, video, discussioni tecniche su canali social, e chi più ne ha più ne metta! E indovina un po’? Non occorre essere un esperto per condividere qualcosa di nuovo che hai imparato. Anche se sei alle prime armi con un determinato argomento, la tua nuova prospettiva può portare valore agli altri e aiutarti ad confrontarti con i gente piú esperta nello specifico settore. 
+Prima di tutto, la creazione di contenuti può assumere diverse forme: articoli, presentazioni, video, discussioni tecniche su canali social, e chi più ne ha più ne metta! E indovina un po’? Non occorre essere un esperto per condividere qualcosa di nuovo che hai imparato. Anche se sei alle prime armi con un determinato argomento, la tua nuova prospettiva può portare valore agli altri e aiutarti ad confrontarti con i gente piú esperta nello specifico settore.
 
 Potresti ad esempio creare dei contenuti per dare le tue prime impressioni dopo aver provato un nuovo linguaggio di programmazione o un framework. Cosa ti è piaciuto? C’è stato qualcosa che ti ha confuso? Cosa ti è mancato rispetto alla tua precedente esperienza con altri strumenti simili?
 
@@ -365,14 +350,13 @@ C'é un trucco: devi farlo diventare un’abitudine. Impegnati a seguire un prog
 
 A proposito di comunicazione, è qui che la creazione di contenuti brilla. Come ingegneri, amiamo perderci nei dettagli tecnici, ma spiegare concetti complessi a interlocutori non tecnici può essere difficile. Creando contenuti, imparerai a comunicare i tuoi concetti in modo chiaro e coinvolgente per un pubblico più ampio. Inoltre, avrai l’opportunità di ricevere un parere sui tuoi contenuti e, se presterai attenzione, potrai migliorare ulteriormente le tue capacità comunicative.
 
-Hai mai sentito parlare di [atomic essays](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide) (saggi atomici)? Si tratta di suddividere le tue  idee in parti di contenuto più brevi e mirate. Questo approccio può rendere i tuoi contenuti più coinvolgenti e più facili da assimilare, soprattutto su piattaforme social come X, dove la brevità è fondamentale. Se non sai che tipo di contenuti creare, questo potrebbe essere un buon formato per iniziare.
+Hai mai sentito parlare di [atomic essays](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide) (saggi atomici)? Si tratta di suddividere le tue idee in parti di contenuto più brevi e mirate. Questo approccio può rendere i tuoi contenuti più coinvolgenti e più facili da assimilare, soprattutto su piattaforme social come X, dove la brevità è fondamentale. Se non sai che tipo di contenuti creare, questo potrebbe essere un buon formato per iniziare.
 
 Se non sai su cosa creare contenuti, ecco il mio consiglio: ogni giorno, alla fine della tua giornata lavorativa, scrivi 1 cosa nuova che pensi di aver imparato durante la giornata. Alla fine della settimana lavorativa, rivedi i tuoi punti. Sono sicuro che per almeno uno di questi potrebbe essere un argomento da condividere e sul quale potresti creare dei contenuti.
 
-La creazione di contenuti può aiutarti a diventare uno sviluppatore più esperto, affermandoti come personaggio di rilievo in un dato ambito, sviluppando le tue capacità di comunicazione e contribuendo alla comunità. Quindi, vai e condividi le tue conoscenze con il mondo. 
+La creazione di contenuti può aiutarti a diventare uno sviluppatore più esperto, affermandoti come personaggio di rilievo in un dato ambito, sviluppando le tue capacità di comunicazione e contribuendo alla comunità. Quindi, vai e condividi le tue conoscenze con il mondo.
 
 Ti sorprenderai dell’impatto che avrà su di te e sugli altri!
-
 
 ## Altre idee
 
@@ -388,7 +372,6 @@ Quando si tratta di affrontare compiti difficili, non avere paura di offrirti co
 
 Infine, come regola generale, cerca di migliorare un po’ le cose ogni volta che ne hai la possibilità. Che si tratti di documentare un processo, migliorare l’interfaccia utente di un’applicazione o snellire un flusso di lavoro, o persino correggere un errore di battitura in un file di documentazione. Ogni piccolo miglioramento è importante. Con il tempo, questi piccoli successi si accumulano e ci aiutano a diventare membri più validi del team.
 
-
 ## Come faccio a vendermi come sviluppatore senior?
 
 Se penso di essere uno sviluppatore senior, cosa posso fare per essere riconosciuto come tale?
@@ -401,10 +384,9 @@ In terzo luogo, concentrati sullo sviluppo delle tue soft skills. In qualità di
 
 Un altro modo per dimostrare la tua competenza è condividere le tue conoscenze con gli altri. Scrivi post su blog tecnici, registra video didattici o intervieni a eventi interni o esterni per mostrare la tua esperienza e dimostrare la tua volontà di aiutare gli altri a imparare.
 
-Infine, cerca il parere dei tuoi colleghi, dei mentori e dei manager. Chiedi critiche costruttive e sii aperto a suggerimenti per migliorare. 
+Infine, cerca il parere dei tuoi colleghi, dei mentori e dei manager. Chiedi critiche costruttive e sii aperto a suggerimenti per migliorare.
 
 La ricettività ai commenti consente di migliorare continuamente le tue competenze e di dimostrare il tuo impegno a crescere e ad apprendere come ingegnere senior.
-
 
 In conclusione, la definizione di ingegnere software senior è complessa e sfaccettata, ma in generale implica il possesso di una profonda competenza tecnica, un’ampia conoscenza del settore e una serie di competenze trasversali che consentono una comunicazione efficace, la leadership e la risoluzione dei problemi.
 
