@@ -312,7 +312,7 @@ Ed il modo migliore per esplorare questi piani é quello di costruire qualcosa. 
 
 Costruire prototipi è un ottimo modo per memorizzare alcuni concetti e mettere davvero alla prova la vostra conoscenza. Naturalmente, costruire richiede uno sforzo maggiore, quindi scegli con saggezza gli esercizi di prototipazione: non è possibile reimplementare oltre 60 anni di ingegneria del software solo per il gusto di imparare!
 
-Un video divertente che mi è piaciuto molto ultimamente è [The Computer Science Iceberg](https://www.youtube.com/watch?v=H565avw-ufk). Perché mi piace così tanto? Perché é diverte, ironico e soprattutto perché illustra davvero bene l’idea di livelli graduali di astrazione e di ricerca di conoscenze fondamentali e generiche.
+Un video divertente che mi è piaciuto molto ultimamente è [The Computer Science Iceberg](https://www.youtube.com/watch?v=H565avw-ufk). Perché mi piace così tanto? Perché é divertente, ironico e soprattutto perché illustra davvero bene l’idea di livelli graduali di astrazione e di ricerca di conoscenze fondamentali e generiche.
 
 ## Divertiti
 
