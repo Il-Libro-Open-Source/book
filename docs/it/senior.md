@@ -26,7 +26,7 @@ La nostra esplorazione sará contaminata dalle opinioni e le esperienze personal
 
 ## Senior? Si, ma quanto?
 
-Immaginiamo per un attimo di essere il CTO di un'azienda in forte crescita. Abbiamo costruito un prodotto grazie al supporto di un'azienda di consulenza esterna, ma adesso é fondamentale portare lo sviluppo in-house e costruire un team interno per poter rendere l'azienda stabile e raggiungere i prossimi obiettivi di crescita.
+Immaginiamo per un attimo di essere il CTO di un'azienda in forte crescita. Abbiamo costruito un prodotto grazie al supporto di un'azienda di consulenza esterna, ma adesso é fondamentale portare lo sviluppo _in-house_ e costruire un team interno per poter rendere l'azienda stabile e raggiungere i prossimi obiettivi di crescita.
 
 Quello che ci serve in questa fase é un team di sviluppatori senior che possa essere la base attorno alla quale costruire e far crescere un team piú ampio e variegato di professionisti del software.
 
