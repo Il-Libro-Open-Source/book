@@ -76,7 +76,7 @@ Nella mia carriera ho avuto la fortuna di lavorare con dei colleghi giovani ma b
 
 Mi é anche capitato di lavorare con colleghi con tanti anni di esperienza e anche grosse aziende sul CV che invece si sono limitati a fare il minimo indispensabile e, quando coinvolti nella risoluzione di problemi complessi, mostravano serie lacune sia tecniche che di comprensione del business.
 
-Certo, questi sono esempi estremi e non sono sicuramente la norma. Il punto é che non bisogna assolutamente puntare ne agli anni di esperienza ne all'etá, ma bisogna piuttosto mirare alle competenze acquisite e alla capacitá (e volontá) di continuare ad acquisirne di nuove.
+Certo, questi sono esempi estremi e non sono sicuramente la norma. Il punto é che non bisogna assolutamente puntare né agli anni di esperienza né all'età, ma piuttosto mirare alle competenze acquisite e alla capacità (e volontà) di continuare ad acquisirne di nuove.
 
 ## Le competenze
 
