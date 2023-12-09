@@ -30,7 +30,7 @@ Immaginiamo per un attimo di essere il CTO di un'azienda in forte crescita. Abbi
 
 Quello che ci serve in questa fase é un team di sviluppatori senior che possa essere la base attorno alla quale costruire e far crescere un team piú ampio e variegato di professionisti del software.
 
-Iniziamo a pensare a come scrivere una job spec per la ricerca di questi sviluppatori senior. Cosa dovremmo scrivere? Cosa dovremmo cercare? Come definiamo il profilo che stiamo cercando?
+Iniziamo a pensare a come scrivere una _job spec_ - ovvero una descrizione dell'offerta e del ruolo - per la ricerca di questi sviluppatori senior. Cosa dovremmo scrivere? Cosa dovremmo cercare? Come definiamo il profilo che stiamo cercando?
 
 Non abbiamo ancora scritto neanche il titolo del profilo ricercato e siamo giá in preda ad un blocco creativo. Forse é il caso di andare a sbirciare cosa fanno le aziende concorrenti o altre aziende leader nel mercato del softare...
 
