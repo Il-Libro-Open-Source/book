@@ -72,7 +72,7 @@ Beh, ritornando a indossare gli abiti del nostro fantomatico CTO, assumeremmo qu
 
 É vero che aver investito piú tempo in certe attivitá potrebbe significare aver avuto piú occasioni per imparare ed eccellere in una data disciplina. Ma il mondo software é una disciplina cosí complessa ed in continuo cambiamento in cui l'equazione "tanto tempo = grandi competenze" diventa una semplificazione troppo banale e rischiosa.
 
-Nella mia carriera ho avuto la fortuna di lavorare con dei colleghi giovani ma brillanti, in grado di comprendere a fondo problemi tecnici e di business e in grado di dare un grandissimo contributo al team in cui lavoravono.
+Nella mia carriera ho avuto la fortuna di lavorare con dei colleghi giovani ma brillanti, in grado di comprendere a fondo problemi tecnici e di business e in grado di dare un grandissimo contributo al team in cui lavoravano.
 
 Mi é anche capitato di lavorare con colleghi con tanti anni di esperienza e anche grosse aziende sul CV che invece si sono limitati a fare il minimo indispensabile e, quando coinvolti nella risoluzione di problemi complessi, mostravano serie lacune sia tecniche che di comprensione del business.
 
