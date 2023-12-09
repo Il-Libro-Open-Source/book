@@ -84,7 +84,7 @@ Se non é una questione di anni di esperienza sul campo su cosa dobbiamo concent
 
 Se definiamo un senior come qualcuno in grado far progredire progetti e persone, ci saranno sicuramente delle competenze necessarie al fine di poter raggiungere questi obiettivi.
 
-Queste competenze non sono esclusivamente tecniche ma anche non-tecniche o di comunicazione. Uno sviluppaore senior deve essere familiare con piú linguaggi di programmazione, framework, database, architetture software, etc. Ma deve anche avere ottime capacitá comunicative, capacitá di leadership, capacitá di business e problem-solving.
+Queste competenze non sono esclusivamente tecniche ma anche non-tecniche o di comunicazione. Uno sviluppatore senior deve essere familiare con piú linguaggi di programmazione, framework, database, architetture software, etc. Ma deve anche avere ottime capacitá comunicative, capacitá di leadership, capacitá di business e problem-solving.
 
 A volte le skill non tecniche possono risultare anche piú importanti di quelle prettamente tecniche. Perché non importa solamente quello che sai, importa anche come tu sia in grado di trasmetterlo permettendo agli altri di sfruttare il tuo sapere. Come condividere la tua esperienza, sbloccare situazioni difficili e rendere il gruppo di lavoro autosufficiente e produttivo.
 
