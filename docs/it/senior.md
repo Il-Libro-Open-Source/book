@@ -98,7 +98,7 @@ Tuttavia i problemi non sono sempre di natura tecnica, specie all’interno dell
 
 La migliore soluzione da un punto di vista strettamente tecnico non è necessariamente la migliore soluzione per una data azienda.
 
-Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbandonare soluzioni tecnicamente ottimnali in favore di soluzioni piú adatte alla squadra e alle circostanze di business.
+Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbandonare soluzioni tecnicamente ottimali in favore di soluzioni piú adatte alla squadra e alle circostanze di business.
 
 Un esempio estremo potrebbe essere quello di uno sviluppatore capace di scrivere codice di basso livello e iper-ottimizzato per un dato obiettivo. Questo approccio potrebbe limitare l'accesso al progretto a pochissimi individui con competenze simili. Quante aziende hanno veramente l'esigenza di produrre codice cosí ottimizzato? Spesso é piú conveniente puntare all'agilitá e alla possibilitá di iterare e sperimentare velocemente.
 
