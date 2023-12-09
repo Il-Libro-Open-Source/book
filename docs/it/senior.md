@@ -130,7 +130,7 @@ L'idea é quella di sviluppare un pensiero critico, grazie al quale si possa ess
 
 Un esempio classico potrebbe essere quello di comprendere e discutere le differenze e i compromessi tra architetture monolitiche o a microservizi. O ancora i compromessi che derivano da scelte di ottimizzazione che favoriscono la memoria piuttosto che la CPU. E cosí via: "alta scalabilità" contro "bassa latenza", "software generico e riutilizzabile" contro "software su misura", "complesso ed efficiente" contro "semplice e flessibile".
 
-Non ci sono soluzioni corrette e soluzioni sbagliate, ci sono solo diversi compromessi. Ed é fondamentale comprendere questi compromessi e prevedere l’effetto, sia nel breve che nel lungo termine, dei compromessi fatti. La domanda da farsi é "quale compromesso é quello migliore per gli obiettivi di business presenti e futuri"?
+Non ci sono soluzioni corrette o sbagliate, ma solo compromessi differenti. Ed é fondamentale comprendere questi compromessi e prevederne l’effetto, sia nel breve che nel lungo termine. La domanda da farsi é "quale compromesso é quello migliore per gli obiettivi di business presenti e futuri"?
 
 Raggiungere questo livello di maturitá è tutto fuorché semplice. Sicuramente necessita di una significativa quantità di tempo investito nello sviluppare prodotti software, adottando diverse pratiche, diversi linguaggi di programmazione, framework, metodologie e così via.
 
