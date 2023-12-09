@@ -102,7 +102,7 @@ Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbando
 
 Un esempio estremo potrebbe essere quello di uno sviluppatore capace di scrivere codice di basso livello e iper-ottimizzato per un dato obiettivo. Questo approccio potrebbe limitare l'accesso al progretto a pochissimi individui con competenze simili. Quante aziende hanno veramente l'esigenza di produrre codice cosí ottimizzato? Spesso é piú conveniente puntare all'agilitá e alla possibilitá di iterare e sperimentare velocemente.
 
-Le competenze tecniche da sole non bastano a comprendere tutte le sfaccettature di un progetto e a trovare soluzioni che soddisfano tutte le necessità di business e spesso i migliori compromessi possono essere trovati con il giusto equilibrio di competenze sia tecniche che di business.
+Le competenze tecniche da sole non bastano a comprendere tutte le sfaccettature di un progetto e a trovare soluzioni che soddisfino tutte le necessità di business e spesso i migliori compromessi possono essere trovati con il giusto equilibrio di competenze sia tecniche che di business.
 
 ## Il profilo a "T"
 
