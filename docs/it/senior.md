@@ -12,7 +12,7 @@ In questo contesto cosí dinamico, cosa significa essre uno sviluppatore "senior
 
 Se dovessimo dare una definizione di un profilo "senior" in un'altra industria, ad esempio, l'indutria aeronautica, potremmo pensare al ruolo del capitano.
 
-Il capitano di un aereo é un profilo che é responsabile di tutti gli aspetti del volo, del velivolo, dei passeggeri e del personale di bordo. É un profilo che puo' sicuramente contare su diversi anni di studio, una grande esperienza (esplicitamente espressa in "ore o miglia di volo"). É sicuramente un percorso lungo che richiede tanta dedizione, ma anche un percorso piuttosto chiaro e standardizzato e che probabilmente non ha avuto significative variazioni negli ultimi 40 anni...
+Il capitano di un aereo é un profilo che é responsabile di tutti gli aspetti del volo, del velivolo, dei passeggeri e del personale di bordo. É un profilo che può sicuramente contare su diversi anni di studio, una grande esperienza (esplicitamente espressa in ore o miglia di volo). É sicuramente un percorso lungo che richiede tanta dedizione, ma anche un percorso piuttosto chiaro e standardizzato e che probabilmente non ha avuto significative variazioni negli ultimi 40 anni...
 
 Possiamo trovare una definizione simile anche in ambito software?
 
