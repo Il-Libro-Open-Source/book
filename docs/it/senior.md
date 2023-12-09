@@ -58,7 +58,7 @@ Oppure piú genericamente: "Ricerchiamo professionista con almeno 10 anni di esp
 
 Questo tipo di frasi sono cosí comuni da sembrare quasi banali e ogni tanto riescono anche a rubare qualche sorriso.
 
-Il mio esempio preferito é quello del creatore del famoso web framework per Python FastAPI. Sebastián Ramirez (@tiangolo) postó [un tweet](https://twitter.com/tiangolo/status/1281946592459853830) menzionando ad annuncio di lavoro che cercava un professionista con 5 anni di esperienza specificamente con FastAPI. Peccato che lui aveva creato FastAPI meno di 2 anni prima!
+Il mio esempio preferito é quello del creatore del famoso web framework per Python FastAPI. Sebastián Ramirez (@tiangolo) postó [un tweet](https://twitter.com/tiangolo/status/1281946592459853830) menzionando annuncio di lavoro nel quale si cercava un professionista con 5 anni di esperienza specificamente con FastAPI. Peccato che lui avesse creato FastAPI meno di 2 anni prima!
 
 Ah, se solo potessimo tornare indietro nel tempo!
 
