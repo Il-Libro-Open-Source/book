@@ -148,7 +148,7 @@ Bisogna trovare il modo di lasciare margine per commettere errori, imparare dai 
 
 È risaputo che il software privo di bug non esiste, quindi non proviamo neanche a pensare che uno sviluppatore senior possa scrivere codice senza bug!
 
-Benché le bug sono sempre dietro l'angolo, uno sviluppatore senior deve sapere cosa fare per ridurre al minimo il rischio di creare dei bug. Analogamente lo sviluppatore senior deve sapere come individuare i bug il più presto possibile, possibilmente prima che lo facciano gli utenti.
+Benché i bug sono sempre dietro l'angolo, uno sviluppatore senior deve sapere cosa fare per ridurre al minimo il rischio di creare dei bug. Analogamente lo sviluppatore senior deve sapere come individuare i bug il più presto possibile, possibilmente prima che lo facciano gli utenti.
 
 Questo comporta sviluppare tutta una serie di competenze quali: comprendere ed approfondire i resoconti degli utenti, scrivere diversi tipi di test (unitari, di integrazione, end-to-end), individuare ed analizzare i casi limite, leggere e ricercare informazioni all'interno dei log applicativi, riuscire a leggere ed interpretare varie metriche e dashboard.
 
