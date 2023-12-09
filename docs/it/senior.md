@@ -18,7 +18,7 @@ Possiamo trovare una definizione simile anche in ambito software?
 
 _Dipende!_
 
-In questo capitolo cercheremo di esplorare cosa significa essere senior in ambito software. Discuteremo cosa puó e deve offrire un senior al suo team e alla sua azienda. Discuteremo sia aspetti tecnici (hard skills) che aspetti meno tecnici (soft skills).
+In questo capitolo cercheremo di esplorare cosa significa essere senior in ambito software. Discuteremo cosa puó e deve offrire un senior al suo team e alla sua azienda, dagli aspetti più tecnici (hard skills) a quelli più umani (soft skills).
 
 Ma prima di imbarcarci in questo viaggio, é importante puntializzare che non esiste una definizione canonica di "senior". Ogni azienda ha la sua definizione, ogni team ha la sua definizione, ogni individuo ha la sua definizione.
 
