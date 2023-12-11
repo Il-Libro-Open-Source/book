@@ -40,11 +40,11 @@ Alcuni esempi di aziende di prodotto sono: Google, Meta e Spotify.
 
 ## Principali differenze
 
-Andremo a vedere adesso quali sono le principali differenze a livello di esperienza per uno sviluppatore che sceglie di lavorare per una o per l'altra tipologia. 
+Andremo a vedere adesso quali sono le principali differenze a livello di esperienza per uno sviluppatore che sceglie di lavorare per una o per l'altra tipologia.
 
 ### Cultura aziendale
 
-La cultura aziendale è il complesso dei valori che caratterizzano un'azienda. 
+La cultura aziendale è il complesso dei valori che caratterizzano un'azienda.
 
 Tutti sono responsabili del clima e della cultura aziendale all'interno della propria azienda, ma essa è principalmente influenzata dalle persone che sono ai vertici delle principali decisioni aziendali.
 
@@ -78,7 +78,7 @@ Per una persona Junior o senza una particolare esperienza significativa, è sicu
 
 Le aziende di consulenza in genere hanno tipologie di clienti simili ed offrono soluzioni per specifici ambiti (finance, automotive, e-commerce, medical, ecc...).
 
-La possibilità di variare linguaggi e tecnologie è sicuramente più alta rispetto un'azienda di prodotto, soprattutto se questa ha un singolo progetto. Lavorare nelle aziende di consulenza infatti permette generalmente di avere molte opportunità e fare molte esperienze diverse. 
+La possibilità di variare linguaggi e tecnologie è sicuramente più alta rispetto un'azienda di prodotto, soprattutto se questa ha un singolo progetto. Lavorare nelle aziende di consulenza infatti permette generalmente di avere molte opportunità e fare molte esperienze diverse.
 
 Anche se questo dipende molto dalla tipologia di clienti con cui l'azienda collabora. Potrebbe capitare infatti di lavorare con progetti legacy che il cliente non intende aggiornare per una questione di costi.
 
@@ -86,7 +86,7 @@ Nelle aziende di prodotto invece generalmente si ha un singolo o pochi progetti.
 
 ## Conclusioni
 
-Come abbiamo visto, la tipologia di azienda influenza significativamente la nostra esperienza e la nostra carriera come sviluppatori. 
+Come abbiamo visto, la tipologia di azienda influenza significativamente la nostra esperienza e la nostra carriera come sviluppatori.
 
 Ma quello che incide più di tutto è il modo in cui il management ed i vari reparti gestiscono i progetti, a prescindere dalla tipologia di azienda.
 
