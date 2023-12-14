@@ -6,7 +6,7 @@ Basta una semplice ricerca su Google, del tipo: _"Come diventare developer"_
 
 Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozionali di YouTube alle inserzioni su Facebook, inizieranno a proporre differenti percorsi formativi, principalmente incentrati sulla figura professionale nota come _Fullstack Developer_.
 
-Ma chi è questa fantomatica figura e come mai è così ricercata dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
+Ma cosa c'è dietro questa fantomatica figura e come mai è così ricercata dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
 
 Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più linguaggi di _frontend_ e di \_backend.
 Qui si apre un sipario enorme che cercheremo di ridurre molto semplicemente come segue.
@@ -14,7 +14,7 @@ Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali 
 Quindi chi programma crea il programma.
 Il programma è composto da una parte grafica ed una parte logica.
 
-Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione): il web.
+Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione) nel settore tech: il web.
 Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
 
 Un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
@@ -37,7 +37,7 @@ _Con il termine "fullstack" intendiamo una figura che però non ha necessariamen
 
 "Ok, ma queste informazioni come possono essermi utili nella **scelta degli argomenti su cui formarmi?**"
 
-Sapere che esistono questi 2 mondi, _frontend_ e _backend_, permette di fare una piccolissima cernita tra le varie strade che si possono intraprendere nel diventare **developer**.
+Sapere che esistono questi 2 mondi, _frontend_ e _backend_, permette di fare una piccolissima separazione logica tra le varie strade che si possono intraprendere nel diventare **developer**.
 
 La cosa fondamentale che bisogna tenere a mente quando si inizia ad intraprendere un percorso di formazione nell'ambito della programmazione è: se inizi con una cosa non è detto che poi farai quella per tutto il resto della carriera.
 
@@ -62,7 +62,7 @@ La permeanza della tecnologia web permette anche un accesso al mercato più faci
 "Mi stai dicendo che è più facile fare i siti web piuttosto che i giochi?"
 Assolutamente no.
 
-Il concetto è che fare siti web è più accessibile sia in termini di **risorse tecnologiche** che in termini di **know how** di partenza, per un neofita, rispetto a fare videogiochi.
+Il concetto è che fare siti web è più accessibile sia in termini di **risorse tecnologiche** che in termini di **know-how** di partenza, per un neofita, rispetto a fare videogiochi.
 
 "Ok, ipotizziamo che voglia partire nell'imparare a fare siti web, come scelgo il percorso giusto?"
 Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dal proprio approccio che si ha con lo studio, ma subentrano anche altri fattori non da poco come ad esempio il tempo (inteso sia come tempo a disposizione per studiare e sia come quantità di tempo necessaria per raggiungere lo scopo), oppure gli sbocchi lavorativi.
@@ -70,7 +70,7 @@ Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dal p
 ## Prima fase: come approcciare lo studio
 
 Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi che invece seguono più assiduamente i propri alunni.
-Non c'è un giusto o sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare, e la maggior parte delle volte impariamo per conto nostro.
+Non ce n'è uno giusto piuttosto che uno sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare, e la maggior parte delle volte impariamo per conto nostro.
 Sicuramente sarebbe meglio, almeno nella fase iniziale, avere qualcuno che ci segua e sviluppi la nostra curiosità.
 Qualcuno che ci segue ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
 La curiosità invece ci insegna l'autonomia e soprattutto, cosa molto importante, ci aiuta a trovare la nostra strada.
@@ -83,7 +83,7 @@ Alcuni percorsi di formazione si stendono su periodi di 3 mesi, altri di 6, altr
 Alcuni sono costituiti da classi e le lezioni si tengono in presenza, altri invece completamente da remoto con lezioni live oppure on-demand.
 Anche qui, una formula magica non esiste.
 
-Diventare developer non è semplice, essere developer è una questione di **mindset**, quindi serve del tempo per cambiare il nostro modo di approcciare e di vedere le cose.
+Diventare developer non è semplice, ed essere developer è una questione di **mindset**, quindi serve del tempo per cambiare il nostro modo di approcciare e di vedere le cose.
 In sostanza... ci vuole tempo.
 
 Quindi maggiore tempo dedichiamo alla nostra formazione e migliore è il risultato che otterremo alla fine del processo.
@@ -112,7 +112,7 @@ Fare quindi affidamento ad una tecnologia piuttosto che ad un'altra per impostar
 
 Se si vuole rimanere appetibili nei confronti delle aziende e del mercato dobbiamo quindi essere in grado di adattarci ai cambiamenti e, soprattutto, aggiornarci (eh si... spesso questo processo avviene in completa autonomia).
 
-Facciamo un esempio: settore siti web.
+Facciamo un esempio, rimanendo sempre nel campo dei siti web.
 Prima i Layout (la parte grafica del sito web) non seguivano degli "standard" veri e propri, poi ad un certo punto sono nati dei _Framework_ (si tratta di un'insieme di strumenti) che hanno definito tali standard (come ad esempio il concetto di colonne molto utile per rendere un sito web _responsive_ ovvero adattabile ad ogni dispositivo).
 
 Quindi chi progettava i Layout ha dovuto apprendere tali "standard" per non rimanere fuori mercato dato che, ovviamente, tutti i siti ad oggi sono navigabili e fruibili anche dal nostro Smartphone.
@@ -145,15 +145,15 @@ Scegliete un percorso di formazione che vi permette di lavorare in **team** face
 "Ok tutto chiaro, ma le aziende cosa cercano? Perchè dovrebbero prendere una persona che ha fatto un corso?"
 Le aziende cercano, e cercheranno sempre, figure _Junior_ perchè esse sono più "malleabili" e quindi è più facile "impostarle" per quelle che sono le necessità specifiche dell'azienda in questione.
 
-Quando una azienda assume significa che è pronta ad investire del tempo e del denaro su delle nuove risorse, quindi è pronta a fare crescere qualcuno all'interno del proprio ambiente.
+Quando una azienda assume, significa che è pronta a investire tempo e denaro sulle nuove risorse, quindi è pronta a fare crescere qualcuno all'interno del proprio ambiente.
 
 Ciò significa 2 cose:
 
-- dovrete ancora imparare
-- crescita personale e formativa
+- c'è ancora da imparare, ma...
+- ...questo porta a crescita personale e formativa
 
-Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente riguardo la parte tecnica, non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
+Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente riguardo la parte tecnica, e non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
 
 Dunque scegliere un percorso di formazione, se si ha la possibilità, sicuramente è meglio piuttosto che decidere di intraprendere un percorso da "autodidatta" sia perchè otterrete dei risultati tangibili in minor tempo, sia anche perchè il percorso di formazione stesso vi farà da "garante".
 
-Quindi, per concludere, se non sai da dove partire, buttati! Strada facendo troverai quella più adatta alle tue esigenze. Se invece hai già le idee chiare allora è tutto più semplice (ma ricordati di essere disponibile al cambiamento).
+Quindi, per concludere, se non sai da dove partire, **buttati**! Strada facendo, troverai quella più adatta alle tue esigenze. Se invece hai già le idee chiare, allora è tutto più semplice (ma ricordati di essere disponibile al cambiamento).
