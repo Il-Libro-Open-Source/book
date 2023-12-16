@@ -8,7 +8,7 @@ Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozio
 
 Ma cosa c'è dietro questa fantomatica figura e come mai è così ricercata dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
 
-Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più linguaggi di _frontend_ e di \_backend.
+Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più linguaggi di programmazione _frontend_ e _backend_.
 Qui si apre un sipario enorme che cercheremo di ridurre molto semplicemente come segue.
 Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque entrare nel mondo dello sviluppo.
 Quindi chi programma crea il programma.
@@ -18,8 +18,8 @@ Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione) nel s
 Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
 
 Un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
-Poi siamo passati ad avere 2 figure: _Web Designer_ (la figura che si occupava di realizzare l'interfaccia grafica, detta anche UI/UX) ed _Web Developer_ (che traduceva in codice ciò che veniva designato dalla prima figura).
-Oggi la situazione è differente, e per fare un sito web servono almeno 3 figure: _Designer_ (che si occupa di realizzare l'interfaccia grafica UI/UX), _Frontend Developer_ e _Backend Developer_.
+Poi siamo passati ad avere 2 figure: _Web Designer_ (la figura che si occupava di realizzare l'interfaccia grafica, detta anche UI/UX) e _Web Developer_ (che traduceva in codice ciò che veniva designato dalla prima figura).
+Oggi la situazione è differente, e per fare un sito web servono almeno 3 figure: _Designer_, _Frontend Developer_ e _Backend Developer_.
 
 Tutto ciò ovviamente oggi ha un costo nettamente superiore in termini anche aziendali, per questo motivo il mercato necessita di _Fullstack Developer_ che siano in grado di tradurre le componenti prodotte dal _Designer_ e agganciare le logiche funzionali del progetto.
 
@@ -33,7 +33,7 @@ Quindi, per sommi capi, la figura del _Fullstack Developer_ è la fusione tra _F
 
 I professionisti di settore sono ben consapevoli che ad oggi, con l'evoluzione dei linguaggi di programmazione, risulta **difficilissimo** conoscere e padroneggiare in maniera corretta ed approfondita entrambi gli aspetti (_frontend_ e _backend_), mentre i percorsi di formazione mirano piuttosto a fornire un'infarinatura generale di entrambi gli aspetti per permettere poi a chi vuole diventare _developer_ di scegliere in autonomia quale strada seguire.
 
-_Con il termine "fullstack" intendiamo una figura che però non ha necessariamente competenze sistemistiche, di infrastruttura, di UI/UX e tutte quelle nuances che al giorno d'oggi sono però fondamentali._
+_Con il termine "fullstack" intendiamo una figura che però non ha necessariamente competenze sistemistiche, di infrastruttura, di UI/UX e tutte quelle nuance che al giorno d'oggi sono però fondamentali._
 
 "Ok, ma queste informazioni come possono essermi utili nella **scelta degli argomenti su cui formarmi?**"
 
