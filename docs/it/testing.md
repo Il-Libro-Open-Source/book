@@ -6,10 +6,10 @@ Il testing è una parte fondamentale di ogni progetto software. In questo capito
 
 Esistono diversi tipi di test, ognuno con un suo scopo ben preciso.
 
-Si fa spesso riferimento alla piramide del testing, che rappresenta la proporzione tra i diversi tipi di test:
+Si fa spesso riferimento alla piramide del testing, che rappresenta la proporzione tra di essi:
 <img src="./testing/piramide.png" alt="Piramide del testing"/>
 
-Di seguito vedremo nel dettaglio i diversi tipi di test.
+Nel resto del capitolo li vedremo nel dettaglio.
 
 ### Unit test
 
@@ -106,6 +106,8 @@ L'automated testing è una metodologia di testing in cui i test vengono eseguiti
 
 Il continuous testing è una metodologia di testing in cui i test vengono eseguiti automaticamente ad ogni commit o ad ogni modifica del codice sorgente.
 
+Solitamente viene utilizzato in congiunzione con il concetto di _continuous integration_, ovvero una metodologia di sviluppo software in cui i membri di un team integrano il proprio lavoro frequentemente, generalmente ogni giorno o più volte al giorno. Ogni integrazione viene verificata da un'automazione di build (compilazione) che permette di individuare errori di integrazione il prima possibile.
+
 ### Test-driven development
 
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
@@ -139,7 +141,7 @@ Una volta che il test rosso viene scritto, il turno sarà finito e la tastiera t
 
 ### Behavior-driven development
 
-Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione degli sviluppi, creando un dialogo tra Product Owner e Dev Team, con i test come lingua comune.
+Il behavior-driven development (BDD) è una metodologia che permette di esplicitare i requisiti funzionali, tramite test. Questo permette una maggior comprensione degli sviluppi, creando un dialogo tra Product Team e Dev Team, con i test come lingua comune.
 
 Questo tipo di test viene scritto con un linguaggio chiamato _gherkins_, composto da Feature e vari scenari. Ogni scenario è composto da:
 
@@ -147,7 +149,7 @@ Questo tipo di test viene scritto con un linguaggio chiamato _gherkins_, compost
 2. When: un'azione sotto test.
 3. Then: una condizione da verificare.
 
-Di seguito un esmpio che descrive una semplice ricerca su Google:
+Di seguito un esempio che descrive una semplice ricerca su Google:
 
 ```
 Feature: Google Searching
@@ -161,6 +163,10 @@ Feature: Google Searching
 
 ## Test Coverage
 
-La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile. Inoltre, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
+La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile, oltre che non necessario. Una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
 
 **La test coverage ci dice quanto del nostro codice si comporta come ci aspettiamo, ma non è detto che ciò che ci aspettiamo sia corretto.**
+
+### Over-testing
+
+Altra nota importante è relativa alla _coverage 100%_: solitamente si sconsiglia l'adozione di una coverage così alta in quanto si rischia di incorrere in un fenomeno chiamato _over-testing_, nel quale si testano tutte le possibili casistiche, anche quelle che non hanno senso e che impiegano molto tempo ad essere scritte. Questo fenomeno è molto pericoloso, in quanto si rischia di scrivere codice per il mero raggiungimento di un numero, la coverage appunto, che non aggiunge valore al prodotto e che non soddisfa alcun requisito funzionale o non funzionale.
