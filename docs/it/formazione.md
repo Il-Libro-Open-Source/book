@@ -8,7 +8,7 @@ Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozio
 
 Ma chi è questa fantomatica figura e come mai è così ricercata dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
 
-Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più linguaggi di _frontend_ e di \_backend.
+Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più linguaggi di _frontend_ e di _backend_.
 Qui si apre un sipario enorme che cercheremo di ridurre molto semplicemente come segue.
 Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque entrare nel mondo dello sviluppo.
 Quindi chi programma crea il programma.
