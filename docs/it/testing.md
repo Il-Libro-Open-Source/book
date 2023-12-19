@@ -13,21 +13,21 @@ Nel resto del capitolo li vedremo nel dettaglio.
 
 ### Unit test
 
-Il test unitario è un processo di sviluppo software in cui le parti testabili più piccole di un'applicazione, denominate unità, vengono esaminate individualmente per verificarne il corretto funzionamento. Chi sviluppa e talvolta il personale del controllo qualità completano i test unitari durante il processo di sviluppo. Per unità solitamente si intende una funzione o una piccola serie di funzioni i cui comportamenti sono strettamente legati.
+Il test unitario è un processo di sviluppo software in cui le parti testabili più piccole di un'applicazione, denominate unità, vengono esaminate individualmente per verificarne il corretto funzionamento. Chi sviluppa, o chi si occupa del controllo qualità del software, completa i test unitari durante il processo di sviluppo. Per unità solitamente si intende una funzione o una piccola serie di funzioni i cui comportamenti sono strettamente legati.
 
 Il punto principale è la presenza di un contesto isolato con un obiettivo.
 
-Non dovrebbe avere dipendenze, se presenti queste dovrebbero essere messe sotto mock quando possibile. Un mock è letteralmente un classe che finge di essere la classe che vogliamo mockare. Questo è importante perché ci permette di simulare tutti i comportamenti che potrebbe avere la dipendenza senza dipendere direttamente da essa.
+L'unità che ci si appresta a testare non dovrebbe avere _dipendenze_, ossia richiamare codice di altre unità. Quando ciò accade, il codice richiamato (la dipendenza) dovrebbe essere _messa sotto mock_, cioè essere sostituito, nel contesto dello unit test, da una funzione che ne fa le veci. Questa funzione, denominata appunto **mock**, ci permette di simulare tutti i comportamenti che potrebbe avere la dipendenza senza dipendere direttamente da essa.
 
-Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità. Più righe di codice sono coperte da un test, più è facile raggiungere la coverage al 100%
+Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità. Per Coverage si intende infatti la percentuale di righe di codice testate sul totale.
 
 Solitamente i problemi rilevabili negli unit test sono più facili da correggere perché riguardano piccole porzioni di codice e molti test sono riutilizzabili anche in altri progetti se si usa codice condiviso.
 
-D'altro canto, se i test sono scritti male o non hanno una buona coverage, danno falsa sicurezza e non prevengono i bug, inoltre impiegano tanto tempo ad essere scritti.
+D'altro canto, se i test sono scritti male o non forniscono una buona coverage, danno falsa sicurezza e non prevengono i bug, e il (tanto) tempo impiegato a scriverli risulta inutile.
 
 ### Integration test
 
-Il test di integrazione è una tecnica di test del software che ha come obiettivo quello di testare le integrazioni tra più componenti o moduli di un sistema software. Ha lo scopo di verificare che i diversi componenti, quando combinati, funzionino correttamente e producano i risultati attesi.
+Il test di integrazione è una tecnica di test del software che ha come obiettivo quello di testare più componenti o moduli di un sistema software insieme. Ha lo scopo di verificare che i diversi componenti, quando combinati, funzionino correttamente e producano i risultati attesi.
 
 Concetti principali:
 
@@ -42,7 +42,7 @@ Tipologie di test:
 - **Bottom-up testing**: Approccio incrementale al contrario. Si parte da sotto e si va in alto. Anche qui parliamo di grosse codebase, iniziare è più facile ma ha meno impatto, proseguendo anche qui diventa sempre più facile perché l’impalcatura sotto funziona.
 - **Sandwich** o **Hybrid Testing**: Combinazione dei due approcci sopra basati su un planning di priorità.
 
-Quando si lavora in team più o meno grandi non sempre ci si può assicurare che quanto sviluppato da una parte del team comunichi correttamente con quanto sviluppato da un’altra parte del team, questi test sono fondamentali in questi contesti, inoltre è facile individuare e correggere il comportamento di una specifica funzione (Tramite unit test o tramite semplice attenzione quando si sviluppa), più difficile è notare eventuali differenze nel modo in cui i componenti di un’applicazione interagiscono tra di loro. I test di integrazione sono OTTIMI per garantire questa sicurezza.
+Quando si lavora in team, più o meno grandi, non sempre ci si può assicurare che quanto sviluppato da una parte del team comunichi correttamente con quanto sviluppato da un’altra parte del team: gli Integration test sono fondamentali in questi contesti. Inoltre, se è facile individuare e correggere il comportamento di una specifica funzione (tramite unit test o tramite semplice attenzione quando si sviluppa), più difficile è notare eventuali differenze nel modo in cui i componenti di un’applicazione interagiscono tra di loro. I test di integrazione sono OTTIMI per garantire questa sicurezza.
 Infine, l’integrazione tra componenti non è solo da intendersi come "corretta comunicazione e scambio di informazioni tra le parti" ma anche "corretta gestione degli errori". In definitiva, se due o più componenti funzionano assieme e i test sono stati scritti correttamente, abbiamo quasi l'assoluta certezza del loro funzionamento combinato.
 
 D'altro canto è complesso realizzare dei test di integrazione e mantenerli nel tempo per via dell’evoluzione naturale del software su cui si lavora.
@@ -68,7 +68,7 @@ Infine, a differenza degli altri tipi di test trattati, qui vediamo all’atto p
 
 Ricreando scenari realistici, abbiamo modo di avere una sicurezza “definitiva” (tra molte virgolette) del comportamento della piattaforma.
 
-D'altro canto, è difficile prevedere e analizzare quante farne e cosa testare. Inoltre il test è più lungo da scrivere perché mentre per un integration test basta cambiare un flag, un e2e deve probabilmente essere riscritto perché ha flussi differenti per giungere alla stessa conclusione.
+D'altro canto, è difficile prevedere e analizzare quante farne e cosa testare. Inoltre il test è più lungo da scrivere perché mentre per un integration test basta cambiare un flag per ottenere un flusso diverso, un test e2e deve probabilmente essere riscritto perché ha flussi differenti per giungere alla stessa conclusione.
 
 ## Tipologie di test
 
