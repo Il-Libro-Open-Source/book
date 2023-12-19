@@ -50,7 +50,7 @@ D'altro canto è complesso realizzare dei test di integrazione e mantenerli nel 
 Rispetto agli unit test, infatti, è più complicato trovare gli errori essendo più ad ampio spettro.
 
 Molto complesso individuare tutte le integrazioni che ha senso testare. La coverage al 100% è infatti inverosimile in progetti grossi.
-Spesso realizzare questi test è più complesso perché bisogna prima avere idea della codebase sottostante, a prescindere che si lavori in TDD o meno.
+Spesso realizzare questi test è più complesso perché bisogna prima avere idea della codebase sottostante, a prescindere che si lavori in TDD (Test Driven Development - vedi paragrafo successivo) o meno.
 
 ### End-to-end test
 
