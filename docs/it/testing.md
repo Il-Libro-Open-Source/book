@@ -19,7 +19,7 @@ Il punto principale è la presenza di un contesto isolato con un obiettivo.
 
 L'unità che ci si appresta a testare non dovrebbe avere _dipendenze_, ossia richiamare codice di altre unità. Quando ciò accade, il codice richiamato (la dipendenza) dovrebbe essere _messa sotto mock_, cioè essere sostituito, nel contesto dello unit test, da una funzione che ne fa le veci. Questa funzione, denominata appunto **mock**, ci permette di simulare tutti i comportamenti che potrebbe avere la dipendenza senza dipendere direttamente da essa.
 
-Coverage: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità. Per Coverage si intende infatti la percentuale di righe di codice testate sul totale.
+Parliamo anche del concetto di _coverage_: Solitamente gli unit test permettono di raggiungere alti livelli di code coverage proprio per via della loro granularità. Per Coverage si intende infatti la percentuale di righe di codice testate sul totale.
 
 Solitamente i problemi rilevabili negli unit test sono più facili da correggere perché riguardano piccole porzioni di codice e molti test sono riutilizzabili anche in altri progetti se si usa codice condiviso.
 
@@ -58,9 +58,9 @@ Il test end-to-end (E2E) è una metodologia di test del software che si concentr
 
 E qui sta il punto. I requisiti sono essenzialmente aziendali e non tecnici.
 
-Nei test E2E, l'intera applicazione o sistema viene testato in un modo che imita il modo in cui verrebbe utilizzato dagli utenti finali. Implica la simulazione delle interazioni dell'utente, l'inserimento dei dati e la convalida degli output previsti su più componenti, moduli e livelli del sistema.
+Nei test E2E, l'intera applicazione o sistema viene testato in un modo che imiti il modo in cui verrebbe utilizzato dagli utenti finali. Implica la simulazione delle interazioni dell'utente, l'inserimento dei dati e la convalida degli output previsti su più componenti, moduli e livelli del sistema.
 
-Anche qui parliamo di contesto e obiettivi, ma chiaramente non sono più “specifici” di per se perché, ad esempio, testare “specificatamente” un flusso di pagamento coinvolge centinaia di parti. Inoltre, vista la complessità rilevata nel realizzare questi test, solitamente si usano strumenti che perlomeno automatizzino alcune parti del processo, come un live recording via estensione del browser.
+Anche qui parliamo di contesto e obiettivi, ma chiaramente non sono più “specifici” di per sé perché, ad esempio, testare “specificatamente” un flusso di pagamento coinvolge centinaia di parti. Inoltre, vista la complessità rilevata nel realizzare questi test, solitamente si usano strumenti che perlomeno automatizzino alcune parti del processo, come un live recording via estensione del browser.
 
 A differenza degli altri tipi di test, qui possiamo verificare se l’esigenza non funzionale, e quindi di business, sia rispecchiata nel comportamento della piattaforma.
 
@@ -96,22 +96,22 @@ Di solito queste tre tecniche vengono utilizzate per individuare eventuali falle
 
 ### Manual testing
 
-Il manual testing è una metodologia di testing in cui i test vengono eseguiti manualmente dalla figura del tester. Questo approccio ha diversi svantaggi e solitamente viene utilizzato solo per testare le funzionalità più critiche del sistema quando non è possibile automatizzare i test. Questa metodologia viene chiamata anche _explorative testing_, tramite la quale si prova a rompere l'applicazione creando scenari difficilmente automatizzabili e scrivendo di conseguenza i test.
+Il manual testing è una metodologia in cui i test vengono eseguiti manualmente dalla figura del tester. Questo approccio ha diversi svantaggi e solitamente viene utilizzato solo per testare le funzionalità più critiche del sistema quando non è possibile automatizzare i test. Questa metodologia viene chiamata anche _explorative testing_, tramite la quale si prova a rompere l'applicazione creando scenari difficilmente automatizzabili e scrivendo di conseguenza i test.
 
 ### Automated testing
 
-L'automated testing è una metodologia di testing in cui i test vengono eseguiti automaticamente da un software. Questo approccio ha diversi vantaggi: **Ripetibilità**, **Riduzione dei costi**, **Riduzione dei tempi di sviluppo**.
+L'automated testing è una metodologia in cui i test vengono eseguiti automaticamente da un software. Questo approccio ha diversi vantaggi: **Ripetibilità**, **Riduzione dei costi**, **Riduzione dei tempi di sviluppo**.
 
 ### Continuous testing
 
-Il continuous testing è una metodologia di testing in cui i test vengono eseguiti automaticamente ad ogni commit o ad ogni modifica del codice sorgente.
+Il continuous testing è una metodologia in cui i test vengono eseguiti automaticamente ad ogni commit o ad ogni modifica del codice sorgente.
 
 Solitamente viene utilizzato in congiunzione con il concetto di _continuous integration_, ovvero una metodologia di sviluppo software in cui i membri di un team integrano il proprio lavoro frequentemente, generalmente ogni giorno o più volte al giorno. Ogni integrazione viene verificata da un'automazione di build (compilazione) che permette di individuare errori di integrazione il prima possibile.
 
 ### Test-driven development
 
 Il test-driven development (TDD) è una metodologia di sviluppo software che prevede di scrivere i test prima di scrivere il codice.
-La parola Test nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo partendo dagli obiettivi, sottoforma di test, che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (You aren't gonna need it), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare.
+La parola "test" nell'acronimo è spesso mal interpretata. Il TDD non è uno strumento per testare l'applicazione, ma per far emergere il design dell'applicativo partendo dagli obiettivi, sottoforma di test, che vogliamo soddisfare. Questo ci permette di rispettare il principio YAGNI (_You aren't gonna need it_), ovvero non scrivere codice per esigenze future, ma solo per soddisfare l'implementazione dei test da soddisfare.
 
 Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. Il ciclo TDD - Spesso chiamato _red-green-refactor_ - è semplice ma potente:
 
@@ -123,7 +123,7 @@ Il TDD inizia con la scrittura dei test prima di scrivere il codice effettivo. I
 
 Un altro vantaggio del TDD è che si sta automaticamente creando una documentazione tecnica. Guardando la descrizione dei test, è facile comprendere come debba comportarsi l'applicazione.
 
-Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati kata, spesso usati in sede di colloquio.
+Non c'è rosa senza spine! Il TDD non è una pratica facile da padroneggiare. Un ottimo modo per iniziare, è l'esercitazione attraverso esercizi mirati, chiamati _kata_, spesso usati in sede di colloquio.
 
 **Ping Pong TDD**
 
