@@ -48,9 +48,9 @@ Di seguito le caratteristiche chiave che chi ricopre questo ruolo dovrebbe avere
 - **Leadership**: Queste figure spesso assumono ruoli di leadership, guidando i team di sviluppo, facendo da mentor a figure junior e garantendo che la visione architetturale venga seguita durante tutto il ciclo di vita del progetto.
 - **Design Thinking**: Le persone che ricoprono questo ruolo dovrebbero possedere una mentalità orientata al design, concentrandosi sulla creazione di soluzioni eleganti ed efficienti. Ciò include la progettazione per scalabilità, prestazioni, sicurezza ed esperienza utente.
 - **Business thinking**: comprendere il contesto di business aziendale e gli obiettivi che l'azienda si è posta di raggiungere. Queste figure devono allineare le loro decisioni tecniche con gli obiettivi strategici dell'organizzazione.
-- **Adattabilità**: il panorama del software è in continua evoluzione. La figura dovrebbe essere aperta e adattarsi a nuove tecnologie e metodologie, nonché capace di rivalutare e riadattare l'architettura quando necessario.
+- **Adattabilità**: il panorama del software è in continua evoluzione. La figura dovrebbe essere aperta e adattarsi a nuove tecnologie e metodologie, nonché capace di rivalutare e riadattare l'architettura quando necessario, non solo per necessità tecniche, ma anche per rispondere ai cambiamenti del mercato e per soddisfare le esigenze dei clienti.
 
-Sebbene sia vero che il ruolo viene ricoperto da persone con una certa esperienza, non è detto che una figura junior non possa occuparsi di architetture software. Anzi, è molto importante che lo faccia, in quanto è un ottimo modo per imparare e crescere, ma il consiglio è di affiancare sempre una figura senior che possa guidare e supportare la persona junior.
+Sebbene sia vero che il ruolo viene ricoperto da persone con una certa esperienza, non è detto che una figura junior non possa occuparsi di architetture software. Anzi, è molto importante che lo faccia, in quanto è un ottimo modo per imparare e crescere, ma il consiglio è di iniziare in un contesto controllato, più piccolo in modo da poter sperimentare meglio. L'affiancamento di una figura senior che possa guidare è sicuramente di aiuto per una persona junior.
 
 ## Misurare la bontà di un'architettura
 
@@ -88,9 +88,9 @@ Alcuni esempi sono il monitoraggio dei tempi medi di risposta, il monitoraggio d
 
 ## Quali sono le principali architetture software?
 
-Esistono diverse architetture software, ognuna con i suoi pro e i suoi contro. Quanto segue è un elenco non esaustivo delle principali architetture software, diventato però nel corso dei decenni uno standard de facto.
+Esistono diverse architetture software, ognuna con i suoi pro e i suoi contro. In questa parte del libro, descriviamo le principali architetture software che, nel corso dei decenni, sono diventate uno standard de facto grazie alle loro molteplici implementazioni e casi di successo.
 
-Ad ogni architettura software è associato un elenco contenente i punti chiave che seguono:
+Per scegliere quale architettura usare in diversi contesti, possiamo fare riferimenti alle seguenti caratteristiche:
 
 - **Start-up**: Il tempo necessario per definire l'architettura software e cominciare a sviluppare funzionalità. Tale tempo non è da sottovalutare poiché potrebbe richiede, in base al contesto aziendale, una serie di procedure che possono essere automatizzate da tools come le `platform engineering tools`.
 - **Costi**: Il costo che si affronta nell'arco della vita di un progetto o un prodotto che implementi questa architettura. Da considerare che nell'effettiva valutazione dei costi bisogna differenziare eventuali costi di avvio, da pagare una tantum, da costi ricorrenti, da pagare periodicamente per la manutenzione.
@@ -100,10 +100,6 @@ Ad ogni architettura software è associato un elenco contenente i punti chiave c
 - **Performance**: La velocità con la quale il software è in grado di elaborare i dati per rispondere ad un'esigenza di business.
 
 Questi punti chiave sono da intendersi come una valutazione soggettiva, in quanto ogni architettura software può essere implementata in modi diversi, con conseguenze diverse, valutando criteri e parametri differenti in base alle proprie necessità e, pur essendo un elenco piuttosto esaustivo, mix di queste architetture hanno dimostrato di essere vincenti in molti casi, anche a discapito di quanto riportato qui sopra.
-
-Quando parliamo di _scalabilità verticale_ ci riferiamo all'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro.
-
-Quando parliamo di _scalabilità orizzontale_ ci riferiamo alla replicazione dei componenti del sistema, in modo da poter gestire un carico di lavoro maggiore. Le tecniche di scalabilità orizzontale sono varie e possono essere implementate in modi diversi, in base alle esigenze del sistema.
 
 I punti chiave sono espressi con dei voti che vanno da 1 a 5, dove 1 è il voto più basso e 5 il voto più alto. Per _alto_ si intende il valore migliore per il punto chiave in questione, mentre per _basso_ si intende il valore peggiore per il punto chiave in questione, ovvero il valore che si vorrebbe evitare. Nel caso di _costi_, ad esempio, un voto alto significa che i costi sono bassi, mentre un voto basso significa che i costi sono alti.
 
@@ -118,22 +114,32 @@ Segue una tabella riepilogativa dei punti di forza e di debolezza di ogni archit
 | **Scalabilità**             | ⭐️             | ⭐️                   | ⭐️⭐️          | ⭐️⭐️⭐️⭐️⭐️  | ⭐️⭐️⭐️⭐️      |
 | **Performance**             | ⭐️⭐️          | ⭐️                   | ⭐️⭐️⭐️⭐️    | ⭐️⭐️⭐️⭐️     | ⭐️⭐️⭐️⭐️      |
 
+Nelle sezioni che seguono verranno indicati alcuni termini che possono non essere familiari a tutti. Per questo motivo, quanto segue è un glossario dei termini più utilizzati.
+
+Quando parliamo di _scalabilità verticale_ ci riferiamo all'incremento delle risorse hardware a disposizione del sistema (CPU, RAM, storage, ecc.) quando queste non sono più sufficienti per gestire il carico di lavoro.
+
+Quando parliamo di _scalabilità orizzontale_ ci riferiamo alla replicazione dei componenti del sistema, in modo da poter gestire un carico di lavoro maggiore. Le tecniche di scalabilità orizzontale sono varie e possono essere implementate in modi diversi, in base alle esigenze del sistema.
+
+Quando parliamo di _layer applicativi_ ci riferiamo a un livello di astrazione del software. Il database, le API, il front-end, ecc. sono tutti layer del software.
+
 ### Monolite
 
-Il monolite è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto. È il tipo di architettura più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti, dal momento che questi ultimi risiedono all'interno dello stesso processo.
+Il monolite è un'architettura software in cui tutte le funzionalità sono sviluppate e distribuite come un singolo pacchetto. È il tipo di architettura più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti, dal momento che questi ultimi risiedono all'interno dello stesso applicativo.
 
 Trattasi dell'architettura software più semplice da implementare e più diffusa, ma anche la più difficile da scalare, in quanto non è possibile replicare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_.
 
 Solitamente questa architettura viene identificata anche come _Layered Architecture_.
 
-In questa architettura il database, il back-end e il front-end sono tutti parte dello stesso processo/applicativo.
+In questa architettura i layer applicativi sono tutti parte dello stesso applicativo.
+
+È importante notare che storicamente questa architettura è spesso risultata la più sensibile al concetto di _stratificazione del codice_, ovvero il continuo sviluppo di funzionalità una sopra l'altra in sostituzione o sovrapposizione di precedenti, rendendo il codice sempre più complesso e difficile da mantenere. Questo fenomeno è stato spesso chiamato _Big Ball of Mud_.
 
 - **Start-up**: 5. Il monolite è l'architettura software più semplice da implementare, in quanto non richiede particolari accorgimenti per la comunicazione tra i vari componenti o una necessità di valutazioni iniziali elevate. Molti linguaggi di programmazione, inoltre, offrono dei framework che permettono di implementare un monolite in pochi minuti. Fra i principali framework troviamo Ruby on Rails, Django, Spring Boot, Laravel, ecc.
 - **Costi**: 3. Pur essendo un'architettura _a basso costo_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
 - **Sviluppo e manutenzione**: 4. Il monolite è tra le architetture software più semplici da sviluppare e mantenere, per gli stessi motivi espressi nella voce _start-up_. I framework sono ormai molto maturi e permettono di sviluppare e mantenere un monolite in maniera molto semplice.
 - **Tracciabilità**: 4. Poiché tutti i componenti fanno parte dello stesso processo o blocco, è facile individuare la porzione di codice che ha generato un problema o un bug.
 - **Scalabilità**: 1. Il monolite è tra le architetture software più difficili da scalare, in quanto non è possibile replicare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
-- **Performance**: 2. La performance del monolite è legata alla capacità di scalare le risorse hardware a disposizione del sistema. Di conseguenza, la curva di crescita dei tempi di risposta tende ad essere esponenziale. Solitamente le performance, seppur buone nelle prime fasi di vita del software, tendono a degradare nel tempo.
+- **Performance**: 2. La performance del monolite è legata alla capacità di scalare le risorse hardware a disposizione del sistema. Di conseguenza, la curva di crescita dei tempi di risposta tende a crescere sempre di più. Solitamente le performance, seppur buone nelle prime fasi di vita del software, tendono a degradare nel tempo.
 
 ### Monolite Modulare
 
@@ -143,7 +149,7 @@ I moduli devono essere quanto possibile indipendenti tra di loro in modo da aver
 
 Da non confondersi con altre architetture, in questo caso i moduli sono parte dello stesso processo o applicativo, rendendo necessaria la _scalabilità verticale_.
 
-In questa architettura il database, il back-end e il front-end sono tutti parte dello stesso processo/applicativo.
+In questa architettura i layer applicativi sono tutti parte dello stesso applicativo.
 
 - **Start-up**: 4. Essendo una variante del monolite, lo start-up è molto semplice, ma la necessità di organizzare il codice in moduli può richiedere un po' di tempo.
 - **Costi**: 3. Pur essendo un'architettura _a basso costo_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
@@ -159,7 +165,7 @@ Questi plugin possono essere sviluppati e distribuiti in maniera indipendente, m
 
 Il concetto principale attorno a questa architettura è l'indipendenza totale tra i plugin. Per definizione, nessun plugin dovrebbe avere come dipendenza un altro plugin.
 
-In questa architettura il database, il back-end e il front-end sono tutti parte dello stesso applicativo.
+In questa architettura i layer applicativi sono tutti parte dello stesso applicativo.
 
 - **Start-up**: 4. Essendo una variante del monolite, lo start-up è molto semplice, ma la necessità di organizzare il codice in un nucleo centrale e implementare un sistema di plugin può richiedere più tempo.
 - **Costi**: 3. Pur essendo un'architettura _a basso costo_ in termini di start-up, il costo cresce esponenzialmente per via della necessità di _scalare orizzontalmente_.
@@ -172,7 +178,7 @@ In questa architettura il database, il back-end e il front-end sono tutti parte 
 
 La _buzzword_ per eccellenza degli ultimi anni.
 
-Spesso affiancata alle architetture orientate agli eventi, questa architettura software si compone di un insieme di servizi indipendenti tra di loro, ognuno con un compito ben definito, che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
+Questa architettura software si compone di un insieme di servizi indipendenti tra di loro, ognuno con un compito ben definito, che comunicano tra di loro attraverso un meccanismo di comunicazione _solitamente_ asincrono.
 
 A differenza delle architetture _a singolo blocco_ viste sopra, questa architettura permette di scalare i singoli componenti, in quanto ogni componente è un applicativo separato (servizio) e viene rilasciato in maniera indipendente.
 
