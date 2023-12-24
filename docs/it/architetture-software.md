@@ -2,7 +2,7 @@
 
 Il termine "architettura software" viene spesso utilizzato in maniera molto generica e impropria. In questo documento cercheremo di dare una definizione e di descriverne le principali.
 
-Inoltre, cercheremo di dare una definizione di "chi si occupa di architetture software" e di descrivere il suo ruolo all'interno di un team di sviluppo.
+Inoltre, cercheremo di dare un'idea di "chi si occupa di architetture software" e di descrivere il suo ruolo all'interno di un team di sviluppo.
 
 L'argomento è molto vasto e complesso, per cui proveremo a dare una visione generale, senza entrare troppo nel dettaglio, in quanto ogni singola sezione di questo capitolo potrebbe concretizzarsi in un libro a sé stante.
 
