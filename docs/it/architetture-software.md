@@ -34,11 +34,11 @@ L'architettura software gioca un ruolo fondamentale nel plasmare non solo gli as
 
 Inoltre, l'architettura del software può seguire la strategia e gli obiettivi generali dell'organizzazione. Un'architettura ben ponderata può garantire che il sistema software sia allineato con gli obiettivi aziendali, rendendo più facile per l'organizzazione adattarsi alle mutevoli condizioni del mercato e alle esigenze dei clienti. Questo allineamento tra software e obiettivi aziendali può aiutare a promuovere una cultura agile e reattiva, in cui l'organizzazione è più propensa ad abbracciare il cambiamento e l'innovazione.
 
-In sintesi, l'architettura software non rappresenta solo un aspetto tecnico ma è un potente strumento in grado di plasmare la cultura dell'organizzazione. Quando è progettata tenendo conto della collaborazione, della comunicazione e in funzione degli obiettivi aziendali, può promuovere una cultura del lavoro di squadra, dell'adattabilità e dell'innovazione all'interno dell'organizzazione, contribuendo in definitiva al successo dei progetti di sviluppo software e dell'azienda nel suo insieme.
+In sintesi, l'architettura software non rappresenta solo un aspetto tecnico ma è un potente strumento in grado di plasmare la cultura dell'organizzazione. Quando si progetta tenendo conto della collaborazione, della comunicazione e in funzione degli obiettivi aziendali, si può promuovere una cultura del lavoro di squadra, dell'adattabilità e dell'innovazione all'interno dell'organizzazione, contribuendo in definitiva al successo dei progetti di sviluppo software e dell'azienda nel suo insieme.
 
 ## Chi si occupa di architetture software?
 
-Chi si occupa di architettura del software è di solito una persona con una certa seniority nel campo dell'ingegneria del software, responsabile della progettazione e della supervisione della struttura di alto livello e della visione tecnica di un progetto o sistema software. Queste figure sono fondamentali per colmare il divario tra i requisiti concettuali di una soluzione software e la sua diretta implementazione. Il ruolo va oltre il codice: implica prendere decisioni strategiche sulla progettazione del sistema, garantire che sia in linea con gli obiettivi dell'organizzazione e ottimizzarlo in base ai vincoli prestabiliti.
+Chi si occupa di architettura del software è di solito una persona con una certa esperienza nel campo dell'ingegneria del software, ed è responsabile della progettazione e della supervisione della struttura di alto livello e della visione tecnica di un progetto o sistema software. Queste figure sono fondamentali per colmare il divario tra i requisiti concettuali di una soluzione software e la sua diretta implementazione. Il ruolo va oltre il codice: implica prendere decisioni strategiche sulla progettazione del sistema, garantire che sia in linea con gli obiettivi dell'organizzazione e ottimizzarlo in base ai vincoli prestabiliti.
 
 Di seguito le caratteristiche chiave che chi ricopre questo ruolo dovrebbe avere:
 
@@ -68,7 +68,7 @@ Poiché gli obiettivi prefissati di un'architettura variano da progetto a proget
 
 Le _triggered fitness function_ (funzioni di fitness _attivate_ o _triggerate_) vengono eseguite in base a un evento particolare, ad esempio il team di sviluppo che esegue un test unitario, una pipeline di distribuzione che esegue una serie di operazioni o una persona del QA che esegue determinate attività stabilite.
 
-Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguito in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentativo di una situazione reale. Questo tipo di fitness function non tiene in considerazione, infatti, il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
+Questo tipo di funzioni ha da un lato il vantaggio di poter essere eseguito in maniera molto rapida, ma dall'altro lato ha il difetto di non essere rappresentativo di una situazione reale. Infatti, questo tipo di fitness function non tiene in considerazione il carico di lavoro che il sistema deve gestire durante il _day-by-day_, ma solo situazioni isolate e controllate.
 
 Queste funzioni di fitness vengono spesso lanciate durante una _pipeline_ di distribuzione, in modo da intercettare eventuali variazioni prima che il software venga rilasciato in produzione.
 
