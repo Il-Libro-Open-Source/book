@@ -3,3 +3,4 @@
 - [Introduzione](./it/introduzione.md)
 - [Cosa significa essere Dev](./it/cosa-significa-essere-dev.md)
 - [Testing](./it/testing.md)
+- [Architetture Software](./it/architetture-software.md)
