@@ -8,7 +8,7 @@ Una valanga travolgente di innovazione che non da segni di rallentamento.
 
 É questa l'arma a doppio taglio nella mani di uno sviluppatore software. Da una parte abbiamo a che fare con infinite opportunitá di crescita e il prospetto di non annoiarci mai. Dall'altra parte, siamo sempre alla rincorsa della "next big thing" e, per quanto ci sforziamo di stare al passo con i tempi, siamo sempre inesorabilmente un passo indietro.
 
-In questo contesto cosí dinamico, cosa significa essre uno sviluppatore "senior"?
+In questo contesto cosí dinamico, cosa significa essere uno sviluppatore "senior"?
 
 Se dovessimo dare una definizione di un profilo "senior" in un'altra industria, ad esempio, l'indutria aeronautica, potremmo pensare al ruolo del capitano.
 
