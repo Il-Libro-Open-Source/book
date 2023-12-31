@@ -235,7 +235,7 @@ Solo con una solida comprensione dell’azienda sarai in grado di scegliere le b
 
 > "La buona comunicazione è stimolante quanto il caffè nero e rende altrettanto difficile il prendere sonno poi" - Anne Morrow Lindbergh
 
-Come ingegnere del software, le capacità comunicative sono fondamentali per il tuo successo. Devi essere in grado di comunicare efficacemente con diversi interlocutori, tra cui altri ingegneri, project manager, clienti e dirigenti. Ciò richiede un’ampia gamma di abilità comunicative, dal parlare e ascoltare allo scrivere e presentare.
+Come ingegnere del software, le capacità comunicative sono fondamentali per il successo del riconoscimento della tua figura: devi essere in grado di comunicare efficacemente con diversi interlocutori, tra cui altri ingegneri, project manager, clienti e dirigenti. Ciò richiede un’ampia gamma di abilità comunicative, dal parlare e ascoltare allo scrivere e presentare (o farle tutte e quattro assieme).
 
 Poiché dovrai parlare con tutti gli interlocutori, dovresti imparare a comunicare concetti tecnici a interlocutori non tecnici in un modo che sia facile da comprendere. Ciò significa anche saper ascoltare i commenti e incorporarli nel tuo lavoro. La capacità di comunicare efficacemente con gli interlocutori è essenziale per garantire che tutti siano sulla stessa lunghezza d’onda e che i progetti siano portati a termine con successo.
 
