@@ -149,7 +149,7 @@ Bisogna trovare il modo di lasciare margine per commettere errori, imparare dai 
 
 Benché i bug sono sempre dietro l'angolo, uno sviluppatore senior deve sapere cosa fare per ridurre al minimo il rischio di creare dei bug. Analogamente lo sviluppatore senior deve sapere come individuare i bug il più presto possibile, possibilmente prima che lo facciano gli utenti.
 
-Questo comporta sviluppare tutta una serie di competenze quali: comprendere ed approfondire i resoconti degli utenti, scrivere diversi tipi di test (unitari, di integrazione, end-to-end), individuare ed analizzare i casi limite, leggere e ricercare informazioni all'interno dei log applicativi, riuscire a leggere ed interpretare varie metriche e dashboard.
+Questo comporta sviluppare tutta una serie di competenze quali: comprendere ed approfondire i resoconti degli utenti, scrivere diversi tipi di test (unitari, di integrazione, end-to-end), individuare ed analizzare i casi limite, strutturare i logs in modo che siano più facili da leggere e ricercare in caso di errori, riuscire a leggere ed interpretare varie metriche e dashboard.
 
 Un senior dovrebbe essere in grado di fare una grande differenza e di aiutare l’intero team a scrivere un software migliore, illustrando ed educando alle migliori pratiche per il test del software.
 
