@@ -64,7 +64,7 @@ Ah, se solo potessimo tornare indietro nel tempo!
 
 Ok, tornando al punto, quanti anni servono per essere un senior? O ancora, qual é l'etá minima richiesta per poter essere considerati degli sviluppatori senior?
 
-Queste sono due delle domande piú inutili del mondo software, per quanto incredibilmente comuni!
+Queste sono due delle domande piú fuorvianti del mondo software, per quanto incredibilmente comuni!
 
 Perché?
 
