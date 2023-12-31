@@ -111,7 +111,7 @@ In qualità di sviluppatore senior, possedere competenze tecniche che coprano di
 
 Immagina di disegnare una "T". la linea verticale rappresenta una profonda conoscenza in una specifica area tecnica. Piú questa linea é lunga piú si é raggiunta una padronanza della specifica area tecnica. Invece, la linea orizzontale rapresenta una vasta conoscenza in tante altre aree, non necessariamente una conoscenza approfondita ma sufficiente sviluppata da fornire i mezzi per poter spaziare tra gli argomenti piú disparati durante una conversazione tecnica.
 
-Questo tipo di profilo permette al singolo individuo di poter contribuire in più modi ad un progetto pur essendo esperto nella propria area di specializzazione primaria. I profili a T consentono una collaborazione efficace con membri di lavoro aventi competenze diverse, aprendo la strada ad un processo di sviluppo con maggiori probabilità di successo.
+Questo tipo di profilo permette al singolo individuo di poter contribuire in modi diversi ad un progetto pur essendo esperto nella propria area di specializzazione primaria: avendo competenze diverse, i profili a T consentono una collaborazione efficace con membri di lavoro, aprendo la strada ad un processo di sviluppo con maggiori probabilità di successo.
 
 Un buon modo per costruire il profilo a T è quello di iniziare a sviluppare il tuo tratto verticale, ovvero quello che alla fine diventerà il tuo punto di forza! Concentrati per un po’ su una singola area. Ovviamente é meglio preferire delle aree tecniche per le quale ci si senta particolarmente propoensi e per le quali si abbia un grosso interesse. Piú qualcosa ci appassiona, piú é facile stare al passo con l'innovazione e trovare il tempo per sperimentare ed imparare.
 
