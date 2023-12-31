@@ -95,8 +95,7 @@ Un’altra capacità indispensabile per lo sviluppatore senior è la propensione
 In fin dei conti, l’ingegneria del software non è altro che risoluzione di problemi!
 
 Tuttavia i problemi non sono sempre di natura tecnica, specie all’interno delle organizzazioni più strutturate, dove sono presenti interlocutori con esperienze diverse e di differente formazione, e i problemi possono essere comunicati nel modo sbagliato e mutare di frequente. Per questo diventa fondamentale contribuire alla comprensione dei problemi che si stanno riscontrando, formulare e condividere gli obiettivi e guidare la squadra di lavoro nella giusta direzione; competenze cruciali, queste, che possono avere un impatto enorme.
-
-La migliore soluzione da un punto di vista strettamente tecnico non è necessariamente la migliore soluzione per una data azienda.
+Per questo, a volte, la migliore soluzione da un punto di vista strettamente tecnico non è necessariamente la migliore soluzione per una data azienda.
 
 Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbandonare soluzioni tecnicamente ottimali in favore di soluzioni piú adatte alla squadra e alle circostanze di business.
 
