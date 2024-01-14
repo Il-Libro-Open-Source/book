@@ -66,7 +66,7 @@ Le aziende di consulenza puntano come obiettivo principale ad acquisire commesse
 Se questo obiettivo è perseguito in maniera sana, per un/a developer lavorare in azienda di consulenza significa potenzialmente lavorare con diverse tecnologie e avere la possibilità di formarsi in modo continuo e variegato.
 Questo si potrebbe tradurre in una rapida crescita e una più ampia possibilità di carriera. E spesso, le aziende di consulenza sono il punto di ingresso principale anche per le figure più Junior.
 
-Se questo obiettivo invece è perseguito dall'azienda con disorganizzazione, acquisendo progetti solo con lo scopo di fatturare senza tenere conto della reale disponibilità di un adeguato numero di personale preparato, questo potrebbe influire sul team di sviluppo con una mole di lavoro eccessiva, causando demotivazione e frustrazione, e in particolare sulle figure Junior che potrebbero essere abbandonate a loro stesse senza l'adeguata formazione.
+Se questo obiettivo invece è perseguito dall'azienda con disorganizzazione, acquisendo progetti solo con lo scopo di fatturare senza tenere conto della reale disponibilità di un adeguato numero di personale preparato, questo potrebbe influire sul team di sviluppo in forma di mole di lavoro eccessiva, causando demotivazione e frustrazione, e in particolare sulle figure Junior che potrebbero essere abbandonate a loro stesse senza un'adeguata formazione.
 
 Nelle aziende di prodotto invece la responsabilità principale di ogni reparto dell'azienda sarà quello di mantenere il prodotto attivo e attrattivo sul mercato. Questo vale sia per il reparto di marketing e comunicazione, quanto per il reparto tecnico sia a livello di innovazione e sviluppo dello stesso.
 
