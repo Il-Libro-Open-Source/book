@@ -38,6 +38,8 @@ Se il prodotto è digitale, il guadagno potrebbe provenire ad esempio dalla sott
 
 Alcuni esempi di aziende di prodotto sono: Google, Meta e Spotify.
 
+> N.B. Quando si parla di _utente finale_ ci si potrebbe benissimo riferire a dipendenti di aziende, o ad aziende nel loro insieme, e non necessariamente a cittadini e utilizzatori _comuni_. Ci sono tantissimi business che sviluppano prodotti in ottica B2B, vendendo soluzioni come, per esempio, applicativi di fatturazione piuttosto che strumenti di produttività.
+
 ## Principali differenze
 
 Andremo a vedere adesso quali sono le principali differenze a livello di esperienza per chi sviluppa e sceglie di lavorare per una o per l'altra tipologia.
