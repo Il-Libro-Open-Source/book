@@ -70,7 +70,7 @@ Se questo obiettivo invece è perseguito dall'azienda con disorganizzazione, acq
 
 Nelle aziende di prodotto invece la responsabilità principale di ogni reparto dell'azienda sarà quello di mantenere il prodotto attivo e attrattivo sul mercato. Questo vale sia per il reparto di marketing e comunicazione, quanto per il reparto tecnico sia a livello di innovazione e sviluppo dello stesso.
 
-Se l'azienda di prodotto ha una direzione precisa e organizzata, per un/a developer che lavora in un'azienda di prodotto, significa puntare alla propria crescita formativa, alla qualità del proprio operato e alla collaborazione e crescita in team.
+Se l'azienda di prodotto ha una direzione precisa e organizzata, per chi sviluppa e ci lavora sarà più naturale puntare alla propria crescita formativa, alla qualità del proprio operato e alla collaborazione e crescita in team.
 
 Per quanto la qualità del prodotto sviluppato è obiettivamente una priorità delle aziende di prodotto, tirando le somme, le possibilità di carriera e la crescita sono comunque fattibili in entrambe le due tipologie di aziende, dipende se queste sono organizzate e attente alla formazione dei propri dipendenti.
 
