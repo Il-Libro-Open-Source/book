@@ -54,7 +54,7 @@ Chi è al management dell'azienda infatti definisce non solo gli obiettivi e la 
 
 Variando il modello di business di cui parlavamo prima, anche il focus e la cultura dell'azienda cambia.
 
-Generalmente i/le developer che lavorano per aziende di prodotto hanno un senso di appartenenza maggiore rispetto chi lavora in aziende di consulenza poiché si lavora in team per un obiettivo comune, ovvero la realizzazione e il successo del prodotto. Questo aumenta la probabilità di sentirsi valorizzati e supportati.
+Generalmente chi lavora per aziende di prodotto ha un senso di appartenenza maggiore rispetto a chi lavora in aziende di consulenza poiché si lavora in team per un obiettivo comune, ovvero la realizzazione e il successo del prodotto. Questo aumenta la probabilità di sentirsi valorizzati e supportati.
 
 Questa sensazione invece spesso viene meno nelle aziende di consulenza poiché si lavora per il cliente o per i clienti. A parte il senso di responsabilità per il proprio operato, lavorando per e presso il cliente difficilmente si _sente_ il progetto su cui si sta lavorando come "proprio", soprattutto quando capitano frequenti spostamenti nei progetti e variazioni delle persone che ci lavorano. Tutto questo sul lungo periodo potrebbe causare demotivazione, disinteresse e quasi un senso di abbandono.
 In altri casi, questa sensazione di distacco è meno forte. In alcune aziende di consulenza infatti si lavora in modalità "_progetti chiavi in mano_". Con questa modalità, i progetti dei clienti vengono presi in carico dall'azienda di consulenza, curati e sviluppati interamente dai propri team. Questo permette a chi sviluppa di avere un team di riferimento più stabile rispetto che lavorare presso il cliente, aumentando il senso di appartenenza.
