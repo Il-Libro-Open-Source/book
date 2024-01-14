@@ -48,7 +48,7 @@ Andremo a vedere adesso quali sono le principali differenze a livello di esperie
 
 La cultura aziendale è il complesso dei valori che caratterizzano un'azienda.
 
-Tutti sono responsabili del clima e della cultura aziendale all'interno della propria azienda, ma essa è principalmente influenzata dalle persone che sono ai vertici delle principali decisioni aziendali.
+Tutti sono responsabili del clima e della cultura aziendale all'interno della propria azienda, ma essa è principalmente influenzata dalle persone che sono ai vertici e che sono responsabili delle principali decisioni aziendali.
 
 Chi è al management dell'azienda infatti definisce non solo gli obiettivi e la mission, ma cerca di trasmettere i valori da condividere per raggiungere tali obiettivi.
 
