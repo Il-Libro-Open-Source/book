@@ -82,7 +82,7 @@ Le aziende di consulenza in genere hanno tipologie di clienti simili e offrono s
 
 La possibilità di variare linguaggi e tecnologie è sicuramente più alta rispetto un'azienda di prodotto, soprattutto se questa ha un singolo progetto. Lavorare nelle aziende di consulenza infatti permette generalmente di avere molte opportunità e fare molte esperienze diverse.
 
-Anche se questo dipende molto dalla tipologia di clienti con cui l'azienda collabora. Potrebbe capitare infatti di lavorare con progetti legacy che il cliente non intende aggiornare per una questione di costi.
+Anche se questo dipende molto dalla tipologia di clienti con cui l'azienda collabora. Potrebbe capitare infatti di lavorare con progetti _legacy_ che il cliente non intende aggiornare per una questione di costi o di tempi.
 
 Nelle aziende di prodotto invece generalmente si ha un singolo o pochi progetti. Questo per alcuni potrebbe risultare noioso. Ma ancora una volta, dipende dalla natura del progetto stesso. Infatti il singolo progetto potrebbe trattarsi di un software abbastanza grande e complesso da mantenere viva la curiosità e la necessità di formazione per svilupparlo, manutenerlo ed evolverlo.
 
