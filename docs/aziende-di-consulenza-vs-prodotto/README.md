@@ -28,7 +28,7 @@ Alcuni esempi di aziende di consulenza sono: Reply, Deloitte e Accenture.
 
 ## Azienda di prodotto
 
-Le aziende di prodotto invece hanno un business B2C (business to client), ovvero il cliente è l'utente finale, colui che utilizza il prodotto o i prodotti, sviluppati dalla compagnia stessa.
+Le aziende di prodotto invece hanno solitamente un business B2C (business to customer), ovvero il cliente è l'utente finale, colui che utilizza il prodotto o i prodotti, sviluppati dalla compagnia stessa.
 
 In questo modello di business, le attività interne sono finalizzate a migliorare e innovare il prodotto, da cui dipendono i ricavi e la sopravvivenza dell'azienda.
 
