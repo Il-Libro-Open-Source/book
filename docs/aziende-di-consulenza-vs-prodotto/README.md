@@ -72,7 +72,7 @@ Nelle aziende di prodotto invece la responsabilità principale di ogni reparto d
 
 Se l'azienda di prodotto ha una direzione precisa e organizzata, per chi sviluppa e ci lavora sarà più naturale puntare alla propria crescita formativa, alla qualità del proprio operato e alla collaborazione e crescita in team.
 
-Per quanto la qualità del prodotto sviluppato è obiettivamente una priorità delle aziende di prodotto, tirando le somme, le possibilità di carriera e la crescita sono comunque fattibili in entrambe le due tipologie di aziende, dipende se queste sono organizzate e attente alla formazione dei propri dipendenti.
+Per quanto la qualità del prodotto sviluppato è obiettivamente una priorità delle aziende di prodotto, tirando le somme, le possibilità di carriera e di crescita sono comunque fattibili in entrambe le tipologie di azienda, il tutto si riduce a quanto queste siano organizzate e attente alla formazione dei propri dipendenti.
 
 Per una persona Junior o senza una particolare esperienza significativa, è sicuramente più semplice entrare in un'azienda di consulenza poiché nelle aziende di prodotto in genere vengono ricercate persone autonome e con un background solido.
 
