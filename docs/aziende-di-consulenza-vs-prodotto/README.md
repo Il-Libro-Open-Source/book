@@ -88,7 +88,7 @@ Nelle aziende di prodotto invece generalmente si ha un singolo o pochi progetti.
 
 ## Conclusioni
 
-Come abbiamo visto, la tipologia di azienda influenza significativamente la nostra esperienza e la nostra carriera come eveloper.
+Come abbiamo visto, la tipologia di azienda influenza significativamente la nostra esperienza e la nostra carriera come developer.
 
 Ma quello che incide più di tutto è il modo in cui il management e i vari reparti gestiscono i progetti, a prescindere dalla tipologia di azienda.
 
