@@ -170,3 +170,49 @@ La test coverage è una metrica che indica la percentuale di codice sorgente che
 ### Over-testing
 
 Altra nota importante è relativa alla _coverage 100%_: solitamente si sconsiglia l'adozione di una coverage così alta in quanto si rischia di incorrere in un fenomeno chiamato _over-testing_, nel quale si testano tutte le possibili casistiche, anche quelle che non hanno senso e che impiegano molto tempo ad essere scritte. Questo fenomeno è molto pericoloso, in quanto si rischia di scrivere codice per il mero raggiungimento di un numero, la coverage appunto, che non aggiunge valore al prodotto e che non soddisfa alcun requisito funzionale o non funzionale.
+
+## Test di unità efficaci
+
+Per garantire l'efficacia dei test, è di fondamentale importanza aderire a diverse best practices:
+
+- **Isolamento delle Unità**: Assicurarsi che ogni test di unità sia in grado di eseguire in isolamento, senza dipendenze. Il mantenimento di questo isolamento viene contribuito con l'uso di Mock per sostituire dipendenze esterne.
+- **Casi di test Significativi**: Scrivere casi di test che coprano scenari significativi. I test dovrebbero esplorare i vari flussi di controllo e gestire i casi limite per garantire una completa copertura.
+- **Mantenere la velocità di Esecuzione**: I test dovrebbero essere veloci. Ciò consente di eseguire frequenti verifiche durante lo sviluppo senza rallentare il processo.
+
+## Test di integrazione completi
+
+Per i test d'integrazione. l'efficacia ripende dalla comprensione delle interazioni tra i componenti del sistema:
+
+- **Copertura significativa delle interazioni**: Concentrarsi sulle aree in cui le interdipendenze possono causare problemi.
+  Assicurarsi che i test di integrazione coprano le interazioni tra i diversi moduli del sistema.
+
+- **Gestione degli errori**: I test di integrazione dovrebbero verificare anche la gestione degli errori tra i componenti. Ciò è cruciale per garantire che il sistema si comporti correttamente anche in situazioni di errore.
+
+- **Scelta delle Tecniche di Test Adeguata**: Scegliere tra le varie tecniche di test di integrazione in base alle esigenze del progetto. Come, decidere se utilizzare un approccio "top-down" o "bottom-up" a seconda della struttura.
+
+## Test End-to-End Robusti
+
+Per i test end-to-end, la robustezza è fondamentale per garantire che il sistema funzioni correttamente in scenari reali:
+
+- **Scenari del Mondo Reale**: Creare scenari di test end-to-end che riflettano situazione del mondo reale.
+
+- **Automazione Efficace**: Automatizzare i test end-to-end in modo efficace per ridurre i tempi di esecuzione e garantire copertura completa. Si consideri che, sia di buona norma evitare l'automazione eccessiva che potrebbe portare a fragilità nei test.
+
+- **Aggiornamenti continui**: Mantenere i test end-to-end allineati con gli aggiornamenti dell'applicazione. Poiché questo tipo di test è sensibile agli aggiornamenti dell'interfaccia utente e ad altri cambiamenti, è essenziale mantenerli aggiornati.
+
+## Continuous Testing e Continuous Integration
+
+L'adozione di pratiche di continuous testing e continuous integration contribuisce notevolmente all'efficacia del processo di sviluppo e testing:
+
+- **Automazione nella Pipeline di CI/CD**: Integrare test automatizzati nella pipeline di continuous integration/continuous deployment (CI/CD). Ciò garantisce che ogni modifica al codice venga testata automaticamente prima della distribuzione.
+
+- **Rapido Feedback**: Utilizzare la continuous integration per fornire feedback rapido sullo stato del codice. Identificare e risolvere problemi il prima possibile durante lo sviluppo.
+- **Monitoraggio Continuo della Qualità del Codice**: Implementare strumenti di monitoraggio continuo della qualità del codice e delle metriche di test. Questo aiuta a identificare aree di miglioramento e garantire la coerenza nella qualità del codice.
+
+## Valutazione costante e aggiornamento
+
+Infine:
+
+- **Revisione periodica dei Test**: Effettuare revisioni periodiche dei casi di test per garantire che siano ancora rilevanti e coprano le nuove funzionalità o modifiche.
+- **Aggiornamento delle pratiche di Test**: Essere disposti a adattare e aggiornare le pratiche di testing in base all'evoluzione del progetto. Le nuove esigenze potrebbero richiedere modifiche nei casi di test o nelle strategie di testing.
+- **Feedback degli utenti**: Considerare il feedback degli utenti come una fonte preziosa per identificare eventuali problemi non rilevati durante il testing interno.
