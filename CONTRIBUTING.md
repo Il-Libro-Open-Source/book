@@ -32,7 +32,7 @@ Le modalità di stesura del capitolo sono principalmente due:
 
 - In accordo con la persona del team Ambassador assegnataria del capitolo, potrai stendere in prima battuta il contenuto del capitolo e far sì che la persona assegnataria ti faccia da revisore e guida. In questo caso, sarà necessario fare un fork del branch relativo al capitolo e aprire una Pull Request che dovrà puntare a quello stesso branch come destinazione.
   Una volta aperta la Pull Request, la persona assegnataria del capitolo potrà iniziare a revisionare il contenuto e a suggerire modifiche.  
-  Una volta terminato il lavoro, la persona assegnataria del capitolo aprirà una Pull Request (O modificherà quella già presente da `draft` a `ready for review`) e chiederà una revisione al resto della community. Le regole di approvazione dei contenuti sono regolate dal Governance Group del progetto e sono disponibili [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/meetings/2023-11-03-Governance.md#approvazione-contenuti).
+  Una volta terminato il lavoro, la persona assegnataria del capitolo aprirà una Pull Request (O modificherà quella già presente da `draft` a `ready for review`) e chiederà una revisione al resto della community. Le regole di approvazione dei contenuti sono regolate dal Governance Group del progetto e sono disponibili [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/approvazione-contenuti.md).
 
 ## Scrivere i contenuti
 
