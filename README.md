@@ -16,14 +16,15 @@ Durante la vita del progetto saranno aperte discussioni, sondaggi, pull requests
 Trovi maggiori informazioni nella sezione [Come contribuire](CONTRIBUTING.md).
 
 ### Contributor
-Puoi anche diventare un Contributor del progetto, che ti permetterà di avere un ruolo attivo nella gestione del progetto stesso.  
+
+Puoi anche diventare un Contributor del progetto, che ti permetterà di avere un ruolo attivo nella gestione del progetto stesso.
 
 Visita la sezione [Membership](https://github.com/Il-Libro-Open-Source/governance/blob/main/MEMBERSHIP.md) per maggiori informazioni.
 
 ### Ambassador
 
 Chi ricopre il ruolo di Ambassador?
-Coloro che hanno deciso di contribuire al progetto in maniera diretta, prendendosi la responsabilità di uno o più capitoli, oppure di altre aree come la grafica, la traduzione, la revisione, ecc.  
+Coloro che hanno deciso di contribuire al progetto in maniera diretta, prendendosi la responsabilità di uno o più capitoli, oppure di altre aree come la grafica, la traduzione, la revisione, ecc.
 
 Visita la sezione [Membership](https://github.com/Il-Libro-Open-Source/governance/blob/main/MEMBERSHIP.md) per maggiori informazioni.
 
