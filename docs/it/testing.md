@@ -70,6 +70,7 @@ Ricreando scenari realistici, abbiamo modo di avere una sicurezza “definitiva�
 
 D'altro canto, è difficile prevedere e analizzare quante farne e cosa testare. Inoltre il test è più lungo da scrivere perché mentre per un integration test basta cambiare un flag per ottenere un flusso diverso, un test e2e deve probabilmente essere riscritto perché ha flussi differenti per giungere alla stessa conclusione.
 
+
 ## Tipologie di test
 
 Esistono diverse tipologie di test, ognuna con un suo scopo ben preciso. Vediamole brevemente:
@@ -86,9 +87,9 @@ Esistono molte altre tipologie di test, come _compatibility testing_, _acceptanc
 
 Esistono tre tecniche di test, ognuna con un suo scopo ben preciso. Vediamole brevemente:
 
-- **Black-box testing**: Il test _black-box_ è una tecnica di test in cui il tester non ha conoscenza dell'implementazione del sistema.
-- **White-box testing**: Il test _white-box_ è una tecnica di test in cui il tester ha conoscenza dell'implementazione del sistema.
-- **Grey-box testing**: Il test _grey-box_ è una tecnica di test in cui il tester ha conoscenza parziale dell'implementazione del sistema.
+- **Black-box testing**: Il test _black-box_ è una tecnica di test in cui il tester non ha conoscenza dell'implementazione del sistema. Il focus è sull'esaminazione del funzionamento dell'applicazione (quindi senza conoscere il codice sorgente) rispetto ai requisiti specificati. Il tester verifica se l'applicazione si comporta come previsto. Questo metodo è applicabile a quasi tutti i tipi di software e sistemi, indipendetemente dai linguaggi o dalla tecnologia utilizzata.
+- **White-box testing**: Il test _white-box_ è una tecnica di test in cui il tester ha conoscenza dell'implementazione del sistema, quindi dell'intero codice sorgente. Questo approccio si concentra sull'esaminare il comportamento interno del software e sul garantire che tutte le vie logiche e i segmenti di codice siano testati. Il test ha un focus sulla validazione dei percorsi di esecuzione all'interno del codice, assicurando che tutte le condizioni, i cicli e i percorsi di codice siano testati. Questo metodo è efficace nell'individuare bug specifici nel codice, come errori di logica, infinity loop e istruzioni non raggiunte.
+- **Grey-box testing**: Il test _grey-box_ è una tecnica di test in cui il tester ha conoscenza parziale dell'implementazione del sistema. Questo tipo di testing è particolarmente utile quando si desidera testare il software da una prospettiva esterna, ma con una comprensione sufficiente della sua architettura interna per creare test più mirati ed efficaci. I tester hanno accesso limitato al codice sorgente e alla struttura interna, permettendo loro di comprendere alcuni aspetti dell'architettura del software senza una conoscenza dettagliata. Il _grey-box_ testing si concentrano sulle interfaccie e le API del sistema, testando la comunicazione e l'interazione tra diverse unità o moduli. I vantaggi sono, una maggiore efficienza, data la combinazione di conoscenze interne ed esterne permette di creare test più mirati, aumentando l'efficienza del processo di testing.
 
 Di solito queste tre tecniche vengono utilizzate per individuare eventuali falle nel sistema. Solitamente il _Black-box testing_ è la tecnica più utilizzata, in quanto permette di individuare falle che non sono state individuate durante lo sviluppo e non richiede una conoscenza pregressa del sistema.
 
@@ -170,3 +171,25 @@ La test coverage è una metrica che indica la percentuale di codice sorgente che
 ### Over-testing
 
 Altra nota importante è relativa alla _coverage 100%_: solitamente si sconsiglia l'adozione di una coverage così alta in quanto si rischia di incorrere in un fenomeno chiamato _over-testing_, nel quale si testano tutte le possibili casistiche, anche quelle che non hanno senso e che impiegano molto tempo ad essere scritte. Questo fenomeno è molto pericoloso, in quanto si rischia di scrivere codice per il mero raggiungimento di un numero, la coverage appunto, che non aggiunge valore al prodotto e che non soddisfa alcun requisito funzionale o non funzionale.
+
+#### Tools e Frameworks per il Testing
+
+Ora che abbiamo esplorato i vari tipi di test e le loro applications, è di fondamentale importanza conoscere gli strumenti e i frameworks che possono rendere questi processi più efficienti ed efficaci. Ogni tipologia di test può essere supportato e migliorato dall'uso di tools specifici, che aiutano l'automazione dei test stessi, rendendo più semplice la scrittura del codice di test e fornire feedback più dettagliati sui risultati.
+
+### Strumenti per Unit-Test
+
+- **JUnit**: è un framework di test unitari utilizzato in ambito Java. Ampiamente utilizzato per testare singole classi e metodi con annotazioni intuitive.
+
+- **pytest**: Come deducibile dal nome, pytest è un framework utilizzato in ambiente Python, molto versatile che rende semplice scriver test unitari complessi. Offre funzionalità come la parametrizzazione dei test e i fixtures per configurare il contesto di test.
+
+### Strumenti per Integration Test
+ 
+ - **Postman**: Utilizzato principalmente per testare API. Permette di creare richieste HTTP, impostare vari ambienti di test e verificare le risposte delle API. Molto utile anche in un contesto di embedding.
+
+ - **TestNG(Java)**: Fornisce funzionalità avanzate per i test d'integrazione. inclusa l'esecuzione parallela dei test e la gestione delle dipendeze.
+
+ ### Strumenti per End-to-End Test
+
+ - **Selenium**: E' un framework utilizzato per automatizzare i browser web. E' ideale per testare interazioni utente complesse in web app.
+
+ - **Cypress**: Una soluzione più moderna per il testing E2E, apprezzata per la sua NON complessità d'uso e l'integrazione con ambienti di sviluppo Javascript.
