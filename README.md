@@ -3,6 +3,10 @@
 Questo progetto nasce da un post su LinkedIn che ha raccolto decine di persone attorno all'obiettivo di realizzare un libro completamente Open Source.  
 Dalla scelta del tema alla stesura del contenuto, il tutto verrà gestito e condiviso con la community e con chiunque voglia contribuire al progetto.
 
+## Vuoi leggerlo?
+
+Il libro è e sarà sempre disponibile online in maniera Open Source. Vuoi leggerlo? [Clicca qui!](https://il-libro-open-source.github.io/book/)
+
 ## Come contribuire
 
 Puoi contribuire al progetto in moltissimi modi.  
