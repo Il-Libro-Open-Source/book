@@ -16,7 +16,7 @@ Detto questo, è vero che lo sviluppo software è un lavoro che richiede molta c
 
 Come abbiamo visto, la percezione del dev asociale è radicata, ma non corretta. Lo sviluppo software è di per sé un lavoro che spesso richiede di isolarsi, ma la carriera di chi sviluppa software è molto più ricca di questo. Il networking e la partecipazione alle community sono due aspetti fondamentali per chiunque voglia intraprendere questa carriera, tanto che spesso sono considerati requisiti fondamentali per chi vuole fare carriera.
 
-Il ruolo del dev è cambiato molto negli ultimi anni e oggi è molto più vicino al business e alla comunicazione rispetto a quanto non fosse in passato, o perlomeno, lo è per chi vuole fare il salto di qualità. Questo significa che il dev deve essere in grado di comunicare con i colleghi, con i clienti e con i superiori, deve essere in grado di vendere le proprie idee e di convincere gli altri a seguirlo. Queste sono tutte competenze che si acquisiscono con l'esperienza, ma che possono essere affinate anche attraverso il networking e la partecipazione alle community.
+Il ruolo del dev è cambiato molto negli ultimi anni e oggi è molto più vicino al business e alla comunicazione rispetto a quanto non fosse in passato, o perlomeno, lo è per chi vuole fare il salto di qualità. Questo significa che un/una dev deve essere in grado di comunicare con colleghi di altri reparti, con i clienti e con i superiori, deve essere in grado di vendere le proprie idee e di convincere gli altri a seguire le sue idee. Queste sono tutte competenze che si acquisiscono con l'esperienza, ma che possono essere affinate anche attraverso il networking e la partecipazione alle community.
 
 ## Community
 
