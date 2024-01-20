@@ -70,7 +70,6 @@ Ricreando scenari realistici, abbiamo modo di avere una sicurezza “definitiva�
 
 D'altro canto, è difficile prevedere e analizzare quante farne e cosa testare. Inoltre il test è più lungo da scrivere perché mentre per un integration test basta cambiare un flag per ottenere un flusso diverso, un test e2e deve probabilmente essere riscritto perché ha flussi differenti per giungere alla stessa conclusione.
 
-
 ## Tipologie di test
 
 Esistono diverse tipologie di test, ognuna con un suo scopo ben preciso. Vediamole brevemente:
@@ -185,13 +184,13 @@ Quelle che seguono sono delle liste non esaustive di strumenti che solitamente v
 - **pytest**: Come deducibile dal nome, pytest è un framework utilizzato in ambiente Python, molto versatile che rende semplice scriver test unitari complessi. Offre funzionalità come la parametrizzazione dei test e i fixtures per configurare il contesto di test.
 
 ### Strumenti per Integration Test
- 
- - **Postman**: Utilizzato principalmente per testare API. Permette di creare richieste HTTP, impostare vari ambienti di test e verificare le risposte delle API. Molto utile anche in un contesto di embedding.
 
- - **TestNG(Java)**: Fornisce funzionalità avanzate per i test d'integrazione. inclusa l'esecuzione parallela dei test e la gestione delle dipendeze.
+- **Postman**: Utilizzato principalmente per testare API. Permette di creare richieste HTTP, impostare vari ambienti di test e verificare le risposte delle API. Molto utile anche in un contesto di embedding.
 
- ### Strumenti per End-to-End Test
+- **TestNG(Java)**: Fornisce funzionalità avanzate per i test d'integrazione. inclusa l'esecuzione parallela dei test e la gestione delle dipendeze.
 
- - **Selenium**: E' un framework utilizzato per automatizzare i browser web. E' ideale per testare interazioni utente complesse in web app.
+### Strumenti per End-to-End Test
 
- - **Cypress**: Una soluzione più moderna per il testing E2E, apprezzata per la sua NON complessità d'uso e l'integrazione con ambienti di sviluppo Javascript.
+- **Selenium**: E' un framework utilizzato per automatizzare i browser web. E' ideale per testare interazioni utente complesse in web app.
+
+- **Cypress**: Una soluzione più moderna per il testing E2E, apprezzata per la sua NON complessità d'uso e l'integrazione con ambienti di sviluppo Javascript.
