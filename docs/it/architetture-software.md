@@ -1,3 +1,9 @@
+---
+layout: default
+title: Architettura software
+nav_order: 3
+---
+
 # Architetture Software
 
 Il termine "architettura software" viene spesso utilizzato in maniera molto generica e impropria. In questo documento cercheremo di dare una definizione e di descriverne le principali.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introduzione
+nav_order: 1
+---
+
 ## Benvenuto
 
 Chiunque tu sia, da qualunque posto tu provenga, benvenuto in un viaggio incredibile nel mondo dello sviluppo software.
