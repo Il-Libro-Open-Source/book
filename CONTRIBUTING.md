@@ -7,24 +7,30 @@ In questa pagina troverai tutte le informazioni necessarie per poter contribuire
 
 ## In che modo posso contribuire?
 
-Puoi contribuire nella stesura del libro puoi fare una qualsiasi delle seguenti attività.
+Per contribuire nella stesura del libro puoi fare una qualsiasi delle seguenti attività.
 
-### Proporre un capitolo
+### Proporre un nuovo capitolo
 
 Se hai un'idea per un capitolo, puoi proporla aprendo una nuova issue.  
 Github ti proporrà un template per la creazione della issue, che ti suggeriamo di utilizzare.  
-Inserisci quante più informazioni possibili e che tipo di impegno vorresti avere nella stesura.
+Inserisci quante più informazioni possibili e specifica se vorresti occuparti interamente della prima stesura o se invece vorresti produrre il contenuto in collaborazione con altri contributori.
 
 Una volta aperta la issue, verrà automaticamente assegnata una label `nuovo-capitolo`.  
 A questo punto, un qualsiasi Ambassador potrebbe decidere di _assegnare_ a se stesso la issue. Ti consigliamo di pubblicizzare la tua idea in ogni modalità a te possibile e/o contattare eventuali Ambassador di tua conoscenza per chiedere loro di dare un'occhiata alla tua proposta e valutare la possibilità di _assegnare_ la issue a se stessi.
 
 Nel momento in cui un Ambassador deciderà di _assegnare_ la issue a se stesso, un branch verrà creato in maniera automatica e il lavoro di stesura potrà cominciare.
 
-Prosegui nella lettura di questa pagina per capire come procedere da qui in poi.
+Prosegui nella lettura di questa pagina alla voce [Modalità di stesura di un capitolo](#modalità-di-stesura-di-un-capitolo) per capire come procedere da qui.
+
+### Proporre una modifica ad un capitolo esistente
+
+Se hai un'idea per migliorare un capitolo esistente, puoi proporla aprendo una nuova issue.
+Github ti proporrà un template per la creazione della issue, che ti suggeriamo di utilizzare.  
+In alternativa, potresti aprire direttamente una Pull Request, ma ti consigliamo di aprire una issue per discutere prima della modifica da apportare e capire se la tua idea è condivisa dalla community.
 
 ### Modalità di stesura di un capitolo
 
-Bene, hai individuato un capitolo a cui contribuire e vuoi cominciare a scrivere dei contenuti. Ma come?
+Bene, hai individuato un capitolo a cui contribuire / da modificare e vuoi cominciare a scrivere dei contenuti. Ma come?
 
 Le modalità di stesura del capitolo sono principalmente due:
 
@@ -32,7 +38,7 @@ Le modalità di stesura del capitolo sono principalmente due:
 
 - In accordo con la persona del team Ambassador assegnataria del capitolo, potrai stendere in prima battuta il contenuto del capitolo e far sì che la persona assegnataria ti faccia da revisore e guida. In questo caso, sarà necessario fare un fork del branch relativo al capitolo e aprire una Pull Request che dovrà puntare a quello stesso branch come destinazione.
   Una volta aperta la Pull Request, la persona assegnataria del capitolo potrà iniziare a revisionare il contenuto e a suggerire modifiche.  
-  Una volta terminato il lavoro, la persona assegnataria del capitolo aprirà una Pull Request (O modificherà quella già presente da `draft` a `ready for review`) e chiederà una revisione al resto della community. Le regole di approvazione dei contenuti sono regolate dal Governance Group del progetto e sono disponibili [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/approvazione-contenuti.md).
+  Una volta terminato il lavoro, la persona assegnataria del capitolo aprirà una Pull Request (o modificherà quella già presente da `draft` a `ready for review`) e chiederà una revisione al resto della community. Le regole di approvazione dei contenuti sono regolate dal Governance Group del progetto e sono disponibili [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/approvazione-contenuti.md).
 
 ## Scrivere i contenuti
 
