@@ -25,15 +25,15 @@ Tutto ciò ovviamente oggi ha un costo nettamente superiore in termini anche azi
 
 Bisogna però che ci addentriamo un pochino meglio nella questione per comprendere bene la differenza tra _Frontend Developer_ e _Backend Developer_.
 
-Chi copre il ruolo di _Frontend Developer_ dovrà programmare tutta la parte "statica" del progetto. Quindi appunto tradurrà in codice tutto ciò che è stato progettato nel _design_.
-Invece chi copre il ruolo di _Backend Developer_ dovrà realizzare tutta la parte logica e funzionale, e quindi del comportamento, del progetto.
+Chi ricopre il ruolo di _Frontend Developer_ dovrà programmare tutta la parte "visiva" del progetto. Quindi appunto tradurrà in codice tutto ciò che è stato progettato nel _design_.
+Chi invece ricopre il ruolo di _Backend Developer_ dovrà realizzare tutta la parte logica e funzionale "dietro le quinte" del progetto.
 Possiamo dire che è una spiegazione un pò approssimativa ma per ora dovrebbe bastare.
 
 Quindi, per sommi capi, la figura del _Fullstack Developer_ è la fusione tra _Frontend Developer_ e _Backend Developer_.
 
 I professionisti di settore sono ben consapevoli che ad oggi, con l'evoluzione dei linguaggi di programmazione, risulta **difficilissimo** conoscere e padroneggiare in maniera corretta ed approfondita entrambi gli aspetti (_frontend_ e _backend_), mentre i percorsi di formazione mirano piuttosto a fornire un'infarinatura generale di entrambi gli aspetti per permettere poi a chi vuole diventare _developer_ di scegliere in autonomia quale strada seguire.
 
-_Con il termine "fullstack" intendiamo una figura che però non ha necessariamente competenze sistemistiche, di infrastruttura, di UI/UX e tutte quelle nuance che al giorno d'oggi sono però fondamentali._
+_Con il termine "Fullstack" intendiamo una figura che però non ha necessariamente competenze sistemistiche, di infrastruttura, di UI/UX e tutte quelle nuance che al giorno d'oggi sono però fondamentali._
 
 "Ok, ma queste informazioni come possono essermi utili nella **scelta degli argomenti su cui formarmi?**"
 
@@ -71,11 +71,11 @@ Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dal p
 
 Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi che invece seguono più assiduamente i propri alunni.
 Non ce n'è uno giusto piuttosto che uno sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare, e la maggior parte delle volte impariamo per conto nostro.
-Sicuramente sarebbe meglio, almeno nella fase iniziale, avere qualcuno che ci segua e sviluppi la nostra curiosità.
+Sicuramente sarebbe meglio, almeno nella fase iniziale, avere qualcuno che ci segua ed alimenti la nostra curiosità.
 Qualcuno che ci segue ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
 La curiosità invece ci insegna l'autonomia e soprattutto, cosa molto importante, ci aiuta a trovare la nostra strada.
 
-**Google è il nostro migliore amico**.
+A tal proposito, tieni sempre a mente quanto segue: **Google è tuo amico, ma soprattutto il tuo miglior alleato**.
 
 ## Seconda fase: il tempo
 
@@ -86,12 +86,12 @@ Anche qui, una formula magica non esiste.
 Diventare developer non è semplice, ed essere developer è una questione di **mindset**, quindi serve del tempo per cambiare il nostro modo di approcciare e di vedere le cose.
 In sostanza... ci vuole tempo.
 
-Quindi maggiore tempo dedichiamo alla nostra formazione e migliore è il risultato che otterremo alla fine del processo.
+Quindi maggiore tempo dedichiamo alla nostra formazione e migliore sarà il risultato che otterremo alla fine del processo.
 La scelta dovrebbe essere soggettiva e ponderata, basandosi sulla quantità di tempo che si ha a disposizione.
 Il tempo è il maggiore investimento in questa fase; più tempo dedicate, migliore sarà il risultato finale.
 
 "Va bene, quindi quanto tempo serve e quanto tempo dovrei dedicare alla mia formazione?"
-Il tempo non è mai abbastanza, quindi la risposta giusta è: il più possibile.
+Il tempo non è mai abbastanza, e soprattutto molto soggettivo riguardo il raggiungimento del risultato, quindi la risposta giusta è: investi il maggior tempo possibile nella tua formazione.
 
 Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare almeno altre 3 ore di pratica e approfondimenti.
 
@@ -126,7 +126,7 @@ Questo concetto spiega bene 2 cose:
 "Tutto bellissimo, ma come faccio a sapere se un percorso di formazione mi permette di lavorare dopo?
 Chi mi dà questa certezza dato che spesso e volentieri hanno dei costi alti?"
 Il settore della programmazione, come detto in precedenza, non è un settore in perdita e non è un settore saturo.
-Basta una piccola ricerca su Google per rendersi conto di quanta domanda c'è da parte delle aziende.
+Basta una piccola ricerca su Google o un giro nella sezione "Lavoro" di LinkedIn (impostando come criterio di ricerca `developer`) per rendersi conto di quanta domanda c'è da parte delle aziende
 
 Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione ha a disposizione alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
 
