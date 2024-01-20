@@ -75,6 +75,8 @@ Per fare networking su LinkedIn è necessario creare un profilo professionale, c
 
 Una volta connessi, sarà possibile interagire con queste persone, commentando i loro post o inviando loro messaggi privati. Questo ci permetterà di creare una relazione con loro e ci permetterà di farci conoscere. Questo è il primo passo per fare networking su LinkedIn.
 
+Ovviamente, come precedentemente detto non esiste solo LinkedIn, ma anche partecipare a una community online affine può essere un ottimo modo per iniziare ad accrescere la propria rete di contatti.
+
 Non esiste una formula magica da questo punto di vista, ma anche in questo caso, costanza e passione sono ingredienti fondamentali per intraprendere questo percorso.
 
 ### Come faccio networking offline?
