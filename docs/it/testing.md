@@ -13,7 +13,7 @@ Il testing è una parte fondamentale di ogni progetto software. In questo capito
 Esistono diversi tipi di test, ognuno con un suo scopo ben preciso.
 
 Si fa spesso riferimento alla piramide del testing, che rappresenta la proporzione tra di essi:
-<img src="./testing/piramide.png" alt="Piramide del testing"/>
+![Piramide del testing](/book/assets/images/piramide.svg)
 
 Nel resto del capitolo li vedremo nel dettaglio.
 

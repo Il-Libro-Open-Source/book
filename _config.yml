@@ -1,0 +1,14 @@
+title: Il Libro Open Source
+
+theme: just-the-docs
+baseUrl: "/book"
+url: "https://il-libro-open-source.github.io"
+
+permalink: pretty
+
+search_enabled: true
+
+back_to_top: true
+back_to_top_text: "Torna all'inizio"
+
+footer_content: "Copyright &copy; 2023-2023 Il Libro Open Source"
