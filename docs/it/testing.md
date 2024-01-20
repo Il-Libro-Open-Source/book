@@ -86,7 +86,7 @@ Esistono molte altre tipologie di test, come _compatibility testing_, _acceptanc
 
 Esistono tre tecniche di test, ognuna con un suo scopo ben preciso. Vediamole brevemente:
 
-- **Black-box testing**: Il test _black-box_ è una tecnica di test in cui il tester non ha conoscenza dell'implementazione del sistema. Il focus è sull'esaminazione del funzionamento dell'applicazione (quindi senza conoscere il codice sorgente) rispetto ai requisiti specificati. Il tester verifica se l'applicazione si comporta come previsto. Questo metodo è applicabile a quasi tutti i tipi di software e sistemi, indipendetemente dai linguaggi o dalla tecnologia utilizzata.
+- **Black-box testing**: Il test _black-box_ è una tecnica di test in cui il tester non ha conoscenza dell'implementazione del sistema. Il focus è sull'esaminazione del funzionamento dell'applicazione (quindi senza conoscere il codice sorgente) rispetto ai requisiti specificati. Il tester verifica se l'applicazione si comporta come previsto. Questo metodo è applicabile a quasi tutti i tipi di software e sistemi, indipendentemente dai linguaggi o dalla tecnologia utilizzata.
 - **White-box testing**: Il test _white-box_ è una tecnica di test in cui il tester ha conoscenza dell'implementazione del sistema, quindi dell'intero codice sorgente. Questo approccio si concentra sull'esaminare il comportamento interno del software e sul garantire che tutte le vie logiche e i segmenti di codice siano testati. Il test ha un focus sulla validazione dei percorsi di esecuzione all'interno del codice, assicurando che tutte le condizioni, i cicli e i percorsi di codice siano testati. Questo metodo è efficace nell'individuare bug specifici nel codice, come errori di logica, infinity loop e istruzioni non raggiunte.
 - **Grey-box testing**: Il test _grey-box_ è una tecnica di test in cui il tester ha conoscenza parziale dell'implementazione del sistema. Questo tipo di testing è particolarmente utile quando si desidera testare il software da una prospettiva esterna, ma con una comprensione sufficiente della sua architettura interna per creare test più mirati ed efficaci. I tester hanno accesso limitato al codice sorgente e alla struttura interna, permettendo loro di comprendere alcuni aspetti dell'architettura del software senza una conoscenza dettagliata. Il _grey-box_ testing si concentra sulle interfaccie e le API del sistema, testando la comunicazione e l'interazione tra diverse unità o moduli. Il vantaggio principale riguarda la maggiore efficienza, data la combinazione di conoscenze interne ed esterne, permettendo di creare test più mirati, aumentando l'efficienza del processo di testing.
 
@@ -187,7 +187,7 @@ Quelle che seguono sono delle liste non esaustive di strumenti che solitamente v
 
 - **Postman**: Utilizzato principalmente per testare API. Permette di creare richieste HTTP, impostare vari ambienti di test e verificare le risposte delle API. Molto utile anche in un contesto di embedding.
 
-- **TestNG(Java)**: Fornisce funzionalità avanzate per i test d'integrazione. inclusa l'esecuzione parallela dei test e la gestione delle dipendeze.
+- **TestNG(Java)**: Fornisce funzionalità avanzate per i test d'integrazione. Inclusa l'esecuzione parallela dei test e la gestione delle dipendenze.
 
 ### Strumenti per End-to-End Test
 
