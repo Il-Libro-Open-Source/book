@@ -49,7 +49,7 @@ Interessi in comune, passione e costanza sono gli ingredienti fondamentali per c
 - **Sii costante**: La costanza è fondamentale per creare una community. Se io stesso non partecipo attivamente alla vita del mio gruppo, perché dovrebbero farlo gli altri? Se vogliamo creare una community, dobbiamo essere i primi a partecipare attivamente alla vita del gruppo.
 - **Trova un tema**: Le community nascono attorno a un tema, quindi dobbiamo trovare un tema che sia abbastanza ampio da poter attrarre un numero sufficiente di persone, ma abbastanza specifico da poter creare un gruppo di persone con interessi in comune.
 - **Stabilisci delle regole**: Se vogliamo creare una community, dobbiamo stabilire delle regole che permettano alle persone di interagire in maniera civile e rispettosa. Questo aspetto risulta sempre più importante con l'aumentare del numero di persone che partecipano alla community.
-- **Non demoralizzarti**: Se ci tieni veramente alla tua community non demoralizzarti se questa non diventa popolare. Capiamo che può essere bello, ma non è fondamentale! Anche la community più piccola, può magari essere più attiva di una enorme e può portare dei benefici ai suoi membri!
+- **Non demoralizzarti**: Se ci tieni veramente alla tua community non demoralizzarti se questa non diventa popolare. Capiamo possa essere un bel traguardo, ma non è fondamentale! Anche una community più raccolta può risultare molto attiva e portare dei benefici ai suoi membri!
 
 ## Networking
 
