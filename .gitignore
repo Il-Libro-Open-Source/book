@@ -24,3 +24,6 @@ dist/
 .env
 .env.*
 !.env.example
+
+# Site
+_site

@@ -28,6 +28,22 @@ Per formattare i file markdown con Visual Studio Code è necessario installare l
 
 Un buon consiglio è tenere attivo il flag `Format On Save` direttamente nelle impostazioni di vscode per evitare di dover formattare ogni volta a mano.
 
+### JetBrains IDE (WebStorm, IntelliJ, ecc.)
+
+Per formattare i file markdown con IDE JetBrains è necessario installare l'estensione [Prettier](https://plugins.jetbrains.com/plugin/10456-prettier), tranne per WebStorm che include già Prettier di default.
+
+Alcuni suggerimenti di configurazione si possono trovare [qui](https://prettier.io/docs/en/webstorm).
+
+### Vim
+
+Per formattare i file markdown con Vim è necessario installare il plugin [vim-prettier](https://github.com/prettier/vim-prettier).
+
+Alcuni suggerimenti di configurazione si possono trovare [qui](https://prettier.io/docs/en/vim).
+
+### Altri IDE
+
+Nella documentazione di Prettier sono presenti le istruzioni per configurare il tool nel proprio IDE preferito: [Editor Integration](https://prettier.io/docs/en/editors).
+
 ## Conventional commits
 
 Per mantenere uno storico e poter costruire dei changelog è richiesto a tutti i contributori del progetto di utilizzare i [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
