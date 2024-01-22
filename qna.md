@@ -71,7 +71,7 @@ Q: Posso contribuire ad un capitolo già steso?
 A: Certo, basta seguire le linee guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
 
 Q: Come posso far approvare un contenuto?
-A: Una volta creata la PR verrà presa in esame per controllare l'aderenza a tutte le guidelines e coc, successivamente servono tre ambassador per l'approvazione della PR, potete trovare tutti i dettagli [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/approvazione-contenuti.md)
+A: Una volta creata la PR verrà presa in esame per controllare l'aderenza a tutte le guidelines e coc, successivamente servono tre ambassador per l'approvazione della PR, potete trovare tutti i dettagli [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
 
 Q: Come vengono rimossi i contenuti?
 A: Le linee guida per la rimozione le trovi [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/rimozione-contenuti.md)
