@@ -1,20 +1,59 @@
 # Come contribuire al repository
 
-## Prima installazione
+## Benvenuto!
 
-Dopo aver clonato il progetto:
+Grazie per aver deciso di contribuire al progetto!  
+In questa pagina troverai tutte le informazioni necessarie per poter contribuire al progetto in varie forme.
 
-```bash
-npm i
-```
+## In che modo posso contribuire?
 
-per installare le librerie
+Per contribuire nella stesura del libro puoi fare una qualsiasi delle seguenti attività.
 
-## Formattazione
+### Proporre un nuovo capitolo
+
+Se hai un'idea per un capitolo, puoi proporla aprendo una nuova issue.  
+Github ti proporrà un template per la creazione della issue, che ti suggeriamo di utilizzare.  
+Inserisci quante più informazioni possibili e specifica se vorresti occuparti interamente della prima stesura o se invece vorresti produrre il contenuto in collaborazione con altri contributori.
+
+Una volta aperta la issue, verrà automaticamente assegnata una label `nuovo-capitolo`.  
+A questo punto, un qualsiasi Ambassador potrebbe decidere di _assegnare_ a se stesso la issue. Ti consigliamo di pubblicizzare la tua idea in ogni modalità a te possibile e/o contattare eventuali Ambassador di tua conoscenza per chiedere loro di dare un'occhiata alla tua proposta e valutare la possibilità di _assegnare_ la issue a se stessi.
+
+Nel momento in cui un Ambassador deciderà di _assegnare_ la issue a se stesso, un branch verrà creato in maniera automatica e il lavoro di stesura potrà cominciare.
+
+Prosegui nella lettura di questa pagina alla voce [Modalità di stesura di un capitolo](#modalità-di-stesura-di-un-capitolo) per capire come procedere da qui.
+
+### Proporre una modifica ad un capitolo esistente
+
+Se hai un'idea per migliorare un capitolo esistente, puoi proporla aprendo una nuova issue.
+Github ti proporrà un template per la creazione della issue, che ti suggeriamo di utilizzare.  
+In alternativa, potresti aprire direttamente una Pull Request, ma ti consigliamo di aprire una issue per discutere prima della modifica da apportare e capire se la tua idea è condivisa dalla community.
+
+### Modalità di stesura di un capitolo
+
+Bene, hai individuato un capitolo a cui contribuire / da modificare e vuoi cominciare a scrivere dei contenuti. Ma come?
+
+Le modalità di stesura del capitolo sono principalmente due:
+
+- In accordo con la persona del team Ambassador assegnataria del capitolo di interesse, potrete decidere di mettervi in contatto per lavorare insieme alla stesura del capitolo. In questo caso, potrete decidere di utilizzare un qualsiasi strumento di scrittura collaborativa (Google Docs, Office 365, ecc.) e di caricare il contenuto nel branch una volta terminato. Per comodità, si suggerisce di lasciare alla figura di Ambassador il compito di caricare il contenuto nel repository rimuovendo la necessità di una ulteriore Pull Request.
+
+- In accordo con la persona del team Ambassador assegnataria del capitolo, potrai stendere in prima battuta il contenuto del capitolo e far sì che la persona assegnataria ti faccia da revisore e guida. In questo caso, sarà necessario fare un fork del branch relativo al capitolo e aprire una Pull Request che dovrà puntare a quello stesso branch come destinazione.
+  Una volta aperta la Pull Request, la persona assegnataria del capitolo potrà iniziare a revisionare il contenuto e a suggerire modifiche.  
+  Una volta terminato il lavoro, la persona assegnataria del capitolo aprirà una Pull Request (o modificherà quella già presente da `draft` a `ready for review`) e chiederà una revisione al resto della community. Le regole di approvazione dei contenuti sono regolate dal Governance Group del progetto e sono disponibili [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/approvazione-contenuti.md).
+
+## Scrivere i contenuti
+
+I contenuti del libro sono scritti in formato markdown e sono organizzati in cartelle e file.  
+Sarà sufficiente avere una qualsiasi versione di Node.js installata sul proprio computer per poter formattare i file markdown in maniera automatica e un qualsiasi IDE per la stesura.
+
+### Prima installazione
+
+Dopo aver clonato il progetto ed essendosi spostati sul branch relativo al capitolo di interesse, eseguire il comando `npm i` per installare le librerie.
+
+### Formattazione
 
 Tutti i file markdown devono essere formattati con [Prettier](https://prettier.io/) per una miglior leggibilità e per evitare inutili merge conflict se più persone lavorano allo stesso file.
 
-Per formattare da linea di comando tutti i file è necessario avere [Node](https://nodejs.org/it) installato sul proprio computer e lanciare il seguente comando nella cartella del repository:
+Per formattare da linea di comando tutti i file è sufficiente lanciare il seguente comando nella cartella del repository:
 
 ```bash
 npm run format:write
@@ -22,29 +61,29 @@ npm run format:write
 
 Fortunatamente i principali IDE supportano Prettier tramite delle estensioni, di seguito alcuni esempi:
 
-### Visual Studio Code
+#### Visual Studio Code
 
 Per formattare i file markdown con Visual Studio Code è necessario installare l'estensione [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
 Un buon consiglio è tenere attivo il flag `Format On Save` direttamente nelle impostazioni di vscode per evitare di dover formattare ogni volta a mano.
 
-### JetBrains IDE (WebStorm, IntelliJ, ecc.)
+#### JetBrains IDE (WebStorm, IntelliJ, ecc.)
 
 Per formattare i file markdown con IDE JetBrains è necessario installare l'estensione [Prettier](https://plugins.jetbrains.com/plugin/10456-prettier), tranne per WebStorm che include già Prettier di default.
 
 Alcuni suggerimenti di configurazione si possono trovare [qui](https://prettier.io/docs/en/webstorm).
 
-### Vim
+#### Vim
 
 Per formattare i file markdown con Vim è necessario installare il plugin [vim-prettier](https://github.com/prettier/vim-prettier).
 
 Alcuni suggerimenti di configurazione si possono trovare [qui](https://prettier.io/docs/en/vim).
 
-### Altri IDE
+#### Altri IDE
 
 Nella documentazione di Prettier sono presenti le istruzioni per configurare il tool nel proprio IDE preferito: [Editor Integration](https://prettier.io/docs/en/editors).
 
-## Conventional commits
+### Conventional commits
 
 Per mantenere uno storico e poter costruire dei changelog è richiesto a tutti i contributori del progetto di utilizzare i [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
 In pratica è necessario utilizzare dei prefissi per i commit che indicano il tipo di commit e il contesto, ad esempio:
