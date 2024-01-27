@@ -14,7 +14,7 @@ Il rilascio di un'applicazione è probabilmente l'unica fase che differisce risp
 
 ## Cenni Storici
 
-La nascita dello sviluppo mobile e della professione del mobile developer va fatta coincidere con la diffusione di dispositivi tascabili come smartphone e tablet, in origine definiti palmare.
+La nascita dello sviluppo mobile e della professione del mobile developer va fatta coincidere con la diffusione di dispositivi tascabili come smartphone e tablet, in origine definiti palmari.
 
 Secondo [Wikipedia](https://it.wikipedia.org/wiki/Computer_palmare), "Un computer palmare (detto anche palmare), spesso indicato in lingua inglese con la sigla PDA (Personal Digital Assistant), o con l'ormai desueto termine palmtop, è un computer di dimensioni contenute, tali da essere portato sul palmo di una mano (da cui il nome), dotato anche di un touch screen."
 
@@ -54,7 +54,7 @@ Agli albori dello sviluppo mobile, l'unico modo possibile per realizzare applica
 
 Realizzare la stessa applicazione per due sistemi operativi diversi significava avere due codici sorgenti completamente diversi, utilizzare due design system differenti, affrontare bug e problematiche diverse in funzione della piattaforma di riferimento, e soprattutto imparare due linguaggi di programmazione con un paradigma molto diverso fra loro: Java per Android ed Objective-C per iOS.
 
-Con il diffondersi degli smartphone e di internet, e con la progressiva transizione al contenuto mobile-first, molti web developer hanno deciso di convertirsi al mobile. L'unico limite a questo punto restava il linguaggio di programmazione: la maggior parte dei web developer era poco avvezzo all'utilizzo di Java e Objective-C, e questo ha contribuito a far nascere i framework di sviluppo ibridi di prima generazione.
+Con il diffondersi degli smartphone e di internet, e con la progressiva transizione al contenuto mobile-first, molti web developer hanno deciso di convertirsi al mobile. L'unico limite a questo punto restava il linguaggio di programmazione: la maggior parte dei web developer era poco avvezzo all'utilizzo di Java ed Objective-C, e questo ha contribuito a far nascere i framework di sviluppo ibridi di prima generazione.
 
 Lo sviluppo ibrido nasce per far fronte al problema di dover necessariamente conoscere linguaggi di programmazione ed SDK di riferimento per ogni piattaforma mobile esistente: dato che la maggiorparte delle prime applicazioni non presenti sugli store girava sui browser degli smartphone, si è deciso di sfruttare javascript come linguaggio di programmazione per modellare dei framework che consentissero con un unico codice sorgente ed un unico design system, di realizzare applicazioni per entrambi i sistemi operativi di riferimento.
 
