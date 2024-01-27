@@ -1,7 +1,9 @@
 ## Design Patterns
 
-Il concetto di Design Patterns è definizione su [Wikipedia](https://it.wikipedia.org/) è una soluzione generale ad un problema di progettazione ricorrente e deriva dallo stesso concetto esistente in architettura.\
-Questo concetto è comparso la prima volta nel libro [Design Patterns - Elementi per il riuso di software ad oggetti](https://it.wikipedia.org/wiki/Design_Patterns) i cui autori , detti la [Gang of Four](https://it.wikipedia.org/wiki/Gang_of_Four_scrittori) , sono 4 importanti autori del panorama informatico internazionale Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
+Il concetto di Design Patterns è definito su [Wikipedia](https://it.wikipedia.org/wiki/Design_pattern) come:
+> Una soluzione progettuale generale ad un problema ricorrente.
+
+Questo concetto, derivante da un concetto similare esistente in architettura, è comparso per la prima volta nel libro [Design Patterns - Elementi per il riuso di software ad oggetti](https://it.wikipedia.org/wiki/Design_Patterns) i cui autori, detti [Gang of Four](https://it.wikipedia.org/wiki/Gang_of_Four_(scrittori)), sono 4 importanti autori del panorama informatico internazionale: Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
 
 Per capire meglio il concetto possiamo dire che ogni design pattern identifica un problema generalizzato da risolvere e gli associa una soluzione; Questo generalmente tramite , ad esempio, uno schema UML che la descrive e aiuta sensibilmente a capirla.\
 In generale Design patterns e Programmazione ad oggetti sono strettamente legati poiché sia il libro che pagine internet che ne parlano sono descritti con l'utilizzo di oggetti.\
@@ -18,14 +20,9 @@ Il libro della Gang of four identifica un elenco iniziale di design pattern ognu
 Generalmente un programmatore che sta sviluppando una certa parte di codice per implementare una o più funzionalità potrebbe "riconoscere" un design pattern al problema specifico che si sta cercando di risolvere e potrebbe anche non utilizzarlo ma l'utilizzo dello stesso può portare ad una serie di vantaggi.
 I principali vantaggi di questo utilizzo sono:
 
-1. Facilità di riuso e test del software
-2. Miglior comprensione del codice
-3. Sono soluzioni provate e testate
-
-In particolare: \
-Facilità di riuso perché la creazione di più classi che possono spezzare logicamente il proprio problema implica la possibilità di utilizzare queste logiche in altri contesti o addirittura nello stesso prodotto che si sta sviluppando. Questo spezzare logicamente implica anche la facilità di test soprattutto automatici migliorando la qualità del software
-Miglior comprensione del codice perché essendo conosciuti e avendo un nome è possibile riconoscerli (più o meno) facilmente da più persone.
-Sono soluzioni provate e testate e quindi se riconosciamo il problema e applichiamo la soluzione siamo sicuri che funzionano
+- **Facilità di riuso e test del software**: la creazione di più classi che possono spezzare logicamente il proprio problema implica la possibilità di utilizzare queste logiche in altri contesti o addirittura nello stesso prodotto che si sta sviluppando. Questo spezzare logicamente implica anche la facilità di test soprattutto automatici migliorando la qualità del software.
+- **Miglior comprensione del codice**: essendo conosciuti e avendo un nome è possibile riconoscerli (più o meno) facilmente da più persone.
+- **Soluzioni provate e testate**: se riconosciamo il problema e applichiamo la soluzione siamo sicuri che funzionano.
 
 Naturalmente , come ogni cosa esistente , ha anche dei svantaggi tra cui:
 
@@ -50,3 +47,11 @@ Oltre al libro in questione ne sono stati introdotti altri che vedremo successiv
 ## Patterns comportamentali
 
 ## Altri pattern
+
+
+# Note e appunti
+
+- Spingere di più sul concetto che i Design Pattern siano delle soluzioni _tipo_ a problemi _tipo_ ma che non sempre la situazione sarà così lineare da permetterci in primis di comprendere il problema che stiamo affrontando e inoltre non è detto che la soluzione sia ottimale in termini di, ma non solo: performance, tempi di sviluppo, armonia con altre scelte architetturali, esperienza del team.
+- In linea con quanto sopra: Non tutti i dev di un team potrebbero essere in grado di adottare i design pattern nella maniera corretta e, come ogni standard, se non rispettato può portare più problemi che benefici.
+- Importante delineare il fatto che spesso i Design Pattern, come altri concetti e best practise del software, siano astrazioni applicative e molti dei concetti rappresentati dai pattern possano essere ritrovati sia a livelli di astrazione più alti (Architettura e addirittura Infrastruttura) o più bassi (Singole righe di codice o singole funzioni).
+- Come linea generale eviteremo di listare i design pattern in maniera accademica in quanto il libro sarà un incipit a un futuro approfondimento, ma ci concentreremo sui perché della loro nascita e del loro utilizzo, le principali dinamiche e i principali concetti attorno ad essi, e i pro e i contro generali.
