@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cosa significa "essere dev"?
+nav_order: 2
+---
+
 # _Cosa significa "essere dev"?_
 
 La domanda, di per sé, è piuttosto semplice.
