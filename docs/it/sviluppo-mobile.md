@@ -1,3 +1,9 @@
+---
+layout: default
+title: Sviluppo Mobile
+nav_order: 6
+---
+
 # Sviluppo Mobile
 
 ## Che cos'è lo sviluppo mobile?
