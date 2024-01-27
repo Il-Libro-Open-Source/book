@@ -1,3 +1,12 @@
+---
+layout: default
+title: Introduzione
+nav_order: 1
+permalink: /
+---
+
+# Il Libro Open Source
+
 ## Benvenuto
 
 Chiunque tu sia, da qualunque posto tu provenga, benvenuto in un viaggio incredibile nel mondo dello sviluppo software.
