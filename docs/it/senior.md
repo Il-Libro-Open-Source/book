@@ -209,7 +209,7 @@ Questo a volte significa che un senior dovrebbe anche sapere quando è il moment
 
 Dire NO è facile ma al tempo stesso molto difficile. Tutti possono dire NO, questa è la parte facile! Il difficile è argomentare il perché di quel NO, proporre punti di vista alternativi, trovare compromessi e disinnescare bombe a orologeria a breve o lungo termine.
 
-Per riuscire a farlo serve un elevato livello di soft skills. Devi saper comunicare in modo efficace e scegliere con saggezza le tua battaglie. Non puoi dire sempre NO a tutto o corri il rischio di essere preso per un ostruzionista scorbutico.
+Per riuscire a farlo serve un elevato livello di soft skills: devi saper comunicare in modo efficace usando le parole giuste e scegliere con saggezza le tua battaglie. Non puoi dire sempre NO a tutto o corri il rischio di essere preso per un ostruzionista scorbutico.
 
 Si tratta piuttosto di saper dire “NO, MA” piuttosto che un secco “NO”: provvedere ad una valida alternativa, seppur non ottima tecnicamente o di requisiti è parte del ruolo. A volte è necessario accettare compromessi e fare scelte che non sono necessariamente le migliori dal proprio punto di vista. Ma è importante essere in grado di riconoscere quando è il momento di dire NO e quando è il momento di accettare un compromesso.
 E dovresti anche essere in grado di farlo di fronte alle persone giuste e al momento giusto… Se fatto bene, questo può avere un forte impatto positivo sull’azienda e sul team. Può portare all’innovazione e creare nuove potenzialità di lavoro o vantaggi competitivi unici.
