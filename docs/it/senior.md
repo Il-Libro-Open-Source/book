@@ -201,7 +201,7 @@ Ogni fallimento peró é un passo in avanti verso il successo, una lezione appre
 
 ## Essere una leva attiva, saper dire "NO" e debito tecnico
 
-Uno sviluppatore senior deve avere un ruolo molto proattivo in un’organizzazione. Non dovrebbe isolarsi in una stanza e continuare a sbattere le dita contro la tastiera. Un senior deve sapere quando è il momento di fare domande difficili e prendere in mano la situazione.
+Uno sviluppatore senior deve avere un ruolo molto proattivo in un’organizzazione. Non dovrebbe isolarsi in una stanza e continuare a sbattere le dita contro la tastiera. Un senior deve sapere quando è il momento di fare domande scomode e prendere in mano la situazione.
 
 Essere in grado di fornire un punto di vista fortemente tecnico in una conversazione aziendale può avere grande impatto e informare l’azienda su quale sia la strategia migliore per andare avanti. A tutti gli effetti, un senior dovrebbe diventare un ponte tra il prodotto e la tecnologia.
 
