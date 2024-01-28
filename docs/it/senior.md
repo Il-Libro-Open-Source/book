@@ -211,10 +211,8 @@ Dire NO è facile ma al tempo stesso molto difficile. Tutti possono dire NO, que
 
 Per riuscire a farlo serve un elevato livello di soft skills. Devi saper comunicare in modo efficace e scegliere con saggezza le tua battaglie. Non puoi dire sempre NO a tutto o corri il rischio di essere preso per un ostruzionista scorbutico.
 
-Si tratta piuttosto di saper dire “NO, MA” piuttosto che un secco “NO”. E dovresti anche essere in grado di farlo di fronte alle persone giuste e al momento giusto… Se fatto bene, questo può avere un forte impatto positivo sull’azienda e sul team. Può portare all’innovazione e creare nuove potenzialità di lavoro o vantaggi competitivi unici.
-
-Ovviamente non è sempre possibile dire NO. A volte è necessario accettare compromessi e fare scelte che non sono necessariamente le migliori dal proprio punto di vista. Ma è importante essere in grado di riconoscere quando è il momento di dire NO e quando è il momento di accettare un compromesso.
-
+Si tratta piuttosto di saper dire “NO, MA” piuttosto che un secco “NO”: provvedere ad una valida alternativa, seppur non ottima tecnicamente o di requisiti è parte del ruolo. A volte è necessario accettare compromessi e fare scelte che non sono necessariamente le migliori dal proprio punto di vista. Ma è importante essere in grado di riconoscere quando è il momento di dire NO e quando è il momento di accettare un compromesso.
+E dovresti anche essere in grado di farlo di fronte alle persone giuste e al momento giusto… Se fatto bene, questo può avere un forte impatto positivo sull’azienda e sul team. Può portare all’innovazione e creare nuove potenzialità di lavoro o vantaggi competitivi unici.
 Questo é un argomento che viene spesso tirato in ballo quando si parla di debito tecnico, ovvero scelte tecniche non ideali che a lungo termine possono portare a problemi di stabilitá e scalabilitá fino al punto di danneggiare il business. Piú il tempo passa e piú il debito tecnicó si accumula e piú sará difficile ripagarlo.
 
 Il debito tecnico é un argomento molto complesso e non esiste una soluzione unica per tutti i casi. A volte é necessario accettare un debito tecnico per poter rispettare una scadenza o per poter testare un'idea. Altre volte é necessario investire tempo per ripagare il debito tecnico accumulato in passato.
@@ -243,7 +241,7 @@ Un’altra importante abilità comunicativa per un ingegnere del software è que
 
 Come ingegnere del software, devi essere in grado di comunicare queste incertezze in modo chiaro e conciso. Devi anche essere in grado di proporre idee su come affrontare queste incertezze e far progredire il progetto.
 
-Inoltre, gli ingegneri del software devono essere in grado di parlare degli errori e delle lezioni apprese. Ne abbiamo già parlato, ma è importante sottolineare che il fallimento è una parte inevitabile dello sviluppo del software ed è importante essere trasparenti sui fallimenti e sulle lezioni apprese. Ciò richiede capacità di comunicazione efficaci, compresa quella di assumersi la responsabilità degli errori e di comunicare onestamente. Inoltre, è necessario saper comunicare le lezioni apprese dai fallimenti e incorporarle nei progetti futuri. In un certo senso, un errore puó anche essere visto come un investimento a lungo termine. Se questo viene comunicato bene puó essere percepito in modo assolutamente positivo da parte dell'azienda e puó convince a investire ancora di piú nella ricerca di nuove soluzioni e pratiche di sviluppo.
+Inoltre, gli ingegneri del software devono essere in grado di parlare degli errori e delle lezioni apprese. È importante sottolineare che il fallimento è una parte inevitabile dello sviluppo del software ed è importante essere trasparenti sui fallimenti e sulle lezioni apprese. Ciò richiede capacità di comunicazione efficaci, compresa quella di assumersi la responsabilità degli errori e di comunicare onestamente. Inoltre, è necessario saper comunicare le lezioni apprese dai fallimenti e incorporarle nei progetti futuri. In un certo senso, un errore puó anche essere visto come un investimento a lungo termine. Se questo viene comunicato bene puó essere percepito in modo assolutamente positivo da parte dell'azienda e puó convince a investire ancora di piú nella ricerca di nuove soluzioni e pratiche di sviluppo.
 
 Le capacità comunicative sono essenziali anche per la stesura della documentazione e per le presentazioni. Gli sviluppatori devono essere in grado di scrivere una documentazione chiara che spieghi come funzionano le loro soluzioni e come devono essere utilizzate e gestite nella produzione. Devono inoltre essere in grado di fornire presentazioni che comunichino efficacemente i concetti tecnici a un pubblico non tecnico. Ciò richiede una grande capacità di scrittura e di presentazione, oltre all’abilità di semplificare argomenti complessi e renderli digeribili per il pubblico.
 
@@ -291,7 +289,7 @@ Se sei un ingegnere del software e vuoi aumentare le tue competenze e diventare 
 
 Beh, non temere! Ecco 4 idee (più alcune extra) che credo ti aiuteranno nel tuo percorso.
 
-## Scendere giú di un livello
+### Scendere giú di un livello
 
 Innanzitutto, non limitarti a sfiorare la superficie delle tecnologie con cui stai lavorando. Scava più a fondo e impara a conoscere gli strati sottostanti. Probabilmente hai costruito un sito web o un'API, ma ti sei mai chiesto come funziona il protocollo HTTP? O anche come funziona il protocollo TCP e cosa succede per stabilire una connessione? Apprezzare questi dettagli ti darà una comprensione molto più ricca delle tecnologie con cui lavori ogni giorno.
 
@@ -313,7 +311,7 @@ Costruire prototipi è un ottimo modo per memorizzare alcuni concetti e mettere 
 
 Un video divertente che mi è piaciuto molto ultimamente è [The Computer Science Iceberg](https://www.youtube.com/watch?v=H565avw-ufk). Perché mi piace così tanto? Perché é divertente, ironico e soprattutto perché illustra davvero bene l’idea di livelli graduali di astrazione e di ricerca di conoscenze fondamentali e generiche.
 
-## Divertiti
+### Divertiti
 
 Questa è una delle mie convinzioni principali: l’ingegneria del software è una professione molto impegnativa. Non perché sia più difficile di altre professioni, ma perché le cose si muovono così velocemente che non puoi mai smettere di imparare e ti sentirai sempre indietro.
 
@@ -329,7 +327,7 @@ Quando si applica questa mentalità di apprendimento continuo e di condivisione 
 
 Un’altra idea per far entrare le persone in sintonia tra loro e generare una stimolazione reciproca delle idee è quella di organizzare hackathon aziendali o giornate di studio gratuite. Questi sono ottimi modi per aiutare i team ad appassionarsi a ciò che fanno, a esplorare nuove idee, a imparare cose nuove e, in definitiva, a mettere le persone in condizione di fornire più valore nel breve e nel lungo termine.
 
-## Pair programming
+### Pair programming
 
 Il pair programming è un altro grande strumento che puoi sfruttare per dare una spinta alle tue competenze. Collaborare con il maggior numero possibile di persone all’interno dell’organizzazione è fondamentale. Anche se qualcuno è più giovane di te, può comunque avere intuizioni e prospettive che forse non avevi considerato prima. La programmazione in coppia offre una piattaforma per condividere idee e imparare gli uni dagli altri.
 
@@ -339,7 +337,7 @@ Ho imparato tantissimi trucchi lavorando in coppia con altre persone. Anche picc
 
 Alla fine, la cosa più importante è rimanere aperti a nuove idee e approcci. Continuando a imparare e a crescere, sarei sulla buona strada per diventare uno sviluppatore di software senior. Quindi, perché non provare a fare un po' di pair programming e vedere cosa riesci a imparare?
 
-## Creazione di contenuti
+### Creazione di contenuti
 
 Prima di tutto, la creazione di contenuti può assumere diverse forme: articoli, presentazioni, video, discussioni tecniche su canali social, e chi più ne ha più ne metta! E indovina un po’? Non occorre essere un esperto per condividere qualcosa di nuovo che hai imparato. Anche se sei alle prime armi con un determinato argomento, la tua nuova prospettiva può portare valore agli altri e aiutarti ad confrontarti con i gente piú esperta nello specifico settore.
 
@@ -357,7 +355,7 @@ La creazione di contenuti può aiutarti a diventare uno sviluppatore più espert
 
 Ti sorprenderai dell’impatto che avrà su di te e sugli altri!
 
-## Altre idee
+### Altre idee
 
 Ecco alcuni altri consigli in ordine sparso che puoi aggiungere a quelli discussi sopra.
 
