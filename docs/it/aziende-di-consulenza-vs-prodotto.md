@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aziende di consulenza vs prodotto
+nav_order: 7
+---
+
 # Aziende di consulenza vs prodotto
 
 ## Obiettivo del capitolo
