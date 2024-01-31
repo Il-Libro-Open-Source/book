@@ -57,9 +57,9 @@ Per farlo, potremmo iniziare con:
 
 Forse il metodo più popolare, dove lo sviluppatore suddivide il processo di scrittura del codice in tre fasi:
 
-- Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (*Red*);
-- Scrive il codice necessario affinché il test passi (*Green*);
-- Lo migliora (*Refactoring*)
+- Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
+- Scrive il codice necessario affinché il test passi (_Green_);
+- Lo migliora (_Refactoring_)
 
 ### Rinominare i metodi oscuri
 
