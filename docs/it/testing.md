@@ -197,6 +197,8 @@ Quelle che seguono sono delle liste non esaustive di strumenti che solitamente v
 
 ### Strumenti per End-to-End Test
 
-- **Selenium**: E' un framework utilizzato per automatizzare i browser web. E' ideale per testare interazioni utente complesse in web app.
+- **Selenium**: È un framework utilizzato per automatizzare i browser web. E' ideale per testare interazioni utente complesse in web app.
 
 - **Cypress**: Una soluzione più moderna per il testing E2E, apprezzata per la sua NON complessità d'uso e l'integrazione con ambienti di sviluppo Javascript.
+
+- **Playwright**: Un altro framework moderno che consente di automatizzare il browser e di eseguire test E2E. Punta molto sulle performance e sull'affidabilità di esecuzione delle azioni sugli elementi in pagina.
