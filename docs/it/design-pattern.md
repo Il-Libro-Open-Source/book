@@ -110,6 +110,12 @@ Come già detto la Gang of four ha iniziato a definirli e successivamente sulla 
 Client/Server: è un pattern cosiddetto architetturale poichè può essere ad esempio l'architettura del prodotto che si vuole sviluppare. Esistono due "componenti" il client che effettua richieste ed il server che le riceve e risponde ad uno o più client.\
 Esempio classico sono quasi tutti i server di database che ad ogni richiesta , ad esempio di esecuzione di una query , rispondono con i risultati.
 Model-View-Controller: è un pattern dove definiamo due entità separate il model che è la nostra entità che vogliamo rappresentare e contiene i suoi dati , il view che dice come mostrarla all'utente esterno e ne permette l'interazione; infine il Controller che effettua le interazioni fra i due.
+Dependency Injection: E' un pattern che permette di iniettare una dipendenza in una classe attraverso l'Inversion of control. Questo viene fatto iniettando una interfaccia o una classe astratta in modo da poter cambiare la sua implementazione in qualsiasi momento.\
+Abbiamo 3 tipi di iniezioni:
+
+- Injection nel costruttore
+- Injection tramite setter
+- Injection tramite interfaccia
 
 # Note e appunti (Da eliminare a fine stesura)
 
