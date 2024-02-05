@@ -20,7 +20,7 @@ _Dipende!_
 
 In questo capitolo cercheremo di esplorare cosa significa essere senior in ambito software. Discuteremo cosa puó e deve offrire un senior al suo team e alla sua azienda, dagli aspetti più tecnici (hard skills) a quelli più umani (soft skills).
 
-Ma prima di imbarcarci in questo viaggio, è importante puntializzare che non esiste una definizione canonica di "senior": ogni azienda, ogni team e ogni individuo ha la propria definizione.
+Ma prima di imbarcarci in questo viaggio, è importante puntualizzare che non esiste una definizione canonica di "senior": ogni azienda, ogni team e ogni individuo ha la propria definizione.
 
 La nostra esplorazione sarà contaminata dalle opinioni e le esperienze personali degli autori e lo spirito di questo capitolo non è quello di offrire una guida assolutamente corretta su come diventare senior in dieci mosse, ma piuttosto essere un piccolo almanacco di buone pratiche per ispirare coloro che ambiscono a diventare senior e per coloro che sono giá riconosciuti come tali e sono alla ricerca di spunti per migliorarsi.
 
@@ -28,7 +28,7 @@ La nostra esplorazione sarà contaminata dalle opinioni e le esperienze personal
 
 Immaginiamo per un attimo di essere il CTO di un'azienda in forte crescita. Abbiamo costruito un prodotto grazie al supporto di un'azienda di consulenza esterna, ma adesso è fondamentale portare lo sviluppo _in-house_ e costruire un team interno per poter rendere l'azienda stabile e raggiungere i prossimi obiettivi di crescita.
 
-Quello che ci serve in questa fase è un team di sviluppatori senior che possa essere la base attorno alla quale costruire e far crescere un team piú ampio e variegato di professionisti del software.
+Quello che ci serve in questa fase é un team di sviluppatori senior che possa costituire la base attorno alla quale costruire e far crescere un team più ampio e variegato di professionisti del software.
 
 Iniziamo a pensare a come scrivere una _job spec_ - ovvero una descrizione dell'offerta e del ruolo - per la ricerca di questi sviluppatori senior. Cosa dovremmo scrivere? Cosa dovremmo cercare? Come definiamo il profilo che stiamo cercando?
 
@@ -42,7 +42,7 @@ Dopo aver preso un caffé e aver fatto un giretto in giardino, torniamo alla scr
 
 Cosa ci serve? Cosa ci aspettiamo da questi sviluppatori senior?
 
-Un senior deve essere qualcuno che sia in grado di far progredire progetti e persone. Qualcuno che, con le proprie competenze, possa moltiplicare la produttivitá aziendale. Si, un _"moltiplicatore di forze"_, questo è quello che ci serve!
+Un senior dovrebbe essere qualcuno che sia in grado di far progredire progetti e persone. Qualcuno che, con le proprie competenze, possa moltiplicare la produttivitá aziendale. Si, un _"moltiplicatore di forze"_, questo è quello che ci serve!
 
 Non vogliamo un eroe solitario in grado di scrivere migliaia di righe di codice al giorno e di produrre tanto quanto dieci sviluppatori! Piuttosto cerchiamo un individuo che sappia giocare di squadra e che sappia valorizzare e massimizzare le competenze e le esperienze di tutti i membri del team.
 
