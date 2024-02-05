@@ -22,7 +22,7 @@ In questo capitolo cercheremo di esplorare cosa significa essere senior in ambit
 
 Ma prima di imbarcarci in questo viaggio, è importante puntializzare che non esiste una definizione canonica di "senior": ogni azienda, ogni team e ogni individuo ha la propria definizione.
 
-La nostra esplorazione sará contaminata dalle opinioni e le esperienze personali degli autori e lo spirito di questo capitolo non è quello di offrire una guida assolutamente corretta su come diventare senior in 10 mosse, ma piuttosto essere un piccolo almanacco di buone pratiche per ispirare coloro che ambiscono a diventare senior e per coloro che sono giá riconosciuti come tali e sono alla ricerca di spunti per migliorarsi.
+La nostra esplorazione sarà contaminata dalle opinioni e le esperienze personali degli autori e lo spirito di questo capitolo non è quello di offrire una guida assolutamente corretta su come diventare senior in dieci mosse, ma piuttosto essere un piccolo almanacco di buone pratiche per ispirare coloro che ambiscono a diventare senior e per coloro che sono giá riconosciuti come tali e sono alla ricerca di spunti per migliorarsi.
 
 ## Senior? Si, ma quanto?
 
