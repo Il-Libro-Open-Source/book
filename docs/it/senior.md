@@ -58,9 +58,11 @@ Oppure piú genericamente: "Ricerchiamo professionista con almeno dieci anni di 
 
 Questo tipo di frasi sono cosí comuni da sembrare quasi banali e ogni tanto riescono anche a rubare qualche sorriso.
 
-Il mio esempio preferito è quello del creatore del famoso web framework per Python FastAPI. Sebastián Ramirez (@tiangolo) postó [un tweet](https://twitter.com/tiangolo/status/1281946592459853830) menzionando annuncio di lavoro nel quale si cercava un professionista con 5 anni di esperienza specificamente con FastAPI. Peccato che lui avesse creato FastAPI meno di 2 anni prima!
+Ecco un esempio simpatico. Sebastián Ramirez (anche conosciuto come _@tiangolo_), famoso per aver creato il web framework [FastAPI](https://fastapi.tiangolo.com/), postó [un tweet](https://twitter.com/tiangolo/status/1281946592459853830) menzionando un annuncio di lavoro nel quale si cercava un professionista con 5 anni di esperienza proprio con FastAPI. Beh, lui stesso, benchè creatore e massimo esperto di FastAPI, non era idoneo per quell'opportunità in quanto aveva creato FastAPI solo 2 anni prima e non aveva ancora acquisito i 5 anni di esperienza richiesti!
 
 Ah, se solo potessimo tornare indietro nel tempo!
+
+Sembrerà ridicolo, ma è invece indicativo di quanto le offerte di lavoro abbiano requisiti assolutamente irrealistici e di quanto spesso si enfatizzino gli anni di esperienza con determinate tecnologie piuttosto che le competenze acquisite.
 
 Ok, tornando al punto, quanti anni servono per essere un senior? O ancora, qual è l'etá minima richiesta per poter essere considerati degli sviluppatori senior?
 
