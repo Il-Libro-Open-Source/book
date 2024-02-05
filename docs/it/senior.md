@@ -70,7 +70,7 @@ Queste sono due delle domande piú fuorvianti da porsi nel mondo software, per q
 
 Perché?
 
-Beh, ritornando a indossare gli abiti del nostro fantomatico CTO, assumeremmo qualcuno solo perché è stato 10 anni seduto ad una scrivania a guardare lo schermo di un computer o lo assumeremmo perché è in grado di contribuire alla risoluzione di specifici problemi di business?
+Beh, ritornando a indossare gli abiti del nostro fantomatico CTO, assumeremmo qualcuno solo perché è stato dieci anni seduto ad una scrivania a guardare lo schermo di un computer o lo assumeremmo perché è in grado di contribuire alla risoluzione di specifici problemi di business?
 
 È vero che aver investito piú tempo in certe attivitá potrebbe significare aver avuto piú occasioni per imparare ed eccellere in una data disciplina. Ma il mondo software è una disciplina cosí complessa ed in continuo cambiamento in cui l'equazione "tanto tempo = grandi competenze" diventa una semplificazione troppo banale e rischiosa.
 
@@ -78,7 +78,7 @@ Nella mia carriera ho avuto la fortuna di lavorare con dei colleghi giovani ma b
 
 Mi è anche capitato di lavorare con colleghi con tanti anni di esperienza e anche grosse aziende sul CV che invece si sono limitati a fare il minimo indispensabile e, quando coinvolti nella risoluzione di problemi complessi, mostravano serie lacune sia tecniche che di comprensione del business.
 
-Certo, questi sono esempi estremi e non sono sicuramente la norma. Il punto è che non bisogna assolutamente puntare né agli anni di esperienza né all'età, ma piuttosto mirare alle competenze acquisite e alla capacità (e volontà) di continuare ad acquisirne di nuove.
+Certo, queste sono estremizzazioni e non sono sicuramente la norma. Il punto è che non bisogna assolutamente puntare né agli anni di esperienza né all'età, ma piuttosto mirare alle competenze acquisite e alla capacità (e volontà) di continuare ad acquisirne di nuove.
 
 ## Le competenze
 
@@ -101,7 +101,7 @@ Per questo, a volte, la migliore soluzione da un punto di vista strettamente tec
 
 Un senior dovrebbe essere in grado di riconoscere queste situazioni e di abbandonare soluzioni tecnicamente ottimali in favore di soluzioni piú adatte alla squadra e alle circostanze di business.
 
-Un esempio estremo potrebbe essere quello di uno sviluppatore capace di scrivere codice di basso livello e iper-ottimizzato per un dato obiettivo. Questo approccio potrebbe limitare l'accesso al progretto a pochissimi individui con competenze simili. Quante aziende hanno veramente l'esigenza di produrre codice cosí ottimizzato? Spesso è piú conveniente puntare all'agilitá e alla possibilitá di iterare e sperimentare velocemente.
+Un esempio estremo potrebbe essere quello di uno sviluppatore capace di scrivere codice di basso livello e iper-ottimizzato per un dato obiettivo. Questo approccio potrebbe limitare l'accesso al progetto a pochissimi individui con competenze simili. Quante aziende hanno veramente l'esigenza di produrre codice cosí ottimizzato? Spesso è piú conveniente puntare all'agilitá e alla possibilitá di iterare e sperimentare velocemente.
 
 Le competenze tecniche da sole non bastano a comprendere tutte le sfaccettature di un progetto e a trovare soluzioni che soddisfino tutte le necessità di business e spesso i migliori compromessi possono essere trovati con il giusto equilibrio di competenze sia tecniche che di business.
 
@@ -119,7 +119,7 @@ Un buon modo per costruire il profilo a T è quello di iniziare a sviluppare il 
 
 Quando pensi di avere raggiunto la padronanza di una data competenza tecnica, allora potrai espandere la tua conoscenza partendo da lì, sviluppando cosí il tratto orizzontale. Esci fuori dalla tua comfort zone ed esplora argomenti correlati. Questi argomenti dovrebbero auspicabilmente arricchire le tue conoscenze pregresse e permetterti di contribuire in modo piú esteso ai vari aspetti dello sviluppo di un prodotto software.
 
-Se, ad esempio, sei diventato esperto in sviluppo di API REST, potresti voler approfondire i database o lo sviluppo front-end, in quanto l'insieme di queste competenze ti permetterebbe di avvicinarti ad un profilo da programmatore full-stack. Allo stesso modo, potresti anche approfondire l’argomento IaC (infrastructure-as-code) ed imparare ad implementarlo nel processo produttivo. Non limirarti a scrivere software ma cerca di capire anche cosa è necessario per portare quel software in produzione.
+Se, ad esempio, sei diventato esperto nello sviluppo di API REST, potresti voler approfondire i database o lo sviluppo front-end, in quanto l'insieme di queste competenze ti permetterebbe di avvicinarti ad un profilo da programmatore full-stack. Allo stesso modo, potresti anche approfondire l’argomento IaC (infrastructure-as-code) ed imparare ad implementarlo nel processo produttivo. Non limitarti a scrivere software ma cerca di capire anche cosa è necessario per portare quel software in produzione.
 
 Il segreto non sta nel diventare un esperto in ognuna di queste ulteriori aree ma nell’apprendere quanto basta per capire le basi e per poter collaborare in modo efficace con chi, invece, le padroneggia a fondo.
 
@@ -169,11 +169,11 @@ Impara i diversi tipi e i diversi framework di test. Infine, impara quali tipi d
 
 Uno sviluppatore senior dovrebbe aver sviluppato un certo grado di affinitá con diversi linguaggi di programmazione e dovrebbe conoscere diversi paradigmi e le loro differenze. Ad esempio la programmazione ad oggetti (OOP) e quella funzionale; uno stile dichiarativo rispetto ad uno imperativo; differenze tra linguaggi compilati e interpretati. Possedere questo tipo di competenze puó essere utile per risolvere lo stesso problema utilizzando strumenti e tecniche differenti e potendo cosí scegliere la soluzione che offre i compromessi piú idonei per il problema in questione e per il team con cui si lavora.
 
-Similarmente è importante avere una buona conoscenza dei design patterns al fine di riuscire a strutturare il codice in modo piú flessibile, rendendo piú semplici potenziali evoluzioni future.
+Similarmente è importante avere una buona conoscenza dei design pattern al fine di riuscire a strutturare il codice in modo piú flessibile, rendendo piú semplici potenziali evoluzioni future.
 
-Il codice è un elemento che dovrà evolversi con il cambiare delle esigenze del business ed è quindi importante progettare tenendo conto dell’evoluzione. I design patterns non sono una panacea ed a volte è facile abusarne e creare troppi livelli di astrazione. Un buon senior dovrebbe riuscire a trovare il giusto equilibrio tra semplicitá e flessibilitá.
+Il codice è un elemento che dovrà evolversi con il cambiare delle esigenze del business ed è quindi importante progettare tenendo conto dell’evoluzione. I design pattern non sono una panacea ed a volte è facile abusarne e creare troppi livelli di astrazione. Un buon senior dovrebbe riuscire a trovare il giusto equilibrio tra semplicitá e flessibilitá.
 
-Bisogna conoscere le buone pratice come i principi del "Clean code" ma è anche importante non essere dogmatici, ovvero applicare tutti i design patterns e le buone pratice solo perché possiamo farlo. Bisogna piuttosto chiedersi: "qual è il vantaggio di applicare uno specifico pattern ad un dato problema?". Oppure "qual è il costo in termini di complessitá aggiuntiva?".
+Bisogna conoscere le buone pratice come i principi del "Clean code" ma è anche importante non essere dogmatici, ovvero applicare tutti i design pattern e le buone pratiche solo perché possiamo farlo. Bisogna piuttosto chiedersi: "qual è il vantaggio di applicare uno specifico pattern ad un dato problema?". Oppure "qual è il costo in termini di complessitá aggiuntiva?".
 
 A volte, del codice semplice e imperativo, benché possa apparire poco elegante, può risultare molto efficace in termini di leggibilitá. Altre volte, invece, è necessaria la struttura imposta da specifici design pattern, perché questa potrebbe rendere il codice più testabile, estendibile, configurabile, ecc.
 
@@ -219,7 +219,7 @@ Questo è un argomento che viene spesso tirato in ballo quando si parla di debit
 
 Il debito tecnico è un argomento molto complesso e non esiste una soluzione unica per tutti i casi. A volte è necessario accettare un debito tecnico per poter rispettare una scadenza o per poter testare un'idea. Altre volte è necessario investire tempo per ripagare il debito tecnico accumulato in passato.
 
-Le capacitá di un senior dovrebbero permettergli di capire quando è il momento di accettare un debito tecnico e quando è il momento di investire tempo per ripagarlo. Inoltre, dovrebbe essere in grado di comunicare in modo efficace i rischi associati al debito tecnico e le conseguenze che questo potrebbe avere sul business. Infine un senior dovrebbe riuscire a negozioare con i product manager e i dirigenti per trovare il giusto compromesso tra debito tecnico e scadenze.
+Le capacitá di un senior dovrebbero permettergli di capire quando è il momento di accettare un debito tecnico e quando è il momento di investire tempo per ripagarlo. Inoltre, dovrebbe essere in grado di comunicare in modo efficace i rischi associati al debito tecnico e le conseguenze che questo potrebbe avere sul business. Infine un senior dovrebbe riuscire a negoziare con i product manager e i dirigenti per trovare il giusto compromesso tra debito tecnico e scadenze.
 
 ## Capire l’azienda
 
