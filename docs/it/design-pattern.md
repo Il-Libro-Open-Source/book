@@ -4,11 +4,12 @@ Il concetto di Design Patterns è definito su [Wikipedia](https://it.wikipedia.o
 
 > Una soluzione progettuale generale ad un problema ricorrente.
 
-Questo concetto, derivante da quello similare esistente in architettura, è comparso per la prima volta nel libro [Design Patterns - Elementi per il riuso di software ad oggetti](https://it.wikipedia.org/wiki/Design_Patterns) i cui autori, detti [Gang of Four](<https://it.wikipedia.org/wiki/Gang_of_Four_(scrittori)>), sono 4 importanti autori del panorama informatico internazionale: Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
+Questo concetto, derivante da quello similare esistente in architettura, è comparso per la prima volta nel libro [Design Patterns - Elementi per il riuso di software ad oggetti](https://it.wikipedia.org/wiki/Design_Patterns) i cui autori, detti [Gang of Four](<https://it.wikipedia.org/wiki/Gang_of_Four_(scrittori)>), sono 4 importanti figure del panorama informatico internazionale: Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
 
-Per capire meglio il concetto possiamo dire che ogni design pattern identifica un problema generalizzato da risolvere e gli associa una soluzione; Questo generalmente tramite , ad esempio, uno schema UML che la descrive e aiuta sensibilmente a capirla.\
-In generale Design patterns e Programmazione ad oggetti sono strettamente legati poiché sia il libro che pagine internet che ne parlano sono descritti con l'utilizzo di oggetti.\
-Questo non vuol dire che ad esempio nella programmazione funzionale non vengano utilizzati ma naturalmente necessitano di strutture differenti tanto è vero che alcuni Design Patterns sono più facilmente implementabili con quest'ultimo paradigma.
+Per capire meglio il concetto possiamo dire che ogni design pattern identifica un problema generalizzato da risolvere e associa ad esso una soluzione; Questo generalmente tramite uno schema UML che la descrive e aiuta sensibilmente a capirla.
+
+In generale, design patterns e programmazione ad oggetti sono strettamente legati poiché spesso i primi vengono descritti e spiegati utilizzando di oggetti.
+Questo non vuol dire che, ad esempio, nella programmazione funzionale non vengano utilizzati, ma naturalmente necessitano di strutture differenti; in alcuni casi, a dire il vero, alcuni Design Patterns sono più facilmente implementabili con quest'ultimo paradigma.
 
 Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 
@@ -17,25 +18,23 @@ Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 - [Design Patterns su Wikipedia Italiano](https://it.wikipedia.org/wiki/Design_pattern)
 - [Design Patterns su Wikipedia Inglese](https://en.wikipedia.org/wiki/Design_pattern)
 
-Il libro della Gang of four identifica un elenco iniziale di design pattern ognuno dei quali ha un nome che richiama il problema generico che andrà a risolvere.
-Generalmente un programmatore che sta sviluppando una certa parte di codice per implementare una o più funzionalità potrebbe "riconoscere" un design pattern durante l'analisi di un problema specifico che si sta cercando di risolvere.\
-Si potrebbe quindi effettuare un refactoring oppure anche non utilizzarlo ma l'utilizzo dello stesso può portare ad una serie di vantaggi.
-I principali vantaggi di questo utilizzo sono:
+Il libro della Gang of Four identifica un elenco iniziale di design pattern, ognuno dei quali ha un nome che identifica la soluzione al problema generico che andrà a risolvere.
+Generalmente chi sta sviluppando una certa porzione di codice per implementare una o più funzionalità potrebbe "riconoscere" un design pattern durante l'analisi di un problema specifico che si sta cercando di risolvere e decidere di applicarlo, ottenendo una serie di vantaggi, tra cui:
 
-- **Facilità di riuso e test del software**: la creazione di più classi che possono spezzare logicamente il proprio problema implica la possibilità di utilizzare queste logiche in altri contesti o addirittura nello stesso prodotto che si sta sviluppando. Questo spezzare logicamente implica anche la facilità di test soprattutto automatici migliorando la qualità del software.
-- **Miglior comprensione del codice**: essendo conosciuti e avendo un nome è possibile riconoscerli (più o meno) facilmente da più persone.
-- **Soluzioni provate e testate**: se riconosciamo il problema e applichiamo la soluzione siamo sicuri che funzionano.
+- **Facilità di riuso e test del software**: Ogni design pattern è stato studiato e catalogato di modo da essere una soluzione pressoché universale ad ogni problema analogo a quello descritto, di conseguenza è possibile riutilizzare una implementazione in più punti del proprio codice. Inoltre, questi pattern sono solitamente accompagnati da suggerimenti e metodologie per il loro testing, il che rende il processo di scrittura dei test automatizzati più semplice ed efficace.
+- **Miglior comprensione del codice**: Essendo conosciuti e avendo un nome inequivocabile, è possibile riconoscere i design pattern e creare un linguaggio comune quando si documenta e sviluppa il software.
+- **Soluzioni provate e testate**: Nascendo dall'esperienza congiunta di più sviluppatori, e avvalorati nel corso degli anni, i design pattern difficilmente nascondono delle sorprese, e la loro adozione può garantire una soluzione _battle-tested_ e dimostrata ad un problema specifico.
 
-Naturalmente, come ogni cosa esistente, ha anche dei svantaggi tra cui:
+Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano degli svantaggi, tra cui:
 
-1. Possono generare parti di codice più complicate, questo perchè ci possono essere casi in cui si può evitare di utilizzarli se il codice esistente ad esempio è semplice.
-2. In determinati casi minore comprensione del codice anche per il discorso del punto precedente e del fatto che la verità è che ci sono programmatori che non li conoscono.
-3. L'adozione di un design pattern può anche comportare svantaggi come ad esempio il peggioramento delle prestazioni perché la logica tende ad essere più complessa.
+1. Possono generare parti di codice più complicate. Una porzione di codice intelligibile e senza logiche complesse potrebbe beneficiare dal non utilizzo dei design pattern, che ne complicherebbero la struttura. 
+2. Per essere applicati alla lettera, i design pattern necessitano che chi li adotti accetti determinate assunzioni, ma è verosimile che chi sviluppa da poco tempo possa non conoscerli e trovarsi in difficoltà nella lettura e analisi del codice.
+3. Le prestazioni spesso non coincidono con l'adozione di design pattern, in quanto lo scopo di questi ultimi è di risolvere un problema, non necessariamente in maniera ottimizzata.
 
-**Come sempre se la domanda è: meglio utilizzarli o no? La risposta è , naturalmente , dipende dal contesto.**
+**Come sempre se la domanda è: meglio utilizzarli o no? La risposta è, naturalmente, dipende dal contesto.**
 
 In generale dato un problema non sempre è semplice attribuirgli, se esiste, un design pattern che lo "riconosca"; a volte infatti il limite fra uno o l'altro non è sempre definito quindi si può entrare ad esempio scomponendo il problema più complesso (Divide et impera) in altri più semplici per i quali si potrebbero riconoscere dei pattern specifici.\
-A volte invece questa scomposizione non è possibile e , nel caso , si può comunque fare il refactoring scegliendo quello più simile o anche quello più conveniente.
+A volte invece questa scomposizione non è possibile e, nel caso, si può comunque fare il refactoring scegliendo quello più simile o anche quello più conveniente.
 
 **E' importante sottolineare che non ci sono dei vincoli stringenti che ne impongono l'utilizzo;** \
 E' possibile applicarli oppure no, si possono mescolare a piacere, chiaramente una aderenza maggiore implica la facilità di riconoscerli da parte di altri programmatori che conoscono l'argomento.
@@ -56,12 +55,12 @@ Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 ## Patterns creazionali
 
 I Patterns creazionali definiscono uno schema progettuale che in particolare si concentra sulla creazione degli oggetti che concorrono a risolvere un determinato problema.
-In questo contesto indichiamo generalmente come prodotti gli oggetti creati utilizzando un oggetto generalmente denominato Factory (fabbrica) che , al suo interno , ne definisce la logica di costruzione che quindi risulta isolata dall'esterno.
+In questo contesto indichiamo generalmente come prodotti gli oggetti creati utilizzando un oggetto generalmente denominato Factory (fabbrica) che, al suo interno, ne definisce la logica di costruzione che quindi risulta isolata dall'esterno.
 Le altre tipologie definite dalla GOF, che sono la strutturale e la comportamentale, si distiguono da questa perché presuppogono già l'esistenza di tutti gli oggetti coinvonti.
 
 I pattern creazionali definiti dalla GOF sono:
 
-- Factory Method : definisce , nella classe Factory, uno o più metodi detti appunto factory methods che creano i nostri oggetti prodotto.
+- Factory Method : definisce, nella classe Factory, uno o più metodi detti appunto factory methods che creano i nostri oggetti prodotto.
 - Abstract Factory : serve a creare famiglie (possibilmente) fisse di oggetti prodotto sempre utilizzando una interfaccia/classe chiamata appunto Abstract factory dove anche gli oggetti prodotto sono generici (anch'essi utilizzano una interfaccia o classe astratta).
 - Builder : definisce una particolare classe factory che crea oggetti complessi e viene utilizzato quando gli oggetti sono generalmente composti da altri oggetti creando anch'essi.
 - Prototype : permette di costruire oggetti clonando oggetti già esistenti. Javascript utilizza proprio il concetto di prototype per estendere gli oggetti (parliamo proprio degli oggetti e non delle classi che sono state introdotte successivamente).
@@ -78,13 +77,13 @@ I pattern strutturali definiti dalla GOF sono:
 
 - Adapter: Un adapter è un pattern che traduce delle chiamate di una interfaccia alle chiamate di un'altra. Fornisce una soluzione astratta al problema della interoperabilità fra interfacce. Nella vita reale abbiamo ad esempi gli adattatori delle spine.
 - Bridge: è un design pattern che separa una astrazione dalla sua separazione. Questo avviene separando l'interfaccia dalla sua implementazione potendo ad esempio cambiare facilmente l'implementazione. Un esempio molto utilizzato è il JDBC o in generale i driver dei database.
-- Decorator: è un pattern che permette di aggiungere funzionalità attraverso il wrapping , cioè incapsulando un oggetto esistente.
+- Decorator: è un pattern che permette di aggiungere funzionalità attraverso il wrapping, cioè incapsulando un oggetto esistente.
   Di conseguenza il nuovo oggetto potrà avere alcune funzionalità (non è detto tutte) dell'oggetto incapsulato e la nuova funzionalità aggiunta al suo interno.
 - Façade: è un modo per semplificare un insieme di sottosistemi che formano un sistema complesso. Tramite questa semplificazione fornita attraverso una o più classi (poche) cosiddetta di facciata è possibile utilizzare le funzionalità più utili.
 - Flyweight: permette di suddividere un oggetto che ha alcuni dei membri ripetibili in 2 parti una con parti che non si ripetono ed un gruppo di membri che insieme tendono a ripetersi. Questo meccanismo tende a limitare (e ottimizzare) l'occupazione di memoria questo perché ogni parte ripetuta viene memorizzata una sola volta.
 - Proxy: si interpone ad un oggetto (di solito di servizio) e interagisce con esso utilizzando la stessa intefaccia. Un esempio sono i Proxy server che possono mandare il messaggio richiesto verso i server web veri e propri impedendo ad esempio l'accesso ad alcuni potenzialmente pericolosi.
 
-come si vede in ognuno di essi compare una struttura davanti al nostro client che può variare in ogni design pattern. Ad esempio nell'adapter la struttura cambia l'interfaccia (in quanto struttura della classe), nel Bridge cambia l'implementazione , nel Facade cambia ancora l'interfaccia che risulta più semplice
+come si vede in ognuno di essi compare una struttura davanti al nostro client che può variare in ogni design pattern. Ad esempio nell'adapter la struttura cambia l'interfaccia (in quanto struttura della classe), nel Bridge cambia l'implementazione, nel Facade cambia ancora l'interfaccia che risulta più semplice
 
 ## Patterns comportamentali
 
@@ -93,8 +92,8 @@ I Patterns strutturali definiscono uno schema progettuale che in particolare ris
 I pattern comportamentali definiti dalla GOF sono:
 
 - Chain of responsibility: Il pattern permette di separare gli oggetti che invocano richieste, dagli oggetti che le gestiscono. In pratica viene definita una catena di oggetti dove la richiesta viene propagata finchè uno di essi che viene implementato non decide di gestirla. Ogni elemento della catena viene chiamato handler.
-- Command: permette di isolare il codice che esegue una azione più o meno complessa dal client che la esegue oppure prendere una richiesta , memorizzarla in modo che possa essere eseguita in un secondo momento ad esempio dopo un certo evento.
-- Iterator: permette di visitare tutti gli elementi di una altro oggetto , detto contenitore , senza dipendere dalla struttura interna di esso.
+- Command: permette di isolare il codice che esegue una azione più o meno complessa dal client che la esegue oppure prendere una richiesta, memorizzarla in modo che possa essere eseguita in un secondo momento ad esempio dopo un certo evento.
+- Iterator: permette di visitare tutti gli elementi di una altro oggetto, detto contenitore, senza dipendere dalla struttura interna di esso.
   Un esempio tipico può essere il cursore per la lettura di una datasource.
 - Mediator: incapsula l'interazione fra i vari oggetti di un loro insieme facendo in modo che la comunicazione col client venga gestita sempre da una unica entità favorendo il disaccoppiamento fra gli oggetti stessi.
 - Memento: si occupa di memorizzare lo stato corrente di un altro oggetto detto Originator cercando di non violare l'incapsulamento. Può essere utile nei casi in cui si possa avere uno storico dell'oggetto stesso richiedendo al Memento il ripristino di uno stato precedente. (Il cosiddetto Undo/Redo)
@@ -109,8 +108,8 @@ I pattern comportamentali definiti dalla GOF sono:
 Come già detto la Gang of four ha iniziato a definirli e successivamente sulla loro falsa riga ne sono stati individuati altri che descriveremo brevemente di seguito.
 
 - Client/Server: è un pattern cosiddetto architetturale poichè può essere ad esempio l'architettura del prodotto che si vuole sviluppare. Esistono due "componenti" il client che effettua richieste ed il server che le riceve e risponde ad uno o più client.\
-  Esempio classico sono quasi tutti i server di database che ad ogni richiesta , ad esempio di esecuzione di una query , rispondono con i risultati.
-- Model-View-Controller: è un pattern dove definiamo due entità separate il model che è la nostra entità che vogliamo rappresentare e contiene i suoi dati , il view che dice come mostrarla all'utente esterno e ne permette l'interazione; infine il Controller che effettua le interazioni fra i due.
+  Esempio classico sono quasi tutti i server di database che ad ogni richiesta, ad esempio di esecuzione di una query, rispondono con i risultati.
+- Model-View-Controller: è un pattern dove definiamo due entità separate il model che è la nostra entità che vogliamo rappresentare e contiene i suoi dati, il view che dice come mostrarla all'utente esterno e ne permette l'interazione; infine il Controller che effettua le interazioni fra i due.
 - Dependency Injection: E' un pattern che permette di iniettare una dipendenza in una classe attraverso l'Inversion of control. Questo viene fatto iniettando una interfaccia o una classe astratta in modo da poter cambiare la sua implementazione in qualsiasi momento.\
   Abbiamo 3 tipi di iniezioni:
 
@@ -124,4 +123,4 @@ Come già detto la Gang of four ha iniziato a definirli e successivamente sulla 
 - In linea con quanto sopra: Non tutti i dev di un team potrebbero essere in grado di adottare i design pattern nella maniera corretta e, come ogni standard, se non rispettato può portare più problemi che benefici.
 - Importante delineare il fatto che spesso i Design Pattern, come altri concetti e best practise del software, siano astrazioni applicative e molti dei concetti rappresentati dai pattern possano essere ritrovati sia a livelli di astrazione più alti (Architettura e addirittura Infrastruttura) o più bassi (Singole righe di codice o singole funzioni).
 - (Già citato in una frase) Come linea generale eviteremo di listare i design pattern in maniera accademica in quanto il libro sarà un incipit a un futuro approfondimento, ma ci concentreremo sui perché della loro nascita e del loro utilizzo, le principali dinamiche e i principali concetti attorno ad essi, e i pro e i contro generali.
-- I concetti SOLID sono una parte a se stante di una certa importanza nella programmazione , bisogna capire se parlarne qui o in altre parti per poi farne riferimento.
+- I concetti SOLID sono una parte a se stante di una certa importanza nella programmazione, bisogna capire se parlarne qui o in altre parti per poi farne riferimento.
