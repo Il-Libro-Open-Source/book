@@ -16,13 +16,22 @@ Tutto questo non è nient'altro che la "Terza rivoluzione industriale", come vie
 
 Uno strumento che è emerso vincitore da queste difficoltà è il **ciclo del feedback**; ma di che si tratta? È un approccio in cui, a seguito di un'azione, si va a misurarne rapidamente l'effetto (il "feedback"), così da ottenerne nuove informazioni, che saranno impiegate per intraprendere i prossimi passi in maniera più conscia e informata, creando così un ciclo continuo. Questo generalmente permette di procedere in un'attività a piccoli passi ma con una discreta rapidità e, cosa ancora più importante, sempre nella giusta direzione, visto che eventuali errori di rotta possono essere rapidamente corretti ad ogni passo.
 
-## Il manifesto Agile e l'Extreme Programming
+## Il manifesto Agile, l'Extreme Programming e il Devops
 
-Alcuni movimenti che sono nati in seno alle difficoltà di questa rivoluzione sono il Manifesto Agile, l'Extreme Programming, il DevOps: il primo ad alto livello, il secondo ad un livello più "basso" tecnico, il terzo in maniera "mista", hanno tutti cercato di trovare modi per scrivere software in maniera più snella e organizzata, in modo che non ci si ritrovasse più in una melassa di linee di codice che, dopo pochi mesi di lavoro, diventava ingestibile.
+Negli ultimi decenni sono quindi nate diverse metodologie che incarnano appieno questo approccio, e nel tempo sono diventate capisaldi della nostra professione.
 
-Alle fondamenta di questi approcci si trova **il ciclo del feedback**: vista la malleabilità del software e la relativa semplicità con cui si può evolvere e sperimentare, avere un ciclo del feedback breve ed efficace si è rapidamente dimostrato lo strumento vincente per uscire da quell'impasse.
+### Il Manifesto Agile
 
-## Il TDD
+Il primo, temporalmente parlando, è stato il Manifesto Agile. Questo manifesto, stilato nel 2001 e firmato da poco meno di una ventina di professionisti e veterani del settore, fu un modo di rispondere agli attriti e alle difficoltà nella professione del programmatore che da decenni piagavano i progetti software.
+
+Gestiti spesso in modalità "waterfall", i progetti partivano con una fase di design e pianificazione che doveva essere onnicomprensiva, seguita da una fase di sviluppo ed una di test, senza nessun tipo di iterazione; questo approccio portava ad una pianificazione meticolosa ed una stesura di requisiti dettagliattissima, quasi al limite della pedanteria, che però poi si schiantava con la dura realtà durante la fase di sviluppo (o peggio ancora dopo, durante i test) perché, nell'atto dello scrivere codice, quasi sempre emergevano dettagli imprevisti e casi limite che non erano stati contemplati.
+
+(TODO: "Welcome changing requirements", "Deliver working software frequently", "At regular intervals, the team reflects on how
+to become more effective")
+
+## L'Extreme Programming e il TDD
+
+(TODO: inserire intro all'XP)
 
 Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Development), una metodologia di sviluppo che incarna appieno il concetto di "ciclo del feedback". Può essere riassunta dal fatto che richiede la scrittura di un test prima ancora del codice, e dal ciclo "red-green-refactor":
 
@@ -32,7 +41,11 @@ Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Developmen
 
 Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test.
 
+## Conclusione (WIP)
+
+Alle fondamenta di questi approcci si trova **il ciclo del feedback**: vista la malleabilità del software e la relativa semplicità con cui si può evolvere e sperimentare, avere un ciclo del feedback breve ed efficace si è rapidamente dimostrato lo strumento vincente per uscire da quell'impasse.
+
 ## Riferimenti
 
 - https://it.wikipedia.org/wiki/Terza_rivoluzione_industriale
-- ...
+- https://agilemanifesto.org/
