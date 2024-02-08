@@ -2,7 +2,7 @@
 
 L'industria del software si muove alla velocitá della luce.
 
-Come sviluppatori software siamo costantemente bombardati da notizie di nuove tecnologie, nuovi framework, nuovi linguaggi, nuovi paradigmi, nuovi modelli organizzativi, nuovi modelli di sviluppo, nuovi modelli di deployment, nuovi modelli di testing, nuovi modelli di integrazione, nuovi modelli di delivery, nuovi modelli di monitoraggio, etc.
+Come sviluppatori software siamo costantemente bombardati da notizie di _nuove_ tecnologie, _nuovi_ framework, _nuovi_ linguaggi, _nuovi_ paradigmi, _nuovi_ modelli organizzativi, _nuovi_ modelli di sviluppo, _nuovi_ modelli di deployment, _nuovi_ modelli di testing, _nuovi_ modelli di integrazione, _nuovi_ modelli di delivery, _nuovi_ modelli di monitoraggio, etc.
 
 Una valanga travolgente di innovazione che non da segni di rallentamento.
 
