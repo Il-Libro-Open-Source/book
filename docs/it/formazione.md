@@ -9,19 +9,19 @@ Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozio
 Ma cosa c'è dietro questa fantomatica figura e come mai è così ricercata dal mercato tanto da essere sulla bocca della maggior parte dei percorsi formativi?
 
 Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più linguaggi di programmazione _frontend_ e _backend_.
-Qui si apre un sipario enorme che cercheremo di ridurre molto semplicemente come segue.
-Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque entrare nel mondo dello sviluppo.
-Quindi chi programma crea il programma.
+Qui si apre uno scenario enorme che cercheremo di ridurre molto semplicemente come segue.
+Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque entrare nel mondo dello sviluppo software.
+Quindi chi scrive codice crea il programma.
 Il programma è composto da una parte grafica ed una parte logica.
 
 Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione) nel settore tech: il web.
 Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
 
-Un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
+In un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
 Poi siamo passati ad avere 2 figure: _Web Designer_ (la figura che si occupava di realizzare l'interfaccia grafica, detta anche UI/UX) e _Web Developer_ (che traduceva in codice ciò che veniva designato dalla prima figura).
 Oggi la situazione è differente, e per fare un sito web servono almeno 3 figure: _Designer_, _Frontend Developer_ e _Backend Developer_.
 
-Tutto ciò ovviamente oggi ha un costo nettamente superiore in termini anche aziendali, per questo motivo il mercato necessita di _Fullstack Developer_ che siano in grado di tradurre le componenti prodotte dal _Designer_ e agganciare le logiche funzionali del progetto.
+Tutto ciò ovviamente oggi ha un costo nettamente superiore in ottica aziendale, per questo motivo il mercato necessita di _Fullstack Developer_ che siano in grado di tradurre le componenti prodotte dal _Designer_ e agganciare le logiche funzionali del progetto.
 
 Bisogna però che ci addentriamo un pochino meglio nella questione per comprendere bene la differenza tra _Frontend Developer_ e _Backend Developer_.
 
@@ -47,11 +47,11 @@ Ad esempio: se inizi come _Frontend Developer_ non è detto che un domani tu non
 Per tale motivo spesso chi fa formazione propone dei percorsi di _fullstack_ in ambito web.
 
 "Ok, ma come mai parliamo di siti web e non di videogiochi?"
-Perchè la curva di apprendimento è più bassa nel caso dei siti web, quindi è più facile che sia a portata di molta più gente, e se teniamo a mente sempre il concetto fondamentale per cui "se si inizia come _frontend_ non è detto che si finisca da _frontend_" allora vien da sè pensare che un _frontend_ oggi possa diventare un _Game Developer_ domani.
+Perchè la curva di apprendimento è più bassa per chi vuole imparare a realizzare siti web, quindi è più facile che sia a portata di molta più gente, e se teniamo a mente sempre il concetto fondamentale per cui "se si inizia come _frontend_ non è detto che si finisca da _frontend_" allora vien da sé pensare che un _frontend_ oggi possa diventare un _Game Developer_ domani.
 
 Inoltre le tecnologie che si toccano con mano durante la fase di apprendimento in ambito web sono diverse (HTML, CSS, JavaScript) e ciò permette di avere una overview più ampia.
 
-Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo, grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**. Addirittura con JavaScript oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
+Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo: grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**. Addirittura con JavaScript oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
 
 "Mi stai dicendo che se voglio diventare _Game Developer_ devo prima formarmi come **developer web**?"
 Assolutamente no.
@@ -72,14 +72,14 @@ Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dal p
 Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi che invece seguono più assiduamente i propri alunni.
 Non ce n'è uno giusto piuttosto che uno sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare, e la maggior parte delle volte impariamo per conto nostro.
 Sicuramente sarebbe meglio, almeno nella fase iniziale, avere qualcuno che ci segua ed alimenti la nostra curiosità.
-Qualcuno che ci segue ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
+Un tutor ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
 La curiosità invece ci insegna l'autonomia e soprattutto, cosa molto importante, ci aiuta a trovare la nostra strada.
 
 A tal proposito, tieni sempre a mente quanto segue: **Google è tuo amico, ma soprattutto il tuo miglior alleato**.
 
 ## Seconda fase: il tempo
 
-Alcuni percorsi di formazione si stendono su periodi di 3 mesi, altri di 6, altri ancora offrono dei pacchetti personalizzati.
+Alcuni percorsi di formazione si sviluppano per periodi di tre mesi, altri di sei, altri ancora offrono dei pacchetti personalizzati.
 Alcuni sono costituiti da classi e le lezioni si tengono in presenza, altri invece completamente da remoto con lezioni live oppure on-demand.
 Anche qui, una formula magica non esiste.
 
@@ -91,24 +91,24 @@ La scelta dovrebbe essere soggettiva e ponderata, basandosi sulla quantità di t
 Il tempo è il maggiore investimento in questa fase; più tempo dedicate, migliore sarà il risultato finale.
 
 "Va bene, quindi quanto tempo serve e quanto tempo dovrei dedicare alla mia formazione?"
-Il tempo non è mai abbastanza, e soprattutto molto soggettivo riguardo il raggiungimento del risultato, quindi la risposta giusta è: investi il maggior tempo possibile nella tua formazione.
+Il tempo non è mai abbastanza, e soprattutto molto soggettivo riguardo il raggiungimento del risultato, quindi la risposta giusta è: investi il miglior tempo possibile nella tua formazione.
 
 Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare almeno altre 3 ore di pratica e approfondimenti.
 
 In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** da developer.
 
 "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
-Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (3 o 6 mesi) è molto elevata.
-Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo, ovvero l'autodidatta oppure un percorso personalizzato, in questo caso però non sarà possibile ottenere un risultato in soli 3/6 mesi ma ci vorrà molto più tempo.
+Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (tre o sei mesi) è molto elevata.
+Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo: studiare da autodidatta oppure attraverso percorso personalizzato, in questo caso però non sarà possibile ottenere un risultato in soli tre/sei mesi ma ci vorrà molto più tempo.
 
 Quindi se non avete pazienza, tempo, passione, curiosità e voglia è meglio lasciare perdere.
 
 ## Terza fase: gli sbocchi lavorativi
 
 Gli sbocchi lavorativi nel settore della programmazione sono tanti.
-La programmazione è un trend in costante crescita dato che è una materia in costante evoluzione.
+La programmazione è un trend in costante crescita dato che è una materia in continua evoluzione.
 
-Fare quindi affidamento ad una tecnologia piuttosto che ad un'altra per impostare la propria carriera lavorativa temo sia un errore enorme, il rischio di diventare un "dinosauro" e ritrovarsi fuori mercato è troppo alto.
+Scommettere quindi su una tecnologia piuttosto che su un'altra per impostare la propria carriera lavorativa potrebbe essere un errore: il rischio di diventare un "dinosauro" e ritrovarsi fuori mercato è troppo alto.
 
 Se si vuole rimanere appetibili nei confronti delle aziende e del mercato dobbiamo quindi essere in grado di adattarci ai cambiamenti e, soprattutto, aggiornarci (eh si... spesso questo processo avviene in completa autonomia).
 
@@ -121,22 +121,22 @@ La figura _Web Designer_ di ieri, che si limitava solamente ad impostare grafica
 Questo concetto spiega bene 2 cose:
 
 - bisogna continuare ad imparare e ad aggiornarsi
-- non si può fare affidamento ad una tecnologia
+- non si può fare affidamento su di una tecnologia
 
 "Tutto bellissimo, ma come faccio a sapere se un percorso di formazione mi permette di lavorare dopo?
 Chi mi dà questa certezza dato che spesso e volentieri hanno dei costi alti?"
 Il settore della programmazione, come detto in precedenza, non è un settore in perdita e non è un settore saturo.
 Basta una piccola ricerca su Google o un giro nella sezione "Lavoro" di LinkedIn (impostando come criterio di ricerca `developer`) per rendersi conto di quanta domanda c'è da parte delle aziende
 
-Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione ha a disposizione alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
+Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione favorisce l'incontro dei propri corsisti con alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
 
 "Cosa mi posso aspettare al termine di un percorso di formazione? Avrò autonomia e le competenze necessarie per il mondo del lavoro?"
-Sicuramente al termine di un percorso di formazione si è più consapevoli di cosa si potrebbe fare in quanto developer, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono una figura competente, e soprattutto di cosa ci si aspetta da lì a poco.
+Sicuramente al termine di un percorso di formazione si potrebbe essere più consapevoli di cosa aspettarsi scegliendo di percorrere la carriera da developer, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono una figura competente.
 
-Sia che il corso duri 3 mesi, o 6, o addirittura 12, si è ancora _Junior_.
+Sia che il corso duri tre mesi, o sei, o addirittura dodici, si è ancora _Junior_.
 Una figura _Junior_ rimane tale fino a quando non ottiene la completa **autonomia** lavorativa, sia con gli strumenti che già conosce e sia con gli strumenti che dovrà apprendere.
 
-Ricordiamo che l'apprendimento nel mondo della progammazione è una costante, e ricordiamo anche che la maggior parte del tempo, durante la carriera professionale, apprendiamo in solitaria.
+Ricordiamo che l'apprendimento nel mondo della programmazione è una costante, e ricordiamo anche che la maggior parte del tempo, durante la carriera professionale, apprendiamo in solitaria.
 
 Al termine del percorso di formazione si faranno le prime esperienze lavorative sia sotto l'aspetto colloquiale (eh si anche quelli sono tosti) sia sotto l'aspetto lavorativo nudo e crudo.
 
@@ -152,7 +152,7 @@ Ciò significa 2 cose:
 - c'è ancora da imparare, ma...
 - ...questo porta a crescita personale e formativa
 
-Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente riguardo la parte tecnica, e non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
+Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente sotto l'aspetto tecnico, e non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
 
 Dunque scegliere un percorso di formazione, se si ha la possibilità, sicuramente è meglio piuttosto che decidere di intraprendere un percorso da "autodidatta" sia perchè otterrete dei risultati tangibili in minor tempo, sia anche perchè il percorso di formazione stesso vi farà da "garante".
 
