@@ -27,19 +27,22 @@ Da un codice scritto bene, si possono ottenere migliori performance. Magari non 
 
 La scrittura del codice non è del tutto lineare, soprattutto se scritto a più mani. Ogni sviluppatore ha un suo stile, delle sue convinzioni, un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
 Sono diverse le occasioni in cui è possibile fare refactoring e, in alcune di queste, non solo è consigliato ma obbligatorio.
-Poniamo il caso che abbiamo una parte del nostro software con del codice "legacy", ovvero scritto più di tre mesi fà, che funziona egregiamente, fa il suo ma, ci rendiamo conto che le performance non sono quelle che ci attendiamo.
+Poniamo il caso che abbiamo una parte del nostro software con del codice "legacy", magari scritto rispettando dei pattern che, nel tempo, si sono rivelati sbagliati. Oppure scritto di fretta, senza rispettare i principi SOLID e con metodi e variabili che hanno nomi provvisori.
+O ancora, il codice scritto risulta difficile da testare, perché presenta metodi o classi poco disaccoppiate. Con metodi privati che non fanno attività atomiche.
 Fatta una rapida analisi, notiamo che, magari, ci sono dei cicli ripetuti, o parti di codice che potrebbero essere evitate se solo avessimo posto dei semafori a monte.
-Con del buon refactoring potremmo rivedere il codice, eliminare delle dipendenze inutili o utilizzare dei costrutti del linguaggio più adatti, con il risultato di migliorare le performance.
-E se non sono le performance a preoccuparci, ma la poltiglia di codice scritto, magari di fretta e sotto pressione, che non rispetta principi base, come la responsabilità singola? Anche in questo caso, possiamo rivedere il codice, renderlo più leggibile e comprensibile così da ottenere un altro bel risultato: eliminare debito tecnico.
-Ma, come detto, le occasioni non mancano.
+Con del buon refactoring potremmo rivedere il codice, eliminare delle dipendenze inutili o utilizzare dei costrutti del linguaggio più adatti, con il risultato di migliorarne la lettura, aderire agli standard del linguaggio (che, nell'ottica di rendere il nostro codice più condivisibile possibile, non fa mai male) e, perché no, migliorarne le performance e eliminare debito tecnico.
+Come detto, le occasioni non mancano.
 Potremmo cogliere l'occasione di una Code Review o l'aggiunta di una nuova feature. Prima di iniziarne lo sviluppo, sicuramente è buona pratica leggere il codice in cui questa nuova funzionalità andrà a integrarsi e, se quest'ultimo risulta di difficile comprensione, è un'ottima occasione per effettuarne la rifattorizzazione. Questo ci permetterebbe di ottenere una maggiore conoscienza del codice.
 Un'altra, forse la migliore, dove è (quasi) obbligatorio, è la risoluzione di un bug in una parte di codice convulso, la cui sola lettura ci fa venire il mal di testa. Un'attività di refactoring potrebbe facilmente portare alla luce l'errore presente nel codice.
 L'attività di refactoring può essere paragonata a una pulizia profonda di casa, piuttosto che a una routine di sistemazione della propria cameretta, necessaria per mantenere il codice sicuro, di valore ed efficiente.
 
 ## Quando è meglio evitare
 
-Non sempre è utile effettuare refactoring. Ci sono casi in cui il codice è già perfettamente ottimizzato anche se, a una vista inesperta, potrebbe risultare di difficile lettura.
-Ci sono casi in cui le performance sono fondamentali e i principi solid non sono sempre rispettati. In questi casi, il refactoring ci porterebbe a creare dei layer aggiuntivi di codice che, sebbene ci renderebbe il codice più comprensibile, avrebbe un impatto negativo sulle performance. Un esempio sono le librerie che permettono le connessioni con delle basi di dati, dove magari è fondamentale la gestione della latenza.
+Non sempre è utile effettuare refactoring.
+Ci sono casi in cui il codice è già perfettamente ottimizzato anche se, a una vista inesperta, potrebbe risultare di difficile lettura.
+Ci sono casi in cui le performance sono fondamentali e i principi SOLID non sono sempre rispettati. In questo caso, il refactoring ci porterebbe a creare dei layer aggiuntivi di codice che, sebbene ci renderebbe il codice più comprensibile, avrebbe un impatto negativo sulle performance. Un esempio sono le librerie che permettono le connessioni con delle basi di dati, dove magari è fondamentale la gestione della latenza.
+In questi casi, ma più in generale, è necessario tenere a mente che l'attività di refactoring ha tra gli obiettivi quello di rivedere il codice rendendolo più mantenibile, nonché rifattorizzabile.
+Diretta conseguenza di questo obiettivo, è la sua applicazione nella pratica del TDD (Test Driven Development), dove il refactoring copre uno degli step.
 
 ## Come
 
@@ -55,7 +58,7 @@ Per farlo, potremmo iniziare con:
 
 ### Red-Green-Refactor
 
-Forse il metodo più popolare, dove lo sviluppatore suddivide il processo di scrittura del codice in tre fasi:
+Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Driven Development), dove lo sviluppatore suddivide il processo di scrittura del codice in tre fasi:
 
 - Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
 - Scrive il codice necessario affinché il test passi (_Green_);
@@ -88,7 +91,7 @@ Sebbene questo potrebbe non essere sempre possibile, dopo avere estratto i metod
 
 ## Un Esempio
 
-Un caso semplice ma spesso presente nel nostro codice, potrebbe essere quello di migliorare le performance rimuovendo le variabili temporanee:
+Un caso semplice ma spesso presente nel nostro codice, potrebbe essere quello di migliorare le performance rimuovendo le variabili temporanee (il codice che segue è pseudo-codice):
 
 ```
 function applyDiscount() {
