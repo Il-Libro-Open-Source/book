@@ -1,8 +1,14 @@
-# Formazione
+# Percorsi di formazione alternativi
+
+## Premessa
+
+Questo capitolo nasce con l'intento di fornire una panoramica generale sui percorsi di formazione alternativi in ambito dev, partendo dall'assunzione che chi legge si stia ponendo la domanda: _"Come posso diventare developer?"_, ma soprattutto: _"Posso farlo anche senza diplomarmi o laurearmi in informatica?"_. Iniziamo con il dire che la risposta a quest'ultima domanda è: **sì**.
+
+## Introduzione
 
 Quando si muovono i primi passi, quelli dettati dalla curiosità e dalla voglia di intraprendere un nuovo percorso formativo/lavorativo, ci si imbatte sin da subito con il mondo della **formazione**.
 
-Basta una semplice ricerca su Google, del tipo: _"Come diventare developer"_
+Basta una semplice ricerca su Google, del tipo: _"Come diventare developer?"_
 
 Da lì in avanti i vari canali social, da Instagram a TikTok, dai video promozionali di YouTube alle inserzioni su Facebook, inizieranno a proporre differenti percorsi formativi, principalmente incentrati sulla figura professionale nota come _Fullstack Developer_.
 
@@ -97,7 +103,7 @@ Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessar
 
 In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** da developer.
 
-"Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
+> "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
 Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (tre o sei mesi) è molto elevata.
 Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo: studiare da autodidatta oppure attraverso percorso personalizzato, in questo caso però non sarà possibile ottenere un risultato in soli tre/sei mesi ma ci vorrà molto più tempo.
 
