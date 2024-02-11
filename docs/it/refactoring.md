@@ -82,7 +82,9 @@ Questo permette di avere un codice meno complesso da interpretare, soprattutto s
 
 ### Semplificare i metodi esistenti
 
-Mentre tentiamo l'approccio dell'estrazione, ci rendiamo conto che ci sono parti di codice troppo complesse, piene di condizionalità o che generano ripercussioni su diverse parti del codice. In questo caso, sarà necessario intervenire dapprima sul rendere meno complesso possibile il codice, rivedendo le condizionalità rendendole più semplici e chiare, magari anche rivedendo come il metodo in oggetto interagisce con il contesto circostante.
+Quando il codice infrange la regola _KISS_ (Keep It Simple and Stupid).
+Mentre tentiamo l'approccio dell'estrazione, ci rendiamo conto che ci sono parti di codice troppo complesse, piene di condizionalità o che generano ripercussioni su diverse parti del codice.
+In questo caso, sarà necessario intervenire dapprima sul rendere meno complesso possibile il codice, rivedendo le condizionalità rendendole più semplici e chiare, magari anche rivedendo come il metodo in oggetto interagisce con il contesto circostante.
 
 ### Astrarre
 
@@ -133,9 +135,10 @@ Con il refactoring, dove il dictat del non modificare in alcun modo il comportam
 ## Automazione
 
 Esistono ovviamente diversi strumenti pe automatizzare le procedure di refactoring, spesso integrati direttamente nell'IDE. Forse il più famoso è Sonarqube.
-Questi strumenti, sulla base di motori di analisi affidabili e complessi, riescono a individuare dalla banale duplicazione del codice alla mancata adozione di buone pratiche, spesso specifiche del linguaggio di programmazione adottato.
+Questi strumenti, basati su motori di analisi affidabili e complessi, riescono a individuare dalla banale duplicazione del codice alla mancata adozione di buone pratiche, spesso specifiche del linguaggio di programmazione adottato.
 A volte riescono a fare miracoli ma, a noi preme focalizzarci su un punto della questione: l'effort.
 Quanto effort occorre ad effettuare del refactoring con questi strumenti. O meglio, quanto semplificano la vita dello sviluppatore.
 È innegabile che sono dei validi aiuti e che sono formidabili nel farci notare parti di codice da semplificare a cui, magari, non avevamo nemmeno fatto caso.
 Ma, affidare il refactoring all'automazione, può creare delle situazioni in cui il codice modificato è così tanto da rendere complicato il controllo da parte dello sviluppatore, che sarebbe tentato di prendere in blocco tutte le modifiche. Se poi siamo in presenza di una scarsa copertura di test, la frittata è fatta.
 C'è poi un altro aspetto da considerare: la specificità. Gli strumenti utilizzati sono perfettamente in grado di identificare un eventuale problema, darci indici ci complessità ma non riescono a renderci edotti del codice nel suo complesso. Senza conoscere come le varie parti del codice interagiscono nel contesto, difficilmente riusciremo a individuare eventuali errori logici o colli di bottiglia.
+Ciò nonostante, rimangano degli ottimi aiutanti: se ad essi affidiamo la correzione di tutti quegli "errori" semplici, come la tipizzazione delle variabili (nel caso di linguaggi tipizzati, ovviamente) o la riscrittura di una funzione utilizzando il "Return Early Pattern", ci ritroveremo a dover rifattorizzare del codice già scremato, lasciando la nostra mente libera di concentrarsi sul resto del lavoro da fare.
