@@ -174,6 +174,7 @@ Il mutation testing è una metodologia di test in cui il codice sorgente viene m
 Applicando la formula `mutation score = (mutanti uccisi / mutanti totali) * 100`, possiamo ottenere una percentuale di mutanti uccisi, che ci permette di capire quanto il nostro codice sia realmente testato.
 
 Le mutazioni possono essere effettuate su vari aspetti del proprio software:
+
 - Operazioni (cambiare un "-" con un "+")
 - Condizioni (cambiare un "==" con un "!=")
 - Istruzioni (eliminare delle righe di codice)
