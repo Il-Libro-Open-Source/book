@@ -167,6 +167,18 @@ Feature: Google Searching
     Then results for "panda" are shown
 ```
 
+### Mutation Testing
+
+Il mutation testing è una metodologia di test in cui il codice sorgente viene modificato in modo da introdurre volutamente degli errori. Questi errori vengono chiamati _mutanti_. L'obiettivo del mutation testing è di verificare che i test siano in grado di rilevare questi mutanti. Se un mutante non viene rilevato da un test, viene considerato _vivo_ e i test a riguardo vengono considerati non sufficienti. Se un mutante viene rilevato da un test, viene considerato _morto_ e i test a riguardo vengono considerati sufficienti per quel mutante.
+
+Applicando la formula `mutation score = (mutanti uccisi / mutanti totali) * 100`, possiamo ottenere una percentuale di mutanti uccisi, che ci permette di capire quanto il nostro codice sia realmente testato.
+
+Le mutazioni possono essere effettuate su vari aspetti del proprio software:
+- Operazioni (cambiare un "-" con un "+")
+- Condizioni (cambiare un "==" con un "!=")
+- Istruzioni (eliminare delle righe di codice)
+- Valori (cambiare il _return_ di una funzione)
+
 ## Test Coverage
 
 La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile, oltre che non necessario. Una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
