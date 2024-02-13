@@ -82,7 +82,7 @@ Questo permette di avere un codice meno complesso da interpretare, soprattutto s
 
 ### Semplificare i metodi esistenti
 
-Quando il codice infrange la regola _KISS_ (Keep It Simple and Stupid).
+Quando il codice infrange la regola _KISS_ (Keep It Simple, Stupid).
 Mentre tentiamo l'approccio dell'estrazione, ci rendiamo conto che ci sono parti di codice troppo complesse, piene di condizionalità o che generano ripercussioni su diverse parti del codice.
 In questo caso, sarà necessario intervenire dapprima sul rendere meno complesso possibile il codice, rivedendo le condizionalità rendendole più semplici e chiare, magari anche rivedendo come il metodo in oggetto interagisce con il contesto circostante.
 
