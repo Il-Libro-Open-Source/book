@@ -22,7 +22,7 @@ Il libro della Gang of Four identifica un elenco iniziale di design pattern, ogn
 Generalmente chi sta sviluppando una certa porzione di codice per implementare una o più funzionalità potrebbe "riconoscere" un design pattern durante l'analisi di un problema specifico che si sta cercando di risolvere e decidere di applicarlo, ottenendo una serie di vantaggi, tra cui:
 
 - **Facilità di riuso e test del software**: Ogni design pattern è stato studiato e catalogato di modo da essere una soluzione pressoché universale ad ogni problema analogo a quello descritto, di conseguenza è possibile riutilizzare una implementazione in più punti del proprio codice. Inoltre, questi pattern sono solitamente accompagnati da suggerimenti e metodologie per il loro testing, il che rende il processo di scrittura dei test automatizzati più semplice ed efficace.
-- **Miglior comprensione del codice**: Essendo conosciuti e avendo un nome inequivocabile, è possibile riconoscere i design pattern e creare un linguaggio comune quando si documenta e sviluppa il software.
+- **Miglior comprensione del codice**: essendo conosciuti e avendo un nome inequivocabile, è possibile riconoscere i design pattern e creare un linguaggio comune quando si documenta e sviluppa il software.
 - **Soluzioni provate e testate**: Nascendo dall'esperienza congiunta di più sviluppatori, e avvalorati nel corso degli anni, i design pattern difficilmente nascondono delle sorprese, e la loro adozione può garantire una soluzione _battle-tested_ e dimostrata ad un problema specifico.
 
 Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano degli svantaggi, tra cui:
