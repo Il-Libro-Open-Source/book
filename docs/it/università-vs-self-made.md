@@ -43,8 +43,6 @@ Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso 
 
 L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza, che oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓) ci aiuterà a crescere come figura professionale e a farci vedere di buon occhio da aziende in cui si potrebbe fare esperienza oltre ad imparare concetti nuovi.
 
-A proposito di prime esperienze a livello aziendale, ti invito a leggere l'apposito capitolo “Carriera - Junior” in cui il tema viene trattato in modo più approfondito e sicuramente più stimolante.
-
 ---
 
 ### Note
