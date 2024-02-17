@@ -24,7 +24,7 @@ Le community sono un aspetto opzionale, ma molto importante per chiunque voglia 
 
 ### Cosa sono le community?
 
-Le community sono collettivi di persone che condividono un interesse comune. Nel nostro caso, le community sono un insieme di persone che condividono l'interesse per lo sviluppo software, anche in modo molto verticale. 
+Le community sono collettivi di persone che condividono un interesse comune. Nel nostro caso, le community sono un insieme di persone che condividono l'interesse per lo sviluppo software, anche in modo molto verticale.
 
 Questi collettivi si incontrano online o offline per confrontarsi, imparare e crescere insieme. Gli argomenti sono tra i più disparati, ma spesso si tratta di argomenti tecnici, come un linguaggio di programmazione, un framework o una libreria.
 
@@ -35,7 +35,6 @@ Consideriamo la partecipazione alle community fondamentale, ma non obbligatoria,
 Le community inoltre sono uno dei migliori modi per imparare qualcosa di nuovo, perché tendenzialmente in queste avviene uno scambio di conoscenze gratuite tra i vari membri! Quello che potreste apprendere un giorno, potreste insegnarlo ad altri!
 
 Ovviamente tra i pro non possiamo non citare il divertimento, le community sono luoghi di ritrovo di persone con uguali interessi, quindi potrebbe essere più facile per una persona creare un legame con queste.
-
 
 ### Come partecipare alle community?
 
