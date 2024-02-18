@@ -42,9 +42,9 @@ Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Developmen
 
 Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test. E' opinione di molti poi che il codice scritto in questa modalità sia spesso più ordinato e organizzato, perché la scrittura dei test forza l'architettura del software ad essere più chiara e disaccoppiata.
 
-## Conclusione (WIP)
+## Conclusione
 
-Alle fondamenta di questi approcci si trova **il ciclo del feedback**: vista la malleabilità del software e la relativa semplicità con cui si può evolvere e sperimentare, avere un ciclo del feedback breve ed efficace si è rapidamente dimostrato lo strumento vincente per uscire da quell'impasse.
+Come abbiamo visto, alle fondamenta di tutti questi validi approcci si trova **il ciclo del feedback**: vista la malleabilità del software e la relativa semplicità con cui si può evolvere e sperimentare, avere un ciclo del feedback breve ed efficace si è rapidamente dimostrato lo strumento vincente per uscire da quell'impasse. Nessuno di queste metodologie è però un dettame rigido e scolpito nella pietra: si tratta più di pensieri ed esperienze collettive che emergono organicamente dalla comunità degli sviluppatori. Spesso tra di essi vi è commistione e manca un confine rigido: tanti team al giorno d'oggi infatti tendono a far tesoro di tutte queste metodologie e ad implementarle in maniera "personalizzata", andando a cucirsi su misura un approccio che incarna appieno il pensiero del Manifesto Agile: "Le architetture, i requisiti e la progettazione migliori emergono da team che si auto-organizzano.".
 
 ## Riferimenti
 
