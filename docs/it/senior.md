@@ -351,7 +351,7 @@ A proposito di comunicazione, è qui che la creazione di contenuti brilla. Come 
 
 Hai mai sentito parlare di [atomic essays](https://www.ship30for30.com/post/how-to-write-an-atomic-essay-a-beginners-guide) (saggi atomici)? Si tratta di suddividere le tue idee in parti di contenuto più brevi e mirate. Questo approccio può rendere i tuoi contenuti più coinvolgenti e più facili da assimilare, soprattutto su piattaforme social come X (Twitter), dove la brevità è fondamentale. Se non sai che tipo di contenuti creare, questo potrebbe essere un buon formato per iniziare.
 
-Se non sai su cosa creare contenuti, ecco il mio consiglio: ogni giorno, alla fine della tua giornata lavorativa, scrivi 1 cosa nuova che pensi di aver imparato durante la giornata. Alla fine della settimana lavorativa, rivedi i tuoi punti. Sono sicuro che per almeno uno di questi potrebbe essere un argomento da condividere e sul quale potresti creare dei contenuti.
+Se non sai su cosa creare contenuti, ecco il mio consiglio: ogni giorno, alla fine della tua giornata lavorativa, scrivi una cosa nuova che pensi di aver imparato durante la giornata. Alla fine della settimana lavorativa, rivedi i tuoi punti. Sono sicuro che per almeno uno di questi potrebbe essere un argomento da condividere e sul quale potresti creare dei contenuti.
 
 La creazione di contenuti può aiutarti a diventare uno sviluppatore più esperto, affermandoti come personaggio di rilievo in un dato ambito, sviluppando le tue capacità di comunicazione e contribuendo alla comunità. Quindi, vai e condividi le tue conoscenze con il mondo.
 
