@@ -26,8 +26,9 @@ Il primo, temporalmente parlando, è stato il Manifesto Agile. Questo manifesto,
 
 Gestiti spesso in modalità "waterfall", i progetti partivano con una fase di design e pianificazione che doveva essere onnicomprensiva, seguita da una fase di sviluppo ed una di test, senza nessun tipo di iterazione; questo approccio portava ad una pianificazione meticolosa ed una stesura di requisiti dettagliattissima, quasi al limite della pedanteria, che però poi si schiantava con la dura realtà durante la fase di sviluppo (o peggio ancora dopo, durante i test) perché, nell'atto dello scrivere codice, quasi sempre emergevano dettagli imprevisti e casi limite che non erano stati contemplati.
 
-(TODO: "Welcome changing requirements", "Deliver working software frequently", "At regular intervals, the team reflects on how
-to become more effective")
+Questo approccio è stato sconvolto e anzi capovolto dal Manifesto Agile, perché porta al centro "gli individui e le interazioni" al posto delle specifiche e delle pianificazioni, incentrando tutto il lavoro sull'ottenere "software funzionante" ad ogni step di sviluppo e non sono alla fine, in modo che sia sempre possibile collaborare assieme e "rispondere al cambiamento", che deve essere accolto sempre, in quanto inevitabile.
+
+Il Manifesto può sembrare, nella sua prima pagina, un po' astratto, ma leggendone meglio il testo si vede come indica tanti modi in cui si può applicare uno strettissimo ciclo del feedback in tutte le fasi della realizzazione di un software: "i cambiamenti ai requisiti vanno accolti", invece che rifiutati perché arrivati tardi, e c'è una forte importanza nel "consegnare software funzionante frequentemente", in modo da dare un riscontro rapido ai committenti; inoltre, "il team deve riflettere ad intervalli regolari" su come il loro lavoro stia procedendo, permettendo al cambiamento di permeare anche le metodologie e le interazioni dei programmatori stessi.
 
 ## L'Extreme Programming e il TDD
 
