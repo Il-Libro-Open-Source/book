@@ -32,7 +32,7 @@ Il Manifesto può sembrare, nella sua prima pagina, un po' astratto, ma leggendo
 
 ## L'Extreme Programming e il TDD
 
-(TODO: inserire intro all'XP)
+L'Extreme Programming è una delle incarnazioni pratiche del Manifesto Agile. Questa metodologia è stata ideata da Kent Beck nella seconda metà degli anni 90, e anche essa si concentra sul ciclo del feedback, in particolare nel rilascio frequente del software e in una serie di metodologie che permettono al team di sviluppo di iterare e migliorare costantemente il proprio lavoro.
 
 Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Development), una metodologia di sviluppo che incarna appieno il concetto di "ciclo del feedback". Può essere riassunta dal fatto che richiede la scrittura di un test prima ancora del codice, e dal ciclo "red-green-refactor":
 
@@ -40,7 +40,7 @@ Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Developmen
 - **green**: scrivo il pezzo minimo di software per far sì che il test passi, diventando verde;
 - **refactor**: continuo a rifattorizzare il mio codice, migliorandolo, ma mantenendolo corretto grazie ai test che continuano a rimanere verdi.
 
-Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test.
+Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test. E' opinione di molti poi che il codice scritto in questa modalità sia spesso più ordinato e organizzato, perché la scrittura dei test forza l'architettura del software ad essere più chiara e disaccoppiata.
 
 ## Conclusione (WIP)
 
@@ -50,3 +50,4 @@ Alle fondamenta di questi approcci si trova **il ciclo del feedback**: vista la 
 
 - https://it.wikipedia.org/wiki/Terza_rivoluzione_industriale
 - https://agilemanifesto.org/
+- https://en.wikipedia.org/wiki/Extreme_programming
