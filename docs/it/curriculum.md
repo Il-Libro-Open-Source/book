@@ -37,7 +37,7 @@ _UN CV DI ESEMPIO_
 
 Come anticipato in precedenza, di seguito trovi un esempio di un CV dal quale potrai prendere spunto, creato su Canva:
 
-![CV Luke Skywalker](/book/assets/images/cv-luke.png)
+![CV Luke Skywalker](/book/assets/images/cv-luke-skywalker.png)
 
 2. La Foto
    Riguardo l’annosa questione “ma la foto la metto o no nel CV?” una risposta potrebbe essere "scegli tu". MA, se scegli di inserire una foto sul CV, ricorda:
