@@ -33,7 +33,7 @@ Chiusa questa parentesi, il sito dell’**_[INDIRE](https://www.indire.it/proget
 
 **“_Perché l’ITS potrebbe risultare un’ottima via?”_**
 
-Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso (quindi con un test di ammissione) e alla portata di tutti dal punto di vista economico, dal momento che l’iscrizione è gratuita o a costo molto ridotto. Solitamente viene fornito un PC da poter utilizzare durante le lezioni e dedicato completamente per la programmazione, ma soprattutto, ciò che contraddistingue l’ITS (e il motivo per cui viene citato in questo capitolo) è la sua **dualità tra lezioni in aula e stage in azienda** per poter testare in modo pratico “sul campo” i concetti appresi.
+Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso (quindi con un test di ammissione) e alla portata di tutti dal punto di vista economico, dal momento che l’iscrizione è gratuita o a costo molto ridotto. Solitamente viene fornito un PC da poter utilizzare durante le lezioni e dedicato completamente alla programmazione, ma soprattutto, ciò che contraddistingue l’ITS (e il motivo per cui viene citato in questo capitolo) è la sua **dualità tra lezioni in aula e stage in azienda** per poter testare in modo pratico “sul campo” i concetti appresi.
 
 È vero, sicuramente la preparazione concettuale risulterà meno solida di quella universitaria, ma è proprio qua che deve subentrare la nostra proattività e la nostra curiosità!
 
