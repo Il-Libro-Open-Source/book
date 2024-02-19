@@ -1,4 +1,10 @@
-# Lo sviluppatore "senior"
+---
+layout: default
+title: Sviluppatore "senior"
+nav_order: 8
+---
+
+# Sviluppatore "senior"
 
 L'industria del software si muove alla velocità della luce.
 
