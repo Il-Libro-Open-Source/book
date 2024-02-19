@@ -1,6 +1,6 @@
 # Il Curriculum
 
-Se stai leggendo questo capitolo probabilmente ti stai guardando attorno, alla ricerca di un nuovo lavoro, una nuova collaborazione, una nuova RAL (si spera più alta dell'attuale).
+Se stai leggendo questo capitolo probabilmente ti stai guardando attorno, alla ricerca di un nuovo lavoro, una nuova collaborazione, una nuova retribuzione (si spera più alta dell'attuale).
 E, probabilmente, ti stai facendo anche un'altra domanda: davvero il CV si usa ancora? Ebbene sì! Il CV rimane lo strumento fondamentale (ma va ovviamente affiancato ad altri strumenti che vedremo in seguito) per proporsi a chi sta offrendo lavoro.
 Partiamo da un assunto fondamentale: il CV perfetto NON ESISTE, così come non esiste “il CV a prova di ATS” (acronimo di Applicant Tracking System, un software che permette ai recruiter di monitorare i candidati nel processo di selezione).
 Le indicazioni che troverai in questo capitolo saranno squisitamente di tipo tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale ed attrattivo, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skills e molto altro.
@@ -13,15 +13,12 @@ Alcuni consigli utili prima di entrare nel vivo:
 - Personalizza! L'europass è un formato ormai datato e senza alcuna possibilità di personalizzazione grafica. L'esempio che troverai in basso è stato creato con [Canva](https://www.canva.com/), contenente centinaia di template validi che puoi scegliere.
   Potresti usare anche un [template LaTeX](https://www.latextemplates.com/) e personalizzarlo utilizzando l'editor [OverLeaf](https://www.overleaf.com/))
 
-Aggiungo inoltre alcune considerazioni più "personali" sulle quali dovresti riflettere, prendendo spunto da un post di Roberta Zantedeschi, che trovi [QUI]
-(https://www.linkedin.com/posts/robertazantedeschi_cv-curriculum-parolepersonelavoro-activity-7034528956879974400-kGoE?utm_source=share&utm_medium=member_desktop)
 
 Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV?
 
 - in primis poca connessione e conoscenza di te
 - scarsa stima del tuo valore e delle tue risorse
 - idee poco chiare rispetto a ciò che stai cercando, a chi stai parlando, alla direzione che vuoi perseguire
-- urgenza (scriverlo quando sei nel bisogno e non nella presenza a te e ai tuoi obiettivi)
 - poca cura della struttura, della gerarchia delle informazioni e della componente grafica e visual
 - difficoltà a selezionare le informazioni che servono (scartando quelle che non aggiungono valore)
 - convinzione che tanto c'è LinkedIn e il CV non serve a niente (errore)
@@ -82,7 +79,7 @@ Se invece sei un profilo junior ha assolutamente senso inserire anche il percors
 Stesso discorso se stai seguendo una Academy o un Bootcamp in ambito IT: è un percorso formativo (verticale sull’IT, ma pur sempre un percorso formativo) e va inserito, completo delle tecnologie che stai studiando, la data prevista di fine Academy ed i progetti pratici sui quali ti sei “sporcato” le mani.
 
 7. Le Competenze Tecniche
-   Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un “work in progress” o in maniera più grafica con una barra di avanzamento). ATTENZIONE: molte aziende usano gli ATS, che potrebbero non riconoscere segni grafici (tipo le stelline o le barre di avanzamento relative a quanta competenza si ha su quella tecnologia).
+   Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un “work in progress” o in maniera più grafica con una barra di avanzamento). ATTENZIONE: molte aziende usano gli ATS (spieghiamo dopo cos'è un ATS), che potrebbero non riconoscere segni grafici (tipo le stelline o le barre di avanzamento relative a quanta competenza si ha su quella tecnologia, consiglio quindi di non usare queste forme "grafiche").
 
 Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tecnologie/linguaggi sui quali sei più esperto/a o che usi giornalmente, in modo tale da non “confondere” chi sta leggendo il tuo CV (se ti candidi come sviluppatore frontend è decisamente sensato che come prime tecnologie/linguaggi in elenco ci siano linguaggi/framework inerenti al mondo frontend, per poi magari nelle ultime posizioni dell’elenco inserire linguaggi/framework di backend, database o altro).
 
