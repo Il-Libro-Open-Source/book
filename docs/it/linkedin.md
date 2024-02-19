@@ -4,7 +4,7 @@ Assieme al CV, anche **LinkedIn** è uno strumento estremamente potente per cerc
 L'obiettivo è quello di fornire degli spunti utili per rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Se non sei in cerca di lavoro, questo capitolo può comunque esserti utile per meglio posizionare il tuo profilo, renderlo più professionale e può fornirti qualche spunto e curiosità.
 
 **1) Indicazioni generali**
-LinkedIn, nel mondo, conta circa 830 milioni di utenti attivi, di cui circa 17 milioni in Italia (fonte: https://www.linkedin.com/pulse/utenti-linkedin-italia-e-nel-mondo-/?originalSubdomain=it). 
+LinkedIn, nel mondo, conta circa 830 milioni di utenti attivi, di cui circa 17 milioni in Italia (fonte: https://www.linkedin.com/pulse/utenti-linkedin-italia-e-nel-mondo-/?originalSubdomain=it).
 
 Per il settore tech è, senza dubbio, lo strumento migliore che le persone che lavorano come recruiter/head hunters/talent acquisition usano tutti i giorni per trovare professionisti/e del settore IT. Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazioni generali per iniziare al meglio:
 

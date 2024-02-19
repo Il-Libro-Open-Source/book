@@ -13,7 +13,6 @@ Alcuni consigli utili prima di entrare nel vivo:
 - Personalizza! L'europass è un formato ormai datato e senza alcuna possibilità di personalizzazione grafica. L'esempio che troverai in basso è stato creato con [Canva](https://www.canva.com/), contenente centinaia di template validi che puoi scegliere.
   Potresti usare anche un [template LaTeX](https://www.latextemplates.com/) e personalizzarlo utilizzando l'editor [OverLeaf](https://www.overleaf.com/))
 
-
 Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV?
 
 - in primis poca connessione e conoscenza di te
