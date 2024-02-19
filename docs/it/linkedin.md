@@ -4,7 +4,9 @@ Assieme al CV, anche **LinkedIn** è uno strumento estremamente potente per cerc
 L'obiettivo è quello di fornire degli spunti utili per rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Se non sei in cerca di lavoro, questo capitolo può comunque esserti utile per meglio posizionare il tuo profilo, renderlo più professionale e può fornirti qualche spunto e curiosità.
 
 **1) Indicazioni generali**
-LinkedIn, nel mondo, conta circa 830 milioni di utenti attivi, di cui circa 16 milioni in Italia. Per il settore tech è, senza dubbio, lo strumento migliore che le persone che lavorano come recruiter/head hunters/talent acquisition usano tutti i giorni per trovare professionisti/e del settore IT. Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazioni generali per iniziare al meglio:
+LinkedIn, nel mondo, conta circa 830 milioni di utenti attivi, di cui circa 17 milioni in Italia (fonte: https://www.linkedin.com/pulse/utenti-linkedin-italia-e-nel-mondo-/?originalSubdomain=it). 
+
+Per il settore tech è, senza dubbio, lo strumento migliore che le persone che lavorano come recruiter/head hunters/talent acquisition usano tutti i giorni per trovare professionisti/e del settore IT. Prima di scendere nel dettaglio dei vari punti della guida, alcune considerazioni generali per iniziare al meglio:
 
 - Moltissimi recruiter non conoscono il gergo tech, i nomi delle tecnologie/framework, confondono Java con JavaScript (si, succede ancora) e così via. E questo, immagino, potrebbe non farti piacere. Ma cerca comunque di essere sempre comprensivo ed empatico verso chi ti scrive. Cerca, per quanto possibile, di rispondere sempre ai messaggi che ricevi perché dall'altra parte c'è comunque una persona che sta lavorando e che merita rispetto esattamente come lo meriti tu. Se al momento non sei in cerca di un nuovo lavoro, ti consiglio magari di prepararti un testo preimpostato da inviare a chi ti scrive, da usare banalmente come risposta. Tu perdi pochi secondi di tempo ma ti assicuro che chi c'è dall'altra parte apprezzerà!
 
