@@ -33,7 +33,7 @@ Bisogna però che ci addentriamo un pochino meglio nella questione per comprende
 
 Chi ricopre il ruolo di _Frontend Developer_ dovrà programmare tutta la parte "visiva" del progetto. Quindi appunto tradurrà in codice tutto ciò che è stato progettato nel _design_.
 Chi invece ricopre il ruolo di _Backend Developer_ dovrà realizzare tutta la parte logica e funzionale "dietro le quinte" del progetto.
-Possiamo dire che è una spiegazione un pò approssimativa ma per ora dovrebbe bastare.
+Possiamo dire che è una spiegazione un po' approssimativa ma per ora dovrebbe bastare.
 
 Quindi, per sommi capi, la figura del _Fullstack Developer_ è la fusione tra _Frontend Developer_ e _Backend Developer_.
 
