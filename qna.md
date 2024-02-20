@@ -17,7 +17,7 @@ Q: Su che canali ufficiali posso seguire gli aggiornamenti sul libro oltre a GH?
 A: Su [linkedin](https://www.linkedin.com/company/il-libro-open-source) qui su [github](https://github.com/Il-Libro-Open-Source).
 
 Q: In che lingua è disponibile?
-A: La prima stesura del libro sarà disponibile in italiano, in generale le issue, le PR e le discussioni si tengono in questa lingua; la struttura è stata pensata per includere altre traduzioni in futuro.
+A: La prima stesura del libro sarà disponibile in italiano; allo stesso modo le issue, le PR e le discussioni saranno in questa lingua; tuttavia la struttura è stata pensata per supportare, in futuro, altre traduzioni.
 
 Q: Esiste un code of conduct?
 A: Il code of conduct è disponibile [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/CODE_OF_CONDUCT.md)
