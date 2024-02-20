@@ -23,7 +23,7 @@ Il programma è composto da una parte grafica ed una parte logica.
 Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione) nel settore tech: il web.
 Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
 
-In un tempo ormai lontano, fortunatamente, tutto questo veniva svolto da un'unica figura: il _Web Master_.
+Un tempo, fortunatamente ormai lontano, tutto questo veniva svolto da un'unica figura: il _Web Master_.
 Poi siamo passati ad avere 2 figure: _Web Designer_ (la figura che si occupava di realizzare l'interfaccia grafica, detta anche UI/UX) e _Web Developer_ (che traduceva in codice ciò che veniva designato dalla prima figura).
 Oggi la situazione è differente, e per fare un sito web servono almeno 3 figure: _Designer_, _Frontend Developer_ e _Backend Developer_.
 
@@ -105,7 +105,7 @@ In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, 
 
 > "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
 > Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (tre o sei mesi) è molto elevata.
-> Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo: studiare da autodidatta oppure attraverso percorso personalizzato, in questo caso però non sarà possibile ottenere un risultato in soli tre/sei mesi ma ci vorrà molto più tempo.
+> Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo: studiare da autodidatta oppure attraverso un percorso personalizzato; in questo caso però non sarà possibile ottenere un risultato in soli tre/sei mesi ma ci vorrà molto più tempo.
 
 Quindi se non avete pazienza, tempo, passione, curiosità e voglia è meglio lasciare perdere.
 
@@ -132,12 +132,12 @@ Questo concetto spiega bene 2 cose:
 "Tutto bellissimo, ma come faccio a sapere se un percorso di formazione mi permette di lavorare dopo?
 Chi mi dà questa certezza dato che spesso e volentieri hanno dei costi alti?"
 Il settore della programmazione, come detto in precedenza, non è un settore in perdita e non è un settore saturo.
-Basta una piccola ricerca su Google o un giro nella sezione "Lavoro" di LinkedIn (impostando come criterio di ricerca `developer`) per rendersi conto di quanta domanda c'è da parte delle aziende
+Basta una piccola ricerca su Google o un giro nella sezione "Lavoro" di LinkedIn (impostando come criterio di ricerca `developer`) per rendersi conto di quanta domanda c'è da parte delle aziende.
 
 Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione favorisce l'incontro dei propri corsisti con alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
 
 "Cosa mi posso aspettare al termine di un percorso di formazione? Avrò autonomia e le competenze necessarie per il mondo del lavoro?"
-Sicuramente al termine di un percorso di formazione si potrebbe essere più consapevoli di cosa aspettarsi scegliendo di percorrere la carriera da developer, di quali siano gli strumenti necessari, di quali siano le qualità che costituiscono una figura competente.
+Sicuramente al termine di un percorso di formazione si potrebbe essere più consapevoli di cosa aspettarsi scegliendo di percorrere la carriera da developer, di quali siano gli strumenti necessari e di quali siano le qualità che costituiscono una figura competente.
 
 Sia che il corso duri tre mesi, o sei, o addirittura dodici, si è ancora _Junior_.
 Una figura _Junior_ rimane tale fino a quando non ottiene la completa **autonomia** lavorativa, sia con gli strumenti che già conosce e sia con gli strumenti che dovrà apprendere.
