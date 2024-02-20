@@ -47,7 +47,7 @@ Q: In che maniera viene destituito un contributor?
 A: Il regolamento per il contributor è il medesimo degli ambassador.
 
 Q: Cosa sono i Working Group? Chi ne fa parte?
-A: Sono gruppi di lavoro specializzati in vari aspetti come es. la revisine dei contenuti, trovi maggiori infomazioni [qui ](https://github.com/Il-Libro-Open-Source/governance/blob/main/WG.md)
+A: Sono gruppi di lavoro specializzati in vari aspetti come, ad esempio, la revisione dei contenuti; trovi maggiori informazioni [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/WG.md)
 
 Q: Come posso partecipare a uno di questi working group?
 A: Ogni gruppo può decidere di allargare in caso di necessità il gruppo e apre le candidature per gli ambassador che sono interessanti, successivamente sarà creato un sondaggio.
