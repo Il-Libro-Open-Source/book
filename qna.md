@@ -50,7 +50,7 @@ Q: Cosa sono i Working Group? Chi ne fa parte?
 A: Sono gruppi di lavoro specializzati in vari aspetti come, ad esempio, la revisione dei contenuti; trovi maggiori informazioni [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/WG.md)
 
 Q: Mi sono accorto che alcuni contenuti non sono in linea col COC, come posso segnalarli?
-A: Nel COC è presente un link al form con il quale contattare direttamente il workgroup che analizzerà il caso.
+A: Nel COC è presente un link al form con il quale contattare direttamente il workgroup che analizzerà il caso; trovi maggiorni informazioni [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/CODE_OF_CONDUCT.md).
 
 Q: Quali sono le linee guida per scrivere contenuti?
 A: Potete trovare un'introduzione [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES.md)
