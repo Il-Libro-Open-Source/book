@@ -1,6 +1,6 @@
 # Domande frequenti
 
-Qui si possono le risposte alle domande generali e più fretquenti sul progetto.
+Qui si possono trovare le risposte alle domande generali e più frequenti sul progetto.
 
 ---
 
