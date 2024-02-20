@@ -13,8 +13,8 @@ A: Il libro è distribuito con una licenza "Attribution-NonCommercial-ShareAlike
 Q: Su che mezzi sarà fruibile il libro?
 A: Al momento è disponibile come file MD e pubblicato come GH pages: [https://il-libro-open-source.github.io/book/](https://il-libro-open-source.github.io/book/)
 
-Q: Su che canali ufficiali posso seguire gli aggiornamenti sul libro oltre a GH?
-A: Su [linkedin](https://www.linkedin.com/company/il-libro-open-source) qui su [github](https://github.com/Il-Libro-Open-Source).
+Q: Su che canali ufficiali posso seguire gli aggiornamenti sul libro?
+A: Su [linkedin](https://www.linkedin.com/company/il-libro-open-source) e qui su [github](https://github.com/Il-Libro-Open-Source).
 
 Q: In che lingua è disponibile?
 A: La prima stesura del libro sarà disponibile in italiano; allo stesso modo le issue, le PR e le discussioni saranno in questa lingua; tuttavia la struttura è stata pensata per supportare, in futuro, altre traduzioni.
