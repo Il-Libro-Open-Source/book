@@ -10,7 +10,7 @@ Chi sviluppa software è spesso visto come una persona asociale, tendenzialmente
 
 Non possiamo negare che esistano sviluppatori o sviluppatrici che non amano interagire con gli altri o stare in mezzo alla gente e che preferiscono passare le loro giornate in solitudine. Questo è vero, ma sarebbe sbagliato pensare che questo sia un tratto distintivo della nostra professione. In ogni settore lavorativo esistono persone che incarnano queste caratteristiche, quindi non è corretto pensare che il dev sia asociale per natura.
 
-Detto questo, è vero che lo sviluppo software è un lavoro che richiede molta concentrazione e che spesso si lavora in solitudine, il che può portare a una certa tendenza all'isolamento. Soprattutto nei primi decenni di vita della nostra professione, quando non esistevano ancora i social network e le community online, era molto più facile per chi facesse questo lavoro isolarsi, il che ha portato alla nascita di una percezione così radicata che spesso anche chi fa parte del settore si stupisce di quante community esistano e di quanto sia facile fare networking.
+Detto questo, è vero che lo sviluppo software è un lavoro che richiede molta concentrazione e che spesso si lavora in solitudine, il che può portare a una certa tendenza all'isolamento. Agli albori dell'informatica, quando non esistevano ancora i social network e le community online, era molto più facile per chi facesse questo lavoro isolarsi, il che ha portato alla nascita di una percezione così radicata che spesso anche chi fa parte del settore si stupisce di quante community esistano e di quanto sia facile fare networking.
 
 ### Esistono Dev non asociali?
 
@@ -44,12 +44,12 @@ Partecipare alle community è molto semplice. Esistono community online e offlin
 
 Interessi in comune, passione e costanza sono gli ingredienti fondamentali per creare una community. Se abbiamo un interesse in comune con altre persone, una passione che vogliamo condividere e la costanza di portare avanti un progetto, possiamo creare una community. Non esiste una ricetta magica per farlo, ma esistono alcune regole che possiamo seguire per aumentare le probabilità di successo.
 
-- **Sii inclusivo**: Le community sono fatte di persone e le persone sono fatte di differenze. Se vogliamo creare una community, dobbiamo essere inclusivi e accettare le differenze. Non possiamo pensare di creare una community se non siamo disposti ad accettare le differenze.
+- **Sii inclusivo**: Le community sono fatte di persone e ogni persona è diversa dall'altra. Se vogliamo creare una community, dobbiamo essere inclusivi e accettare le diversità. Non possiamo pensare di creare una community se non siamo disposti ad accettare questo.
 - **Sii costante**: La costanza è fondamentale per creare una community. Se io stesso non partecipo attivamente alla vita del mio gruppo, perché dovrebbero farlo gli altri? Se vogliamo creare una community, dobbiamo essere i primi a partecipare attivamente alla vita del gruppo.
 - **Trova un tema**: Le community nascono attorno a un tema, quindi dobbiamo trovare un tema che sia abbastanza ampio da poter attrarre un numero sufficiente di persone, ma abbastanza specifico da poter creare un gruppo di persone con interessi in comune.
 - **Stabilisci delle regole**: Se vogliamo creare una community, dobbiamo stabilire delle regole che permettano alle persone di interagire in maniera civile e rispettosa. Questo aspetto risulta sempre più importante con l'aumentare del numero di persone che partecipano alla community.
 - **Non demoralizzarti**: Se ci tieni veramente alla tua community non demoralizzarti se questa non diventa popolare. Capiamo possa essere un bel traguardo, ma non è fondamentale! Anche una community più raccolta può risultare molto attiva e portare dei benefici ai suoi membri!
-- **Non chiudersi**: Il mondo delle community è fatto anche di collaborazione tra le stesse. Spesso, infatti, le community si aiutano a vicenda e si supportano, anche solo facendosi pubblicità a vicenda o scambiandosi consigli e risorse. Non chiudersi in se stessi e cercare di collaborare con altre community può portare a risultati inaspettati.
+- **Essere aperti**: Il mondo delle community è fatto anche di collaborazione tra le stesse. Spesso, infatti, le community si aiutano a vicenda e si supportano, anche solo facendosi pubblicità a vicenda o scambiandosi consigli e risorse. Non chiudersi in se stessi e cercare di collaborare con altre community può portare a risultati inaspettati.
 
 ## Networking
 
@@ -87,7 +87,7 @@ Come potrai immaginare, in questo caso bisognerà essere il meno timidi possibil
 
 Come citato qualche paragrafo più in alto, non puoi mai sapere quanto una qualsiasi persona presente nella stanza possa influire sulla tua carriera, quindi cerca di interagire con tutti e cerca di conoscere il più possibile le persone che partecipano a questi eventi.
 
-Vuoi un esempio pratico del potere del networking? Questo capitolo fa parte di un libro scritto da una community di persone che condivide la passione per l'Open Source, e la prima stesura è stata fatta da due persone che si sono conosciute grazie ad un'amiciza comune, a sua volta dev, che ci ha presentati e ci ha permesso di conoscerci. A distanza di parecchi mesi da quel primo contatto, abbiamo deciso di scrivere questo capitolo insieme dopo esserci visti ad un paio di conferenze, a dimostrazione di quanto il networking sia imprevedibile quanto efficace.
+Vuoi un esempio pratico del potere del networking? Questo capitolo fa parte di un libro scritto da una community di persone che condivide la passione per l'Open Source, e la prima stesura è stata fatta da due persone che si sono conosciute grazie ad un'amicizia in comune, a sua volta dev, che ci ha presentati e ci ha permesso di conoscerci. A distanza di parecchi mesi da quel primo contatto, abbiamo deciso di scrivere questo capitolo insieme dopo esserci visti ad un paio di conferenze, a dimostrazione di quanto il networking sia imprevedibile quanto efficace.
 
 ## Posso fare questo lavoro senza fare networking?
 
