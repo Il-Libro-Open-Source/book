@@ -4,7 +4,17 @@ title: Come affrontare l'età nel mondo IT
 nav_order: 5
 ---
 
+<!-- prettier-ignore-start -->
 # Come affrontare l'età nel mondo IT
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 In questo capitolo esploreremo la questione dell'età nel contesto dell'ambito IT. Spesso trascurato, questo aspetto riveste notevole rilevanza per coloro che operano in questo settore da qualche anno. Molte persone si trovano a confrontarsi con l'interrogativo sulla propria competitività nel mercato del lavoro in relazione all'età, chiedendosi se sono ancora in grado di mantenere un livello di competenza adeguato alle nuove tecnologie o se, viceversa, sono destinati a navigare tra mansioni manageriali, abbandonando il ruolo tecnico.
 

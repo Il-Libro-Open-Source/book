@@ -4,7 +4,17 @@ title: Architettura software
 nav_order: 3
 ---
 
+<!-- prettier-ignore-start -->
 # Architetture Software
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Il termine "architettura software" viene spesso utilizzato in maniera molto generica e impropria. In questo documento cercheremo di dare una definizione e di descriverne le principali.
 

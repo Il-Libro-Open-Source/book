@@ -4,7 +4,17 @@ title: Testing
 nav_order: 4
 ---
 
+<!-- prettier-ignore-start -->
 # Testing
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Il testing è una parte fondamentale di ogni progetto software. In questo capitolo vedremo come testare il nostro codice in modo efficace.
 

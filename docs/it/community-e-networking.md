@@ -4,7 +4,17 @@ title: Community e Networking
 nav_order: 9
 ---
 
+<!-- prettier-ignore-start -->
 # Community e Networking
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Questo capitolo nasce per due motivi: Il primo è quello di sfatare il mito del dev asociale, il secondo è quello di spiegare come fare networking e perché è così importante in un settore come il nostro.
 

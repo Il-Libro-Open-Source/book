@@ -4,7 +4,17 @@ title: Sviluppatore "senior"
 nav_order: 8
 ---
 
+<!-- prettier-ignore-start -->
 # Sviluppatore "senior"
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 L'industria del software si muove alla velocità della luce.
 

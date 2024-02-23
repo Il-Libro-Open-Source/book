@@ -4,7 +4,17 @@ title: Aziende di consulenza vs prodotto
 nav_order: 7
 ---
 
+<!-- prettier-ignore-start -->
 # Aziende di consulenza vs prodotto
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Obiettivo del capitolo
 
