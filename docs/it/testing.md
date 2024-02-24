@@ -169,7 +169,7 @@ Feature: Google Searching
 
 ### Mutation Testing
 
-Il mutation testing è una metodologia di test per valutare l'attuale test suite. Partendo dal codice, si creano diverse versioni diverse, ognuna delle quali introduce una mutazione, piccola a piacere. Queste versioni mutate vengono chiamati _mutanti_. L'obiettivo del mutation testing è di verificare se la test suite identifica la mutazione: se un mutante non viene rilevato da un test, viene considerato _vivo_ e i test a riguardo vengono considerati non sufficienti per quella mutazione. Se un mutante viene rilevato da un test, viene considerato _morto_ e i test a riguardo vengono considerati sufficienti per quel mutante.
+Il mutation testing è una metodologia di test per valutare l'attuale test suite. Partendo dal codice originale, si creano differenti versioni, ognuna delle quali introduce una mutazione, piccola a piacere. Queste versioni mutate vengono chiamati _mutanti_. L'obiettivo del mutation testing è di verificare se la test suite identifica la mutazione: se un mutante non viene rilevato da un test, viene considerato _vivo_ e i test a riguardo vengono considerati non sufficienti per quella mutazione. Se un mutante viene rilevato da un test, viene considerato _morto_ e i test a riguardo vengono considerati sufficienti per quel mutante.
 
 Le mutazioni possono essere effettuate su vari aspetti del proprio software:
 
