@@ -8,10 +8,7 @@ nav_order: 7
 # Aziende di consulenza vs prodotto
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
+- TOC
 {:toc}
 
 <!-- prettier-ignore-end -->

@@ -8,10 +8,7 @@ nav_order: 2
 # _Cosa significa "essere dev"?_
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
+- TOC
 {:toc}
 
 <!-- prettier-ignore-end -->

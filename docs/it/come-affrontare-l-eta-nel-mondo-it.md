@@ -8,10 +8,7 @@ nav_order: 5
 # Come affrontare l'età nel mondo IT
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
+- TOC
 {:toc}
 
 <!-- prettier-ignore-end -->
