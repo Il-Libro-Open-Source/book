@@ -6,7 +6,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Di cosa parla il libro open source?
 
-> Puoi lggere l'introduzione [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/docs/it/introduzione.md).
+> Puoi leggere l'introduzione [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/docs/it/introduzione.md).
 
 ### Con che licenza è rilasciato?
 
@@ -30,7 +30,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Quale è la governance?
 
-> Il libro viene mantenuto open e fruibile da tutti con una governance che vuole essere aperta, per questo da subito sono stati nominati una serie di figure dette Ambassador elette con voto su GH per gestire la crescita del libro, le posizioni vengono aperte temporalmente, questo periodo è in fase decisionale. Maggiori informazioni [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/MEMBERSHIP.md)
+> Il libro viene mantenuto open e fruibile da tutti con una governance che vuole essere aperta, per questo da subito sono stati nominati una serie di figure dette Ambassador elette con voto su Github per gestire la crescita del libro, le posizioni vengono aperte temporalmente, questo periodo è in fase decisionale. Maggiori informazioni [qui](https://github.com/Il-Libro-Open-Source/governance/blob/main/MEMBERSHIP.md)
 
 ### Quali figure sono presenti?
 
@@ -42,7 +42,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### In che maniera viene destituito un ambassador?
 
-> Un ambasssador può esser destituito con questi criteri: [https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/ambassador-allontanamento.md](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/ambassador-allontanamento.md)
+> Un ambassador può esser destituito con questi criteri: [https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/ambassador-allontanamento.md](https://github.com/Il-Libro-Open-Source/governance/blob/main/guidelines/ambassador-allontanamento.md)
 
 ### Che ruolo svolge il contributor?
 
@@ -66,7 +66,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Mi sono accorto che alcuni contenuti non sono in linea col COC, come posso segnalarli?
 
-> Nel COC è presente un link al form con il quale contattare direttamente il workgroup che analizzerà il caso; trovi maggiorni informazioni [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/CODE_OF_CONDUCT.md).
+> Nel COC è presente un link al form con il quale contattare direttamente il working group che analizzerà il caso; trovi maggiori informazioni [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/CODE_OF_CONDUCT.md).
 
 ### Quali sono le linee guida per scrivere contenuti?
 
@@ -74,7 +74,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Come posso contribuire?
 
-> La contribuzione è aperta che si sia contributor, ambdassador o nessuno dei due, si può seguire la linea guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
+> La contribuzione è aperta sia ai Contributors che agli Ambdassadors; si può seguire la linea guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
 
 ### Come si contribuisce? Con che mezzi?
 
