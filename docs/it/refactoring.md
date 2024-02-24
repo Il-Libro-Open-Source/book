@@ -21,10 +21,10 @@ La scrittura del codice non è del tutto lineare, soprattutto se scritto a più 
 Sono diverse le occasioni in cui è possibile fare refactoring e, in alcune di queste, non solo è consigliato ma obbligatorio.
 Poniamo il caso che abbiamo una parte del nostro software con del codice "legacy", magari scritto rispettando dei pattern che, nel tempo, si sono rivelati sbagliati. Oppure scritto di fretta, senza rispettare i principi SOLID e con metodi e variabili che hanno nomi provvisori.
 O ancora, il codice scritto risulta difficile da testare, perché presenta metodi o classi poco disaccoppiate. Con metodi privati che non fanno attività atomiche.
-Fatta una rapida analisi, notiamo che, magari, ci sono dei cicli ripetuti, o parti di codice che potrebbero essere evitate se solo avessimo posto dei semafori a monte.
+Fatta una rapida analisi potremmo notare che magari ci sono dei cicli ripetuti, o parti di codice che potrebbero essere evitate se solo avessimo posto dei semafori a monte.
 Con del buon refactoring potremmo rivedere il codice, eliminare delle dipendenze inutili o utilizzare dei costrutti del linguaggio più adatti, con il risultato di migliorarne la lettura, aderire agli standard del linguaggio (che, nell'ottica di rendere il nostro codice più condivisibile possibile, non fa mai male) e, perché no, migliorarne le performance e eliminare debito tecnico.
 Come detto, le occasioni non mancano.
-Potremmo cogliere l'occasione di una Code Review o l'aggiunta di una nuova feature. Prima di iniziarne lo sviluppo, sicuramente è buona pratica leggere il codice in cui questa nuova funzionalità andrà a integrarsi e, se quest'ultimo risulta di difficile comprensione, è un'ottima occasione per effettuarne la rifattorizzazione. Questo ci permetterebbe di ottenere una maggiore conoscienza del codice.
+Potremmo cogliere l'occasione di una Code Review o l'aggiunta di una nuova feature. Prima di iniziarne lo sviluppo, sicuramente è buona pratica leggere il codice in cui questa nuova funzionalità andrà a integrarsi e, se quest'ultimo risulta di difficile comprensione, è un'ottima occasione per effettuarne il refactoring. Questo ci permetterebbe di ottenere una maggiore conoscenza del codice.
 Un'altra, forse la migliore, dove è (quasi) obbligatorio, è la risoluzione di un bug in una parte di codice convulso, la cui sola lettura ci fa venire il mal di testa. Un'attività di refactoring potrebbe facilmente portare alla luce l'errore presente nel codice.
 L'attività di refactoring può essere paragonata a una pulizia profonda di casa, piuttosto che a una routine di sistemazione della propria cameretta, necessaria per mantenere il codice sicuro, di valore ed efficiente.
 
@@ -58,7 +58,7 @@ Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Dr
 
 ### Rinominare i metodi oscuri
 
-Ci sono metodi che hanno nomi degni di un codice morse ma che poco dicono sull'operazioni che vanno a intraprendere.
+Ci sono metodi che hanno nomi degni di un codice morse ma che poco dicono sulle operazioni che vanno a intraprendere.
 Un buon inizio potrebbe essere quello di rinominarli in modo che chi legge, abbia la possibilità di capire cosa fa quel metodo senza necessità alcuna di andarlo a verificare.
 
 ### Cambiare la firma dei metodi
@@ -103,7 +103,7 @@ function applyDiscount() {
 }
 ```
 
-Con questa modifica, non abbiamo modificato in alcun modo il comportamento. Ovviamente, otterremo un piccolo vantaggio sulle performance a patto che, il linguaggio che stiamo usando può trarre vantaggi dalla differenza tra variabili mutabili e non.
+Con questa modifica, non abbiamo cambiato in alcun modo il comportamento. Ovviamente otterremo un piccolo vantaggio sulle performance, a patto che il linguaggio che stiamo usando possa trarre vantaggi dalla differenza tra variabili mutabili e non.
 Ma, riguardando ancora un attimo il codice, potremmo apportare un'altra modifica:
 
 ```
@@ -116,7 +116,7 @@ Rimuovendo la creazione di una variabile, che oggettivamente risulta solo superf
 
 ## Costi
 
-Lo sviluppo di un software ha un costo, ovviamente anche il refactoring ne ha uno. Ma, fatto con regolarità, sfruttando tutte le occasioni possibili, ovvero effettuando micro-interventi di refactoring, non solo il suo costo è trascurabile ma, complessivamente, abbassa i costi grazie alla maggiore mantenibilità, scalabilità e performance ottenute.
+Lo sviluppo di un software ha un costo, ovviamente anche il refactoring ne ha uno. Ma, fatto con regolarità, sfruttando tutte le occasioni possibili, ovvero effettuando micro-interventi di refactoring, non solo il suo costo è trascurabile ma, complessivamente, abbassa i costi grazie alla maggiore manutenibilità, scalabilità e performance ottenute.
 
 ## Refactoring vs Riscrittura
 
@@ -126,7 +126,7 @@ Con il refactoring, dove il dictat del non modificare in alcun modo il comportam
 
 ## Automazione
 
-Esistono ovviamente diversi strumenti pe automatizzare le procedure di refactoring, spesso integrati direttamente nell'IDE. Forse il più famoso è Sonarqube.
+Esistono ovviamente diversi strumenti per automatizzare le procedure di refactoring, spesso integrati direttamente nell'IDE. Forse il più famoso è Sonarqube.
 Questi strumenti, basati su motori di analisi affidabili e complessi, riescono a individuare dalla banale duplicazione del codice alla mancata adozione di buone pratiche, spesso specifiche del linguaggio di programmazione adottato.
 A volte riescono a fare miracoli ma, a noi preme focalizzarci su un punto della questione: l'effort.
 Quanto effort occorre ad effettuare del refactoring con questi strumenti. O meglio, quanto semplificano la vita dello sviluppatore.
