@@ -5,7 +5,14 @@ nav_order: 1
 permalink: /
 ---
 
+<!-- prettier-ignore-start -->
 # Il Libro Open Source
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Benvenuto
 
