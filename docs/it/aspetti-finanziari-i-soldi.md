@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Aspetti Finanziari - "I SOLDI"?
+title: Aspetti Finanziari - "I SOLDI"
 nav_order: 44
 ---
 
 <!-- prettier-ignore-start -->
-# Aspetti Finanziari "I Soldi"?_
+# Aspetti Finanziari "I Soldi"?
 {: .no_toc }
 
 - TOC
