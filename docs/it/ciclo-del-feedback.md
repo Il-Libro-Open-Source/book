@@ -36,7 +36,7 @@ L'Extreme Programming è una delle incarnazioni pratiche del Manifesto Agile. Qu
 
 Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Development), una metodologia di sviluppo che incarna appieno il concetto di "ciclo del feedback". Può essere riassunta dal fatto che richiede la scrittura di un test prima ancora del codice, e dal ciclo "red-green-refactor":
 
-- **red**: scrivo prima un test "rosso", che descrive prima caratteristica che io desidero dal mio programma, e ne dimostra l'assenza fallendo;
+- **Red**: Lo scopo di questa fase è scrivere un test che informi circa l'implementazione di una funzionalità. La prova verrà superata solo quando le sue aspettative saranno soddisfatte. In mancanza di codice a supporto, naturalmente, il test fallirà.
 - **green**: scrivo il pezzo minimo di software per far sì che il test passi, diventando verde;
 - **refactor**: continuo a rifattorizzare il mio codice, migliorandolo, ma mantenendolo corretto grazie ai test che continuano a rimanere verdi.
 
