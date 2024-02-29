@@ -40,7 +40,9 @@ Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Developmen
 - **green**: scrivo il pezzo minimo di software per far sì che il test passi, diventando verde;
 - **refactor**: continuo a rifattorizzare il mio codice, migliorandolo, ma mantenendolo corretto grazie ai test che continuano a rimanere verdi.
 
-Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test. E' opinione di molti poi che il codice scritto in questa modalità sia spesso più ordinato e organizzato, perché la scrittura dei test forza l'architettura del software ad essere più chiara e disaccoppiata.
+Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test. È opinione di molti che il codice scritto in questa modalità sia spesso più ordinato e organizzato, perché la scrittura dei test forza l'architettura del software ad essere più chiara e disaccoppiata.
+
+Una nota importante va fatta riguardo a questa metodologia: Pur permettendo di scrivere codice che necessariamente passerà tutti i test scritti in prima istanza, c'è da considerare che non sempre i test scritti rispecchiano le necessità reali, ed è giusto che chi sviluppi tenga in considerazione questa possibilità e non si affidi al TDD come "soluzione ad ogni male".
 
 ## Conclusione
 
