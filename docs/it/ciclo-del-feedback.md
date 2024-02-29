@@ -34,7 +34,7 @@ Il Manifesto può sembrare, nella sua prima pagina, un po' astratto, ma andando 
 
 L'Extreme Programming è una delle incarnazioni pratiche del Manifesto Agile. Questa metodologia è stata ideata da Kent Beck nella seconda metà degli anni '90, e anch'essa si concentra sul ciclo del feedback, in particolare nel rilascio frequente del software e in una serie di metodologie che permettono al team di sviluppo di iterare e migliorare costantemente il proprio lavoro.
 
-Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Development), una metodologia di sviluppo che incarna appieno il concetto di "ciclo del feedback". Può essere riassunta dal fatto che richiede la scrittura di un test prima ancora del codice, e dal ciclo "red-green-refactor":
+Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Development), una metodologia di sviluppo che incarna appieno il concetto di "ciclo del feedback". Può essere riassunta dal fatto che richiede la scrittura di un test prima ancora del codice, e dal ciclo "Red-Green-Refactor":
 
 - **Red**: Lo scopo di questa fase è scrivere un test che informi circa l'implementazione di una funzionalità. La prova verrà superata solo quando le sue aspettative saranno soddisfatte. In mancanza di codice a supporto, naturalmente, il test fallirà.
 - **Green**: In questa fase, lo scopo è implementare il codice necessario per superare il test. L'obiettivo è trovare una soluzione, senza preoccuparsi di ottimizzarne l'implementazione.
