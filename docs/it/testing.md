@@ -178,7 +178,7 @@ Le mutazioni possono essere effettuate su vari aspetti del proprio software:
 - Istruzioni (eliminare delle righe di codice)
 - Valori (cambiare il _return_ di una funzione)
 
-Applicando la formula `mutation score = (mutanti morti / mutanti totali) * 100`, possiamo ottenere una percentuale di mutanti morti, che ci permette di capire quanto il nostro codice sia realmente testato.
+Applicando la formula $mutation\ score = \dfrac{mutanti\ morti}{mutanti\ totali} * 100$, possiamo ottenere una percentuale di mutanti morti, che ci permette di capire quanto il nostro codice sia realmente testato.
 
 Vista la natura dei mutation test, il numero di mutazioni può essere molto alto e non sempre le mutazioni coinvolgono i principali use case. Per questo non bisogna stupirsi che lo score sia basso. Infatti uno score alto significa che esiste un test per ogni condizione all'interno del proprio codice, il che porterebbe a:
 
