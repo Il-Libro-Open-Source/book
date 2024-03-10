@@ -39,7 +39,7 @@ A volte invece questa scomposizione non è possibile e, nel caso, si può comunq
 **È importante sottolineare che non ci sono dei vincoli stringenti che ne impongono l'utilizzo;** \
 è possibile applicarli singolarmente, oppure applicarne più di uno; chiaramente una aderenza maggiore implica la facilità nel riconoscerli da parte di altri/e dev che conoscono l'argomento.
 
-Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica appunto il principalmente il primo dei vantaggi elencati soprattutto il riuso e la facilità di test.\
+Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.\
 Come viene definito nel design pattern possiamo definire il design pattern vero e proprio che ne demarca i suoi confini ed il client che definisce tutta la parte esterna ad esso che vi interagisce.\
 Il vantaggio principale dell'utilizzo implica che le modifiche apportate tendono a non cambiare sensibilmente il client.
 
