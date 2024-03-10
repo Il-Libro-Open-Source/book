@@ -36,7 +36,7 @@ Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano
 In generale dato un problema non sempre è semplice attribuirgli, se esiste, un design pattern che lo "riconosca"; a volte infatti il limite fra uno o l'altro non è sempre definito quindi si può entrare ad esempio scomponendo il problema più complesso (Divide et impera) in altri più semplici per i quali si potrebbero riconoscere dei pattern specifici.\
 A volte invece questa scomposizione non è possibile e, nel caso, si può comunque fare il refactoring scegliendo quello più simile o anche quello più conveniente.
 
-**E' importante sottolineare che non ci sono dei vincoli stringenti che ne impongono l'utilizzo;** \
+**È importante sottolineare che non ci sono dei vincoli stringenti che ne impongono l'utilizzo;** \
 E' possibile applicarli oppure no, si possono mescolare a piacere, chiaramente una aderenza maggiore implica la facilità di riconoscerli da parte di altri programmatori che conoscono l'argomento.
 
 Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica appunto il principalmente il primo dei vantaggi elencati soprattutto il riuso e la facilità di test.\
