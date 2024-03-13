@@ -6,7 +6,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Di cosa parla il libro open source?
 
-> Puoi leggere l'introduzione [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/docs/it/introduzione.md).
+> Puoi leggere l'introduzione [qui](https://il-libro-open-source.github.io/book/).
 
 ### Con che licenza è rilasciato?
 
