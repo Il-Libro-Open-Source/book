@@ -4,7 +4,14 @@ title: Ciclo del Feedback
 nav_order: 10
 ---
 
+<!-- prettier-ignore-start -->
 # Il Ciclo del Feedback
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## La flessibilità del software
 
