@@ -18,7 +18,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Su che canali ufficiali posso seguire gli aggiornamenti sul libro?
 
-> Su [linkedin](https://www.linkedin.com/company/il-libro-open-source) e qui su [github](https://github.com/Il-Libro-Open-Source).
+> Su [LinkedIn](https://www.linkedin.com/company/il-libro-open-source) e qui su [Github](https://github.com/Il-Libro-Open-Source).
 
 ### In che lingua è disponibile?
 
