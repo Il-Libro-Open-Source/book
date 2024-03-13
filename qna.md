@@ -78,7 +78,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Come si contribuisce? Con che mezzi?
 
-> Attualmente si contribuisce tramite git lavorando sul repository principale come fosse codice, trovi una guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/CONTRIBUTING.md).
+> Attualmente si contribuisce direttamente tramite git lavorando sul repository come fosse codice, trovi una guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/CONTRIBUTING.md).
 
 ### Posso contribuire ad un capitolo già steso?
 
