@@ -14,7 +14,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Su che mezzi sarà fruibile il libro?
 
-> Al momento è disponibile come file MD e pubblicato come GH pages: [https://il-libro-open-source.github.io/book/](https://il-libro-open-source.github.io/book/)
+> Al momento è disponibile come file MD e pubblicato su Github pages: [https://il-libro-open-source.github.io/book/](https://il-libro-open-source.github.io/book/)
 
 ### Su che canali ufficiali posso seguire gli aggiornamenti sul libro?
 
