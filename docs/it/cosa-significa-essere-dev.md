@@ -1,4 +1,17 @@
+---
+layout: default
+title: Cosa significa "essere dev"?
+nav_order: 2
+---
+
+<!-- prettier-ignore-start -->
 # _Cosa significa "essere dev"?_
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 La domanda, di per sé, è piuttosto semplice.
 

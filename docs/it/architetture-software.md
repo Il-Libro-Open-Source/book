@@ -1,4 +1,17 @@
+---
+layout: default
+title: Architettura software
+nav_order: 3
+---
+
+<!-- prettier-ignore-start -->
 # Architetture Software
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Il termine "architettura software" viene spesso utilizzato in maniera molto generica e impropria. In questo documento cercheremo di dare una definizione e di descriverne le principali.
 
@@ -230,7 +243,7 @@ Altri termini, come la _event-driven architecture_ o la _event-sourcing architec
 
 Gli _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
 
-A differenza di una classica documentazione tecnica o di un diagramma, le ADR sono molto più semplici da scrivere e da leggere, in quanto sono composte da pochi elementi:
+A differenza di una classica documentazione tecnica o di un diagramma, gli ADR sono molto più semplici da scrivere e da leggere, in quanto sono composte da pochi elementi:
 
 - **Titolo**: il titolo della decisione presa.
 - **Stato**: lo stato della decisione presa. Solitamente può essere _Proposta_, _Accettata_, _Completata_, _Rifiutata_ o _Sostituita_.
@@ -238,7 +251,7 @@ A differenza di una classica documentazione tecnica o di un diagramma, le ADR so
 - **Decisione**: la decisione presa.
 - **Conseguenze**: le conseguenze della decisione presa.
 
-Le ADR vengono spesso utilizzate nelle aziende in cui si fa leva sul _BDD_ (Behavior Driven Development) per la stesura dei ticket nel proprio sistema di ticketing, puntando ad uno specifico ADR per dare informazioni aggiuntive e contesto a chi legge il ticket.
+Gli ADR vengono spesso utilizzate nelle aziende in cui si fa leva sul _BDD_ (Behavior Driven Development) per la stesura dei ticket nel proprio sistema di ticketing, puntando ad uno specifico ADR per dare informazioni aggiuntive e contesto a chi legge il ticket.
 
 ## Conclusioni
 
