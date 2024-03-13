@@ -49,7 +49,7 @@ Lo strumento principe dell'Extreme Programming è il TDD (Test Driven Developmen
 
 Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma soprattutto corretto, che va a sempre a rispettare quanto desiderato, e che facilmente prende la forma necessaria a soddisfare i requisiti descritti nei test. È opinione di molti che il codice scritto in questa modalità sia spesso più ordinato e organizzato, perché la scrittura dei test forza l'architettura del software ad essere più chiara e disaccoppiata.
 
-Una nota importante va fatta riguardo a questa metodologia: Pur permettendo di scrivere codice che necessariamente passerà tutti i test scritti in prima istanza, c'è da considerare che non sempre i test scritti rispecchiano le necessità reali, ed è giusto che chi sviluppi tenga in considerazione questa possibilità e non si affidi al TDD come "soluzione ad ogni male".
+È fondamentale sottolineare un aspetto cruciale riguardo a questa metodologia: sebbene consenta la scrittura di codice in grado di superare tutti i test inizialmente definiti, è importante considerare che questi potrebbero non sempre rispecchiare appieno le esigenze reali. Pertanto, chi sviluppa dovrebbe essere consapevole di questa possibilità e non fare dell'approccio Test-Driven Development la "soluzione ad ogni male".
 
 ## Conclusione
 
