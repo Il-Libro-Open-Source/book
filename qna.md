@@ -74,7 +74,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Come posso contribuire?
 
-> La contribuzione è aperta sia ai Contributors che agli Ambdassadors; si può seguire la linea guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
+> La contribuzione è aperta a chiunque, non solo a Contributor e Ambdassador; si può seguire la linea guida [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
 
 ### Come si contribuisce? Con che mezzi?
 
