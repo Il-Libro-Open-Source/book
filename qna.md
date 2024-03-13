@@ -86,7 +86,7 @@ Qui si possono trovare le risposte alle domande generali e più frequenti sul pr
 
 ### Come posso far approvare un contenuto?
 
-> Una volta creata la PR verrà presa in esame per controllare l'aderenza a tutte le guidelines e coc, successivamente servono tre ambassador per l'approvazione della PR, potete trovare tutti i dettagli [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
+> Una volta creata la PR verrà presa in esame per controllare l'aderenza a tutte le guidelines e coc, successivamente un certo numero di ambassador dovrà approvare la PR. Potete trovare tutti i dettagli [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md)
 
 ### Come vengono rimossi i contenuti?
 
