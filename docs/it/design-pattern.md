@@ -83,7 +83,7 @@ I pattern strutturali definiti dalla GOF sono:
 - Flyweight: permette di suddividere un oggetto che ha alcuni dei membri ripetibili in 2 parti una con parti che non si ripetono ed un gruppo di membri che insieme tendono a ripetersi. Questo meccanismo tende a limitare (e ottimizzare) l'occupazione di memoria questo perché ogni parte ripetuta viene memorizzata una sola volta.
 - Proxy: si interpone ad un oggetto (di solito di servizio) e interagisce con esso utilizzando la stessa intefaccia. Un esempio sono i Proxy server che possono mandare il messaggio richiesto verso i server web veri e propri impedendo ad esempio l'accesso ad alcuni potenzialmente pericolosi.
 
-come si vede in ognuno di essi compare una struttura davanti al nostro client che può variare in ogni design pattern. Ad esempio nell'adapter la struttura cambia l'interfaccia (in quanto struttura della classe), nel Bridge cambia l'implementazione, nel Facade cambia ancora l'interfaccia che risulta più semplice
+Come visibile (dove?), compare una struttura davanti al nostro client che può variare in ogni design pattern. Ad esempio, nell'adapter la struttura cambia l'interfaccia (in quanto struttura della classe), nel Bridge cambia l'implementazione, nel Facade cambia ancora l'interfaccia che risulta più semplice.
 
 ## Patterns comportamentali
 
