@@ -61,7 +61,7 @@ Le altre tipologie definite dalla GOF, che sono la strutturale e la comportament
 I pattern creazionali definiti dalla GOF sono:
 
 - Factory Method : definisce, nella classe Factory, uno o più metodi detti appunto factory methods che creano i nostri oggetti prodotto.
-- Abstract Factory : serve a creare famiglie (possibilmente) fisse di oggetti prodotto sempre utilizzando una interfaccia/classe chiamata appunto Abstract factory dove anche gli oggetti prodotto sono generici (anch'essi utilizzano una interfaccia o classe astratta).
+- Abstract Factory : serve a creare famiglie (possibilmente) fisse di oggetti "prodotto" sempre utilizzando una interfaccia/classe chiamata appunto Abstract factory dove anche gli oggetti "prodotto" sono generici (anch'essi utilizzano un'interfaccia o classe astratta).
 - Builder : definisce una particolare classe factory che crea oggetti complessi e viene utilizzato quando gli oggetti sono generalmente composti da altri oggetti creando anch'essi.
 - Prototype : permette di costruire oggetti clonando oggetti già esistenti. Javascript utilizza proprio il concetto di prototype per estendere gli oggetti (parliamo proprio degli oggetti e non delle classi che sono state introdotte successivamente).
 - Singleton : permette di costruire un oggetto garantendo che ne esista una sola istanza
