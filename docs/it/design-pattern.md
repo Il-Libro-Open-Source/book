@@ -43,7 +43,7 @@ Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai 
 Come viene definito nel design pattern possiamo definire il design pattern vero e proprio che ne demarca i suoi confini ed il client che definisce tutta la parte esterna ad esso che vi interagisce.\
 Il vantaggio principale dell'utilizzo implica che le modifiche apportate tendono a non cambiare sensibilmente il client.
 
-Nel nostro libro li definiremo brevemente evitando di listarli in maniera accademica; il libro sarà un incipit a un futuro approfondimento, in quanto esistono numerose risorse, come già detto, che ne spiegano i dettagli per cui vi rimandiamo ad esse nel caso vogliate saperne qualcosa di più.
+In questo libro li definiremo brevemente evitando di listarli in maniera accademica; questo capitolo sarà infatti un modo per approcciarsi al tema e approfondire successivamente, grazie anche all'esistenza di numerose risorse, che li dettagliano in maniera più puntuale.
 
 Oltre al libro sui Design Patterns in questione ne sono stati introdotti altri che vedremo successivamente.\
 Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
