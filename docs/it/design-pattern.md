@@ -93,7 +93,7 @@ I pattern comportamentali definiti dalla GOF sono:
 
 - Chain of responsibility: questo pattern permette di separare gli oggetti che invocano richieste dagli oggetti che le gestiscono. In pratica viene definita una catena di oggetti dove la richiesta viene propagata finchè uno di quelli implementati non decide di gestirla. Ogni elemento della catena viene chiamato _handler_.
 - Command: permette di isolare il codice che esegue una azione più o meno complessa dal client che la esegue oppure prendere una richiesta, memorizzarla in modo che possa essere eseguita in un secondo momento ad esempio dopo un certo evento.
-- Iterator: permette di visitare tutti gli elementi di una altro oggetto, detto contenitore, senza dipendere dalla struttura interna di esso.
+- Iterator: permette di visitare tutti gli elementi di un altro oggetto, detto contenitore, senza dipendere dalla struttura interna di esso.
   Un esempio tipico può essere il cursore per la lettura di una datasource.
 - Mediator: incapsula l'interazione fra i vari oggetti di un loro insieme facendo in modo che la comunicazione col client venga gestita sempre da una unica entità favorendo il disaccoppiamento fra gli oggetti stessi.
 - Memento: si occupa di memorizzare lo stato corrente di un altro oggetto detto Originator cercando di non violare l'incapsulamento. Può essere utile nei casi in cui si possa avere uno storico dell'oggetto stesso richiedendo al Memento il ripristino di uno stato precedente. (Il cosiddetto Undo/Redo)
