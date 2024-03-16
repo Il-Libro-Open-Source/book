@@ -75,7 +75,7 @@ I Patterns strutturali definiscono uno schema progettuale che in particolare ris
 
 I pattern strutturali definiti dalla GOF sono:
 
-- Adapter: Un adapter è un pattern che traduce delle chiamate di una interfaccia alle chiamate di un'altra. Fornisce una soluzione astratta al problema della interoperabilità fra interfacce. Nella vita reale abbiamo ad esempi gli adattatori delle spine.
+- Adapter: è un pattern che traduce le chiamate eseguite da una interfaccia in chiamate per la comunicazione con un'altra. Fornisce una soluzione astratta al problema della interoperabilità fra interfacce. Nella vita reale abbiamo ad esempi gli adattatori delle spine.
 - Bridge: è un design pattern che separa una astrazione dalla sua separazione. Questo avviene separando l'interfaccia dalla sua implementazione potendo ad esempio cambiare facilmente l'implementazione. Un esempio molto utilizzato è il JDBC o in generale i driver dei database.
 - Decorator: è un pattern che permette di aggiungere funzionalità attraverso il wrapping, cioè incapsulando un oggetto esistente.
   Di conseguenza il nuovo oggetto potrà avere alcune funzionalità (non è detto tutte) dell'oggetto incapsulato e la nuova funzionalità aggiunta al suo interno.
