@@ -193,11 +193,11 @@ Vista la natura dei mutation test, il numero di mutazioni può essere molto alto
 - un aumento del costo di mantenimento/aggiornamento del codice di test
   In base alle esigenze di progetto, il team può decidere se implementare e migliorare il `mutation score`.
 
-Pur essendo un'ottimo strumento per misurare la qualità della test suite, in molti casi questa tecnica di testing non è usata per via della sua complessità e costo di implementazione.
+Pur essendo un ottimo strumento per misurare la qualità della test suite, in molti casi questa tecnica di testing non è usata per via della sua complessità e del costo di implementazione.
 
 ## Test Coverage
 
-La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile, oltre che non necessario. Una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
+La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile, oltre che necessario. Infatti, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
 
 **La test coverage ci dice quanto del nostro codice si comporta come ci aspettiamo, ma non è detto che ciò che ci aspettiamo sia corretto.**
 
