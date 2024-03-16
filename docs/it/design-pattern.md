@@ -91,7 +91,7 @@ I Patterns strutturali definiscono uno schema progettuale che in particolare ris
 
 I pattern comportamentali definiti dalla GOF sono:
 
-- Chain of responsibility: Il pattern permette di separare gli oggetti che invocano richieste, dagli oggetti che le gestiscono. In pratica viene definita una catena di oggetti dove la richiesta viene propagata finchè uno di essi che viene implementato non decide di gestirla. Ogni elemento della catena viene chiamato handler.
+- Chain of responsibility: questo pattern permette di separare gli oggetti che invocano richieste dagli oggetti che le gestiscono. In pratica viene definita una catena di oggetti dove la richiesta viene propagata finchè uno di quelli implementati non decide di gestirla. Ogni elemento della catena viene chiamato _handler_.
 - Command: permette di isolare il codice che esegue una azione più o meno complessa dal client che la esegue oppure prendere una richiesta, memorizzarla in modo che possa essere eseguita in un secondo momento ad esempio dopo un certo evento.
 - Iterator: permette di visitare tutti gli elementi di una altro oggetto, detto contenitore, senza dipendere dalla struttura interna di esso.
   Un esempio tipico può essere il cursore per la lettura di una datasource.
