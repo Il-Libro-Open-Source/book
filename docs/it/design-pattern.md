@@ -56,7 +56,7 @@ Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
 I Patterns creazionali definiscono uno schema progettuale che in particolare si concentra sulla creazione degli oggetti che concorrono a risolvere un determinato problema.
 In questo contesto indichiamo generalmente come prodotti gli oggetti creati utilizzando un oggetto generalmente denominato Factory (fabbrica) che, al suo interno, ne definisce la logica di costruzione che quindi risulta isolata dall'esterno.
-Le altre tipologie definite dalla GOF, che sono la strutturale e la comportamentale, si distiguono da questa perché presuppogono già l'esistenza di tutti gli oggetti coinvonti.
+Le altre tipologie definite dalla GOF, che sono la strutturale e la comportamentale, si distiguono da questa perché presuppogono già l'esistenza di tutti gli oggetti coinvolti.
 
 I pattern creazionali definiti dalla GOF sono:
 
