@@ -176,7 +176,7 @@ Feature: Google Searching
 
 ### Mutation Testing
 
-Il mutation testing è una metodologia di test per valutare l'attuale test suite. Partendo dal codice originale, si creano differenti versioni, ognuna delle quali introduce una mutazione, piccola a piacere. Queste versioni mutate vengono chiamati _mutanti_. L'obiettivo del mutation testing è di verificare se la test suite identifica la mutazione: se un mutante non viene rilevato da un test, viene considerato _vivo_ e i test a riguardo vengono considerati non sufficienti per quella mutazione. Se un mutante viene rilevato da un test, viene considerato _morto_ e i test a riguardo vengono considerati sufficienti per quel mutante.
+Il mutation testing è una metodologia di test per valutare la qualità dell'attuale test suite. Partendo dal codice originale, si creano differenti versioni, ognuna delle quali introduce una mutazione, piccola a piacere. Queste versioni mutate vengono chiamati _mutanti_. L'obiettivo del mutation testing è di verificare se la test suite identifica la mutazione: se un mutante non viene rilevato da un test, viene considerato _vivo_ e i test a riguardo vengono considerati non sufficienti per quella mutazione. Se un mutante viene rilevato da un test, viene considerato _morto_ e i test a riguardo vengono considerati sufficienti per quel mutante.
 
 Le mutazioni possono essere effettuate su vari aspetti del proprio software:
 
@@ -194,6 +194,8 @@ Vista la natura dei mutation test, il numero di mutazioni può essere molto alto
   In base alle esigenze di progetto, il team può decidere se implementare e migliorare il `mutation score`.
 
 Pur essendo un ottimo strumento per misurare la qualità della test suite, in molti casi questa tecnica di testing non è usata per via della sua complessità e del costo di implementazione.
+
+Esistono strumenti, anche open-source, che possono automatizzare la scrittura di questi test, come Infection (PHP), Stryker Mutator (JavaScript) o Mutants (Rust), riducendo radicalmente la complessità di adottare questa tecnica.
 
 ## Test Coverage
 
