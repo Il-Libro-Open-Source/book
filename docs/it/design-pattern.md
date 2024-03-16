@@ -64,7 +64,7 @@ I pattern creazionali definiti dalla GOF sono:
 - Abstract Factory : serve a creare famiglie (possibilmente) fisse di oggetti "prodotto" sempre utilizzando una interfaccia/classe chiamata appunto Abstract factory dove anche gli oggetti "prodotto" sono generici (anch'essi utilizzano un'interfaccia o classe astratta).
 - Builder : definisce una particolare classe factory che crea oggetti complessi e viene utilizzata quando gli oggetti sono generalmente composti da altri oggetti creando anch'essi.
 - Prototype : permette di costruire oggetti clonando oggetti già esistenti. Per esempio, Javascript utilizza proprio il concetto di _prototype_ per estendere gli oggetti. Nota a margine: parliamo proprio degli oggetti e non delle classi che sono state introdotte successivamente.
-- Singleton : permette di costruire un oggetto garantendo che ne esista una sola istanza
+- Singleton : permette di costruire un oggetto garantendo che ne verrà creata una sola istanza
 
 Come già detto i confini non sono ben definiti per cui, ad esempio, un oggetto complesso potrebbe essere creato tramite un builder e, se una parte dovesse richiedere una clonazione con un successivo raffinamento, sarà necessario utilizzare anche un Prototype che si occupa appunto della parte di clonazione.
 Se non ci fosse la possibilità di effettuare una separazione netta si potrebbe utilizzare il Builder o il Prototype.
