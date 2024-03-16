@@ -33,7 +33,7 @@ Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano
 
 **Come sempre se la domanda è: meglio utilizzarli o no? La risposta è, naturalmente, che dipende dal contesto.**
 
-In generale dato un problema non sempre è semplice attribuirgli, se esiste, un design pattern che lo "riconosca"; a volte infatti il limite fra uno o l'altro non è sempre definito quindi si può entrare ad esempio scomponendo il problema più complesso (Divide et impera) in altri più semplici per i quali si potrebbero riconoscere dei pattern specifici.\
+In generale dato un problema non sempre è semplice attribuirgli, se esiste, un design pattern che da applicare; a volte il limite di applicazione tra i diversi pattern è molto sottile. Per questa ragione, è consigliato scomporre un problema complesso in altri più piccoli, utilizzando il concetto del _divide et impera_, dove può essere più semplice individuare dei pattern specifici.\
 A volte invece questa scomposizione non è possibile e, nel caso, si può comunque fare il refactoring scegliendo quello più simile o anche quello più conveniente.
 
 **È importante sottolineare che non ci sono dei vincoli stringenti che ne impongono l'utilizzo;** \
