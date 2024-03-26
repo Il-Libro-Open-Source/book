@@ -81,7 +81,7 @@ I pattern strutturali definiti dalla GOF sono:
   Di conseguenza il nuovo oggetto potrà avere alcune funzionalità (non è detto tutte) dell'oggetto incapsulato e la nuova funzionalità aggiunta al suo interno.
 - Façade: è un modo per semplificare un insieme di sottosistemi che formano un sistema complesso. Tramite questa semplificazione fornita attraverso una o più classi (poche) cosiddetta di facciata è possibile utilizzare le funzionalità più utili.
 - Flyweight: permette di suddividere un oggetto che ha alcuni dei membri ripetibili in 2 parti una con parti che non si ripetono ed un gruppo di membri che insieme tendono a ripetersi. Questo meccanismo tende a limitare (e ottimizzare) l'occupazione di memoria questo perché ogni parte ripetuta viene memorizzata una sola volta.
-- Proxy: si interpone ad un oggetto (di solito di servizio) e interagisce con esso utilizzando la stessa intefaccia. Un esempio sono i Proxy server che possono mandare il messaggio richiesto verso i server web veri e propri impedendo ad esempio l'accesso ad alcuni potenzialmente pericolosi.
+- Proxy: si interpone tra un oggetto (di solito di servizio) e il mondo esterno con cui comunica, utilizzando la stessa interfaccia, ma alterandone il comportamento. Un esempio sono i Proxy server che agiscono da intermezzo tra la propria macchina e il web, alterando e verificando ogni chiamata in ingresso e in uscita da essi, garantendo anonimato e un buon grado di sicurezza.
 
 Come visibile (dove?), compare una struttura davanti al nostro client che può variare in ogni design pattern. Ad esempio, nell'adapter la struttura cambia l'interfaccia (in quanto struttura della classe), nel Bridge cambia l'implementazione, nel Facade cambia ancora l'interfaccia che risulta più semplice.
 
