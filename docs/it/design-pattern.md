@@ -66,7 +66,7 @@ I pattern creazionali definiti dalla GOF sono:
 - Prototype : permette di costruire oggetti clonando oggetti già esistenti. Per esempio, Javascript utilizza proprio il concetto di _prototype_ per estendere gli oggetti. Nota a margine: parliamo proprio degli oggetti e non delle classi che sono state introdotte successivamente.
 - Singleton : permette di costruire un oggetto garantendo che ne verrà creata una sola istanza
 
-Come già detto i confini non sono ben definiti per cui, ad esempio, un oggetto complesso potrebbe essere creato tramite un builder e, se una parte dovesse richiedere una clonazione con un successivo raffinamento, sarà necessario utilizzare anche un Prototype che si occupa appunto della parte di clonazione.
+Come già detto i confini non sono ben definiti per cui, ad esempio, un oggetto complesso potrebbe essere creato tramite un builder e, se una parte dovesse richiedere una clonazione con un successivo raffinamento, sarà necessario utilizzare anche un Prototype che si occuperà della parte di clonazione.
 Se non ci fosse la possibilità di effettuare una separazione netta si potrebbe utilizzare il Builder o il Prototype.
 
 ## Patterns strutturali
