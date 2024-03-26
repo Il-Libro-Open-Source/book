@@ -31,7 +31,7 @@ Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano
 2. Per essere applicati nel modo migliore, i design pattern necessitano la conoscenza di alcune assunzioni, che però si maturano spesso tramite l'esperienza e la letteratura.
 3. Le prestazioni spesso non coincidono con l'adozione di design pattern, in quanto lo scopo di questi ultimi è di risolvere un problema, non necessariamente in maniera ottimizzata.
 
-**Come sempre se la domanda è: meglio utilizzarli o no? La risposta è, naturalmente, che dipende dal contesto.**
+**Come sempre, alla domanda se sia meglio utilizzarli o no, risponderemo con un cauto: _dipende_.**
 
 In generale dato un problema non sempre è semplice attribuirgli, se esiste, un design pattern che da applicare; a volte il limite di applicazione tra i diversi pattern è molto sottile. Per questa ragione, è consigliato scomporre un problema complesso in altri più piccoli, utilizzando il concetto del _divide et impera_, dove può essere più semplice individuare dei pattern specifici.\
 A volte invece questa scomposizione non è possibile e, nel caso, si può comunque fare il refactoring scegliendo quello più simile o anche quello più conveniente.
