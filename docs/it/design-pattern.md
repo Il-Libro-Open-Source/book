@@ -71,7 +71,7 @@ Se non ci fosse la possibilità di effettuare una separazione netta si potrebbe 
 
 ## Patterns strutturali
 
-I Patterns strutturali definiscono uno schema progettuale che in particolare risolvono problematiche inerenti alla struttura degli oggetti in modo che la soluzione sia flessibile ed efficiente; capiremo meglio questo concetto andando a vedere brevemente tutti i design pattern appartenenti a questa categoria.
+I Pattern strutturali definiscono uno schema progettuale atto a risolvere problematiche inerenti alla struttura degli oggetti, di modo da renderli flessibili ed efficienti; capiremo meglio questo concetto andando a vedere brevemente tutti i design pattern appartenenti a questa categoria.
 
 I pattern strutturali definiti dalla GOF sono:
 
