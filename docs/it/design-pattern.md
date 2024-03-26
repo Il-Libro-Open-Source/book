@@ -87,7 +87,7 @@ Come visibile (dove?), compare una struttura davanti al nostro client che può v
 
 ## Patterns comportamentali
 
-I Patterns strutturali definiscono uno schema progettuale che in particolare risolve problematiche di comportamento degli oggetti definiti nel pattern. Generalmente questo comportamento si riflette in particolare sugli algoritmi e sulle responsabilità degli oggetti stessi.
+I Pattern comportamentali definiscono uno schema progettuale che in particolare risolve problematiche di comportamento degli oggetti definiti nel pattern. Generalmente questo comportamento si riflette in particolare sugli algoritmi e sulle responsabilità degli oggetti stessi.
 
 I pattern comportamentali definiti dalla GOF sono:
 
