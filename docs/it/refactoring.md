@@ -5,24 +5,24 @@
 Alcuni direbbero che il refactoring è l'arte di crearsi problemi.
 Il refactoring è un insieme di attività dedite a rivedere una o più parti del codice con cui è composta la nostra applicazione.
 Può interessare un singolo metodo, una singola classe, un intero modulo.
-L'obiettivo di queste attività è rivedere la logica piuttosto che la scrittura del codice che la compone, in modo da ottenere migliori performance (o un maggior disaccoppiamento, una maggiore testabilità) senza però, in alcun modo, alterarne il comportamento e, soprattutto, aggiungere nuove funzionalità.
+L'obiettivo di queste attività è rivedere la logica oppure la scrittura del codice che la compone, in modo da ottenere migliori performance (o un maggior disaccoppiamento, una maggiore testabilità) senza però, in alcun modo, alterarne il comportamento e, soprattutto, aggiungere nuove funzionalità.
 Se l'attività è stata fatta bene, al termine avremo un codice più pulito, comprensibile, di cui non è stato alterato il comportamento e che passa perfettamente tutti i test già presenti.
 Ma andiamo per gradi.
 
 ## Benefici
 
 Uno dei principali benefici che otterremo con il refactoring è la rimozione di porzioni di codice non performanti, sostituiti da codice più trasparente e chiaro. E con questo, un'evidente riduzione del debito tecnico accumulato.
-Un codice scritto bene, non solo aiuta a chi lo ha scritto di poterlo rivedere a distanza di qualche tempo senza troppi mal di testa ma, con il crescere del software e l'introduzione di nuove funzionalità, rende più semplice la vita ai futuri sviluppatori che dovranno interfacciarsi con esso.
-Da un codice scritto bene, si possono ottenere migliori performance. Magari non direttamente ma, una buona attività di refactoring ci permetterà di avere molto più chiaro come il software interagisce, dandoci la possibilità di individuare eventuali colli di bottiglia, anche a livello architetturale.
+Un codice scritto bene non solo aiuta chi lo ha scritto a poterlo rivedere a distanza di qualche tempo senza troppi mal di testa, ma, con il crescere del software e l'introduzione di nuove funzionalità, rende più semplice la vita a chi in futuro dovrà interfacciarsi con esso.
+Da un codice scritto bene si possono ottenere migliori performance. Magari non direttamente, ma una buona attività di refactoring ci permetterà di avere molto più chiaro come il software interagisce, dandoci la possibilità di individuare eventuali colli di bottiglia, anche a livello architetturale.
 
 ## Quando
 
-La scrittura del codice non è del tutto lineare, soprattutto se scritto a più mani. Ogni sviluppatore ha un suo stile, delle sue convinzioni, un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
+La scrittura del codice non è del tutto lineare, soprattutto se scritto a più mani. Ogni developer ha un suo stile, delle sue convinzioni, un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
 Sono diverse le occasioni in cui è possibile fare refactoring e, in alcune di queste, non solo è consigliato ma obbligatorio.
 Poniamo il caso che abbiamo una parte del nostro software con del codice "legacy", magari scritto rispettando dei pattern che, nel tempo, si sono rivelati sbagliati. Oppure scritto di fretta, senza rispettare i principi SOLID e con metodi e variabili che hanno nomi provvisori.
 O ancora, il codice scritto risulta difficile da testare, perché presenta metodi o classi poco disaccoppiate. Con metodi privati che non fanno attività atomiche.
 Fatta una rapida analisi potremmo notare che magari ci sono dei cicli ripetuti, o parti di codice che potrebbero essere evitate se solo avessimo posto dei semafori a monte.
-Con del buon refactoring potremmo rivedere il codice, eliminare delle dipendenze inutili o utilizzare dei costrutti del linguaggio più adatti, con il risultato di migliorarne la lettura, aderire agli standard del linguaggio (che, nell'ottica di rendere il nostro codice più condivisibile possibile, non fa mai male) e, perché no, migliorarne le performance e eliminare debito tecnico.
+Con del buon refactoring potremmo rivedere il codice, eliminare delle dipendenze inutili o utilizzare dei costrutti del linguaggio più adatti, con il risultato di migliorarne la lettura, aderire agli standard del linguaggio (che, nell'ottica di rendere il nostro codice più condivisibile possibile, non fa mai male) e, perché no, migliorarne le performance ed eliminare debito tecnico.
 Come detto, le occasioni non mancano.
 Potremmo cogliere l'occasione di una Code Review o l'aggiunta di una nuova feature. Prima di iniziarne lo sviluppo, sicuramente è buona pratica leggere il codice in cui questa nuova funzionalità andrà a integrarsi e, se quest'ultimo risulta di difficile comprensione, è un'ottima occasione per effettuarne il refactoring. Questo ci permetterebbe di ottenere una maggiore conoscenza del codice.
 Un'altra, forse la migliore, dove è (quasi) obbligatorio, è la risoluzione di un bug in una parte di codice convulso, la cui sola lettura ci fa venire il mal di testa. Un'attività di refactoring potrebbe facilmente portare alla luce l'errore presente nel codice.
@@ -50,7 +50,7 @@ Per farlo, potremmo iniziare con:
 
 ### Red-Green-Refactor
 
-Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Driven Development), dove lo sviluppatore suddivide il processo di scrittura del codice in tre fasi:
+Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Driven Development), dove chi sviluppa suddivide il processo di scrittura del codice in tre fasi:
 
 - Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
 - Scrive il codice necessario affinché il test passi (_Green_);
@@ -59,13 +59,13 @@ Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Dr
 ### Rinominare i metodi oscuri
 
 Ci sono metodi che hanno nomi degni di un codice morse ma che poco dicono sulle operazioni che vanno a intraprendere.
-Un buon inizio potrebbe essere quello di rinominarli in modo che chi legge, abbia la possibilità di capire cosa fa quel metodo senza necessità alcuna di andarlo a verificare.
+Un buon inizio potrebbe essere quello di rinominarli in modo che chi legge abbia la possibilità di capire cosa fa quel metodo, senza necessità alcuna di andarlo a verificare.
 
 ### Cambiare la firma dei metodi
 
 Partendo dal presupposto che il codice è vivo, si ci può trovare nelle condizioni in cui al metodo inizialmente venivano passate diverse informazioni, che magari ora non sono più necessarie. E magari non lo sono perché nel frattempo, quella parte di codice era stata già snellita in qualche attività precedente.
 Possiamo quindi rimuovere le informazioni in eccesso, modificandone la firma.
-Inoltre, potremmo verificare, nei linguaggi tipizzati, se c'è la possibilità di rendere detta firma più stringente, ammettendo e/o restituendo tipi meno generici.
+Inoltre, nei linguaggi tipizzati, potremmo verificare se c'è la possibilità di rendere detta firma più stringente, ammettendo e/o restituendo tipi meno generici.
 
 ### Estrarre nuovi metodi
 
@@ -80,12 +80,12 @@ In questo caso, sarà necessario intervenire dapprima sul rendere meno complesso
 
 ### Astrarre
 
-Spesso, molte delle classi o dei metodi che vengono creati, hanno qualche parte di codice in comune, come le firme dei metodi o l'inizializzazione del contesto.
+Spesso, molte delle classi o dei metodi che vengono creati hanno qualche parte di codice in comune, come le firme dei metodi o l'inizializzazione del contesto.
 Sebbene questo potrebbe non essere sempre possibile, dopo avere estratto i metodi, ci potremmo trovare dinanzi a molti di questi che sono simili se non uguali. Con l'astrazione possiamo creare delle classi che contengono tali metodi. Metodi che potrebbero divenire ancora più semplici e generici, nonchè facili da interpretare.
 
 ## Un Esempio
 
-Un caso semplice ma spesso presente nel nostro codice, potrebbe essere quello di migliorare le performance rimuovendo le variabili temporanee (il codice che segue è pseudo-codice):
+Un caso semplice, ma spesso presente nel nostro codice, potrebbe essere quello di migliorare le performance rimuovendo le variabili temporanee (il codice che segue è pseudo-codice):
 
 ```
 function applyDiscount() {
@@ -103,7 +103,7 @@ function applyDiscount() {
 }
 ```
 
-Con questa modifica, non abbiamo cambiato in alcun modo il comportamento. Ovviamente otterremo un piccolo vantaggio sulle performance, a patto che il linguaggio che stiamo usando possa trarre vantaggi dalla differenza tra variabili mutabili e non.
+Con questa modifica non abbiamo cambiato in alcun modo il comportamento. Ovviamente otterremo un piccolo vantaggio sulle performance, a patto che il linguaggio che stiamo usando possa trarre vantaggi dalla differenza tra variabili mutabili e non.
 Ma, riguardando ancora un attimo il codice, potremmo apportare un'altra modifica:
 
 ```
@@ -128,9 +128,9 @@ Con il refactoring, dove il dictat del non modificare in alcun modo il comportam
 
 Esistono ovviamente diversi strumenti per automatizzare le procedure di refactoring, spesso integrati direttamente nell'IDE. Forse il più famoso è Sonarqube.
 Questi strumenti, basati su motori di analisi affidabili e complessi, riescono a individuare dalla banale duplicazione del codice alla mancata adozione di buone pratiche, spesso specifiche del linguaggio di programmazione adottato.
-A volte riescono a fare miracoli ma, a noi preme focalizzarci su un punto della questione: l'effort.
-Quanto effort occorre ad effettuare del refactoring con questi strumenti. O meglio, quanto semplificano la vita dello sviluppatore.
+A volte riescono a fare miracoli, ma a noi preme focalizzarci su un punto della questione: l'effort.
+Quanto effort occorre ad effettuare del refactoring con questi strumenti. O meglio, quanto semplificano la vita di chi sviluppa.
 È innegabile che sono dei validi aiuti e che sono formidabili nel farci notare parti di codice da semplificare a cui, magari, non avevamo nemmeno fatto caso.
-Ma, affidare il refactoring all'automazione, può creare delle situazioni in cui il codice modificato è così tanto da rendere complicato il controllo da parte dello sviluppatore, che sarebbe tentato di prendere in blocco tutte le modifiche. Se poi siamo in presenza di una scarsa copertura di test, la frittata è fatta.
-C'è poi un altro aspetto da considerare: la specificità. Gli strumenti utilizzati sono perfettamente in grado di identificare un eventuale problema, darci indici ci complessità ma non riescono a renderci edotti del codice nel suo complesso. Senza conoscere come le varie parti del codice interagiscono nel contesto, difficilmente riusciremo a individuare eventuali errori logici o colli di bottiglia.
+Tuttavia, affidare il refactoring all'automazione può creare delle situazioni in cui il codice modificato è così tanto da rendere complicato il controllo da parte di chi sviluppa, tanto che potrebbe avere la tentazione di prendere in blocco tutte le modifiche. Se poi siamo in presenza di una scarsa copertura di test, la frittata è fatta.
+C'è poi un altro aspetto da considerare: la specificità. Gli strumenti utilizzati sono perfettamente in grado di identificare un eventuale problema, darci indici di complessità ma non riescono a renderci edotti del codice nel suo complesso. Senza conoscere come le varie parti del codice interagiscono nel contesto, difficilmente riusciremo a individuare eventuali errori logici o colli di bottiglia.
 Ciò nonostante, rimangono degli ottimi aiutanti: se ad essi affidiamo la correzione di tutti quegli "errori" semplici, come la tipizzazione delle variabili (nel caso di linguaggi tipizzati, ovviamente) o la riscrittura di una funzione utilizzando il pattern _Early Return_, ci ritroveremo a dover rifattorizzare del codice già scremato, lasciando la nostra mente libera di concentrarsi sul resto del lavoro da fare.
