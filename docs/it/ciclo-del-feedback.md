@@ -15,7 +15,7 @@ nav_order: 10
 
 ## La flessibilità del software
 
-Intuitivamente parlando, sembra ovvio che noi sviluppatori, con una connessione internet e un portatile alla mano, possiamo essere enormemente più produttivi di decine di operai da catena di montaggio del secolo scorso. Ma perché è davvero così?
+Intuitivamente parlando, sembra ovvio che noi sviluppatori, con una connessione internet e un portatile alla mano, siamo in grado di portare a termine qualsiasi tipo di attività in tempi rapidi e con un impatto enorme sul mondo che ci circonda. Ma come è possibile?
 
 Sicuramente un fattore è la possibilità di lavorare con strumenti frutto di decenni di evoluzione tecnologica esponenziale, ma la vera ragione, il vero discriminante, sta nel prefisso "soft" nella parola "software": il prodotto del nostro lavoro è spesso intangibile e facilmente manipolabile tanto che, se commettiamo un errore, non dobbiamo prendere il semilavorato e buttarlo via, sprecando materie prime ma, nella peggiore delle ipotesi, abbiamo solo sprecato un po' di tempo.
 
