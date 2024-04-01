@@ -15,7 +15,7 @@ In molti però non sono a conoscenza di una terza via, ovvero degli [ITS (_Istit
 Per integrare in modo corretto e graduale la “Teoria” e la “Pratica”, il piano formativo standard di un ITS prevede:
 
 - **Primo Anno**: Prevalentemente dedicato alle **lezioni in aula**, dove avrai l'opportunità di apprendere dalle competenze di **docenti aziendali**<sup>1</sup> e universitari, i concetti, i linguaggi e gli strumenti fondamentali della figura professionale a cui è dedicato il corso.
-  Inoltre c’è da menzionare che in alcuni ITS viene inoltre offerta la possibilità di prepararsi e sostenere esami per certificazioni esterne quali: [CISCO IT Essentials](https://www.netacad.com/courses/os-it/it-essentials), [ECDL](https://www.aicanet.it/aica/qualita/ecdl-full-standard) e [PET/FIRST/ecc.](https://www.cambridgeenglish.org/exams-and-tests/) per citarne solo alcune.
+  Inoltre c’è da menzionare che in alcuni ITS viene offerta la possibilità di prepararsi e sostenere esami per certificazioni esterne quali: [CISCO IT Essentials](https://www.netacad.com/courses/os-it/it-essentials), [ECDL](https://www.aicanet.it/aica/qualita/ecdl-full-standard) e [PET/FIRST/ecc.](https://www.cambridgeenglish.org/exams-and-tests/) per citarne solo alcune.
 
     <br>
 
@@ -25,7 +25,7 @@ Per integrare in modo corretto e graduale la “Teoria” e la “Pratica”, il
 
 **_“Come posso trovare gli ITS?”_**
 
-Prima di darti la risposta a questa domanda, tengo a precisare che gli ITS in Italia offrono una vasta gamma di corsi dedicati a settori diversi, tra cui tecnologia, industria, e servizi. Per ovvi motivi in questo libro, più precisamente in questo capitolo, si parlerà di quelli legati al settore IT.
+Prima di rispondere a questa domanda, è bene precisare che gli ITS in Italia offrono una vasta gamma di corsi dedicati a settori diversi, tra cui tecnologia, industria, e servizi. Per ovvi motivi in questo libro, più precisamente in questo capitolo, si parlerà di quelli legati al settore IT.
 
 Chiusa questa parentesi, il sito dell’**_[INDIRE](https://www.indire.it/progetto/its-istituti-tecnici-superiori/dove-sono-gli-its/)_** (_Istituto Nazionale Documentazione Innovazione Ricerca Educativa_) è sicuramente la miglior risposta a questa domanda. Ovviamente non l’unica, ma sicuramente tra tutte le pagine risulta essere la più completa, presentando anche a sostegno i dati relativi agli ITS della regione e all’occupazione degli studenti diplomati.
 
@@ -41,7 +41,7 @@ Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso 
 
 “_Mi trovo a fare uno stage in un’azienda che usa VUE.js? Conosco JavaScript ma non avevo mai considerato questo Framework. Ecco un’ottima opportunità per farlo ora_”.
 
-L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza, che oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓) ci aiuterà a crescere come figura professionale e a farci vedere di buon occhio da aziende in cui si potrebbe fare esperienza oltre ad imparare concetti nuovi.
+L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza, che oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓) ci aiuterà a crescere come figura professionale e a farci notare da aziende dove è più facile fare esperienza e assimilare concetti nuovi.
 
 ---
 
