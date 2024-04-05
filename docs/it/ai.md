@@ -113,7 +113,7 @@ Negli ultimi anni l'aspetto legato all'etica durante il processo di progettazion
 Lavorare in questo settore implica ricoprire ruoli come quello di ingegnere/a dell'apprendimento automatico, responsabile di prodotto, data scientist e ricercatore/ricercatrice in ambito AI e altro ancora.
 
 Per accedere a questo campo, in genere è necessaria una laurea in Informatica o in un campo correlato, con titoli di studio di livello magistrale nell'intelligenza artificiale o nell'apprendimento automatico, forti capacità di comunicazione, una passione per la risoluzione di problemi complessi e il rispetto degli standard etici e legali.
-Tuttavia, la laurea non è un requisito mandatorio, ma piuttosto un qualcosa che può supportare nella definizione di una forma mentis e di un percorso lineare per approcciarsi al tema.
+Tuttavia, la laurea non è un requisito obbligatorio, ma piuttosto un qualcosa che può supportare nella definizione di una forma mentis e di un percorso lineare per approcciarsi al tema.
 
 La domanda di professionisti/e dell’IA è elevata, con opportunità di crescita e innovazione in tutti i settori. Competenze specializzate in linguaggi di programmazione come Python e Java, modellazione dei dati, machine learning, deep learning e familiarità con framework come TensorFlow e PyTorch sono cruciali per il successo nelle carriere nel campo dell'intelligenza artificiale.
 
