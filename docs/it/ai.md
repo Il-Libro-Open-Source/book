@@ -79,6 +79,7 @@ Alcuni esempi di moderni LLMs includono:
 - LLaMA: LLM di Meta AI, con una versione open source chiamata LLama 2.
 - Megatron-Turning NLG: sviluppato da Nvidia e Microsoft, questo modello è uno dei più grandi modelli in lingua inglese con trasformatore monolitico.
 - Claude: il LLM di prossima generazione di Anthropic utilizzato nei chatbot conversazionali.
+- LLM 1-bit: viene utilizzato per memorizzare i parametri di peso rispetto ai 32/16 bit degli LLM tradizionali. Ciò riduce le dimensioni complessive di una grande percentuale consentendo quindi anche ai dispositivi più piccoli di utilizzare i più recenti LLM.
 
 Questi modelli sono all’avanguardia nell’intelligenza artificiale generativa e consentono varie applicazioni nell’elaborazione del linguaggio naturale e nella generazione di testi.
 
