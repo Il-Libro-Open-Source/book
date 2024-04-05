@@ -94,7 +94,7 @@ Particolarmente interessante è il progetto creato da Piero Savastano per la cre
 
 ## Data science
 
-Altra branca estremamente importante è quella relativa alla data science, che combina strumenti, metodi e tecnologie statistici per generare significato dai dati, tramite il concetto di inferenza. Anche questa è spesso confusa con il concetto di intelligenza artificiale, della quale ne è -appunto- una categoria: infatti, la data science trova applicazione nell'ambito predittivo, necessità di dati di ottima qualità e può sfruttare tecniche di ML per raggiungere una serie di obiettivi, come riconoscere dei modelli nei dati a disposizione.
+Altra branca estremamente importante è quella relativa alla data science, che combina strumenti, metodi e tecnologie statistici per generare significato dai dati, tramite il concetto di inferenza. Anche questa è spesso confusa con il concetto di intelligenza artificiale, della quale ne è -appunto- una categoria: infatti, la data science trova applicazione nell'ambito predittivo, necessita di dati di ottima qualità e può sfruttare tecniche di ML per raggiungere una serie di obiettivi, come riconoscere dei modelli nei dati a disposizione.
 
 A livello di applicazione, è possibile utilizzare la data science per prevedere le vendite future di un certo prodotto o identificare quando sarà necessario prevedere la manutenzione di un sistema; altri esempi sono la valutazione dei rischi in ambito assicurativo, piuttosto che la previsione di consumi energetici, e via dicendo.
 
