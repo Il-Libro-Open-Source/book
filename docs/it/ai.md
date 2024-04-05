@@ -28,7 +28,7 @@ L'intelligenza artificiale racchiude un'ampia varietà di aree tematiche:
 
 Queste aree rappresentano le diverse applicazioni e capacità dell'intelligenza artificiale in vari settori come sanità, finanza, produzione, trasporti, giochi e altro ancora.
 
-Per dare un'ulteriore livello di dettaglio, andiamo a definire quelle che sono le tecniche appartenenti a ciascuna delle categorie prima citate, in maniera più puntuale.
+Per dare un ulteriore livello di dettaglio, andiamo a definire quelle che sono le tecniche appartenenti a ciascuna delle categorie prima citate, in maniera più puntuale.
 
 ### Machine learning e algoritmi
 
