@@ -17,7 +17,7 @@ Da un codice scritto bene si possono ottenere migliori performance. Magari non d
 
 ## Quando
 
-La scrittura del codice non è del tutto lineare, soprattutto se fatta a più mani. Ogni developer ha un suo stile, delle sue convenzioni, un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
+La scrittura del codice non è del tutto lineare, soprattutto se fatta a più mani. Ogni developer ha un suo stile, delle sue convinzioni, un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
 Sono diverse le occasioni in cui è possibile fare refactoring e, in alcune di queste, non solo è consigliato ma obbligatorio.
 Poniamo il caso di avere una parte del nostro software con del codice "legacy", magari scritto rispettando dei pattern che, nel tempo, si sono rivelati sbagliati. Oppure scritto di fretta, senza rispettare i principi SOLID e con metodi e variabili che hanno nomi provvisori.
 O ancora, il codice scritto risulta difficile da testare, perché presenta metodi o classi poco disaccoppiate. Con metodi privati che non fanno attività atomiche.
