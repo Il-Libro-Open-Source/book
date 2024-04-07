@@ -27,7 +27,7 @@ Generalmente chi sta sviluppando una certa porzione di codice per implementare u
 
 Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano degli svantaggi, tra cui:
 
-1. Possono generare parti di codice più complicate. Una porzione di codice intelligibile e senza logiche complesse potrebbe beneficiare dal non utilizzo dei design pattern, che ne complicherebbero la struttura. 
+1. Può portare ad aumentare la complessità del codice, per cui andrebbero utilizzati con parsimonia per non creare sovrastrutture non necessarie. 
 2. Per essere applicati nel modo migliore, i design pattern necessitano la conoscenza di alcune assunzioni, che però si maturano spesso tramite l'esperienza e la letteratura.
 3. Le prestazioni spesso non coincidono con l'adozione di design pattern, in quanto lo scopo di questi ultimi è di risolvere un problema, non necessariamente in maniera ottimizzata.
 
