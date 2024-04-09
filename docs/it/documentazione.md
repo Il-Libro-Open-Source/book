@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Community e Networking
-nav_order: /
+title: Documentazione
+nav_order: 11
 ---
 
 <!-- prettier-ignore-start -->
