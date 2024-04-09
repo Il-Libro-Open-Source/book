@@ -10,7 +10,7 @@ Alcuni consigli utili prima di entrare nel vivo:
 - È bene cercare di costruire il CV di una sola pagina (un/una recruiter esperto/a ci mette circa 10–20 secondi per leggerne uno) per catturare subito l’interesse e l’attenzione di chi riceverà il documento. _Content is king_, ma anche l’occhio vuole la sua parte!
 - Come vedrai nell’esempio in basso, il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione alla quale stai applicando
 - Occhio alla lingua nella quale è scritto l’annuncio! Se l’annuncio è scritto in inglese, è sempre meglio inviare il CV in inglese, se in italiano invialo in italiano. Avere quindi due versioni del CV è sempre cosa buona e giusta
-- Personalizza! L'europass è un formato ormai datato e senza alcuna possibilità di personalizzazione grafica. L'esempio che troverai in basso è stato creato con [Canva](https://www.canva.com/), contenente centinaia di template validi che puoi scegliere.
+- Personalizza! L'europass è un formato ormai datato e offre una ridotta possibilità di modifiche estetiche. L'esempio che troverai in basso è stato creato con [Canva](https://www.canva.com/), contenente centinaia di template validi che puoi scegliere.
   Potresti usare anche un [template LaTeX](https://www.latextemplates.com/) e personalizzarlo utilizzando l'editor [OverLeaf](https://www.overleaf.com/))
 
 Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV?
