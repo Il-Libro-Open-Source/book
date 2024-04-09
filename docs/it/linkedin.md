@@ -62,5 +62,5 @@ Esattamente come per il CV, la sezione lingue fornisce la possibilità di comuni
 Le recensioni sono un'arma potentissima che davvero in pochissimi sfruttano. È impossibile non avere un collega, manager, ex-capo, collaboratore, consulente esterno al quale poter chiedere una referenza. È davvero una richiesta che costa pochi minuti ed aiuta tantissimo ad arricchire il tuo profilo ed ad aumentare il tuo personal branding.
 
 **11) Pubblicazioni**
-Come per il CV un'altra sezione di tutto rispetto sono le pubblicazioni. Questa sezione non solo aggiunge importanza al vostro profilo e lo arricchisce, ma può rilevarsi un elemento di rilievo in diversi casi. Può infatti essere particolarmente apprezzata da aziende orientate alla ricerca e all'innovazione. Le pubblicazioni possono quindi dimostrare la vostra propensione e volontà in questo ambito.
-Se avete pubblicazioni non esitate a pubblicarle!
+Come per il CV un'altra sezione di tutto rispetto sono le pubblicazioni. Questa sezione non solo aggiunge importanza al vostro profilo e lo arricchisce, ma può rilevarsi un elemento di rilievo in diversi casi. Può infatti essere particolarmente apprezzata da aziende orientate alla ricerca e all'innovazione. Le pubblicazioni possono quindi dimostrare la tua propensione e volontà in questo ambito.
+Se hai pubblicazioni non esitare a pubblicarle!
