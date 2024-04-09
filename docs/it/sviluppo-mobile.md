@@ -4,7 +4,14 @@ title: Sviluppo Mobile
 nav_order: 6
 ---
 
+<!-- prettier-ignore-start -->
 # Sviluppo Mobile
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Che cos'è lo sviluppo mobile?
 

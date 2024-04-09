@@ -44,3 +44,7 @@ Trovi i capitoli già presi in considerazione o già in fase di stesura [qui](ht
 ## Dove posso scrivere le mie idee?
 
 Nella discussione [Idee sparse](https://github.com/Il-Libro-Open-Source/book/discussions/27) o aprendo una issue senza template.
+
+## Domande Frequenti
+
+Per accedere alle domande frequenti, clicca [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/qna.md).
