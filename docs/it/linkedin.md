@@ -25,7 +25,7 @@ A prescindere dalle keyword, la headline è a colpo d'occhio una delle primissim
 
 **4) Sezione informazioni**
 Esattamente come l'about me sul curriculum, questa sezione sul tuo profilo è utilissima per fornire una overview approfondita delle tue esperienze lavorative, i linguaggi/tecnologie/framework che conosci e che utilizzi, obiettivi futuri, attività che segui giornalmente e perché no, anche informazioni che potrebbero sembrare poco utili (hobbies, cosa ti piace fare nel tempo libero, i libri che stai leggendo, le persone che segui, i progetti che sviluppi nel tempo libero) ma che forniscono a chi legge una vista più completa e dettagliata su di te.
-La sezione informazioni dovrebbe contiene tutte le informazioni che servono ad un/una recruiter: una breve descrizione di sè e dell'approccio al lavoro, un elenco esaustivo di tecnologie/linguaggi/framework/software/metodologie ed anche ulteriori input riguardo la gestione del team, la capacità di seguire colloqui tecnici e l'abitudine al lavoro Agile.
+La sezione informazioni dovrebbe contenere tutte le informazioni che servono ad un/una recruiter: una breve descrizione di sè e dell'approccio al lavoro, un elenco esaustivo di tecnologie/linguaggi/framework/software/metodologie ed anche ulteriori input riguardo la gestione del team, la capacità di seguire colloqui tecnici e l'abitudine al lavoro Agile.
 
 **5) Le esperienze professionali**
 Che dire di questa sezione? È in assoluto una delle più importanti dell'intero profilo, se non LA più importante. Alcuni spunti utili a riguardo:
