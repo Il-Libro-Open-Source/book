@@ -62,7 +62,7 @@ Beh per fortuna che almeno in questi casi il compenso economico aumenta... sbagl
 
 Potremmo dipingere il mondo come un bellissimo posto pieno di arcobaleni e di RAL commisurate alle responsabilitá e ci sono sicuramente un sacco di aziende validissime e dalla struttura solida dove questi scenari sono ben lontani dalla norma, ma é comune che possano presentarsi ed é comune trovarsi in situazioni dove non si é abbastanza formati.
 
-Con queste righe non vogliamo assolutamente promuovere una cultura tossica del lavoro ne incoraggiare ad accettare situazioni "scomode" di questo stampo che si ripetono nel tempo e soprattutto non vogliamo spingerti a gestire situazioni di grande responsabilitá per cui non hai le skills, ma siccome ci sono e ci saranno sempre probabilmente, é bene che tu sia preparat\*.
+Con queste righe non vogliamo assolutamente promuovere una cultura tossica del lavoro ne incoraggiare ad accettare situazioni "scomode" di questo stampo che si ripetono nel tempo e soprattutto non vogliamo spingerti a gestire situazioni di grande responsabilitá per le quali non hai le skills, ma siccome ci sono e ci saranno sempre probabilmente, é bene che tu acquisisca una adeguata preparazione.
 
 Cosa possiamo fare per affrontare queste occasioni?
 
