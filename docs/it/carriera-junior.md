@@ -18,7 +18,7 @@ Anche affidandoci ad internet per trovare una definizione le sfumature che emerg
 
 Per creare un piano comune che ci permetta di esplorare facilmente l'argomento e fissare quello che per noi é il fulcro del capitolo, la definizione di Junior Dev per noi é la seguente:
 
-> Una persona di una qualsiasi etá, proveniente da qualsivoglia ambito di studi e che ha seguito un percorso di carriera di ogni tipo che peró é in grado di leggere ed interpretare i requisiti di un possibile artefatto software o di una sua parte e ha le competenze tecniche per riprodurlo, non in completa autonomia.
+> Una persona di una qualsiasi etá, proveniente da qualsivoglia ambito di studi e che ha seguito un percorso di carriera di un qualsiasi tipo tipo che peró é in grado di leggere ed interpretare i requisiti di un possibile artefatto software o di una sua parte e ha le competenze tecniche per riprodurlo, non in completa autonomia.
 
 Per noi la chiave di volta é questa, non una delimitazione basata su aspetti come i titoli di studio, gli anni di esperienza o di lavoro ma un'identificazione tramite la capacitá di scrivere software, con una particolare attenzione al livello di autonomia.
 
