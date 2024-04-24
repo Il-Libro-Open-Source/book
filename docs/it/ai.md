@@ -37,7 +37,7 @@ L’apprendimento automatico, traduzione di machine learning, comprende una vari
 1.  Apprendimento supervisionato: gli algoritmi apprendono dai dati etichettati per fare previsioni. Per etichetta, si intende una categoria o una classe che serve a identificare il dato rappresentato. Un esempio è quello che prevede la classificazione di immagini di cuccioli di cane e di coniglio che vengono distinte tramite delle etichette per descriverne la specie, così che il modello possa sfruttare queste label per associare ogni nuova immagine alla label corretta, una volta completato l'addestramento.
 2.  Apprendimento non supervisionato: gli algoritmi trovano modelli nei dati senza etichette predefinite. In questo caso, è il modello a dover individuare dei pattern ricorrenti nei dati per individuare possibili correlazioni tra i dati. In questo caso, un esempio di applicazione è quello legato allo studio dei segmenti di clienti in ambito marketing; per analizzare il mercato di un dato settore, può essere utile non avere delle etichette a priori, ma piuttosto dare al modello il compito di segmentare i clienti in base a correlazioni che sarebbero difficili in forma manuale su grandi moli di dati.
 3.  Apprendimento semi-supervisionato: combina l'apprendimento supervisionato e non supervisionato utilizzando dati etichettati e non etichettati ed è particolarmente adoperato nei problemi di classificazione. Un esempio di applicazione è legato all'etichettatura di aree geografiche analizzando scatti fotografici provenienti dai satelliti. Le lievi variazioni sullo spettro dell'immagine consentono all'operatore di etichettare un piccolo subset di dati che verrà poi esteso automaticamente dall'algoritmo.
-4.  Apprendimento per rinforzo: gli agenti imparano a prendere decisioni interagendo con un ambiente. Un po' come avviene come nei sistemi di risposta automatica, il feedback dell'utente permette al sistema di valutare il proprio operato durante lo svolgimento dello stesso.
+4.  Apprendimento per rinforzo: gli agenti imparano a prendere decisioni interagendo con un ambiente. Un po' come avviene nei sistemi di risposta automatica, il feedback dell'utente permette al sistema di valutare il proprio operato durante lo svolgimento dello stesso.
 
 I casi d'uso prima citati mostrano il diverso impatto dell’apprendimento automatico in settori come sanità, finanza, social media e altro ancora, evidenziandone il ruolo nel migliorare l’efficienza, l’accuratezza e i processi decisionali.
 
@@ -46,19 +46,19 @@ I casi d'uso prima citati mostrano il diverso impatto dell’apprendimento autom
 Il deep learning, un ramo più sofisticato dell’apprendimento automatico, affonda le sue origini nel 1943, quando Walter Pitts e Warren McCulloch crearono un modello di computer basato sul concetto di reti neurali. Da allora la tecnologia si è evoluta in modo significativo, con traguardi chiave tra cui lo sviluppo di modelli di backpropagation negli anni '60 e l'introduzione delle reti neurali convoluzionali negli anni '70. Nel 1986, Geoffrey Hinton dimostrò la possibilità di addestrare delle reti neurali utilizzando la backpropagation, da cui il termine "deep learning" nel 2006.
 La back propagation consiste nell'utilizzare dei pesi per misurare le risposte ottenute dai singoli neuroni e propagare l'errore ottenuto nelle predizioni nei neuroni precedenti, così da poter aumentare il livello di efficacia dell'algoritmo.
 
-Tra le applicazioni principali nel campo del Deep learning ci sono:
+Tra le applicazioni principali nel campo del deep learning ci sono:
 
 1.  Riconoscimento delle immagini, per individuare oggetti specifici o soggetti dominanti all'interno di contenuti multimediali;
 2.  Elaborazione del linguaggio naturale, che svolge un ruolo cruciale nell'analisi del linguaggio umano;
-3.  Rilevamento delle frodi, in campo assicurativo e bancario, utilizzato per rilevare attività fraudolente;
-4.  Assistenza sanitaria: le applicazioni includono il supporto alla diagnosi di malattie, la prognosi e le tecniche di imaging medico.
-5.  Personalizzazione: Utilizzato per creare esperienze su misura come consigli sui prodotti e servizi personalizzati.
+3.  Rilevamento delle frodi, in campo assicurativo e bancario, utilizzato per rilevare attività criminali;
+4.  Assistenza sanitaria: le applicazioni includono il supporto alla diagnosi di malattie, la prognosi e le tecniche di imaging medico;
+5.  Personalizzazione: utilizzato per creare esperienze su misura come consigli sui prodotti e servizi personalizzati;
 
-Nel campo del Deep learning, tra gli algoritmi più utilizzati ci sono:
+Nel campo del deep learning, tra gli algoritmi più utilizzati ci sono:
 
-- Reti neurali convoluzionali (CNN):, utilizzate principalmente per attività di riconoscimento delle immagini;
-- Memoria a lungo termine (LSTM): essenziale per le reti neurali ricorrenti e l'elaborazione sequenziale dei dati.
-- Backpropagation: fondamentale per addestrare le reti neurali in modo efficiente.
+- Reti neurali convoluzionali (CNN): utilizzate principalmente per attività di riconoscimento delle immagini;
+- Memoria a lungo termine (LSTM, ossia [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory)): essenziale per le reti neurali ricorrenti e l'elaborazione sequenziale dei dati;
+- Backpropagation: fondamentale per addestrare le reti neurali in modo efficiente;
 
 La sua capacità di apprendere da dati non strutturati lo rende un potente strumento per applicazioni moderne in diversi settori. Dato il recente successo nell'ambito di strumenti che impiegano l'analisi e l'elaborazione del linguaggio naturale, vale la pena approfondire velocemente questo campo.
 
