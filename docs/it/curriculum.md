@@ -1,4 +1,17 @@
+---
+layout: default
+title: Il Curriculum
+nav_order: 10
+---
+
+<!-- prettier-ignore-start -->
 # Il Curriculum
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Se stai leggendo questo capitolo probabilmente ti stai guardando attorno, alla ricerca di un nuovo lavoro, una nuova collaborazione, una nuova retribuzione (si spera più alta dell'attuale).
 E, probabilmente, ti stai facendo anche un'altra domanda: davvero il CV si usa ancora? Ebbene sì! Il CV rimane lo strumento fondamentale (ma va ovviamente affiancato ad altri strumenti che vedremo in seguito) per proporsi a chi sta offrendo lavoro.

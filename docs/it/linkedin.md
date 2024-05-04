@@ -1,4 +1,17 @@
-**Il profilo LinkedIn**
+---
+layout: default
+title: Il profilo LinkedIn
+nav_order: 11
+---
+
+<!-- prettier-ignore-start -->
+# Il profilo LinkedIn
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Assieme al CV, anche **LinkedIn** è uno strumento estremamente potente per cercare lavoro, costruire network, creare relazioni.
 L'obiettivo è quello di fornire degli spunti utili per rendere il tuo profilo LinkedIn attrattivo ma soprattutto "keyword-friendly". Se non sei in cerca di lavoro, questo capitolo può comunque esserti utile per meglio posizionare il tuo profilo, renderlo più professionale e può fornirti qualche spunto e curiosità.
