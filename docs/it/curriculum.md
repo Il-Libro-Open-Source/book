@@ -15,17 +15,17 @@ Alcuni consigli utili prima di entrare nel vivo:
 
 Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV?
 
-* in primis poca connessione e conoscenza di te
-* scarsa stima del tuo valore e delle tue risorse
-* idee poco chiare rispetto a ciò che stai cercando, a chi stai parlando, alla direzione che vuoi perseguire
-* poca cura della struttura, della gerarchia delle informazioni e della componente grafica e visual
-* difficoltà a selezionare le informazioni che servono (scartando quelle che non aggiungono valore)
-* convinzione che tanto c'è LinkedIn e il CV non serve a niente (errore)
-* pensare che basti solo il CV in pdf per cercare e trovare lavoro
-* non metterti nei panni di chi legge
-* limitarti a descrivere e non raccontare niente
-* escludere qualsiasi informazione di carattere personale (ma anche esagerare con i fatti tuoi)
-* e infine un utilizzo di parole, frasi, modi di dire tipici di un mansionario o di una circolare aziendale (la scrittura è importante, non solo la correttezza grammaticale)
+- in primis poca connessione e conoscenza di te
+- scarsa stima del tuo valore e delle tue risorse
+- idee poco chiare rispetto a ciò che stai cercando, a chi stai parlando, alla direzione che vuoi perseguire
+- poca cura della struttura, della gerarchia delle informazioni e della componente grafica e visual
+- difficoltà a selezionare le informazioni che servono (scartando quelle che non aggiungono valore)
+- convinzione che tanto c'è LinkedIn e il CV non serve a niente (errore)
+- pensare che basti solo il CV in pdf per cercare e trovare lavoro
+- non metterti nei panni di chi legge
+- limitarti a descrivere e non raccontare niente
+- escludere qualsiasi informazione di carattere personale (ma anche esagerare con i fatti tuoi)
+- e infine un utilizzo di parole, frasi, modi di dire tipici di un mansionario o di una circolare aziendale (la scrittura è importante, non solo la correttezza grammaticale)
 
 "Per scrivere un buon CV (e il CV serve ancora, credimi) si parte dalla consapevolezza di sé e, attraverso un percorso che tocca diverse tappe, si arriva alla capacità di esprimere chi si è, il valore che si porta, le competenze maturate e i propri obiettivi in modo credibile e convincente."
 
