@@ -17,7 +17,7 @@ Da un codice scritto bene si possono ottenere migliori performance. Magari non d
 
 ## Quando
 
-La scrittura del codice non è del tutto lineare, soprattutto se fatta a più mani. Ogni developer ha un suo stile, delle sue convinzioni, un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
+La scrittura del codice non è del tutto lineare, soprattutto se fatta a più mani. Ogni developer ha un suo stile, delle sue convinzioni e un determinato livello di preparazione. Questo porta spesso ad avere del codice, scritto a colpi di commit, funzionante ma difficile da comprendere, con scorciatoie evitabili, metodi prolissi o, peggio ancora, costanti che non dovrebbero esserlo.
 Sono diverse le occasioni in cui è possibile fare refactoring e, in alcune di queste, non solo è consigliato ma obbligatorio.
 Poniamo il caso di avere una parte del nostro software con del codice "legacy", magari scritto rispettando dei pattern che, nel tempo, si sono rivelati sbagliati. Oppure scritto di fretta, senza rispettare i principi SOLID e con metodi e variabili che hanno nomi provvisori.
 O ancora, il codice scritto risulta difficile da testare, perché presenta metodi o classi poco disaccoppiate. Con metodi privati che non fanno attività atomiche.
@@ -25,7 +25,7 @@ Fatta una rapida analisi potremmo notare che magari ci sono dei cicli ripetuti, 
 Con del buon refactoring potremmo rivedere il codice, eliminare delle dipendenze inutili o utilizzare dei costrutti del linguaggio più adatti, con il risultato di migliorarne la lettura, aderire agli standard del linguaggio (che, nell'ottica di rendere il nostro codice più condivisibile possibile, non fa mai male) e, perché no, migliorarne le performance ed eliminare debito tecnico.
 Come detto, le occasioni non mancano.
 Potremmo cogliere l'occasione di una Code Review o l'aggiunta di una nuova feature. Prima di iniziarne lo sviluppo, sicuramente è buona pratica leggere il codice in cui questa nuova funzionalità andrà a integrarsi e, se quest'ultimo risulta di difficile comprensione, è un'ottima occasione per effettuarne il refactoring. Questo ci permetterebbe di ottenere una maggiore conoscenza del codice.
-Un'altra, forse la migliore, dove è (quasi) obbligatorio, è la risoluzione di un bug in una parte di codice convulso, la cui sola lettura ci fa venire il mal di testa. Un'attività di refactoring potrebbe facilmente portare alla luce l'errore presente nel codice.
+Un'altra occasione potrebbe essere la risoluzione di un bug in una porzione di codice complessa, la cui sola lettura ci fa venire il mal di testa. Un'attività di refactoring potrebbe facilmente portare alla luce l'errore presente nel codice, e spesso risulta la strada migliore, in quanto porta non solo ad una risoluzione, ma anche ad un codice migliore e più mantenibile in futuro, riducendo il rischio di regressioni.
 L'attività di refactoring può essere paragonata a una pulizia profonda di casa, piuttosto che a una routine di sistemazione della propria cameretta, necessaria per mantenere il codice sicuro, di valore ed efficiente.
 
 ## Quando è meglio evitare
