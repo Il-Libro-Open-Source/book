@@ -99,7 +99,7 @@ Il tempo è il maggiore investimento in questa fase; più tempo dedicate, miglio
 "Va bene, quindi quanto tempo serve e quanto tempo dovrei dedicare alla mia formazione?"
 Il tempo non è mai abbastanza, e soprattutto molto soggettivo riguardo il raggiungimento del risultato, quindi la risposta giusta è: investi il miglior tempo possibile nella tua formazione.
 
-Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare almeno altre 3 ore di pratica e approfondimenti.
+Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare anche altro tempo durante la giornata per fare pratica in autonomia ed approfondire gli argomenti visti a lezione.
 
 In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** da developer.
 
