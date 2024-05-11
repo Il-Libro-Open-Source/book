@@ -60,6 +60,26 @@ Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Dr
 
 Ci sono metodi che hanno nomi degni di un codice morse ma che poco dicono sulle operazioni che vanno a intraprendere.
 Un buon inizio potrebbe essere quello di rinominarli in modo che chi legge abbia la possibilità di capire cosa fa quel metodo, senza necessità alcuna di andarlo a verificare.
+Prendiamo ad esempio questo metodo:
+
+```
+function getNetto() {
+  basePrice = cart.totalPrice();
+  return basePrice * discount();
+}
+```
+
+Leggendone il contenuto è chiaro che ci sta tornando il totale del carrello al netto di eventuali sconti ma, senza conoscerne il contenuto, come facciamo a esserne sicuri?
+Proviamo quindi a rinominarlo con qualcosa di più "parlante".
+
+```
+function applyDiscount() {
+  basePrice = cart.totalPrice();
+  return basePrice * discount();
+}
+```
+
+Cambiandone il nome, abbiamo reso più chiaro cosa farà e rendiamo più semplice la vita a chi quel metodo dovrà usarlo.
 
 ### Cambiare la firma dei metodi
 
@@ -120,9 +140,13 @@ Lo sviluppo di un software ha un costo, ovviamente anche il refactoring ne ha un
 
 ## Refactoring vs Riscrittura
 
-Si potrebbe obiettare che riscrivere una parte del nostro software, basandosi sull'esperienza acquisita, è più veloce o forse più auspicabile del refactoring.
-In realtà questa affermazione è fallace: riscrivere significa affrontare un'attività che comporta del tempo non sempre definito, che apporta delle modifiche al funzionamento del software, che andrà testato probabilmente con dei nuovi test e che, non da ultimo, andrà rilasciato in blocco.
-Con il refactoring, dove il dictat del non modificare in alcun modo il comportamento ci impone che i test devono continuare a funzionare senza alcun nostro intervento, è un'attività contingentata che può essere fatta durante lo sviluppo di una nuova funzionalità, se non durante la scrittura dei test stessi. E, soprattutto, il lavoro può essere rilasciato durante il normale ciclo di vita del software, annegato tra i vari rilasci e/o correzioni.
+Riscrivere tutto da capo o rivedere il lavoro fatto: un bel dilemma.
+Quando ci si trova davanti a del codice che necessita di refactoring a tutti è sorto il dubbio: ma non faccio prima a riscriverlo da capo? Questa domanda ce la poniamo, in genere, perché, basandoci sull'esperienza acquisita, ci convinciamo che saremmo più veloci a riscrivere tutto e otterremmo un risultato decisamente migliore. Ma, forse, non stiamo tenendo conto di due fattori fondamentali:
+
+* non dobbiamo alterare il comportamento attuale, i test debbono restare inalterati;
+* il nuovo codice dovrebbe andare incontro a successive revisioni e riscritture, se non nuovi test.
+ 
+Il refactoring è un'attività contingentata che chi permette di guardare con distacco al nostro stesso codice, dandoci la possibilità di migliorarlo proprio alla luce dell'esperienza acquisita. E, imponendoci l'immutabilità delle firme nonché il rispetto dei test attuali, ci permette inoltre di poter rilasciare il nuovo codice con molta più tranquillità.
 
 ## Automazione
 
