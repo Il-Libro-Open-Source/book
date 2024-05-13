@@ -83,9 +83,12 @@ Cambiandone il nome, abbiamo reso più chiaro cosa farà e rendiamo più semplic
 
 ### Cambiare la firma dei metodi
 
-Partendo dal presupposto che il codice è vivo, si ci può trovare nelle condizioni in cui al metodo inizialmente venivano passate diverse informazioni, che magari ora non sono più necessarie. E magari non lo sono perché nel frattempo, quella parte di codice era stata già snellita in qualche attività precedente.
-Possiamo quindi rimuovere le informazioni in eccesso, modificandone la firma.
-Inoltre, nei linguaggi tipizzati, potremmo verificare se c'è la possibilità di rendere detta firma più stringente, ammettendo e/o restituendo tipi meno generici.
+Partendo dal presupposto che il codice è vivo, si possono verificare dei casi in cui un metodo riceva più informazioni del necessario.
+Ad esempio potremmo avere un metodo che, nella prima stesura, aveva necessità di numerose informazioni, ma, con successive riscritture, alcune di queste risultaino superflue e non utilizzate.
+Oppure, un altro esempio potrebbe essere quello in cui gli passiamo numerose informazioni che potrebbero diventare proprietà di uno o più aggregati. Questo è particolarmente vero nei linguaggi tipizzati, dove potremmo verificare la possibilità di rendere detta firma più stringente, aggregando e/o restituendo tipi meno generici.
+In questi casi, possiamo rimuovere le informazioni in eccesso piuttosto che sostituirle con nuovi formati, modificando di fatto la firma del metodo.
+C'è però da prestare particolare attenzione a questa pratica: se modificare la firma su un piccolo progetto personale è quasi privo di controindicazioni, farlo su un ambiente su cui lavorano più persone o da cui dipendono altri software su cui non abbiamo modo di intervenire, può creare non pochi problemi. Prendete il caso di una libreria utilizzata da più team: il cambiamento di una singola firma causerebbe il mancato funzionamento di tutti i software che dipendono da essa.
+Questo non significa che non sia possibile farlo ma che bisogna agire con maggiore cautela, adottando un giusto percorso di _deprecation_. Deprecare una firma, o parte di essa, indicando quando quella firma stessa terminerà di funzionare e quale alternative adottare, dando quindi la possibilità a chi utilizza il nostro software e quel metodo in particolare di adeguarsi, è di sicuro la strada da seguire.
 
 ### Estrarre nuovi metodi
 
