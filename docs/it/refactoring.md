@@ -73,7 +73,7 @@ Leggendone il contenuto è chiaro che ci sta tornando il totale del carrello al 
 Proviamo quindi a rinominarlo con qualcosa di più "parlante".
 
 ```
-function applyDiscount() {
+function getAmountWithAppliedDiscount() {
   basePrice = cart.totalPrice();
   return basePrice * discount();
 }
@@ -141,12 +141,13 @@ Lo sviluppo di un software ha un costo, ovviamente anche il refactoring ne ha un
 ## Refactoring vs Riscrittura
 
 Riscrivere tutto da capo o rivedere il lavoro fatto: un bel dilemma.
-Quando ci si trova davanti a del codice che necessita di refactoring a tutti è sorto il dubbio: ma non faccio prima a riscriverlo da capo? Questa domanda ce la poniamo, in genere, perché, basandoci sull'esperienza acquisita, ci convinciamo che saremmo più veloci a riscrivere tutto e otterremmo un risultato decisamente migliore. Ma, forse, non stiamo tenendo conto di due fattori fondamentali:
+Quando ci si trova davanti a del codice che necessita di refactoring a tutti è sorto il dubbio: "ma non faccio prima a riscriverlo da capo?"
+Questa domanda ce la poniamo, in genere, perché, basandoci sull'esperienza acquisita, ci convinciamo che saremmo più veloci a riscrivere tutto e otterremmo un risultato decisamente migliore. Ma, forse, non stiamo tenendo conto di due fattori fondamentali:
 
-* non dobbiamo alterare il comportamento attuale, i test debbono restare inalterati;
-* il nuovo codice dovrebbe andare incontro a successive revisioni e riscritture, se non nuovi test.
+- L'attività di refactoring non dovrebbe alterare il comportamento attuale, e lo stesso dovrebbe valere per i test.
+- Scrivendo nuovo codice, potremmo andare incontro a successive revisioni e riscritture, e avremmo necessità di scrivere nuovi test.
  
-Il refactoring è un'attività contingentata che chi permette di guardare con distacco al nostro stesso codice, dandoci la possibilità di migliorarlo proprio alla luce dell'esperienza acquisita. E, imponendoci l'immutabilità delle firme nonché il rispetto dei test attuali, ci permette inoltre di poter rilasciare il nuovo codice con molta più tranquillità.
+Il refactoring è un'attività contingentata che ci permette di guardare con distacco al nostro stesso codice, dandoci la possibilità di migliorarlo proprio alla luce dell'esperienza acquisita. E, imponendoci l'immutabilità delle firme nonché il rispetto dei test attuali, ci permette inoltre di poter rilasciare il nuovo codice con molta più tranquillità.
 
 ## Automazione
 
