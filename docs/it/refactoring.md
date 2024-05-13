@@ -41,20 +41,20 @@ Diretta conseguenza di questo obiettivo, è la sua applicazione nella pratica de
 Come si può intuire, con le attività di refactoring andremo a migliorare il codice in modo da renderlo meno complesso, più mantenibile, più resiliente.
 Per farlo, potremmo iniziare con:
 
-* Red-Green-Refactor;
-* Rinominare i metodi oscuri;
-* Cambiare la firma dei metodi;
-* Estrarre nuovi metodi;
-* Semplificare i metodi esistenti;
-* Astrarre.
+- Red-Green-Refactor;
+- Rinominare i metodi oscuri;
+- Cambiare la firma dei metodi;
+- Estrarre nuovi metodi;
+- Semplificare i metodi esistenti;
+- Astrarre.
 
 ### Red-Green-Refactor
 
 Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Driven Development), dove chi sviluppa suddivide il processo di scrittura del codice in tre fasi:
 
-* Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
-* Scrive il codice necessario affinché il test passi (_Green_);
-* Lo migliora (_Refactoring_)
+- Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
+- Scrive il codice necessario affinché il test passi (_Green_);
+- Lo migliora (_Refactoring_)
 
 ### Rinominare i metodi oscuri
 
@@ -149,7 +149,7 @@ Questa domanda ce la poniamo, in genere, perché, basandoci sull'esperienza acqu
 
 - L'attività di refactoring non dovrebbe alterare il comportamento attuale, e lo stesso dovrebbe valere per i test.
 - Scrivendo nuovo codice, potremmo andare incontro a successive revisioni e riscritture, e avremmo necessità di scrivere nuovi test.
- 
+
 Il refactoring è un'attività contingentata che ci permette di guardare con distacco al nostro stesso codice, dandoci la possibilità di migliorarlo proprio alla luce dell'esperienza acquisita. E, imponendoci l'immutabilità delle firme nonché il rispetto dei test attuali, ci permette inoltre di poter rilasciare il nuovo codice con molta più tranquillità.
 
 ## Automazione
