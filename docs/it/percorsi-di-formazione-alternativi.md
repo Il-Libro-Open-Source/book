@@ -29,7 +29,7 @@ Oggi la situazione è differente, e per fare un sito web servono almeno 3 figure
 
 Tutto ciò ovviamente oggi ha un costo nettamente superiore in ottica aziendale, per questo motivo il mercato necessita di _Fullstack Developer_ che siano in grado di tradurre le componenti prodotte dal _Designer_ e agganciare le logiche funzionali del progetto.
 
-Bisogna però che ci addentriamo un pochino meglio nella questione per comprendere bene la differenza tra _Frontend Developer_ e _Backend Developer_.
+Per comprendere meglio la differenza tra _Frontend Developer_ e _Backend Developer_ bisogna però scendere maggiormente nei dettagli.
 
 Chi ricopre il ruolo di _Frontend Developer_ dovrà programmare tutta la parte "visiva" del progetto. Quindi appunto tradurrà in codice tutto ciò che è stato progettato nel _design_.
 Chi invece ricopre il ruolo di _Backend Developer_ dovrà realizzare tutta la parte logica e funzionale "dietro le quinte" del progetto.
@@ -57,7 +57,7 @@ Perchè la curva di apprendimento è più bassa per chi vuole imparare a realizz
 
 Inoltre le tecnologie che si toccano con mano durante la fase di apprendimento in ambito web sono diverse (HTML, CSS, JavaScript) e ciò permette di avere una overview più ampia.
 
-Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo: grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti dalle **Mobile App** ai **Videogiochi**. Addirittura con JavaScript oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
+Facciamo un esempio: con JavaScript possiamo sviluppare _siti web_ ma non solo: grazie alla versatilità del linguaggio possiamo ad oggi spaziare su tantissimi altri argomenti, dalle **Mobile App** ai **Videogiochi**. Addirittura con JavaScript oggi possiamo fare qualcosa che fino a qualche anno fa sembrava impossibile: il _backend_.
 
 "Mi stai dicendo che se voglio diventare _Game Developer_ devo prima formarmi come **developer web**?"
 Assolutamente no.
@@ -71,14 +71,14 @@ Assolutamente no.
 Il concetto è che fare siti web è più accessibile sia in termini di **risorse tecnologiche** che in termini di **know-how** di partenza, per un neofita, rispetto a fare videogiochi.
 
 "Ok, ipotizziamo che voglia partire nell'imparare a fare siti web, come scelgo il percorso giusto?"
-Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dal proprio approccio che si ha con lo studio, ma subentrano anche altri fattori non da poco come ad esempio il tempo (inteso sia come tempo a disposizione per studiare e sia come quantità di tempo necessaria per raggiungere lo scopo), oppure gli sbocchi lavorativi.
+Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dall' approccio che si ha con lo studio; subentrano poi anche altri fattori non da poco come, ad esempio, il tempo (inteso sia come tempo a disposizione per studiare e sia come quantità di tempo necessaria per raggiungere lo scopo), oppure gli sbocchi lavorativi.
 
 ## Prima fase: come approcciare lo studio
 
 Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi che invece seguono più assiduamente i propri alunni.
-Non ce n'è uno giusto piuttosto che uno sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare, e la maggior parte delle volte impariamo per conto nostro.
+Non ce n'è uno giusto piuttosto che uno sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare e, la maggior parte delle volte, impariamo per conto nostro.
 Sicuramente sarebbe meglio, almeno nella fase iniziale, avere qualcuno che ci segua ed alimenti la nostra curiosità.
-Un tutor ci permette di avere una guida, un supporto (anche morale e non solo tecnico), qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
+Un tutor ci permette di avere una guida, un supporto (anche morale e non solo tecnico); avere qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
 La curiosità invece ci insegna l'autonomia e soprattutto, cosa molto importante, ci aiuta a trovare la nostra strada.
 
 A tal proposito, tieni sempre a mente quanto segue: **Google è tuo amico, ma soprattutto il tuo miglior alleato**.
@@ -97,13 +97,13 @@ La scelta dovrebbe essere soggettiva e ponderata, basandosi sulla quantità di t
 Il tempo è il maggiore investimento in questa fase; più tempo dedicate, migliore sarà il risultato finale.
 
 "Va bene, quindi quanto tempo serve e quanto tempo dovrei dedicare alla mia formazione?"
-Il tempo non è mai abbastanza, e soprattutto molto soggettivo riguardo il raggiungimento del risultato, quindi la risposta giusta è: investi il miglior tempo possibile nella tua formazione.
+Il tempo non è mai abbastanza, e soprattutto molto soggettivo riguardo al raggiungimento del risultato, quindi la risposta giusta è: investi il miglior tempo possibile nella tua formazione.
 
 Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessario dedicare anche altro tempo durante la giornata per fare pratica in autonomia ed approfondire gli argomenti visti a lezione.
 
 In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** da developer.
 
-> "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
+"Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
 > Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (tre o sei mesi) è molto elevata.
 > Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo: studiare da autodidatta oppure attraverso un percorso personalizzato; in questo caso però non sarà possibile ottenere un risultato in soli tre/sei mesi ma ci vorrà molto più tempo.
 
@@ -119,7 +119,7 @@ Scommettere quindi su una tecnologia piuttosto che su un'altra per impostare la 
 Se si vuole rimanere appetibili nei confronti delle aziende e del mercato dobbiamo quindi essere in grado di adattarci ai cambiamenti e, soprattutto, aggiornarci (eh si... spesso questo processo avviene in completa autonomia).
 
 Facciamo un esempio, rimanendo sempre nel campo dei siti web.
-Prima i Layout (la parte grafica del sito web) non seguivano degli "standard" veri e propri, poi ad un certo punto sono nati dei _Framework_ (si tratta di un'insieme di strumenti) che hanno definito tali standard (come ad esempio il concetto di colonne molto utile per rendere un sito web _responsive_ ovvero adattabile ad ogni dispositivo).
+Prima i Layout (la parte grafica del sito web) non seguivano degli "standard" veri e propri, poi ad un certo punto sono nati dei _Framework_ (si tratta di un insieme di strumenti) che hanno definito tali standard (come ad esempio il concetto di colonne molto utile per rendere un sito web _responsive_ ovvero adattabile ad ogni dispositivo).
 
 Quindi chi progettava i Layout ha dovuto apprendere tali "standard" per non rimanere fuori mercato dato che, ovviamente, tutti i siti ad oggi sono navigabili e fruibili anche dal nostro Smartphone.
 La figura _Web Designer_ di ieri, che si limitava solamente ad impostare graficamente gli elementi a schermo, è diventata oggi _Frontend Developer_ che è in grado di mettere mano a _Framework_ e varie _librerie_.
