@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Il Ciclo del Feedback nello sviluppo software
+title: Metodologie Agile e ciclo del feedback
 nav_order: 10
 ---
 
@@ -51,11 +51,13 @@ Questo rapido ciclo permette allo sviluppatore di scrivere del codice testato ma
 
 È fondamentale sottolineare un aspetto cruciale riguardo a questa metodologia: sebbene consenta la scrittura di codice in grado di superare tutti i test inizialmente definiti, è importante considerare che questi potrebbero non sempre rispecchiare appieno le esigenze reali. Pertanto, chi sviluppa dovrebbe essere consapevole di questa possibilità e non fare dell'approccio Test-Driven Development la "soluzione ad ogni male".
 
-## L'Extreme Programming e il TDD
+## DevOps
 
 Dalla nascita della metodologia Agile, molte altre filosofie di sviluppo hanno preso alcuni punti del manifesto e li hanno raffinati e sviluppati nel proprio ramo di competenza. Una di queste filosofie è quella DevOps, nata per risolvere l'annoso problema della separazione tra sviluppatori (dev) e sistemisti (ops): in passato spesso questi due ruoli rimanevano fortemente separati, con gli sviluppatori che "scaricavano" le modifiche software ai sistemisti, che si dovevano poi preoccupare di portarle in produzione, senza conoscerle appieno ma al tempo stesso avendo la responsabilità della loro stabilità e resilienza. Questa separazione è l'esempio perfetto di un ciclo del feedback lento e piagato da troppi passaggi di consegne.
 
-Questa metodologia nasce come risposta a questa netta separazione, creando un ruolo "ibrido" in cui si ha la mescolanza delle due competenze; ha come capi saldi la condivisione delle responsabilità (tra dev e ops), l'automazione e (per l'appunto) un rapido ciclo di feedback. Nella pratica, applicare i principi del DevOps spesso si sintetizza nell'automatizzare il flusso di rilascio in produzione e nel mantenere la resposabilità del deploy all'interno del team che sviluppa il software stesso, così che gli sviluppatori possano beneficiare istantaneamente del feedback generato dal rilascio del loro software in ambiente di produzione reale, e possano intervenire tempestivamente (e con la giusta dose di conoscenze) in caso di eventuali difetti.
+Questa metodologia nasce come risposta a questa netta separazione, creando un ruolo "ibrido" in cui si ha la mescolanza delle due competenze; ha come capi saldi la condivisione delle responsabilità (tra dev e ops), l'automazione e (per l'appunto) un rapido ciclo di feedback.
+
+Nella pratica, applicare i principi del DevOps spesso si sintetizza nell'automatizzare il flusso di rilascio in produzione e nel mantenere la responsabilità del deploy all'interno del team che sviluppa il software stesso, così che chi sviluppa possa beneficiare istantaneamente del feedback generato dal rilascio del loro software in ambiente di produzione reale, e possano intervenire tempestivamente (e con la giusta dose di conoscenze) in caso di eventuali difetti.
 
 ## Conclusione
 
