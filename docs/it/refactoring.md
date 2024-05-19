@@ -94,7 +94,7 @@ Questa funzione potrebbe essere semplificata tramite l'introduzione di un aggreg
 `function updateAddress(userId: number, address: Address): void {}`
 In questi casi, possiamo rimuovere le informazioni in eccesso piuttosto che sostituirle con nuovi formati, modificando di fatto la firma del metodo.
 C'è però da prestare particolare attenzione a questa pratica: se modificare la firma su un piccolo progetto personale è quasi privo di controindicazioni, farlo su un ambiente su cui lavorano più persone o da cui dipendono altri software su cui non abbiamo modo di intervenire, può creare non pochi problemi. Prendete il caso di una libreria utilizzata da più team: il cambiamento di una singola firma causerebbe il mancato funzionamento di tutti i software che dipendono da essa.
-Questo non significa che non sia possibile farlo ma che bisogna agire con maggiore cautela, adottando un giusto percorso di _deprecation_. Deprecare una firma, o parte di essa, indicando quando quella firma stessa terminerà di funzionare e quale alternative adottare, dando quindi la possibilità a chi utilizza il nostro software e quel metodo in particolare di adeguarsi, è di sicuro la strada da seguire.
+Questo non significa che non sia possibile farlo ma che bisogna agire con maggiore cautela, adottando un giusto percorso di _deprecation_. Deprecare una firma, o parte di essa, indicando quando quella firma stessa terminerà di funzionare e quali alternative adottare, dando quindi la possibilità a chi utilizza il nostro software e quel metodo in particolare di adeguarsi, è di sicuro la strada da seguire.
 
 ### Estrarre nuovi metodi
 
