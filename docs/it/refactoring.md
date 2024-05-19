@@ -85,7 +85,13 @@ Cambiandone il nome, abbiamo reso più chiaro cosa farà e rendiamo più semplic
 
 Partendo dal presupposto che il codice è vivo, si possono verificare dei casi in cui un metodo riceva più informazioni del necessario.
 Ad esempio potremmo avere un metodo che, nella prima stesura, aveva necessità di numerose informazioni, ma, con successive riscritture, alcune di queste risultino superflue e non utilizzate.
-Oppure, un altro esempio potrebbe essere quello in cui gli passiamo numerose informazioni che potrebbero diventare proprietà di uno o più aggregati. Questo è particolarmente vero nei linguaggi tipizzati, dove potremmo verificare la possibilità di rendere detta firma più stringente, aggregando e/o restituendo tipi meno generici.
+Un altro caso può essere quello in cui un metodo necessiti di numerose informazioni che potrebbero essere accorpati in uno o più aggregati. Questo è particolarmente vero nei linguaggi tipizzati, dove potremmo verificare la possibilità di rendere detta firma più stringente, aggregando e/o restituendo tipi meno generici.
+
+Prendiamo ad esempio la seguente funzione:
+`function updateAddress(userId: number, street: string, city: string, zipCode: string, country: string): void {}`
+
+Questa funzione potrebbe essere semplificata tramite l'introduzione di un aggregato/tipo `Address` che possa racchiudere al proprio interno tutte le informazioni necessarie:
+`function updateAddress(userId: number, address: Address): void {}`
 In questi casi, possiamo rimuovere le informazioni in eccesso piuttosto che sostituirle con nuovi formati, modificando di fatto la firma del metodo.
 C'è però da prestare particolare attenzione a questa pratica: se modificare la firma su un piccolo progetto personale è quasi privo di controindicazioni, farlo su un ambiente su cui lavorano più persone o da cui dipendono altri software su cui non abbiamo modo di intervenire, può creare non pochi problemi. Prendete il caso di una libreria utilizzata da più team: il cambiamento di una singola firma causerebbe il mancato funzionamento di tutti i software che dipendono da essa.
 Questo non significa che non sia possibile farlo ma che bisogna agire con maggiore cautela, adottando un giusto percorso di _deprecation_. Deprecare una firma, o parte di essa, indicando quando quella firma stessa terminerà di funzionare e quale alternative adottare, dando quindi la possibilità a chi utilizza il nostro software e quel metodo in particolare di adeguarsi, è di sicuro la strada da seguire.
