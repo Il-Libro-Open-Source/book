@@ -37,11 +37,11 @@ L'identificazione e la classificazione dei sottodomini in una delle categorie so
 
 ## Ubiquitous Language (Linguaggio Onnipresente)
 
-l' Ubiquitous Language è un concetto fondamentale che riguarda lo sviluppo di un linguaggio comune tra tutti i partecipanti di un progetto software. Questo linguaggio è condiviso tra sviluppatori, analisti, stakeholder e qualsiasi altra persona coinvolta nel progetto. L'obiettivo è eliminare ambiguità e garantire che tutti comprendano esattamente gli stessi concetti quando discutono di aspetti del sistema.
+L'Ubiquitous Language è un concetto fondamentale che riguarda lo sviluppo di un linguaggio comune tra tutti i partecipanti di un progetto software. Questo linguaggio è condiviso tra sviluppatori, analisti, stakeholder e qualsiasi altra persona coinvolta nel progetto. L'obiettivo è eliminare ambiguità e garantire che tutti comprendano esattamente gli stessi concetti quando discutono di aspetti del sistema.
 
-La Ubiquitous Language è più di un semplice gergo; è un insieme di termini e frasi che sono strettamente allineati con il dominio dell'applicazione. Viene utilizzato costantemente in tutte le comunicazioni, sia nella documentazione che nelle conversazioni, e dovrebbe essere riflettuto direttamente nel codice, rendendo il codice più leggibile e comprensibile.
+Lo Ubiquitous Language è più di un semplice gergo; è un insieme di termini e frasi che sono strettamente allineati con il dominio dell'applicazione. Viene utilizzato costantemente in tutte le comunicazioni, sia nella documentazione che nelle conversazioni, e dovrebbe essere riflettuto direttamente nel codice, rendendo il codice più leggibile e comprensibile.
 
-Questo linguaggio evolve man mano che la comprensione del dominio cresce e si adatta durante lo sviluppo del software, garantendo che il linguaggio e il software rimangano perfettamente allineati con i bisogni del business. La creazione e il mantenimento di una Ubiquitous Language efficace sono cruciali per il successo dell'implementazione del DDD, poiché aiuta a prevenire malintesi e migliora la coerenza del progetto.
+Questo linguaggio evolve man mano che la comprensione del dominio cresce e si adatta durante lo sviluppo del software, garantendo che il linguaggio e il software rimangano perfettamente allineati con i bisogni del business. La creazione e il mantenimento di un Ubiquitous Language efficace sono cruciali per il successo dell'implementazione del DDD, poiché aiuta a prevenire malintesi e migliora la coerenza del progetto.
 
 ## Bounded contexts
 
@@ -73,7 +73,7 @@ la cooperazione tra i diversi Bounded Contexts è cruciale per il funzionamento 
 
 ### Partnership
 
-In questo livello di cooperazione, due o più team lavorano insieme verso obiettivi comuni, coordinando strettiamente le loro attività. Questo richiede una comunicazione frequente e un alto livello di collaborazione per assicurarsi che i cambiamenti in un contesto non abbiano impatti negativi sugli altri.
+In questo livello di cooperazione, due o più team lavorano insieme verso obiettivi comuni, coordinando strettamente le loro attività. Questo richiede una comunicazione frequente e un alto livello di collaborazione per assicurarsi che i cambiamenti in un contesto non abbiano impatti negativi sugli altri.
 
 ### Shared Kernel
 
@@ -113,7 +113,7 @@ Esempio: In un'applicazione bancaria, un conto corrente è un'entità perché pe
 
 ### Value Objects
 
-Sono oggetti che non possiedono una identità e sono definiti solo dai loro attributi. Sono immutabili, il che significa che una volta creati, i loro dati non possono essere modificati.
+Sono oggetti che non possiedono un'identità e sono definiti solo dai loro attributi. Sono immutabili, il che significa che una volta creati, i loro dati non possono essere modificati.
 
 Esempio: Un indirizzo in un sistema di gestione delle spedizioni può essere un oggetto di valore, rappresentando una combinazione di via, città, stato e CAP.
 
@@ -130,7 +130,7 @@ Esempio: Un servizio che calcola l'ammontare degli interessi su più conti potre
 
 ### Domain services
 
-Forniscono un meccanismo per accedere agli aggregati o entità, astraggendo la logica di accesso ai dati dietro un'interfaccia più orientata al dominio.
+Forniscono un meccanismo per accedere agli aggregati o entità, astraendo la logica di accesso ai dati dietro un'interfaccia più orientata al dominio.
 Esempio: Un Domain service di clienti potrebbe fornire metodi per trovare clienti specifici, aggiungere nuovi clienti, o aggiornare informazioni esistenti.
 
 ## Event sourced domain model
