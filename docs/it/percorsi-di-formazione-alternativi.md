@@ -75,7 +75,7 @@ Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dall'
 
 ## Prima fase: come approcciare lo studio
 
-Ci sono percorsi formativi che lasciano maggiore autonomia e percorsi formativi che invece seguono più assiduamente i propri alunni.
+Ci sono corsi formativi che lasciano maggiore autonomia e altri che invece seguono più assiduamente i propri studenti.
 Non ce n'è uno giusto piuttosto che uno sbagliato, l'importante è tenere a mente un altro concetto fondamentale: noi developer non smettiamo mai di imparare e, la maggior parte delle volte, impariamo per conto nostro.
 Sicuramente sarebbe meglio, almeno nella fase iniziale, avere qualcuno che ci segua ed alimenti la nostra curiosità.
 Un tutor ci permette di avere una guida, un supporto (anche morale e non solo tecnico); avere qualcuno che indirizza e che spiega all'inizio può essere d'aiuto piuttosto che chiedersi se stiamo approcciando correttamente o meno ad un problema o ad una soluzione.
