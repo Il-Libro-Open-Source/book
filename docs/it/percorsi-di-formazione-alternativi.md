@@ -118,10 +118,6 @@ Scommettere quindi su una tecnologia piuttosto che su un'altra per impostare la 
 
 Se si vuole rimanere appetibili nei confronti delle aziende e del mercato dobbiamo quindi essere in grado di adattarci ai cambiamenti e, soprattutto, aggiornarci (eh si... spesso questo processo avviene in completa autonomia).
 
-Facciamo un esempio, rimanendo sempre nel campo dei siti web.
-Prima i Layout (la parte grafica del sito web) non seguivano degli "standard" veri e propri, poi ad un certo punto sono nati dei _Framework_ (si tratta di un insieme di strumenti) che hanno definito tali standard (come ad esempio il concetto di colonne molto utile per rendere un sito web _responsive_ ovvero adattabile ad ogni dispositivo).
-
-Quindi chi progettava i Layout ha dovuto apprendere tali "standard" per non rimanere fuori mercato dato che, ovviamente, tutti i siti ad oggi sono navigabili e fruibili anche dal nostro Smartphone.
 La figura _Web Designer_ di ieri, che si limitava solamente ad impostare graficamente gli elementi a schermo, è diventata oggi _Frontend Developer_ che è in grado di mettere mano a _Framework_ e varie _librerie_.
 
 Questo concetto spiega bene 2 cose:
