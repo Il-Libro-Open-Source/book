@@ -127,7 +127,7 @@ Questo concetto spiega bene 2 cose:
 
 "Tutto bellissimo, ma come faccio a sapere se un percorso di formazione mi permette di lavorare dopo?
 Chi mi dà questa certezza dato che spesso e volentieri hanno dei costi alti?"
-Il settore della programmazione, come detto in precedenza, non è un settore in perdita e non è un settore saturo.
+Il settore della programmazione non è un settore in perdita e non è un settore saturo.
 Basta una piccola ricerca su Google o un giro nella sezione "Lavoro" di LinkedIn (impostando come criterio di ricerca `developer`) per rendersi conto di quanta domanda c'è da parte delle aziende.
 
 Inoltre spesso (anzi oserei dire che è quasi diventato uno "standard") chi propone percorsi di formazione favorisce l'incontro dei propri corsisti con alcune Aziende Partner che sono interessate ad assumere una volta terminato il percorso.
