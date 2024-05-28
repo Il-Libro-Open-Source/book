@@ -85,7 +85,7 @@ Cambiandone il nome, abbiamo reso più chiaro cosa farà e rendiamo più semplic
 
 Partendo dal presupposto che il codice è vivo, si possono verificare dei casi in cui un metodo riceva più informazioni del necessario.
 Ad esempio potremmo avere un metodo che, nella prima stesura, aveva necessità di numerose informazioni, ma, con successive riscritture, alcune di queste risultino superflue e non utilizzate.
-Un altro caso può essere quello in cui un metodo necessiti di numerose informazioni che potrebbero essere accorpati in uno o più aggregati. Questo è particolarmente vero nei linguaggi tipizzati, dove potremmo verificare la possibilità di rendere detta firma più stringente, aggregando e/o restituendo tipi meno generici.
+Un altro caso può essere quello in cui un metodo necessiti di numerose informazioni che potrebbero essere accorpate in uno o più aggregati. Questo è particolarmente vero nei linguaggi tipizzati, dove potremmo verificare la possibilità di rendere detta firma più stringente, aggregando e/o restituendo tipi meno generici.
 
 Prendiamo ad esempio la seguente funzione:
 `function updateAddress(userId: number, street: string, city: string, zipCode: string, country: string): void {}`
