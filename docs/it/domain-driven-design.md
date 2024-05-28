@@ -15,7 +15,7 @@ nav_order: 12
 
 Il Domain Driven Design é una tecnica di modellazione del codice molto utile per progetti con team medio / grandi.
 
-Il termine é stato coniato da Eric Evans nel suo libro `Domain-Driven Design: Tackling Complexity in the Heart of Software` pubblicato nel 2003
+Il termine é stato coniato da Eric Evans nel suo libro `Domain-Driven Design: Tackling Complexity in the Heart of Software` pubblicato nel 2003.
 
 ## Subdomains
 
