@@ -65,6 +65,6 @@ Come abbiamo visto, alle fondamenta di tutti questi validi approcci si trova **i
 
 ## Riferimenti
 
-- https://it.wikipedia.org/wiki/Terza_rivoluzione_industriale
-- https://agilemanifesto.org/
-- https://en.wikipedia.org/wiki/Extreme_programming
+- [https://it.wikipedia.org/wiki/Terza_rivoluzione_industriale](https://it.wikipedia.org/wiki/Terza_rivoluzione_industriale)
+- [https://agilemanifesto.org/](https://agilemanifesto.org/)
+- [https://en.wikipedia.org/wiki/Extreme_programming](https://en.wikipedia.org/wiki/Extreme_programming)
