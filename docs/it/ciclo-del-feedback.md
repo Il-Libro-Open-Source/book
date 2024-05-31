@@ -5,7 +5,7 @@ nav_order: 12
 ---
 
 <!-- prettier-ignore-start -->
-# Il Ciclo del Feedback
+# Metodologie Agile e ciclo del feedback
 {: .no_toc }
 
 - TOC
