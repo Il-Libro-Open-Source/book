@@ -1,4 +1,17 @@
+---
+layout: default
+title: AI
+nav_order: 13
+---
+
+<!-- prettier-ignore-start -->
 # AI
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## C'era una volta...
 
