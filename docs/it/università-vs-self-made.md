@@ -2,24 +2,24 @@
 
 ## La terza via: l’ITS
 
-Nel momento in cui si vuole intraprendere la via della “specializzazione” da developer, una volta concluse le scuole superiori, spesso ci si trova davanti a quello che è un bivio: _Intraprendere la via dell’Università o iniziare un percorso di autoformazione?_
+Nel momento in cui si vuole intraprendere la via della “specializzazione” da developer, una volta concluse le scuole superiori, spesso ci si trova davanti a quello che è un bivio: _intraprendere la via dell’Università o iniziare un percorso di autoformazione?_
 
-La risposta non è sempre così scontata, vista anche la soggettività del tema. Nel primo caso stiamo parlando di un percorso che dura minimo tre anni (o cinque, a seconda dell’obiettivo), strutturato e tenuto da docenti, mentre nel secondo di uno la cui durata è ignota e che si fonda esclusivamente sulla nostra organizzazione, disciplina e motivazione.
+La risposta non è sempre così scontata, vista anche la soggettività del tema. Nel primo caso stiamo parlando di un percorso che dura minimo tre anni (o cinque, a seconda dell’obiettivo), strutturato e tenuto da docenti formati e che seguono un piano di studi ben preciso, mentre nel secondo abbiamo una durata potenzialmente ignota e che si basa esclusivamente sulla nostra organizzazione, disciplina e motivazione.
 
-In molti però non sono a conoscenza di una terza via, ovvero degli [ITS (_Istituto Tecnico Superiore_)](https://www.miur.gov.it/web/guest/tematica-its) di programmazione, degli enti solitamente finanziati dalla regione e/o da alcune aziende del settore, il cui scopo è quello di formare nel giro di un paio d’anni delle figure professionali da inserire nel mondo dell’IT.
+Molte persone però non sono a conoscenza di una terza via, ovvero degli [ITS (_Istituto Tecnico Superiore_)](https://www.miur.gov.it/web/guest/tematica-its) di programmazione, degli enti solitamente finanziati dalla regione e/o da alcune aziende del settore, il cui scopo è quello di formare nel giro di un paio d’anni delle figure professionali da inserire nel mondo dell’IT.
 
 ### Un ibrido tra Teoria e Pratica
 
-**_“Come è strutturato il percorso formativo di un ITS?”_**
+**_“Com'è strutturato il percorso formativo di un ITS?”_**
 
 Per integrare in modo corretto e graduale la “Teoria” e la “Pratica”, il piano formativo standard di un ITS prevede:
 
-- **Primo Anno**: Prevalentemente dedicato alle **lezioni in aula**, dove avrai l'opportunità di apprendere dalle competenze di **docenti aziendali**<sup>1</sup> e universitari, i concetti, i linguaggi e gli strumenti fondamentali della figura professionale a cui è dedicato il corso.
+- **Primo Anno**: Prevalentemente dedicato alle **lezioni in aula**, dove si ha l'opportunità di apprendere dalle competenze di **docenti aziendali**<sup>1</sup> e universitari, i concetti, i linguaggi e gli strumenti fondamentali della figura professionale a cui è dedicato il corso.
   Inoltre c’è da menzionare che in alcuni ITS viene offerta la possibilità di prepararsi e sostenere esami per certificazioni esterne quali: [CISCO IT Essentials](https://www.netacad.com/courses/os-it/it-essentials), [ECDL](https://www.aicanet.it/aica/qualita/ecdl-full-standard) e [PET/FIRST/ecc.](https://www.cambridgeenglish.org/exams-and-tests/) per citarne solo alcune.
 
     <br>
 
-- **Secondo Anno**: Dopo una breve fase di lezioni dedicate agli ultimi moduli, mirate a esplorare concetti più avanzati, come l'_Architettura del Software_ per esempio, l'attenzione si sposterà principalmente sullo **stage lavorativo**, nonché ultima attività prima dell’esame finale (necessario per conseguire un _Diploma di [V livello EQF](https://europa.eu/europass/it/description-eight-eqf-levels)_).
+- **Secondo Anno**: Dopo una breve fase di lezioni dedicate agli ultimi moduli, mirate a esplorare concetti più avanzati, come l'_Architettura del Software_ per esempio, l'attenzione si sposta principalmente sullo **stage lavorativo**, nonché ultima attività prima dell’esame finale (necessario per conseguire un _Diploma di [V livello EQF](https://europa.eu/europass/it/description-eight-eqf-levels)_).
 
 <br>
 
