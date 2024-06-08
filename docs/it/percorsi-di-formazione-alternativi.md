@@ -35,9 +35,9 @@ Chi ricopre il ruolo di _Frontend Developer_ dovrà programmare tutta la parte "
 Chi invece ricopre il ruolo di _Backend Developer_ dovrà realizzare tutta la parte logica e funzionale "dietro le quinte" del progetto.
 Possiamo dire che è una spiegazione un po' approssimativa ma per ora dovrebbe bastare.
 
-Quindi, per sommi capi, la figura del _Fullstack Developer_ è la fusione tra _Frontend Developer_ e _Backend Developer_.
+Quindi, per sommi capi, la figura del/la _Fullstack Developer_ è la fusione tra _Frontend Developer_ e _Backend Developer_.
 
-I professionisti di settore sono ben consapevoli che ad oggi, con l'evoluzione dei linguaggi di programmazione, risulta **difficilissimo** conoscere e padroneggiare in maniera corretta ed approfondita entrambi gli aspetti (_frontend_ e _backend_), mentre i percorsi di formazione mirano piuttosto a fornire un'infarinatura generale di entrambi gli aspetti per permettere poi a chi vuole diventare _developer_ di scegliere in autonomia quale strada seguire.
+Chi lavora nel settore è ben consapevole che ad oggi, con l'evoluzione dei linguaggi di programmazione, risulta **difficilissimo** conoscere e padroneggiare in maniera corretta ed approfondita entrambi gli aspetti (_frontend_ e _backend_), mentre i percorsi di formazione mirano piuttosto a fornire un'infarinatura generale di entrambi gli aspetti per permettere poi a chi vuole diventare _developer_ di scegliere in autonomia quale strada seguire.
 
 _Con il termine "Fullstack" intendiamo una figura che però non ha necessariamente competenze sistemistiche, di infrastruttura, di UI/UX e tutte quelle nuance che al giorno d'oggi sono però fondamentali._
 
@@ -71,7 +71,7 @@ Assolutamente no.
 Il concetto è che fare siti web è più accessibile sia in termini di **risorse tecnologiche** che in termini di **know-how** di partenza, per un neofita, rispetto a fare videogiochi.
 
 "Ok, ipotizziamo che voglia partire nell'imparare a fare siti web, come scelgo il percorso giusto?"
-Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dall' approccio che si ha con lo studio; subentrano poi anche altri fattori non da poco come, ad esempio, il tempo (inteso sia come tempo a disposizione per studiare e sia come quantità di tempo necessaria per raggiungere lo scopo), oppure gli sbocchi lavorativi.
+Non c'è una risposta corretta o sbagliata a questa domanda, tutto dipende dall'approccio che si ha con lo studio; subentrano poi anche altri fattori non da poco come, ad esempio, il tempo (inteso sia come tempo a disposizione per studiare e sia come quantità di tempo necessaria per raggiungere lo scopo), oppure gli sbocchi lavorativi.
 
 ## Prima fase: come approcciare lo studio
 
