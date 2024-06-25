@@ -96,15 +96,15 @@ I pattern comportamentali definiti dalla GOF sono:
   Un esempio tipico può essere il cursore per la lettura di una datasource.
 - Mediator: incapsula l'interazione fra i vari oggetti di un loro insieme facendo in modo che la comunicazione col client venga gestita sempre da una unica entità favorendo il disaccoppiamento fra gli oggetti stessi.
 - Memento: si occupa di memorizzare lo stato corrente di un altro oggetto detto Originator cercando di non violare l'incapsulamento. Può essere utile nei casi in cui si possa avere uno storico dell'oggetto stesso richiedendo al Memento il ripristino di uno stato precedente. (Il cosiddetto Undo/Redo)
-- Observer: è una struttura formata da un Observer che osserva un cambiamento di stato di un Soggetto che possiamo definire Observable (Osservabile o Osservato) che fa appunto accadere quando lo stato all'interno di esso cambia. Esistono Librerie con RxJS si basano principalmente su questo pattern. Quando l'Observable cambia stato tutti gli Observer registrati ricevono l'informazione del cambiamento.
+- Observer: è una struttura formata da un Observer che osserva un cambiamento di stato di un Subject (o Soggetto) che possiamo definire Observable (Osservabile o Osservato) che fa appunto accadere quando lo stato all'interno di esso cambia. Esistono Librerie con RxJS si basano principalmente su questo pattern. Quando l'Observable cambia stato tutti gli Observer registrati ricevono l'informazione del cambiamento.
 - State: è di fatto riconducibile ad un diagramma a stati finiti; consente ad un oggetto di modificare il proprio comportamento al cambiamento (ed in base) al suo stato interno.
 - Strategy: permette di scegliere più comportamenti di un algoritmo (generalmente una variante di esso) a runtime associandolo (incapsulandolo) in una singola classe che lo implementa
-- Template method: E' generalmente un metodo che implementa lo scheletro di un algorirmo e al suo interno possono essere chiamate parti (generalmente step) utilizzando la sovrascrittura dei passi senza dover cambiare la struttura del client chiamante.
+- Template method: è generalmente un metodo che implementa lo scheletro di un algorirmo e al suo interno possono essere chiamate parti (generalmente step) utilizzando la sovrascrittura dei passi senza dover cambiare la struttura del client chiamante.
 - Visitor: in esso si separa una struttura dati dalla logica di attraversamento (visita) dell'algoritmo di visita e quindi dalle operazioni fatte su di essa. Gli algoritmi di visita possono cambiare senza cambiare la struttura del client.
 
 ## Altri pattern
 
-Come già detto la Gang of four ha iniziato a definirli e successivamente sulla loro falsa riga ne sono stati individuati altri che descriveremo brevemente di seguito.
+Come già detto la Gang of Four ha iniziato a definirli e successivamente sulla loro falsa riga ne sono stati individuati altri che descriveremo brevemente di seguito.
 
 - Client/Server: è un pattern cosiddetto architetturale poichè può essere ad esempio l'architettura del prodotto che si vuole sviluppare. Esistono due "componenti" il client che effettua richieste ed il server che le riceve e risponde ad uno o più client.\
   Esempio classico sono quasi tutti i server di database che ad ogni richiesta, ad esempio di esecuzione di una query, rispondono con i risultati.
