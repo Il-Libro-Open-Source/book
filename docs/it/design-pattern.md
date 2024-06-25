@@ -19,7 +19,7 @@ Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 - [Design Patterns su Wikipedia Inglese](https://en.wikipedia.org/wiki/Design_pattern)
 
 Il libro della Gang of Four identifica un elenco iniziale di design pattern, ognuno dei quali ha un nome che identifica la soluzione al problema generico che andrà a risolvere.
-Generalmente chi sta sviluppando una certa porzione di codice per implementare una o più funzionalità potrebbe "riconoscere" un design pattern durante l'analisi di un problema specifico che si sta cercando di risolvere e decidere di applicarlo, ottenendo una serie di vantaggi, tra cui:
+Durante lo sviluppo, può essere semplice individuare e applicare un design pattern mentre si analizza un problema specifico, ottenendo una serie di vantaggi, tra cui:
 
 - **Facilità di riuso e test del software**: ogni design pattern è stato studiato e catalogato di modo da essere una soluzione (quasi) universale ad ogni problema analogo a quello descritto; di conseguenza è possibile utilizzare un'implementazione simile in diverse porzioni di codice. All'interno della letteratura, questi pattern sono solitamente accompagnati da suggerimenti e metodologie per eseguire del testing, il che rende il processo di scrittura dei test automatizzati più semplice ed efficace.
 - **Miglior comprensione del codice**: essendo conosciuti e avendo un nome inequivocabile, è possibile riconoscere i design pattern e creare un linguaggio comune quando si documenta e sviluppa il software.
@@ -34,9 +34,8 @@ Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano
 **Come sempre, alla domanda se sia meglio utilizzarli o no, risponderemo con un cauto: _dipende_.**
 
 In generale, non è sempre facile attribuire ad un problema esistente un dato design pattern e applicarlo; a volte la soglia tra l'applicazione di un pattern e un altro può essere molto sottile. Per questa ragione, è consigliato scomporre un problema complesso in altri più piccoli, utilizzando la metodologia nota come _divide et impera_, che rende più semplice individuare dei pattern specifici per i singoli problemi scomposti.
-A volte invece questa scomposizione non è possibile e, nel caso, si può comunque fare il refactoring scegliendo quello più simile o anche quello più conveniente.
+Non sempre, però, è possibile scomporre in questo modo un problema, e alle volte bisogna arrendersi alla impossibilità di applicare uno specifico pattern, adottando invece il puro buon senso e arrivando alla soluzione con gli strumenti che si hanno a disposizione.
 
-**È importante sottolineare che non ci sono dei vincoli stringenti che ne impongono l'utilizzo;** \
 è possibile applicarli singolarmente, oppure applicarne più di uno; chiaramente una aderenza maggiore implica la facilità nel riconoscerli da parte di altri/e dev che conoscono l'argomento.
 
 Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.\
@@ -75,8 +74,8 @@ I Pattern strutturali definiscono uno schema progettuale atto a risolvere proble
 
 I pattern strutturali definiti dalla GOF sono:
 
-- Adapter: è un pattern che traduce le chiamate eseguite da una interfaccia in chiamate per la comunicazione con un'altra. Fornisce una soluzione astratta al problema della interoperabilità fra interfacce. Nella vita reale abbiamo ad esempi gli adattatori delle spine.
-- Bridge: è un design pattern che separa una astrazione dalla sua separazione. Questo avviene separando l'interfaccia dalla sua implementazione potendo ad esempio cambiare facilmente l'implementazione. Un esempio molto utilizzato è il JDBC o in generale i driver dei database.
+- Adapter: è un pattern che permette di interporre tra due interfacce che devono comunicare tra loro un _adattatore_, che traduce le chiamate in entrambe le direzioni nella maniera che ognuna di essere si aspetta. Fornisce una soluzione astratta al problema della interoperabilità fra interfacce. Nella vita reale abbiamo ad esempi gli adattatori delle spine.
+- Bridge: è un design pattern strutturale che consente di dividere una classe di grandi dimensioni o un insieme di classi strettamente correlate in entità separate, astrazione e implementazione, che possono essere sviluppate indipendentemente l'una dall'altra. Solitamente questo pattern, per via del modo in cui è implementato, viene chiamato anche _composition-over-inheritance_.
 - Decorator: è un pattern che permette di aggiungere funzionalità attraverso il wrapping, cioè incapsulando un oggetto esistente.
   Di conseguenza il nuovo oggetto avrà sia le funzionalità dell'oggetto originale che le nuove funzionalità aggiunte tramite decoratore.
 - Façade: è un pattern che permette la semplificazione di un insieme complesso di classi o parti di un sistema, tramite la creazione di classi _di facciata_ che espongano solo le funzionalità più utili.
