@@ -82,7 +82,6 @@ I pattern strutturali definiti dalla GOF sono:
 - Flyweight: è un pattern che permette di ottimizzare l'utilizzo della memoria di un sistema tramite il riutilizzo di membri comuni tra molti oggetti, senza doverne istanziare costantemente di nuovi. Ad esempio, se ho la necessità di realizzare 1.000 oggetti della classe _Dog_ che, tramite un metodo _Move_, modificano la propria posizione, è molto più sensato separare la classe _Dog_ in due classi, _Dog_ e _MovingDog_, collezionando nella prima le informazioni _statiche_, come razza e nome, mentre nella seconda le informazioni di _stato_ o _dinamiche_, come la posizione.
 - Proxy: si interpone tra un oggetto (di solito di servizio) e il mondo esterno con cui comunica, utilizzando la stessa interfaccia, ma alterandone il comportamento. Un esempio sono i Proxy server che agiscono da intermezzo tra la propria macchina e il web, alterando e verificando ogni chiamata in ingresso e in uscita da essi, garantendo anonimato e un buon grado di sicurezza.
 
-Come visibile (dove?), compare una struttura davanti al nostro client che può variare in ogni design pattern. Ad esempio, nell'adapter la struttura cambia l'interfaccia (in quanto struttura della classe), nel Bridge cambia l'implementazione, nel Facade cambia ancora l'interfaccia che risulta più semplice.
 
 ## Patterns comportamentali
 
