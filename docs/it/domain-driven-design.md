@@ -17,6 +17,29 @@ Il Domain Driven Design é una tecnica di modellazione del codice molto utile pe
 
 Il termine é stato coniato da Eric Evans nel suo libro `Domain-Driven Design: Tackling Complexity in the Heart of Software` pubblicato nel 2003.
 
+## Pro / Cons
+
+## Perché usare il Domain Driven Design?
+
+- Allineamento tra business e tecnologia: Il DDD promuove una stretta collaborazione tra sviluppatori e esperti di dominio, assicurando che il software rispecchi fedelmente le esigenze e i processi del business.
+- Gestione della complessità: Suddividendo il dominio in sottodomini più piccoli e più gestibili, il DDD aiuta a mantenere la complessità del sistema sotto controllo.
+- Manutenibilità: Grazie a una chiara separazione delle responsabilità e a un focus sulla coesione interna dei modelli di dominio, il codice risultante è più facile da mantenere e da estendere.
+- Comunicazione efficace: L'uso di un linguaggio comune (Ubiquitous Language) tra tutti i membri del team di sviluppo e gli esperti di dominio migliora la comunicazione e riduce le ambiguità.
+
+## Vantaggi del Domain Driven Design
+
+- Adattabilità: Dato che il DDD si basa su una profonda comprensione del dominio, il software può adattarsi più facilmente ai cambiamenti del business.
+- Qualità del codice: Promuovendo pratiche di buon design come l'incapsulamento e la separazione delle preoccupazioni, il DDD conduce a un codice di alta qualità e ben strutturato.
+- Riduzione dei rischi: Identificando chiaramente le aree di complessità e focalizzandosi su di esse, il DDD aiuta a ridurre i rischi associati allo sviluppo software.
+- Focus sugli obiettivi di business: Mantenendo costantemente il focus sugli obiettivi e sui processi del business, il DDD assicura che il software sviluppato abbia un impatto positivo e diretto sull'organizzazione.
+
+## Svantaggi del Domain-Driven Design
+
+- Complessità iniziale: Implementare DDD richiede un investimento significativo in termini di tempo e risorse per comprendere appieno il dominio e formare il team sui concetti del DDD.
+- Costi elevati: La necessità di una continua interazione con gli esperti di dominio e la possibile necessità di ristrutturare il codice esistente possono comportare costi elevati.
+- Curva di apprendimento: Per i team non abituati a lavorare con il DDD, la curva di apprendimento può essere ripida, richiedendo formazione e tempo per diventare produttivi.
+- Non sempre necessario: In progetti piccoli o con domini semplici, l'overhead introdotto dal DDD potrebbe non giustificare i benefici, rendendolo un approccio sovradimensionato.
+
 ## Subdomains
 
 Il Domain Driven Design (DDD) suddivide il dominio di un'applicazione in varie tipologie di sottodomini per affrontare differenti aspetti di un sistema complesso. Ecco una breve descrizione dei principali tipi di sottodominio nel DDD:
