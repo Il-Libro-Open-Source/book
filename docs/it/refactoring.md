@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Refactor
+title: Refactoring
 nav_order: 14
 ---
 
 <!-- prettier-ignore-start -->
-# Refactor
+# Refactoring
 {: .no_toc }
 
 - TOC
