@@ -29,7 +29,7 @@ Il termine é stato coniato da Eric Evans nel suo libro `Domain-Driven Design: T
 ## Vantaggi del Domain-Driven Design
 
 - Adattabilità: Dato che il DDD si basa su una profonda comprensione del dominio, il software può adattarsi più facilmente ai cambiamenti del business.
-- Qualità del codice: Promuovendo pratiche di buon design come l'incapsulamento e la separazione delle preoccupazioni, il DDD conduce a un codice di alta qualità e ben strutturato.
+- Qualità del codice: Promuovendo pratiche di buon design come l'incapsulamento e la separazione delle preoccupazioni, sfruttando il DDD è possibile produrre del codice di alta qualità e ben strutturato.
 - Riduzione dei rischi: Identificando chiaramente le aree di complessità e focalizzandosi su di esse, il DDD aiuta a ridurre i rischi associati allo sviluppo software.
 - Focus sugli obiettivi di business: Mantenendo costantemente il focus sugli obiettivi e sui processi del business, il DDD assicura che il software sviluppato abbia un impatto positivo e diretto sull'organizzazione.
 
