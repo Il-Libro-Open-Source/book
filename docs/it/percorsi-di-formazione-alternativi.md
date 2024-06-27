@@ -18,7 +18,7 @@ Chi ricopre il ruolo di _Fullstack Developer_, teoricamente, conosce uno o più 
 Qui si apre uno scenario enorme che cercheremo di ridurre molto semplicemente come segue.
 Stiamo parlando di **formazione** in ambito **programmazione**, quindi di quali strade si possono percorrere per imparare a programmare, e dunque entrare nel mondo dello sviluppo software.
 Quindi chi scrive codice crea il programma.
-Il programma è composto da una parte grafica ed una parte logica.
+Il programma è tendenzialmente composto da una parte grafica ed una parte logica.
 
 Prendiamo l'esempio dell'ambito più semplice (in termini di comprensione) nel settore tech: il web.
 Un programma sul web è un _sito web_, il quale è composto da una parte grafica, che permette all'utente di interagire, ed una parte logica, che a sua volta interpreta le azioni dell'utente.
@@ -116,7 +116,7 @@ La programmazione è un trend in costante crescita dato che è una materia in co
 
 Scommettere quindi su una tecnologia piuttosto che su un'altra per impostare la propria carriera lavorativa potrebbe essere un errore: il rischio di diventare un "dinosauro" e ritrovarsi fuori mercato è troppo alto.
 
-Se si vuole rimanere appetibili nei confronti delle aziende e del mercato dobbiamo quindi essere in grado di adattarci ai cambiamenti e, soprattutto, aggiornarci (eh si... spesso questo processo avviene in completa autonomia).
+Se si vuole rimanere appetibili nei confronti delle aziende e del mercato dobbiamo quindi essere in grado di adattarci ai cambiamenti e, soprattutto, aggiornarci. La formazione è un tema piuttosto spinoso per molte aziende, quindi mentre in alcune di queste vengono proposti percorsi di formazione interni strutturati, è importante considerare che la formazione e l'aggiornamento dovrà partire in primis da noi, in autonomia.
 
 La figura _Web Designer_ di ieri, che si limitava solamente ad impostare graficamente gli elementi a schermo, è diventata oggi _Frontend Developer_ che è in grado di mettere mano a _Framework_ e varie _librerie_.
 
