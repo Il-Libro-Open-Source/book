@@ -1,4 +1,17 @@
+---
+layout: default
+title: Refactor
+nav_order: 14
+---
+
+<!-- prettier-ignore-start -->
 # Refactor
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Che cos'è il refactoring
 
