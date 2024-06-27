@@ -34,7 +34,7 @@ Non sempre è utile effettuare refactoring.
 Ci sono casi in cui il codice è già perfettamente ottimizzato anche se, a una vista inesperta, potrebbe risultare di difficile lettura.
 Ci sono casi in cui le performance sono fondamentali e i principi SOLID non sono sempre rispettati. In questo caso, il refactoring ci porterebbe a creare dei layer aggiuntivi di codice che, sebbene possa rendere il codice più comprensibile, avrebbe un impatto negativo sulle performance. Un esempio sono le librerie che permettono le connessioni con delle basi di dati, dove magari è fondamentale la gestione della latenza.
 In questi casi, ma più in generale, è necessario tenere a mente che l'attività di refactoring ha tra gli obiettivi quello di rivedere il codice rendendolo più mantenibile, nonché rifattorizzabile.
-Diretta conseguenza di questo obiettivo, è la sua applicazione nella pratica del TDD (Test Driven Development), dove il refactoring copre uno degli step.
+Diretta conseguenza di questo obiettivo è la sua applicazione nella pratica del TDD (Test Driven Development), dove il refactoring copre uno degli step.
 
 ## Come
 
@@ -52,9 +52,9 @@ Per farlo, potremmo iniziare con:
 
 Forse il metodo più popolare, utilizzato per mettere in pratica il TDD (Test Driven Development), dove chi sviluppa suddivide il processo di scrittura del codice in tre fasi:
 
-- Analizza quali sono le esigenze e scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
-- Scrive il codice necessario affinché il test passi (_Green_);
-- Lo migliora (_Refactoring_)
+- Si analizzano quali sono le esigenze e si scrive dapprima il test, che, per ovvi motivi, fallirà (_Red_);
+- Si scrive il codice necessario affinché il test passi (_Green_);
+- Lo si migliora (_Refactoring_)
 
 ### Rinominare i metodi oscuri
 
@@ -173,5 +173,5 @@ A volte riescono a fare miracoli, ma a noi preme focalizzarci su un punto della 
 Quanto effort occorre ad effettuare del refactoring con questi strumenti? O meglio, quanto semplificano la vita di chi sviluppa?
 È innegabile che sono dei validi aiuti e che sono formidabili nel farci notare parti di codice da semplificare a cui, magari, non avevamo nemmeno fatto caso.
 Tuttavia, affidare il refactoring all'automazione può creare delle situazioni in cui il codice modificato è così tanto, da rendere complicato il controllo da parte di chi sviluppa, tanto che potrebbe avere la tentazione di prendere in blocco tutte le modifiche. Se poi siamo in presenza di una scarsa copertura di test, la frittata è fatta.
-C'è poi un altro aspetto da considerare: la **specificità**. Gli strumenti utilizzati sono perfettamente in grado di identificare un eventuale problema e a darci indici di complessità. Ma non riescono a renderci edotti del codice nel suo complesso. Senza conoscere come le varie parti del codice interagiscono nel contesto, difficilmente riusciremo a individuare eventuali errori logici o colli di bottiglia.
+C'è poi un altro aspetto da considerare: la **specificità**. Gli strumenti utilizzati sono perfettamente in grado di identificare un eventuale problema e a darci indici di complessità, ma non riescono a renderci edotti del codice nel suo complesso. Senza conoscere come le varie parti del codice interagiscono nel contesto, difficilmente riusciremo a individuare eventuali errori logici o colli di bottiglia.
 Ciò nonostante, rimangono degli ottimi aiutanti: se ad essi affidiamo la correzione di tutti quegli "errori" semplici, come la tipizzazione delle variabili (nel caso di linguaggi tipizzati, ovviamente) o la riscrittura di una funzione utilizzando il pattern _Early Return_, ci ritroveremo a dover rifattorizzare del codice già scremato, lasciando la nostra mente libera di concentrarsi sul resto del lavoro da fare.
