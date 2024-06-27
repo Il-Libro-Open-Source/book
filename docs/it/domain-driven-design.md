@@ -26,7 +26,7 @@ Il termine é stato coniato da Eric Evans nel suo libro `Domain-Driven Design: T
 - Manutenibilità: Grazie a una chiara separazione delle responsabilità e a un focus sulla coesione interna dei modelli di dominio, il codice risultante è più facile da mantenere e da estendere.
 - Comunicazione efficace: L'uso di un linguaggio comune (Ubiquitous Language) tra tutti i membri del team di sviluppo e gli esperti di dominio migliora la comunicazione e riduce le ambiguità.
 
-## Vantaggi del Domain Driven Design
+## Vantaggi del Domain-Driven Design
 
 - Adattabilità: Dato che il DDD si basa su una profonda comprensione del dominio, il software può adattarsi più facilmente ai cambiamenti del business.
 - Qualità del codice: Promuovendo pratiche di buon design come l'incapsulamento e la separazione delle preoccupazioni, il DDD conduce a un codice di alta qualità e ben strutturato.
