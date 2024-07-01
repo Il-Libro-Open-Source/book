@@ -39,7 +39,9 @@ La ricerca di pattern, come già citato, può essere molto utile poiché ci cons
 Il problema di entrambi gli approcci è che si basano sulla nostra conoscenza e capacità di osservazione e studio.
 
 La condivisione e la contaminazione con il business e con figure con esperienze diverse dalla nostra possono risultare una chiave fondamentale per risolvere i problemi apparentemente più complessi.
-Si può infrangere questa barriera effettuando dei meeting di condivisione e di stima delle entità dei problemi in gruppo; il problema visto da angolazioni differenti può svelare caratteristiche di cui non avevamo tenuto conto, anche solo un singolo confronto può portare grande valore ma più è di gruppo meglio è.
+Ma come possiamo ottenere contaminazione e condivisione in maniera efficace?
+
+Si possono organizzare dei meeting di condivisione e di stima dei problemi; il problema visto da angolazioni differenti può svelare caratteristiche di cui non avevamo tenuto conto, e anche un singolo confronto può risultare fondamentale nel risolvere una problematica che sembrava insormontabile.
 In alcuni framework agili ci sono proprio dei momenti per questo tipo di approccio, per citarne uno: "planning poker". Una gamification di questo processo che si svolge intorno ad un tavolo dove ogni persona, usando un mazzo di carte appositamente numerato (spesso usando Fibonacci), dà la sua stima esprimendo il suo punto di vista. Si svolgono più mani proprio come a poker, ascoltare il punto di vista degli altri e le loro considerazioni consentono di arrivare ad una convergenza appunto di una visione condivisa del problema e quindi ad una stima.
 
 #### MVP
