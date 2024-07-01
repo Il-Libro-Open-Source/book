@@ -29,7 +29,11 @@ Per saperlo è necessario avere delle specifiche ed è facile intuire che più s
 
 #### Condivisione
 
-La ricerca di pattern, abbiamo detto, è molto utile perché ci consente di riconoscere cose già viste o fatte; per quelle non conosciute il PoC e/o del tempo allocato per lo studio è un ottimo approccio. Resta però che così è vincolato alla nostra mera conoscenza dell'argomento, abbiamo un solo punto di vista che al più possiamo contaminare leggendo quello degli altri su articoli o libri ma l'opinione dal vivo racchiude molto più valore.
+La ricerca di pattern, come già citato, può essere molto utile poiché ci consente di riconoscere requisiti o funzionalità già visti o fatti; abbiamo poi accennato al concetto di Proof of Concept, che aiuta laddove ci si trovi davanti ad un problema nuovo. 
+
+Il problema di entrambi gli approcci è che si basano sulla nostra conoscenza e capacità di osservazione e studio.
+
+La condivisione e la contaminazione con il business e con figure con esperienze diverse dalla nostra possono risultare una chiave fondamentale per risolvere i problemi apparentemente più complessi.
 Si può infrangere questa barriera effettuando dei meeting di condivisione e di stima delle entità dei problemi in gruppo; il problema visto da angolazioni differenti può svelare caratteristiche di cui non avevamo tenuto conto, anche solo un singolo confronto può portare grande valore ma più è di gruppo meglio è.
 In alcuni framework agili ci sono proprio dei momenti per questo tipo di approccio, per citarne uno: "planning poker". Una gamification di questo processo che si svolge intorno ad un tavolo dove ogni uno, usando un mazzo di carte appositamente numerato (spesso usando Fibonacci), dà la sua stima esprimendo il suo punto di vista. Si svolgono più mani proprio come a poker, ascoltare il punto di vista degli altri e le loro considerazioni consentono di arrivare ad una convergenza appunto di una visione condivisa del problema e quindi ad una stima.
 
