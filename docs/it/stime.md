@@ -1,6 +1,6 @@
 #### Comprendere il processo
 
-Quando si parla di stima si intende riuscire a delineare un confine temporale per la realizzazione di un'opera di qualche genere. Ci troviamo di fronte ad un tema controverso, chiedendo a dieci persone probabile che otterremo dieci risposte diverse con metodi o approcci anche molto distanti. Qui non vogliamo andare nel profondo di uno o più metodi ma chiarire il tema per comprenderlo e dare degli strumenti e spunti di approfondimento.
+Quando si parla di stima si intende riuscire a delineare un confine temporale per la realizzazione di un'opera di qualche genere. Ci troviamo di fronte ad un tema controverso, e sicuramente chiedendo a dieci persone cosa rappresenta per loro una stima, probabilmente  otterremo dieci risposte diverse con metodi o approcci anche molto distanti. Qui non vogliamo andare nel profondo di uno o più metodi, ma chiarire il tema per comprenderlo e dare degli strumenti e spunti di approfondimento.
 
 Nell'ambito informatico, la stima, può essere usata per dare una dimensione ad un task o ad un intero progetto, aiuta il business a delineare un'idea o a pianificare le attività ed è quindi piuttosto importante perché consente di prendere decisioni su come spendere le risorse; dobbiamo ricordarci infatti che lo sviluppo è parte del business, per molti versi lo stiamo facendo anche noi quando programmiamo.
 
