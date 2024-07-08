@@ -6,6 +6,8 @@ Nella realtà dei fatti il lavoro da remoto è un argomento molto discusso e div
 
 Non sono solo le aziende però ad avere idee contrastanti, anche all'interno della community dev ci si divide tra chi non metterebbe mai più piede in un ufficio, chi non sa stare senza la pausa caffè alle macchinette con colleghi e colleghe e chi semplicemente, anche questa volta, sta nel mezzo.
 
+In questo capitolo attraversiamo il mondo del lavoro da remoto, cercando di capirne vantaggi e svantaggi, con la premessa che chi ha scritto inizialmente il capitolo è un nomade digitale e quindi porta qui anche un po' della propria esperienza personale.
+
 A parte freelance e dev che lavorano in maniera indipendente, le possibilità di lavoro da remoto all'interno delle aziende sono cambiate molto negli anni, con un vero e proprio sparti-acque tra _pre_ e _post_ pandemia da COVID-19.
 
 ## In principio fu il Telelavoro
@@ -84,6 +86,6 @@ Questa è sicuramente una possibilità concreta ed è innegabile che l'essere fi
 
 Infine spesso si evidenzia un aumento del turn over all'interno delle aziende, ovvero è più facile che chi lavora da remoto si licenzi perché non è riuscito a creare un reale legame con i colleghi né quel senso di appartenenza aziendale che contraddistingue solitamente chi lavora in ufficio.
 
-Questa criticità dovrebbe essere supportata da dati più concreti, ma è dimostrabile come il lavoro in presenza non sia sinonimo di clima aziendale positivo e che molte aziende full remote riescano a creare una sinergia tra le persone grazie alla condivisione di valori e all'organizzazione di eventi in persona, per fare il famoso team building, dimostrando un reale interesse a creare un gruppo coeso e soddisfatto del proprio lavoro.
+Tuttavia è dimostrabile come il lavoro in presenza non sia sinonimo di clima aziendale positivo e che molte aziende full remote riescano a creare una sinergia tra le persone grazie alla condivisione di valori e all'organizzazione di eventi in persona, per fare il famoso team building, dimostrando un reale interesse a creare un gruppo coeso e soddisfatto del proprio lavoro.
 
 È evidente che non ci sia una risposta definitiva alla domanda che ci siamo posti qualche riga fa, ma è molto probabile che come spesso accade la risposta stia nel mezzo: lavorare da remoto funziona se si vuole farlo funzionare, accentandone i limiti e lasciando la libertà alle persone di poter decidere come organizzare al meglio il proprio lavoro e la propria vita.
