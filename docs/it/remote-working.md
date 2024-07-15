@@ -34,7 +34,7 @@ Possiamo quindi vedere nello smart working la diretta evoluzione del classico la
 
 ## Full remote o morte
 
-Spesso però l'alternanza ufficio/casa non è abbastanza, sia per il developer che per l'azienda, ed ecco che il sogno diventa realtà: si lavora esclusivamente da remoto.
+Spesso però l'alternanza ufficio/casa non è abbastanza, sia per l'individuo che per l'azienda, ed ecco che il sogno diventa realtà: si lavora esclusivamente da remoto.
 
 In questo caso si tratta di aziende strutturate per avere il proprio team completamente a distanza, che decidono così di abbattere completamente - o quasi - i costi di gestione di un ufficio ed avere il personale dislocato in luoghi diversi, spesso anche in nazioni o addirittura continenti diversi.
 
