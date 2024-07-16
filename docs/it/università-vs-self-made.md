@@ -35,7 +35,7 @@ Chiusa questa parentesi, il sito dell’**_[INDIRE](https://www.indire.it/proget
 
 Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso (quindi con un test di ammissione) e alla portata di tutti dal punto di vista economico, dal momento che l’iscrizione è gratuita o a costo molto ridotto. Solitamente viene fornito un PC da poter utilizzare durante le lezioni e dedicato completamente alla programmazione, ma soprattutto, ciò che contraddistingue l’ITS (e il motivo per cui viene citato in questo capitolo) è la sua **dualità tra lezioni in aula e stage in azienda** per poter testare in modo pratico “sul campo” i concetti appresi.
 
-È vero, la preparazione concettuale/teorica potrebbe risultare meno solida di quella universitaria, ma sicuramente giocherà a nostro favore in ambito aziendale, in quanto più improntata al mondo del lavoro. Ed è proprio qua, che sfruttando le occasioni lavorative e gli incontri con i professionisti del settore deve subentrare la nostra proattività e la nostra curiosità, per sfruttare al meglio le competenze di partenza che abbiamo acquisito!
+È vero, la preparazione concettuale/teorica potrebbe risultare meno solida di quella universitaria, ma sicuramente favorevole in ambito aziendale, in quanto più improntata al mondo del lavoro. Ed è proprio qua, che sfruttando le occasioni lavorative e gli incontri con i professionisti del settore deve subentrare la proattività e la curiosità, per sfruttare al meglio le competenze di partenza che abbiamo acquisito!
 
 Per esempio, le lezioni di Python che ho seguito in Accademia mi hanno incuriosito e vorrei saperne ancora di più su questo linguaggio. Ottimo! Partendo da questa "infarinatura" posso apprendere più facilmente, anche in maniera autonoma.
 
