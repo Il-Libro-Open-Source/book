@@ -41,7 +41,7 @@ Per esempio, le lezioni di Python che ho seguito in Accademia mi hanno incuriosi
 
 Tramite questo percorso, passando per gli stage, si possono acquisire anche competenze su argomenti che non sono stati affrontati in aula. Magari potrei trovarmi a svolgere uno stage in un’azienda che usa VUE.js. Ho seguito le lezioni su JavaScript, ma questo framework non è mai stato trattato. Ecco un’ottima opportunità per impararlo ora.
 
-L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza, che oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓) ci aiuterà a crescere come figura professionale e a farci notare da aziende dove è più facile fare esperienza e assimilare concetti nuovi.
+L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza che, oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓), ci aiuterà a crescere come figura professionale e a farci notare da aziende dove è più facile fare esperienza e assimilare concetti nuovi.
 
 ---
 
