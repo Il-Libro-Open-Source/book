@@ -2,7 +2,7 @@
 
 ## La terza via: l’ITS
 
-Nel momento in cui si vuole intraprendere la via della “specializzazione” da developer, una volta concluse le scuole superiori, spesso ci si trova davanti a quello che è un bivio: _intraprendere la via dell’Università o iniziare un percorso di autoformazione?_
+Nel momento in cui si vuole intraprendere la via della “specializzazione” da developer, una volta concluse le scuole superiori, spesso ci si trova davanti a quello che è, a tutti gli effetti, un bivio: _intraprendere la via dell’Università o iniziare un percorso di autoformazione?_
 
 La risposta non è sempre così scontata, vista anche la soggettività del tema. Nel primo caso stiamo parlando di un percorso che dura minimo tre anni (o cinque, a seconda dell’obiettivo), strutturato e tenuto da docenti formati e che seguono un piano di studi ben preciso, mentre nel secondo abbiamo una durata potenzialmente ignota e che si basa esclusivamente sulla nostra organizzazione, disciplina e motivazione.
 
