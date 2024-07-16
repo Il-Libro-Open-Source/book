@@ -17,19 +17,13 @@ Per integrare in modo corretto e graduale la “Teoria” e la “Pratica”, il
 - **Primo Anno**: Prevalentemente dedicato alle **lezioni in aula**, dove si ha l'opportunità di apprendere dalle competenze di **docenti aziendali**<sup>1</sup> e universitari, i concetti, i linguaggi e gli strumenti fondamentali della figura professionale a cui è dedicato il corso.
   Inoltre c’è da menzionare che in alcuni ITS viene offerta la possibilità di prepararsi e sostenere esami per certificazioni esterne quali: [CISCO IT Essentials](https://www.netacad.com/courses/os-it/it-essentials), [ECDL](https://www.aicanet.it/aica/qualita/ecdl-full-standard) e [PET/FIRST/ecc.](https://www.cambridgeenglish.org/exams-and-tests/) per citarne solo alcune.
 
-<br>
-
 - **Secondo Anno**: Dopo una breve fase di lezioni dedicate agli ultimi moduli, mirate a esplorare concetti più avanzati, come l'_Architettura del Software_ per esempio, l'attenzione si sposta principalmente sullo **stage lavorativo**, nonché ultima attività prima dell’esame finale (necessario per conseguire un _Diploma di [V livello EQF](https://europa.eu/europass/it/description-eight-eqf-levels)_).
-
-<br>
 
 **_“Come posso trovare gli ITS?”_**
 
 Prima di rispondere a questa domanda, è bene precisare che gli ITS in Italia offrono una vasta gamma di corsi dedicati a settori diversi, tra cui tecnologia, industria, e servizi. Per ovvi motivi in questo libro, più precisamente in questo capitolo, si parlerà di quelli legati al settore IT.
 
 Chiusa questa parentesi, il sito dell’**_[INDIRE](https://www.indire.it/progetto/its-istituti-tecnici-superiori/dove-sono-gli-its/)_** (_Istituto Nazionale Documentazione Innovazione Ricerca Educativa_) è sicuramente la miglior risposta a questa domanda. Ovviamente non l’unica, ma sicuramente tra tutte le pagine risulta essere la più completa, presentando anche a sostegno i dati relativi agli ITS della regione e all’occupazione degli studenti diplomati.
-
-<br>
 
 **“_Perché l’ITS potrebbe risultare un’ottima via?”_**
 
