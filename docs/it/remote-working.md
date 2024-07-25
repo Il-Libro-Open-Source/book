@@ -40,9 +40,9 @@ In questo caso parliamo di aziende strutturate per avere il proprio team complet
 
 Questo sblocca molte possibilità per noi developer:
 
-* non doverci trasferire se la nostra area non offre possibilità di lavoro;
-* lavorare per aziende estere, cosa che spesso risulta economicamente vantaggiosa;
-* spostarci e lavorare viaggiando, cosa di cui parleremo più avanti nel capitolo.
+- non doverci trasferire se la nostra area non offre possibilità di lavoro;
+- lavorare per aziende estere, cosa che spesso risulta economicamente vantaggiosa;
+- spostarci e lavorare viaggiando, cosa di cui parleremo più avanti nel capitolo.
 
 I vantaggi principali per le aziende invece sono, come già detto, l'abbattimento dei costi fissi (no ufficio, no bollette) e la possibilità di assumere developer che ricoprano con più precisione i profili ricercati, non dovendosi limitare a cercare tra persone della stessa area geografica o disposte a trasferirsi.
 
@@ -56,17 +56,17 @@ Se fino a qualche anno fa lavorare viaggiando era prerogativa di lavoratori free
 
 I vantaggi di lavorare viaggiando sono molteplici:
 
-* esplorare nuovi paesi senza dover prendere ferie;
-* vivere per lunghi periodi in paesi con costo della vita più basso;
-* cercare un clima più adatto alle proprie abitudini - periodi caldi d'inverno, freschi d'estate, ad esempio;
-* fare nuove esperienze fuori dall'orario di lavoro.
+- esplorare nuovi paesi senza dover prendere ferie;
+- vivere per lunghi periodi in paesi con costo della vita più basso;
+- cercare un clima più adatto alle proprie abitudini - periodi caldi d'inverno, freschi d'estate, ad esempio;
+- fare nuove esperienze fuori dall'orario di lavoro.
 
 Ovviamente, questo può creare una visione idealistica del nomade digitale, ma non sono poche le difficoltà:
 
-* necessità di adattarsi ad ogni nuovo spostamento;
-* avere a che fare con fusi orari anche molto diversi da quello della propria azienda;
-* problemi di socialità se si viaggia in solitaria;
-* problemi tecnici, come connessioni scadenti, che possono causare problemi di comunicazione.
+- necessità di adattarsi ad ogni nuovo spostamento;
+- avere a che fare con fusi orari anche molto diversi da quello della propria azienda;
+- problemi di socialità se si viaggia in solitaria;
+- problemi tecnici, come connessioni scadenti, che possono causare problemi di comunicazione.
 
 Tutti questi fattori sono assolutamente da tenere in considerazione se si valuta di partire per lavorare da altri paesi, e il consiglio per minimizzare l'impatto del viaggio è concedersi dei giorni senza lavorare appena arrivati in un nuovo paese, per poter verificare le modalità di lavoro che ci saranno, scegliere paesi che non richiedano di lavorare in orari assurdi, prediligere località _nomad friendly_ per conoscere altri viaggiatori che lavorano e avere più di una soluzione per quanto riguarda la propria postazione di lavoro nomade.
 
@@ -83,6 +83,8 @@ In realtà a questo si può in parte sopperire con uno sforzo maggiore dell'azie
 Un'altra criticità riguarda la difficoltà di coordinare il lavoro, con meeting fatti in videochiamata poco produttivi rispetto a sessioni di brain storming di persona, e più in generale poca coesione all'interno del team rispetto ad un gruppo di developer che lavorano nella stessa stanza.
 
 Questa è sicuramente una possibilità concreta ed è innegabile che l'essere fisicamente con altre persone non sia la stessa cosa di una chiamata su Zoom, è anche per questo che molte aziende decidono comunque di avere una sede o degli uffici a disposizione dei dipendenti, che sono liberi di scegliere se e quando andare.
+
+Segnaliamo anche, parlando di lavoro da remoto svolto all'_estero_, che si potrebbe andare incontro a limitazioni imposte sia dal regolamento interno della propria azienda sia a limitazioni fiscali e previdenziali. Queste limitazioni possono riguardare il numero di giornate lavorative o la zona territoriale in cui è possibile spostarsi per lavorare da remoto (per esempio è meno problematico spostarsi in Europa): è quindi fondamentale analizzare ogni singolo caso.
 
 Infine spesso si evidenzia un aumento del turnover all'interno delle aziende, ovvero è più facile che chi lavora da remoto si licenzi perché non è riuscito a creare un reale legame con i colleghi né quel senso di appartenenza aziendale che contraddistingue solitamente chi lavora in ufficio.
 
