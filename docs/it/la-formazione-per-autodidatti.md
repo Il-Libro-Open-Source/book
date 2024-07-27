@@ -13,7 +13,7 @@ nav_order: 14
 
 <!-- prettier-ignore-end -->
 
-Impadronirsi dei fondamenti di informatica e programmazione, sia per farne una professione che per scopi puramente hobbistici,  è certamente un’impresa stimolante ed eccitante, tanto per i risultati a cui può condurre, quanto per il puro piacere del _viaggio_ nella conoscenza che state intraprendendo.
+Impadronirsi dei fondamenti di informatica e programmazione, sia per farne una professione che per scopi puramente hobbistici, è certamente un’impresa stimolante ed eccitante, tanto per i risultati a cui può condurre, quanto per il puro piacere del _viaggio_ nella conoscenza che state intraprendendo.
 
 Prima di proporvi un possibile itinerario di apprendimento, però, trovo utile e necessario porvi di fronte ad un esame di coscienza: più sinceramente ed onestamente risponderete a voi stessi, maggiore vantaggio trarrete dal quadro che le vostre risposte delineerà.
 
@@ -69,4 +69,3 @@ Non posso suggerirvi tecnologie o linguaggi specifici ma posso dirvi che in gene
 E dato che le funzioni possono essere molte, questo spiega anche il proliferare dei frameworks e la necessità di sapere almeno _che cosa fanno_, per quale compito meglio si prestano.
 Diversamente, sarebbe come andare a casa dell’anziana signora per ripararle una tapparella ed accorgersi solo una volta sulla scala, che avremmo avuto bisogno di un cacciavite a croce oltre che di quello a lama piatta.
 Il che significa scendere dalla scala, tornare in officina, prendere il cacciavite mancante e quindi tornare sulla scala; una perdita di tempo ed energie inutile, vi pare?
-
