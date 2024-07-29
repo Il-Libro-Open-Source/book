@@ -37,7 +37,7 @@ Durante la navigazione di un sito web, il client deve inviare una richiesta ad u
 
 Il client, prima di effettuare la richiesta ad un server web, deve tradurre il nome di dominio in un indirizzo IP. Per fare questo, il client invia una richiesta ad un server DNS, che è un server che contiene un database con tutti i nomi di dominio e gli indirizzi IP corrispondenti. Il server DNS, dopo aver ricevuto la richiesta, cerca il nome di dominio nel database e, se lo trova, restituisce l'indirizzo IP corrispondente. Il client, dopo aver ricevuto l'indirizzo IP, può effettuare la richiesta al server web.
 
-Questo meccanismo di tradzione viene usato in realtà per tutti i protocolli di comunicazione, non solo per il protocollo HTTP. Ad esempio, quando si invia una mail, il client deve tradurre il nome di dominio del server SMTP in un indirizzo IP per poter inviare la mail. Oppure, quando il backend di un'applicazione deve connettersi al database, deve tradurre il nome di dominio del database in un indirizzo IP per poter effettuare la connessione.
+Questo meccanismo di traduzione viene usato in realtà per tutti i protocolli di comunicazione, non solo per il protocollo HTTP. Ad esempio, quando si invia una mail, il client deve tradurre il nome di dominio del server SMTP in un indirizzo IP per poter inviare la mail. Oppure, quando il backend di un'applicazione deve connettersi al database, deve tradurre il nome di dominio del database in un indirizzo IP per poter effettuare la connessione.
 
 Il protocollo DNS è complesso e supporta altre funzionalità che putroppo per motivi di spazio non sono coperte in questo capitolo.
 
