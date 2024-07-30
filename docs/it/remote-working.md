@@ -1,4 +1,17 @@
+---
+layout: default
+title: Remote working: tra mito e realtà
+nav_order: 15
+---
+
+<!-- prettier-ignore-start -->
 # Remote working: tra mito e realtà
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 A noi developers basta un portatile e una connessione internet per lavorare, _almeno è così che piace pensare a molti_.
 
