@@ -13,19 +13,6 @@ nav_order: 16
 
 <!-- prettier-ignore-end -->
 
-La documentazione tecnica è una parte fondamentale dell'ecosistema legato al software.
-
-Questo capitolo descrive:
-
-- Che cosa è la documentazione tecnica.
-- La necessità e l'importanza della documentazione tecnica per il software.
-- Accorgimenti per scrivere una buona documentazione tecnica.
-- Linguaggi per sviluppare la documentatione tecnica.
-- La gestione delle specifiche tecniche.
-- La gestione delle specifiche di testing.
-- La standardizzazione.
-- La collaborazione coi technical writers.
-
 ## Che cosa è la documentazione tecnica
 
 La documentazione tecnica per il software è un elemento fondamentale nell'ambito dello sviluppo e della manutenzione dei sistemi informatici. Essenzialmente, essa consiste in una raccolta di informazioni dettagliate riguardanti il software stesso.
