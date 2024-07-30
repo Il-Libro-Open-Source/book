@@ -100,6 +100,30 @@ Vediamo un esempio di utilizzo su un caso semplice:
 | Criteri di Accettazione | <ul><li>Il codice di verifica viene inviato correttamente al numero di telefono dell'utente.</li><li>L'utente può completare l'accesso inserendo il codice di verifica entro il tempo limite.</li></ul> |
 | Tracciabilità          | <ul><li>Req 1: Funzione di invio SMS</li><li>Req 2: Endpoint API per la verifica del codice</li></ul>|
 
+## La gestione delle specifiche di testing
+Nella gestione dei progetti software, le specifiche di testing rivestono un ruolo fondamentale per garantire la qualità del codice e la soddisfazione dei requisiti funzionali e non funzionali. In quest'ottica, la definizione e la gestione delle specifiche di testing devono essere sistematiche e ben documentate, al fine di permettere un approccio standardizzato e ripetibile per tutto il progetto.
+
+Per ottenere una gestione efficace, è fondamentale adottare una metodologia standardizzata al fine di favorire i collaboratori che si interfacciano ai test la dovrebbe includere le seguenti componenti:
+
+- **Definizione dei requisiti di testing**: ogni specifica di testing deve essere strettamente legata ai requisiti del progetto. Questo processo inizia con la creazione di una matrice di tracciabilità dei requisiti (RTM), che collega ogni requisito funzionale e non funzionale ai relativi casi di test.
+    Per esempio:
+    | Requisito | Descrizione                        | Caso di Test          |
+    |-----------|------------------------------------|-----------------------|
+    | RF-01     | Login utente                       | TC-01, TC-02          |
+    | RF-02     | Registrazione utente               | TC-03, TC-04, TC-05   |
+    | RNF-01    | Tempo di risposta < 2 secondi      | TC-06                 |
+
+- **Creazione di test cases**: i test cases devono essere creati seguendo uno schema standard che includa informazioni come ID del test, descrizione, prerequisiti, passi da eseguire, risultati attesi e reali, e stato del test. Questo aiuta a garantire che i test siano chiari e ripetibili.
+    Per esempio, si può costruire uno standard così:
+    | ID Test | Descrizione             | Prerequisiti          | Passi                                      | Risultati Attesi                    | Risultati Reali | Stato  |
+    |---------|-------------------------|-----------------------|--------------------------------------------|------------------------------------|-----------------|--------|
+    | TC-01   | Verifica login valido   | Utente registrato     | 1. Inserire credenziali valide <br> 2. Cliccare su "Login" | Accesso al sistema con successo      |                  | Pass/Fail |
+    | TC-02   | Verifica login invalido | Utente non registrato | 1. Inserire credenziali non valide <br> 2. Cliccare su "Login" | Visualizzazione messaggio di errore |                  | Pass/Fail |
+
+- **Automazione dei test**: laddove possibile, l'automazione dei test dovrebbe essere implementata per aumentare l'efficienza e ridurre l'errore umano. Questo include la selezione degli strumenti appropriati per l'automazione (es. Selenium) e la scrittura di script di test che siano modulari e riutilizzabili.
+
+- **Esecuzione e monitoraggio dei test**: la gestione delle esecuzioni dei test deve essere documentata in modo sistematico. Utilizzando strumenti di gestione come JIRA, infatti, è possibile tracciare l'avanzamento dei test, registrare i difetti trovati, e monitorare la risoluzione degli stessi.
+
 
 ## La standardizzazione 
 Scrivere la documentazione tecnica è considerata un'attività un po' noiosa, ma rimane comunque fondamentale.
