@@ -5,5 +5,4 @@
     "editor.formatOnType": true,
     "git.autofetch": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "iis.configDir": "",
 }
