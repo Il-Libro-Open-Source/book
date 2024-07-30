@@ -65,6 +65,42 @@ Il Markdown è un linguaggio di markup leggero, progettato per essere facile da 
 
 Vale la pena menzionare anche il reStructuredText (reST) che è un linguaggio di markup più strutturato e flessibile, particolarmente popolare nell'ecosistema Python. Questo linguaggio è stato progettato per creare documentazione tecnica e di progetto in modo chiaro e coerente. È utilizzato principalmente per scrivere documentazione di progetti Python, grazie al suo stretto legame con il tool di generazione della documentazione [Sphinx](https://www.sphinx-doc.org/en/master/), il quale consente di compilare la documentazione scritta in reST in vari formati, inclusi HTML, PDF e ePub, facilitando la distribuzione e la consultazione della documentazione di progetto. Il reST richiede una curva di apprendimento leggermente più ripida rispetto al Markdown, ma offre una maggiore flessibilità e potenza per la creazione di documentazione più strutturata e complessa. È naturalmente anch'esso integrabile con i più noti IDE, ed è supportato dalle più note piattaforme di hosting, come GitHub.
 
+## La gestione delle specifiche tecniche
+La gestione delle specifiche tecniche è un aspetto fondamentale per il ciclo di vita di un software in quanto influisce direttamente nella buona riuscita di un progetto. Le specifiche tecniche rappresentano, infatti, il ponte tra i requisiti funzionali forniti dagli stakeholder, e l'implementazione effettiva del codice da parte degli sviluppatori e del tel team tecnico. Un'efficace gestione delle specifiche tecniche non solo facilita una chiara comprensione delle esigenze del progetto, ma contribuisce anche a ridurre i rischi di deviazioni e malintesi durante il ciclo di vita del progetto.
+
+Per garantire coerenza e chiarezza, è essenziale adottare uno standard per la documentazione delle specifiche tecniche. Questo standard dovrebbe comprendere i seguenti punti:
+
+- **Struttura della specifica**: è importante utilizzare una struttura predefinita che copra tutti gli aspetti rilevanti, come obiettivi, requisiti, descrizione tecnica, vincoli, e criteri di accettazione al fine di non tralasciare nulla di importante.
+
+- **Linguaggio e terminologia**: per rendere chiare le specifiche, è fondamentale adottare un linguaggio chiaro e una terminologia uniforme per evitare ambiguità. Per non dare nulla per scontato circa il significato di alcuni termini, si può utilizzare il glossario: in questo modo, in poche righe, si specificano i significati per quei termini tecnici specifici che potrebbero risultare ambigui, o comunque non del tutto chiari iniversalmente.
+
+- **Tracciabilità**: Ogni specifica tecnica dovrebbe essere tracciabile rispetto ai requisiti funzionali corrispondenti. Questo facilita la verifica e la validazione.
+
+- **Revisioni e approvazioni**: Va implementato un processo di revisione e approvazione che coinvolga tutte le parti interessate. Questo garantisce che le specifiche tecniche siano complete e corrette prima dell'inizio dello sviluppo.
+
+Di seguito si riporta un esempio di tabella per la documentazione delle specifiche tecniche:
+
+| Sezione               | Descrizione                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------------------|
+| Obiettivo             | Descrizione dell'obiettivo principale della specifica.                                                 |
+| Requisiti Funzionali  | Elenco dei requisiti funzionali che la specifica tecnica deve soddisfare.                              |
+| Descrizione Tecnica   | Dettagli tecnici su come i requisiti saranno implementati, inclusi diagrammi di flusso e pseudocodice. |
+| Vincoli               | Limitazioni e restrizioni che devono essere considerate durante lo sviluppo.                           |
+| Criteri di Accettazione | Condizioni che devono essere soddisfatte per considerare completata la specifica tecnica.            |
+| Tracciabilità         | Collegamento ai requisiti funzionali e ad altri documenti rilevanti.                                   |
+
+Vediamo un esempio di utilizzo su un caso semplice:
+
+| Sezione                | Descrizione |
+|------------------------|-------------|
+| Obiettivo              | Implementare un sistema di autenticazione a due fattori (2FA) per migliorare la sicurezza dell'accesso utente.                                                                    |
+| Requisiti Funzionali   | <ol><li>Il sistema deve inviare un codice di verifica al numero di telefono dell'utente.</li><li>L'utente deve inserire il codice di verifica per completare l'accesso.</li></ol> |
+| Descrizione Tecnica    | <ul><li><strong>Modulo di Invio SMS</strong>: Utilizzeremo un servizio di terze parti (es. Twilio) per l'invio del codice di verifica.</li><li><strong>Verifica del Codice</strong>: Implementeremo un endpoint API per verificare il codice inserito dall'utente.</li><li><strong>Interfaccia Utente</strong>: Aggiungeremo un campo input per l'inserimento del codice di verifica nella pagina di login.</li></ul> |
+| Vincoli                | <ul><li>Il codice di verifica deve essere valido per 5 minuti.</li><li>Devono essere previsti limiti di tentativi per evitare attacchi di brute force.</li></ul>                  |
+| Criteri di Accettazione | <ul><li>Il codice di verifica viene inviato correttamente al numero di telefono dell'utente.</li><li>L'utente può completare l'accesso inserendo il codice di verifica entro il tempo limite.</li></ul> |
+| Tracciabilità          | <ul><li>Req 1: Funzione di invio SMS</li><li>Req 2: Endpoint API per la verifica del codice</li></ul>|
+
+
 ## La standardizzazione 
 Scrivere la documentazione tecnica è considerata un'attività un po' noiosa, ma rimane comunque fondamentale.
 
