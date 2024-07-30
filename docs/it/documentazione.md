@@ -64,3 +64,71 @@ Esistono diversi tool commerciali e linguaggi per stendere documentazione tecnic
 Il Markdown è un linguaggio di markup leggero, progettato per essere facile da leggere e scrivere, anche quando non è formattato. È ampiamente utilizzato per scrivere documentazione, note, pagine web e altro ancora. La sua sintassi è intuitiva e semplice, ed è supportato da molti editor di testo e piattaforme di hosting come GitHub, che lo rende una scelta popolare tra developer e figure professionali del settore tecnologico. È sicuramente la scelta preferenziale quando si ha necessità di iniziare a documentare un progetto legato al software.
 
 Vale la pena menzionare anche il reStructuredText (reST) che è un linguaggio di markup più strutturato e flessibile, particolarmente popolare nell'ecosistema Python. Questo linguaggio è stato progettato per creare documentazione tecnica e di progetto in modo chiaro e coerente. È utilizzato principalmente per scrivere documentazione di progetti Python, grazie al suo stretto legame con il tool di generazione della documentazione [Sphinx](https://www.sphinx-doc.org/en/master/), il quale consente di compilare la documentazione scritta in reST in vari formati, inclusi HTML, PDF e ePub, facilitando la distribuzione e la consultazione della documentazione di progetto. Il reST richiede una curva di apprendimento leggermente più ripida rispetto al Markdown, ma offre una maggiore flessibilità e potenza per la creazione di documentazione più strutturata e complessa. È naturalmente anch'esso integrabile con i più noti IDE, ed è supportato dalle più note piattaforme di hosting, come GitHub.
+
+## La standardizzazione 
+Scrivere la documentazione tecnica è considerata un'attività un po' noiosa, ma rimane comunque fondamentale.
+
+Per velocizzarne la realizzazione, una possibilità è quella di prepararsi dei template standard, in base alle proprie necessiatà.
+
+Per esempio, se consideriamo la possibilità di scrivere documentazione su un file markdown, un esempio di template standard per un tutorial potrebbe essere il seguente:
+
+```
+---
+converter: markdown
+metadata:
+    title: "..."
+    description: "..."
+---
+Questa guida ti aiuterà a [descrivi a cosa saprà fare l'utente alla fine].
+
+[Descrivi gli obiettivi, le infomazioni di base, e qualsiasi altra cosa necessaria a capire lo scopo e la terminologia del tutorial]
+
+## Requirements
+[Lista dei requirements con eventuali link (interni o esterni) e con le spiegazioni necessarie].
+
+- [Requirement 1: spiegazione se necessaria]
+- [Requirement n: spiegazione se necessaria]
+
+## Steps
+[Lista degli steps per completare il tutorial].
+
+- [Step 1: spiegazione se necessaria]
+- [Step n: spiegazione se necessaria]
+
+## Troubleshooting
+[Lista delle informazioni necessarie a risolvere problemi tipici che eventualmente potrebbero presentarsi]
+
+## Risorse aggiuntive
+[Lista di risorse aggiuntive per comprendere in modo più ampio ciò che sta attorno al tema trattato nel tutorial]
+```
+
+Un altro esempio di template potrebbe essere quello dei changelogs. Sempre in markdown, se ne potrebbe creare uno così:
+
+```
+converter: markdown
+metadata:
+    title: "..."
+    description: [gg-mm-aaaa]
+---
+
+[gg-mm-aaaaa, nuovo rilascio]:
+## Nuove features
+- [**Nuova feature 1: descrizione della nuova feature. Link alla documentazione, se necessario]
+- [**Nuova feature n: descrizione della nuova feature. Link alla documentazione, se necessario]
+
+## Miglioramenti
+- [**Miglioramento 1: descrizione del miglioramento]
+- [**Miglioramento n: descrizione del miglioramento]
+
+## Bug risolti
+- [**Fix 1: descrizione del bug risolto]
+- [**Fix n: descrizione del bug risolto]
+```
+
+
+Questi, naturalmente, sono solo alcuni possibili esempi di standardizzazione della documentazione che si possano creare. Soprattutto, dipende anche dalla specifica tecnologia utilizzata in azienda.
+
+Per esempio, se usi Confluence, un'idea potrebbe essere quella di crearti uno spazio in cui scrivi i template prer la tua documentazione.
+
+> **NOTA**: Gli esempi riportati, tradotti in italiano e modificati per una audience adatta agli dviluppatori, sono stati ripresi dal libro [Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://link.springer.com/book/10.1007/978-1-4842-9594-6)
+
