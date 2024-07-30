@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Remote working: tra mito e realtà
+title: Remote working - tra mito e realtà
 nav_order: 15
 ---
 
