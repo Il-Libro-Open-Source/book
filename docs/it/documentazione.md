@@ -23,7 +23,7 @@ Questo capitolo descrive:
 - La gestione delle specifiche tecniche.
 - La gestione delle specifiche di testing.
 - La standardizzazione.
-- La collaborazione coi Technical Writers.
+- La collaborazione coi technical writers.
 
 ## Che cosa è la documentazione tecnica
 La documentazione tecnica per il software è un elemento fondamentale nell'ambito dello sviluppo e della manutenzione dei sistemi informatici. Essenzialmente, essa consiste in una raccolta di informazioni dettagliate riguardanti il software stesso.
@@ -192,3 +192,13 @@ Per esempio, se usi Confluence, un'idea potrebbe essere quella di crearti uno sp
 
 > **NOTA**: Gli esempi riportati, tradotti in italiano e modificati per una audience adatta agli dviluppatori, sono stati ripresi dal libro [Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://link.springer.com/book/10.1007/978-1-4842-9594-6)
 
+## La collaborazione coi technical writers
+Nonostante la figura del technical writer non sia particolarmente presente nel mondo informatico italiano, idevelopers oggi hanno la possibilità di poter collaborare con aziende internazionali dove questa figura, invece, risulta più presente. Per questo, riteniamo opportuno spendere alcune righe per definire, a livello generale, come i technical writers - che sono specialisti della documentazione - dovrebbero collaborare con un ambiente di sviluppatori.
+
+Nel panorama dello sviluppo software moderno, infatti, la collaborazione tra sviluppatori e technical writers è fondamentale per garantire una documentazione tecnica di alta qualità.
+
+Sebbene oggi gran parte del lavoro di documentazione sia delegato ai technical writers, i developers devono comunque produrre una parte di documentazione. Questo non significa che il contributo degli sviluppatori alla documentazione sia meno rilevante. I developers, infatti, possiedono una comprensione profonda delle complessità del codice e delle funzionalità del software, che sono fondamentali per la creazione di una documentazione utile e accurata. Tuttavia, per ottenere un ambiente documentale completo e coerente, è necessario un coinvolgimento diretto dei technical writers fin dalle fasi iniziali del progetto. Questi professionisti, infatti, devono essere interpellati non solo per raccogliere le informazioni, ma anche per contribuire alla definizione di standard e linee guida che assicurino uniformità e chiarezza fin dalle prime fasi dello sviluppo di un progetto.
+
+La loro partecipazione attiva consente di stabilire e mantenere un framework documentale che faciliti la comunicazione e l'interoperabilità tra i vari team. In questo contesto, quindi, i developers e i technical writers devono lavorare in sinergia, condividendo le loro competenze per ottimizzare la documentazione e supportare il successo complessivo del progetto. 
+
+Un caso tipico di collaborazione tra developers e technical writers può essere quello in cui il technical writer crea e sviluppa una base documentale per un progetto e raccoglie le specifiche tecniche che gli sviluppatori hanno realizzato e le inserisce in un "panorama documentale" più ampio, nel quale chiunque può trovare e leggere tutto il necessario relativo ad un progetto software. Dalle specifiche tecniche, all'architettura, ad eventuali casi d'uso del codice (per esempio, se si tratta di una API), eccetera...
