@@ -34,7 +34,7 @@ Considerando il punto di vista di chi sviluppa, in generale, la documentazione t
 - **Guide per chi sviluppa**. Questa parte della documentazione fornisce istruzioni dettagliate su come configurare l'ambiente di sviluppo, come compilare il codice sorgente, come eseguire i test, e come contribuire al progetto in base agli standard prefissati. Questa guida è essenziale per consentire a nuovi membri di integrarsi rapidamente nel team e contribuire in modo efficace al software.
 
 ## Necessità ed importanza della documentazione tecnica
-La documentazione del software è spesso vista come un'attività secondaria, e viene spesso trascurata in favore dello sviluppo del codice. Tuttavia, sottovalutarne l'importanza può avere conseguenze significative sul ciclo di vita del software e sulla sua gestione dello stesso a lungo termine.
+La documentazione del software è spesso vista come un'attività secondaria, e viene trascurata in favore dello sviluppo del codice. Tuttavia, sottovalutarne l'importanza può avere conseguenze significative sul ciclo di vita del software e sulla sua gestione dello stesso a lungo termine.
 
 La documentazione non è semplicemente un compito aggiuntivo per chi programma, da incastrare tra le riunioni (tante) e lo sviluppo (spesso, poco). Piuttosto, è un elemento cruciale per garantire la comprensione, la manutenibilità e l'evoluzione del software stesso. 
 
