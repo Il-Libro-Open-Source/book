@@ -174,9 +174,32 @@ Feature: Google Searching
     Then results for "panda" are shown
 ```
 
+### Mutation Testing
+
+Il mutation testing è una metodologia di test per valutare la qualità dell'attuale test suite. Partendo dal codice originale, si creano differenti versioni, ognuna delle quali introduce una mutazione, piccola a piacere. Queste versioni mutate vengono chiamati _mutanti_. L'obiettivo del mutation testing è di verificare se la test suite identifica la mutazione: se un mutante non viene rilevato da un test, viene considerato _vivo_ e i test a riguardo vengono considerati non sufficienti per quella mutazione. Se un mutante viene rilevato da un test, viene considerato _morto_ e i test a riguardo vengono considerati sufficienti per quel mutante.
+
+Le mutazioni possono essere effettuate su vari aspetti del proprio software:
+
+- Operazioni (cambiare un "-" con un "+")
+- Comparazioni (cambiare un "==" con un "!=")
+- Istruzioni (eliminare delle righe di codice)
+- Valori (cambiare il _return_ di una funzione)
+
+Applicando la formula $mutation\ score = \dfrac{mutanti\ morti}{mutanti\ totali} * 100$, possiamo ottenere una percentuale di mutanti morti, che ci permette di capire quanto il nostro codice sia realmente testato.
+
+Vista la natura dei mutation test, il numero di mutazioni può essere molto alto e non sempre le mutazioni coinvolgono i principali use case. Per questo non bisogna stupirsi che lo score sia basso. Infatti uno score alto significa che esiste un test per ogni condizione all'interno del proprio codice, il che porterebbe a:
+
+- un aumento del tempo per la scrittura del codice di test
+- un aumento del costo di mantenimento/aggiornamento del codice di test
+  In base alle esigenze di progetto, il team può decidere se implementare e migliorare il `mutation score`.
+
+Pur essendo un ottimo strumento per misurare la qualità della test suite, in molti casi questa tecnica di testing non è usata per via della sua complessità e del costo di implementazione.
+
+Esistono strumenti, anche open-source, che possono automatizzare la scrittura di questi test, come Infection (PHP), Stryker Mutator (JavaScript) o Mutants (Rust), riducendo radicalmente la complessità di adottare questa tecnica.
+
 ## Test Coverage
 
-La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile, oltre che non necessario. Una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
+La test coverage è una metrica che indica la percentuale di codice sorgente che viene eseguita (_coperta_) durante l'esecuzione dei test. Questa metrica è molto importante, in quanto permette di capire quanto il codice sorgente è stato testato. Solitamente si cerca di raggiungere una test coverage del 100%, ma questo non è sempre possibile, oltre che necessario. Infatti, una test coverage del 100% non garantisce che il codice sorgente sia privo di bug, esattamente come non lo garantisce una coverage del 50%. Come in moltissimi altri aspetti della programmazione, la parola _dipende_ assume un significato molto importante.
 
 **La test coverage ci dice quanto del nostro codice si comporta come ci aspettiamo, ma non è detto che ciò che ci aspettiamo sia corretto.**
 
