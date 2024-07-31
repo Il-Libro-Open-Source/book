@@ -18,7 +18,7 @@ Impadronirsi dei fondamenti di informatica e programmazione, sia per farne una p
 Prima di proporvi un possibile itinerario di apprendimento, però, trovo utile e necessario porvi di fronte ad un esame di coscienza: più sinceramente ed onestamente risponderete a voi stessi, maggiore vantaggio trarrete dal quadro che le vostre risposte delineerà.
 
 Un noto adagio recita _**chiunque può programmare, ma non chiunque può diventare developer**_.
-Sembra una contraddizione in termini ma in realtà questa frase nasconde una grande verità: al di là di qualunque eccitazione iniziale per la faccenda, è utilissimo essere onesti con se stessi e capire -magari facendosi aiutare da chi può valutare con obiettività e cognizione di causa la vostra predisposizione-, se effettivamente la programmazione può essere per voi una strada serena o se è destinata a trasformarsi in una fatica improba, costellata solo di frustrazioni.
+Sembra una contraddizione in termini ma in realtà questa frase nasconde una grande verità: al di là di qualunque eccitazione iniziale per la faccenda, è utilissimo essere onesti con se stessi e capire - magari facendosi aiutare da chi può valutare con obiettività e cognizione di causa la vostra predisposizione -, se effettivamente la programmazione può essere per voi una strada serena o se è destinata a trasformarsi in una fatica improba, costellata solo di frustrazioni.
 
 Contrariamente a quello che vi aspettereste di sentirvi dire in questo libro, programmare è un mestiere molto più **creativo** e molto meno tecnico di quanto si pensi.
 Guardare il monitor e vedere schermate di codice che scorrono sotto i vostri occhi non è sufficiente; è necessario che quel codice lo vediate con _gli occhi della mente_ e che nella vostra testa si delinei subito il quadro complessivo in cui quel codice si innesta.
@@ -28,7 +28,7 @@ Vi conviene? Solo perché avete in mente un’immagine _romantica_ di chi progra
 Non che il mestiere in sé sia gelido, tutt’altro: a volte l’eleganza di una soluzione ad un problema, può commuovere fino alle lacrime e non per densità semantica condensata in due righe di codice ma per l’idea che dietro quelle due righe di codice c’è stato un guizzo creativo, subito accompagnato da finezza nella tecnica, ma pur sempre prodotto da un essere umano: questo, è il bello ed il romantico di questo mestiere.
 Inutile dire che di sola romanticheria non si vive e che spesso e volentieri, anche utilizzando gli strumenti più appropriati e più adatti per sollevarci da lavori ripetitivi, la vita quotidiana da developer non è sistematicamente soggetta a scariche di adrenalina.
 Anzi, dietro un lavoro ben fatto, di norma, c’è tanta, tanta _falegnameria_.
-Insomma, se alle domande _Ho una reale predisposizione?_ e _Riuscirò ad accettare che il percorso di istruzione che sto per intraprendere non sarà tutto un tappeto di petali di rose?_ avete risposto con un SÌ netto e sicuro, siete già a metà dell’opera, congratulazioni!
+Insomma, se alle domande _Ho una reale predisposizione?_ e _Riuscirò ad accettare che il percorso di istruzione che sto per intraprendere non sarà tutto un tappeto di petali di rose?_ avete risposto con un Sì netto e sicuro, siete già a metà dell’opera, congratulazioni!
 
 Chiunque può programmare, allora?
 In teoria, nel momento stesso in cui pensate _Ah, ora vado a mettere su la caffettiera_, voi tutti avete in mente –senza rendervene conto-, un piano precisissimo che prevede i seguenti passi:
@@ -46,8 +46,8 @@ Richiedendo la cosa molti controlli e volendola semplificare a tutti i costi, ri
 E ciò fece in modo che avessi automaticamente (e gratis) solo operazioni di aggiornamento e, quindi, potei eliminare tutta una serie di controlli lunghi, complessi, farraginosi e forieri di errori.
 Non è un esempio esaustivo, ma spero vi abbia suggerito un’idea migliore di quella che poche righe fa ho chiamato _creatività_.
 
-Tra l’altro, l’esempio che vi ho appena fornito mette in luce che la programmazione, sia pure con una buona dose di creatività, richiede comunque ed in prima istanza un **approccio analitico ai problemi** e, a seguire, la conoscenza dei metodi/mezzi/strumenti con cui implementare una possibile soluzione (perché sì: _c’è sempre più di un modo per farlo_).
-Fortunatamente, è possibile migliorare le proprie capacità analitiche attraverso un lungo periodo di esercitazione mentre per la creatività… o ce l’hai o non ce l’hai, punto.
+Tra l’altro, l'esempio che vi ho appena fornito mette in luce che la programmazione, sia pure con una buona dose di creatività, richiede comunque ed in prima istanza un **approccio analitico ai problemi** e, a seguire, la conoscenza dei metodi/mezzi/strumenti con cui implementare una possibile soluzione (perché sì: _c’è sempre più di un modo per farlo_).
+Fortunatamente, è possibile migliorare le proprie capacità analitiche attraverso un lungo periodo di esercitazione mentre per la creatività... o ce l’hai o non ce l’hai, punto.
 Questo non vuol dire che chi programma eseguendo i suoi compiti in maniera canonica sia peggiore di una persona baciata dalla Musa della Creatività, ma è fuori discussione che quest’ultima avrà una marcia in più.
 Ora, zoomiamo sul nostro specifico interesse, l’auto-formazione: è ovvio che la discussione filosofica sin qui fatta si applica a tutti, autodidatti e/o persone che hanno seguito un corso di studi classico (università) ma per entrambi, la storia della creatività continua a valere.
 Di contro, è anche vero che seguire un percorso universitario non ha mai fatto male a nessuno ed offre il vantaggio di frequentare un ambiente nel quale è possibile confrontarsi con altre persone con la nostra stessa passione ed interessi, mentre se siamo autodidatti, queste possibilità sono un po’ più ridotte, ma non insuperabili.
@@ -66,6 +66,6 @@ Un mio consiglio, opinione del tutto personale, è: evitate come la peste di get
 Che siano framework frontend o backend, è essenziale che prima di utilizzarli vi impadroniate di ciò che c’è alla loro base.
 Questo approccio, non solo vi permetterà di comprendere le cose a basso livello, ma, in seguito, quando vi avvicinerete ad un qualunque framework, vi consentirà di comprenderne molto più rapidamente e facilmente i suoi _internals_, che sono invariabilmente basati proprio su… le basi.
 Non posso suggerirvi tecnologie o linguaggi specifici ma posso dirvi che in generale, è vero che dovreste sentirvi molto _falegnami_ e sapere quale è l’attrezzo, lo strumento, l’utensile più idoneo ad assolvere ad una determinata funzione.
-E dato che le funzioni possono essere molte, questo spiega anche il proliferare dei frameworks e la necessità di sapere almeno _che cosa fanno_, per quale compito meglio si prestano.
+E dato che le funzioni possono essere molte, questo spiega anche il proliferare dei framework e la necessità di sapere almeno _che cosa fanno_, per quale compito meglio si prestano.
 Diversamente, sarebbe come andare a casa dell’anziana signora per ripararle una tapparella ed accorgersi solo una volta sulla scala, che avremmo avuto bisogno di un cacciavite a croce oltre che di quello a lama piatta.
 Il che significa scendere dalla scala, tornare in officina, prendere il cacciavite mancante e quindi tornare sulla scala; una perdita di tempo ed energie inutile, vi pare?
