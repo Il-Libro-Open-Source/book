@@ -43,10 +43,10 @@ In teoria, nel momento stesso in cui pensate _Ah, ora vado a mettere su la caffe
 Non tutti i problemi si risolvono altrettanto facilmente ma spesso, più che la competenza tecnica, quello che fa un’enorme differenza è l’approccio al problema e –di riflesso-, anche alla sua soluzione.
 Esempio banale ma calzante: una volta mi è capitato di avere a che fare con un’applicazione discretamente complessa nella quale, ad un certo punto del processo, avrei dovuto stabilire in un loop molto pesante se nel database dovevo effettuare un’operazione di inserimento o di aggiornamento dei dati.
 Richiedendo la cosa molti controlli e volendola semplificare a tutti i costi, risolsi felicemente la faccenda inizializzando valori nelle tabelle all’apertura dell’applicazione.
-E ciò, fece in modo che avessi automaticamente ed a gratis, solo operazioni di aggiornamento e quindi potei eliminare tutta una serie di controlli lunghi, complessi, farraginosi e forieri di errori.
+E ciò fece in modo che avessi automaticamente (e gratis) solo operazioni di aggiornamento e, quindi, potei eliminare tutta una serie di controlli lunghi, complessi, farraginosi e forieri di errori.
 Non è un esempio esaustivo, ma spero vi abbia suggerito un’idea migliore di quella che poche righe fa ho chiamato _creatività_.
 
-Tra l’altro, l’esempio che vi ho appena fornito, mette in luce che la programmazione, sia pure con una buona dose di creatività, richiede comunque ed in prima istanza un **approccio analitico ai problemi** e a seguire, la conoscenza dei metodi/mezzi/strumenti con cui implementare una possibile soluzione (perché sì: _c’è sempre più di un modo per farlo_).
+Tra l’altro, l’esempio che vi ho appena fornito mette in luce che la programmazione, sia pure con una buona dose di creatività, richiede comunque ed in prima istanza un **approccio analitico ai problemi** e, a seguire, la conoscenza dei metodi/mezzi/strumenti con cui implementare una possibile soluzione (perché sì: _c’è sempre più di un modo per farlo_).
 Fortunatamente, è possibile migliorare le proprie capacità analitiche attraverso un lungo periodo di esercitazione mentre per la creatività… o ce l’hai o non ce l’hai, punto.
 Questo non vuol dire che chi programma eseguendo i suoi compiti in maniera canonica sia peggiore di una persona baciata dalla Musa della Creatività, ma è fuori discussione che quest’ultima avrà una marcia in più.
 Ora, zoomiamo sul nostro specifico interesse, l’auto-formazione: è ovvio che la discussione filosofica sin qui fatta si applica a tutti, autodidatti e/o persone che hanno seguito un corso di studi classico (università) ma per entrambi, la storia della creatività continua a valere.
@@ -54,7 +54,7 @@ Di contro, è anche vero che seguire un percorso universitario non ha mai fatto 
 Resta il fatto, che in generale sarete _soli_ davanti a libri, monitor, codice e… caffè!
 Ad ogni modo, a volte è _meglio soli che male accompagnati_ e con la giusta motivazione e passione per la materia, anche lo studio e la sperimentazione in solitaria non vi peserà più di tanto.
 
-Da non sottovalutare, nel 2023, che la pervasività e disponibilità H24 7/7 di una connessione ad internet è di grandissimo aiuto ad un autodidatta, perché le risorse che può reperire in rete, a gratis o con poca spesa, sono praticamente sterminate e –soprattutto agli inizi-, costituiscono un validissimo aiuto alla comprensione di argomenti che tutto sono meno che romantici.
+Da non sottovalutare, nel 2023, che la pervasività e disponibilità H24 7/7 di una connessione ad internet è di grandissimo aiuto ad un autodidatta, perché le risorse che può reperire in rete, gratis o con poca spesa, sono praticamente sterminate e –soprattutto agli inizi-, costituiscono un validissimo aiuto alla comprensione di argomenti che tutto sono meno che romantici.
 Superate le domande motivazionali, prima di mettervi all’opera, dovete porvi parecchie altre domande, stavolta di natura squisitamente più tecnica/tecnologica.
 
 Il termine _programmare_ è un ombrello enorme che accoglie sotto di sé innumerevoli sfumature di codice e dunque, sapere con la miglior precisione possibile a quale tipo di programmazione volete dedicarvi, vi tornerà utilissimo per sfrondare l’inutile e farvi invece una lista utilissima degli strumenti dei quali dovreste impadronirvi.
