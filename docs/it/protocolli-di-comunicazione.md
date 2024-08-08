@@ -22,7 +22,7 @@ Questi infatti sono un insieme di regole che definiscono come avviene la comunic
 L'esempio più comune nel nostro ambito lavorativo è quello delle chiamate HTTP, che avvengono tra un client e un server, dove, per esempio, il client è il nostro browser e il server è il server web che ospita il sito che stiamo visitando. In questo caso il protocollo HTTP definisce come avviene la comunicazione tra il nostro browser e il server web, come vengono trasmesse le informazioni e come queste vengono interpretate.
 Essendo così diffuso, spesso le specifiche del protocollo HTTP vengono date per scontate ma è importante tenerne conto, soprattutto quando si sviluppano applicazioni che sfruttano questo protocollo.
 
-Il protocollo HTTP è solo un esempio: esistono molti altri protocolli di comunicazione, alcuni più diffusi di altri, alcuni più complessi di altri, alcuni più sicuri di altri, alcuni più performanti di altri, alcuni più adatti di altri a determinati scopi.
+Il protocollo HTTP è solo un esempio: esistono molti altri protocolli di comunicazione, e variano molto in base alla loro diffusione, complessita, sicurezza garantita, performance e contesto di utilizzo.
 
 In questo capitolo vedremo i principali, in quali ambiti vengono utilizzati e come funzionano.
 
