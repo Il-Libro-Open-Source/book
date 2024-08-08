@@ -55,6 +55,27 @@ Le versioni 1.x dell'HTTP avevano tutte un grosso limite: per effettuare 2 richi
 
 La versione 3 del protocollo HTTP cambia lo stack OSI precedentemente basato su TCP: utilizzando un protocollo UDP, questa versione forza l'uso di una connessione cryptata e riduce l'inizializzazione della connessione. Pur essendo basata su un protocollo UDP, questa versione mantiene le stesse caratteristiche delle versioni precedenti, come ad esempio il concetto di header, di richiesta e risposta e del formato binario, ottimizzando le prestazioni su connessioni lente.
 
+### Il protocollo SSH
+
+Il protocollo SSH (Secure Shell) è un protocollo di comunicazione basato su TCP e permette di stabilire una connessione sicura tra due computer.
+Questo tipo di protocollo viene comunemente utilizzato per connettersi ad un computer remoto in modo sicuro, per trasferire file in modo sicuro e per eseguire comandi in modo sicuro. Il protocollo SSH è considerato ad oggi lo standard per eseguire queste operazioni.
+
+Il protocollo è diviso in tre layer distinti:
+
+- Transport Layer Protocol: è il layer che si occupa di stabilire una connessione sicura tra il client e il server. Qui vengono, per esempio, decisi gli algoritmi per la connessione. Vengono inoltre scambiate le chiavi pubbliche per garantire la sicurezza della connessione.
+- User Authentication Protocol: è il layer che si occupa di autenticare l'utente che si sta connettendo al server. Vengono scambiate le credenziali dell'utente e vengono verificate dal server. Esempi di autenticazione sono la password e la chiave pubblica.
+- Connection Layer Protocol: è il layer che si occupa di gestire i comandi del protocollo SSH, come ad esempio l'esecuzione di comandi remoti, il forwarding delle porte e il trasferimento dei file.
+
+Questa suddivisione permette di avere un protocollo flessibile e sicuro, che può essere configurato differentemente a seconda delle esigenze. Per esempio è possibile configurare il protocollo di compressione o di disabilitare l'autenticazione password, utilizzando solo la chiave pubblica.
+
+Questo protocollo è molto diffuso e viene spesso usato per accedere a server remoti su cui si ha bisogno di operare.
+
+### Il protocollo FTP
+
+Il protocollo FTP (File Transfer Protocol) è un protocollo testuale di comunicazione che permette di trasferire file tra un client e un server. Questo tipo di protocollo viene comunemente utilizzato per trasferire file tra un computer e un server, per esempio per trasferire file da un computer locale ad un server remoto o viceversa.
+
+Poiché questo protocollo non usa connessioni sicure, sono stati proposti dei protocolli derivati come il protocollo SFTP (Secure File Transfer Protocol) e il protocollo FTPS (FTP Secure) che permettono di trasferire file in modo sicuro. Questi protocolli utilizzano connessioni sicure basate su SSH o SSL/TLS per garantire la sicurezza del trasferimento dei file.
+
 ## La rappresentazione dei dati applicativi
 
 I protocolli di comunicazione sono utilizzati per poter trasmettere informazioni tra due o più entità, e i client e i server devono concordare sia sul protocollo della richiesta sia sul contenuto della stessa. Infatti una volta che il client e il server concordano su quale protocollo di comunicazione usare, devono anche concordare quale formato usare per scambarsi le informazioni applicative. Per fare questo, è necessario definire un formato comune per la trasmissione serializzando le informazioni in bytes. Questo processo è chiamato rappresentazione dei dati che può essere di due tipi: rappresentazione dei dati testuale e rappresentazione dei dati binaria.
