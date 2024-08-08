@@ -1,4 +1,19 @@
+---
+layout: default
+title: Protocolli di comunicazione
+nav_order: 16
+---
+
+<!-- prettier-ignore-start -->
 # Protocolli di comunicazione
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
+#
 
 In ambito tecnologico e informatico sono presenti concetti fondamentali e strutture consolidate da tempo che spesso diamo per scontato. I protocolli di comunicazione sono un esempio di questa casistica: sono strumenti che utilizziamo quotidianamente, sia nella nostra vita lavorativa sia in quella privata. Ogni giorno infatti effettuiamo chiamate verso un server, inviamo dati, riceviamo risposte e tutto questo avviene grazie ai protocolli di comunicazione, anche se non ne siamo consapevoli.
 
