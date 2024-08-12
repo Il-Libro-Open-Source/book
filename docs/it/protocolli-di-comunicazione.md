@@ -80,10 +80,10 @@ La versione 3 del protocollo HTTP viene introdotto per migliorare la sicurezza d
 Un ulteriore cambio tecnologico introdotto è l'utilizzo del protocollo UDP: tale scelta è stata necessaria visti i problemi riscontrati con HTTP versione 2 per cui il multiplexing in casi di errore di trasmissione non era performante. Pur prevedendo infatti il multiplexing, l'invio dei dati avviene in modo sequenziale: la gestione dei errori di trasmissione del protocollo TCP cu sui la versione 2 si basa soffre del problema noto come "head-of-line".
 Se sulla connessione vengono inviati tre pacchetti, e solo il secondo ha un errori di trasmissione, il client è costretto a inviare nuovamente gli ultimi due pacchetti anche se l'ultimo ha raggiunto la destinazione correttamente. La versione 3 basata su UDP, non soffre di questo problema per cui è consigliata in modo particolare in casi di bassa connettività o dove il numero di errori di tramsissione è alto.
 
-Una menzione al protocollo HTTP (Hypertext Transfer Protocol Secure): non si tratta di un protocollo a tutti gli effetti, ma di un'estensione del protocollo HTTP, utile in particolare quando la connessione non è garantita sicura dal protocollo stesso, per esempio HTTP1.1 e HTTP2. In tali occasione, per rendere la comunicazione sicuro è necessario fare affidamento su un layer di criptazione.
+Una menzione al protocollo HTTPS (Hypertext Transfer Protocol Secure): non si tratta di un protocollo a tutti gli effetti, ma di un'estensione del protocollo HTTP, utile in particolare quando la connessione non è garantita sicura dal protocollo stesso, per esempio HTTP1.1 e HTTP2. In tali occasione, per rendere la comunicazione sicuro è necessario fare affidamento su un layer di criptazione.
 
-Non esiste un protocollo HTTP migliore di un altro: mentre è da sconsigliare i protocolli deprecati come HTTP 0.9 e HTTP1.0, gli altri rimangono molto validi.
-Per esempio per endpoint interni, invocati solo da applicazioni, il protocollo HTTP1.1 è solitamente la scelta utilizzata.
+Non esiste un protocollo HTTP migliore di un altro: mentre è da sconsigliare i protocolli deprecati come HTTP 0.9 e HTTP 1.0, gli altri rimangono molto validi.
+Per esempio per endpoint interni, invocati solo da applicazioni, il protocollo HTTP 1.1 è solitamente la scelta utilizzata.
 
 ### Il protocollo SSH
 
