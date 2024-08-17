@@ -73,7 +73,7 @@ Questo linguaggio evolve man mano che la comprensione del dominio cresce e si ad
 
 ## Bounded contexts
 
-il concetto di Bounded Context è essenziale per gestire la complessità nei grandi sistemi software. Un Bounded Context delimita la pertinenza di un particolare modello di dominio, creando chiari confini all'interno dei quali un modello specifico è definito e applicabile. Questo permette di mantenere la coerenza del modello all'interno di quel contesto, pur permettendo l'esistenza di differenti modelli in altri contesti all'interno dello stesso sistema.
+Il concetto di Bounded Context è essenziale per gestire la complessità nei grandi sistemi software. Un Bounded Context delimita la pertinenza di un particolare modello di dominio, creando chiari confini all'interno dei quali un modello specifico è definito e applicabile. Questo permette di mantenere la coerenza del modello all'interno di quel contesto, pur permettendo l'esistenza di differenti modelli in altri contesti all'interno dello stesso sistema.
 
 Ecco alcuni punti chiave riguardanti i Bounded Contexts:
 
@@ -97,7 +97,7 @@ I Bounded Contexts aiutano a organizzare e strutturare sistemi complessi, facend
 
 ## Cooperation
 
-la cooperazione tra i diversi Bounded Contexts è cruciale per il funzionamento complessivo del sistema. Eric Evans, descrive vari livelli di cooperazione tra i Bounded Contexts per gestire come questi si relazionano e interagiscono. Ecco una panoramica di questi livelli di cooperazione:
+La cooperazione tra i diversi Bounded Contexts è cruciale per il funzionamento complessivo del sistema. Eric Evans descrive vari livelli di cooperazione tra i Bounded Contexts per gestire come questi si relazionano e interagiscono. Ecco una panoramica di questi livelli di cooperazione:
 
 ### Partnership
 
