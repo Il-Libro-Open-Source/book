@@ -1,4 +1,17 @@
+---
+layout: default
+title: Percorsi di formazione alternativi
+nav_order: 17
+---
+
+<!-- prettier-ignore-start -->
 # Percorsi di formazione alternativi
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Premessa
 
@@ -122,8 +135,8 @@ La figura _Web Designer_ di ieri, che si limitava solamente ad impostare grafica
 
 Questo concetto spiega bene 2 cose:
 
-- bisogna continuare ad imparare e ad aggiornarsi
-- non si può fare affidamento su di una tecnologia
+* bisogna continuare ad imparare e ad aggiornarsi
+* non si può fare affidamento su di una tecnologia
 
 "Tutto bellissimo, ma come faccio a sapere se un percorso di formazione mi permette di lavorare dopo?
 Chi mi dà questa certezza dato che spesso e volentieri hanno dei costi alti?"
@@ -151,8 +164,8 @@ Quando una azienda assume, significa che è pronta a investire tempo e denaro su
 
 Ciò significa 2 cose:
 
-- c'è ancora da imparare, ma...
-- ...questo porta a crescita personale e formativa
+* c'è ancora da imparare, ma...
+* ...questo porta a crescita personale e formativa
 
 Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente sotto l'aspetto tecnico, e non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
 
