@@ -117,6 +117,7 @@ Ad esempio: se il percorso di formazione offre lezioni mattutine, sarà necessar
 In poche parole: non basta il tempo "vivo" proposto dal percorso di formazione, questo perchè è necessario che chi sta imparando riesca ad "entrare" nell'ottica... ovvero acquisire il **mindset** da developer.
 
 "Ma se ho un lavoro come faccio ad investire tutto questo tempo?"
+
 > Generalmente se ci si affida ad un percorso di formazione per imparare a programmare sarebbe meglio dedicarsi fulltime ad esso, perchè la mole di nozioni da acquisire nel pochissimo tempo a disposizione (tre o sei mesi) è molto elevata.
 > Sarebbe più consigliabile un altro tipo di approccio per chi non dispone di così tanto tempo: studiare da autodidatta oppure attraverso un percorso personalizzato; in questo caso però non sarà possibile ottenere un risultato in soli tre/sei mesi ma ci vorrà molto più tempo.
 
@@ -135,8 +136,8 @@ La figura _Web Designer_ di ieri, che si limitava solamente ad impostare grafica
 
 Questo concetto spiega bene 2 cose:
 
-* bisogna continuare ad imparare e ad aggiornarsi
-* non si può fare affidamento su di una tecnologia
+- bisogna continuare ad imparare e ad aggiornarsi
+- non si può fare affidamento su di una tecnologia
 
 "Tutto bellissimo, ma come faccio a sapere se un percorso di formazione mi permette di lavorare dopo?
 Chi mi dà questa certezza dato che spesso e volentieri hanno dei costi alti?"
@@ -164,8 +165,8 @@ Quando una azienda assume, significa che è pronta a investire tempo e denaro su
 
 Ciò significa 2 cose:
 
-* c'è ancora da imparare, ma...
-* ...questo porta a crescita personale e formativa
+- c'è ancora da imparare, ma...
+- ...questo porta a crescita personale e formativa
 
 Ovviamente però l'azienda ha bisogno di alcune "certezze" prima di assumere un candidato, spesso tali certezze sono difficili da ottenere specialmente sotto l'aspetto tecnico, e non basta un test per capire se si ha davanti la persona adatta per il modus operandi dell'azienda o del team.
 
