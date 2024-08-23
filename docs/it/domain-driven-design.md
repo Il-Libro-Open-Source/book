@@ -87,7 +87,7 @@ Anche se un sistema può avere più Bounded Contexts, spesso è necessario che q
 
 ### Mappatura
 
-La relazione tra modelli in differenti Bounded Contexts può essere mappata attraverso pattern come Shared Kernel, Customer/Supplier, Conformist, o Partnership, facilitando la gestione delle interazioni tra team diversi che lavorano in contesti distinti.
+La relazione tra modelli in differenti Bounded Contexts può essere mappata attraverso pattern come Shared Kernel, Customer/Supplier, Conformist o Partnership, facilitando la gestione delle interazioni tra team diversi che lavorano in contesti distinti.
 
 ### Autonomia
 
@@ -177,11 +177,11 @@ Lo stato corrente di un'entità può essere ricostruito "riproducendo" gli event
 
 ### Audit Trail Naturale
 
-Poiché tutti i cambiamenti sono registrati come eventi, l'event sourcing fornisce automaticamente un tracciato completo e auditable delle modifiche. Questo è particolarmente utile in domini come la finanza o la salute, dove la tracciabilità e l'audit sono cruciali.
+Poiché tutti i cambiamenti sono registrati come eventi, l'event sourcing fornisce automaticamente un tracciato completo e verificabile delle modifiche. Questo è particolarmente utile in domini come la finanza o la salute, dove la tracciabilità e l'audit sono cruciali.
 
 ### Resilienza e Recovery
 
-L'immagazzinamento degli eventi piuttosto che degli stati rende più facile recuperare da errori o disastri. Se lo stato corrente viene perso o corrotto, può essere ricostruito riproducendo gli eventi.
+L'immagazzinamento degli eventi piuttosto che degli stati rende più facile il recupero in caso di errori o disastri. Se lo stato corrente viene perso o corrotto, può essere ricostruito riproducendo gli eventi.
 
 ### Decoupling Temporale
 
