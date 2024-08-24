@@ -40,8 +40,6 @@ Non sempre, però, è possibile scomporre in questo modo un problema, e alle vol
 
 Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.\
 
-In questo libro li definiremo brevemente evitando di listarli in maniera accademica; questo capitolo sarà infatti un modo per approcciarsi al tema e approfondire successivamente, grazie anche all'esistenza di numerose risorse, che li dettagliano in maniera più puntuale.
-
 Oltre al libro sui Design Patterns in questione ne sono stati introdotti altri che vedremo successivamente.\
 Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
@@ -113,3 +111,5 @@ Come già detto la Gang of Four ha iniziato a definirli e successivamente sulla 
   - Injection nel costruttore
   - Injection tramite setter
   - Injection tramite interfaccia
+  
+In questo libro li abbiamo definiti brevemente evitando di descriverli in maniera accademica; questo capitolo è infatti un modo per approcciarsi al tema e approfondire successivamente, grazie anche all'esistenza di numerose risorse, che li dettagliano in maniera più puntuale come quelle che abbiamo già elencato.
