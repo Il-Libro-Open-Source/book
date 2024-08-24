@@ -39,8 +39,6 @@ Non sempre, però, è possibile scomporre in questo modo un problema, e alle vol
 è possibile applicarli singolarmente, oppure applicarne più di uno; chiaramente una aderenza maggiore implica la facilità nel riconoscerli da parte di altri/e dev che conoscono l'argomento.
 
 Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.\
-Come viene definito nel design pattern possiamo definire il design pattern vero e proprio che ne demarca i suoi confini ed il client che definisce tutta la parte esterna ad esso che vi interagisce.\
-Il vantaggio principale dell'utilizzo implica che le modifiche apportate tendono a non cambiare sensibilmente il client.
 
 In questo libro li definiremo brevemente evitando di listarli in maniera accademica; questo capitolo sarà infatti un modo per approcciarsi al tema e approfondire successivamente, grazie anche all'esistenza di numerose risorse, che li dettagliano in maniera più puntuale.
 
