@@ -13,10 +13,11 @@ Questo non vuol dire che, ad esempio, nella programmazione funzionale non vengan
 
 Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 
-- [Refactoring Guru](https://refactoring.guru/design-patterns/) un sito molto dettagliato e che spiega i diversi Design Pattern evidenziando per ognuno vantaggi e svantaggi e confrontandoli con gli altri. Sono presenti esempi in codice acquistabili separatamente in tutti i linguaggi.
 - [Il canale Youtube di Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi)
 - [Design Patterns su Wikipedia Italiano](https://it.wikipedia.org/wiki/Design_pattern)
 - [Design Patterns su Wikipedia Inglese](https://en.wikipedia.org/wiki/Design_pattern)
+
+Per illustrarli meglio vorremmo fare soprattutto riferimento a [Refactoring Guru](https://refactoring.guru/design-patterns/) un sito molto dettagliato e che spiega i diversi Design Pattern evidenziando per ognuno vantaggi e svantaggi, mostrando esempi molto esplicativi e confrontandoli con gli altri. Sono presenti esempi in codice acquistabili separatamente in tutti i linguaggi.
 
 Il libro della Gang of Four identifica un elenco iniziale di design pattern, ognuno dei quali ha un nome che identifica la soluzione al problema generico che andrà a risolvere.
 Durante lo sviluppo, può essere semplice individuare e applicare un design pattern mentre si analizza un problema specifico, ottenendo una serie di vantaggi, tra cui:
@@ -49,7 +50,7 @@ Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
 ## Patterns creazionali
 
-I Patterns creazionali definiscono uno schema progettuale che in particolare si concentra sulla creazione degli oggetti che concorrono a risolvere un determinato problema.
+I [Patterns creazionali](https://refactoring.guru/design-patterns/creational-patterns) definiscono uno schema progettuale che in particolare si concentra sulla creazione degli oggetti che concorrono a risolvere un determinato problema.
 In questo contesto indichiamo come _prodotti_ gli oggetti creati utilizzando un oggetto generalmente denominato Factory (tradotto in _fabbrica_) che, al suo interno, ne definisce la logica di costruzione, la quale risulta isolata dall'esterno.
 Le altre tipologie definite dalla GOF, che sono la strutturale e la comportamentale, si distiguono da questa perché presuppogono già l'esistenza di tutti gli oggetti coinvolti.
 
@@ -67,7 +68,7 @@ Per spiegare meglio questi concetti si possono vedere gli esempi presenti sul si
 
 ## Patterns strutturali
 
-I Pattern strutturali definiscono uno schema progettuale atto a risolvere problematiche inerenti alla struttura degli oggetti, di modo da renderli flessibili ed efficienti; capiremo meglio questo concetto andando a vedere brevemente tutti i design pattern appartenenti a questa categoria.
+I [Pattern strutturali](https://refactoring.guru/design-patterns/structural-patterns) definiscono uno schema progettuale atto a risolvere problematiche inerenti alla struttura degli oggetti, di modo da renderli flessibili ed efficienti; capiremo meglio questo concetto andando a vedere brevemente tutti i design pattern appartenenti a questa categoria.
 
 I pattern strutturali definiti dalla GOF sono:
 
@@ -82,7 +83,7 @@ I pattern strutturali definiti dalla GOF sono:
 
 ## Patterns comportamentali
 
-I Pattern comportamentali definiscono uno schema progettuale che in particolare risolve problematiche di comportamento degli oggetti definiti nel pattern. Generalmente questo comportamento si riflette in particolare sugli algoritmi e sulle responsabilità degli oggetti stessi.
+I [Pattern comportamentali](https://refactoring.guru/design-patterns/behavioral-patterns) definiscono uno schema progettuale che in particolare risolve problematiche di comportamento degli oggetti definiti nel pattern. Generalmente questo comportamento si riflette in particolare sugli algoritmi e sulle responsabilità degli oggetti stessi.
 
 I pattern comportamentali definiti dalla GOF sono:
 
