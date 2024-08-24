@@ -65,6 +65,7 @@ I pattern creazionali definiti dalla GOF sono:
 
 Come già detto i confini non sono ben definiti per cui, ad esempio, un oggetto complesso potrebbe essere creato tramite un builder e, se una parte dovesse richiedere una clonazione con un successivo raffinamento, sarà necessario utilizzare anche un Prototype che si occuperà della parte di clonazione.
 Se non ci fosse la possibilità di effettuare una separazione netta si potrebbe utilizzare il Builder o il Prototype.
+Per spiegare meglio questi concetti si possono vedere gli esempi presenti sul sito di Refactoring Guru in particolare su [Builder](https://refactoring.guru/design-patterns/builder) e [Prototype](https://refactoring.guru/design-patterns/prototype)
 
 ## Patterns strutturali
 
