@@ -31,14 +31,18 @@ Innanzitutto come già citato è un corso molto breve (2 anni), a numero chiuso 
 
 Qualcuno potrebbe obiettare dicendo che la preparazione concettuale e teorica potrebbe risultare meno solida rispetto a quella universitaria, anche se questa scelta, come spiegato in precedenza, predispone molte attività in ambito aziendale, essendo maggiormente orientata al mondo del lavoro, e quindi aiuta nel "salto". Proprio in questo contesto, sfruttando le opportunità lavorative e gli incontri con i professionisti del settore, dobbiamo far emergere la nostra proattività e curiosità per valorizzare al meglio le competenze di base che abbiamo acquisito!
 
-Per esempio, le lezioni di Python che ho seguito in Accademia hanno solleticato la mia curiosità e adesso non vedo l'ora di affinare le mie conoscenze su questo linguaggio. Partendo da questa "infarinatura" posso apprendere più facilmente, anche in maniera autonoma.
+Per esempio, le lezioni di Python che ho seguito in Accademia hanno stimolato la mia curiosità e adesso non vedo l'ora di affinare le mie conoscenze su questo linguaggio. Partendo da questa "infarinatura" posso apprendere più facilmente, anche in maniera autonoma.
 
 Tramite questo percorso, passando per gli stage, si possono acquisire anche competenze su argomenti che non sono stati affrontati in aula. Ad esempio, in futuro potrei trovarmi a svolgere uno stage in un’azienda che usa un framework specifico: avendo seguito le lezioni su JavaScript, ho acquisito delle solide basi che non potranno far altro che semplificare il processo di apprendimento di una nuova tecnologia basta su questo linguaggio di programmazione.
 
-L'importante è alimentare sempre questo “fuoco”, questa sete di conoscenza che, oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓), ci aiuterà a crescere come figura professionale e a farci notare da aziende dove è più facile fare esperienza e assimilare concetti nuovi.
+Ma le opportunità offerte dall'ITS non terminano qua! Infatti se tutto ciò non dovesse essere sufficiente per trovare l'impiego che desideriamo o non dovesse soddisfare appieno le nostre aspettative sul grado di approfondimento degli argomenti, la conclusione di questo percorso biennale, ci permetterà di accedere in modo agevolato alle Università che riconoscono questo corso e i crediti formativi guadagnati durante gli studi. Così facendo sarà possibile perseguire la via della laurea senza dover ricominciare da zero, evitando di dover preparare ogni singolo esame<sup>2</sup>.
+
+In ogni caso, a prescindere dal ramo che si decida di intraprendere una volta conclusa questa esperienza, è importantissimo alimentare sempre questo “fuoco”, questa sete di conoscenza che, oltre ad essere fondamentale in questo settore (perché non si smette mai di imparare nel mondo IT 🤓), ci aiuterà a crescere come figura professionale e a farci notare da aziende dove sarà più facile fare esperienza e assimilare nuovi concetti.
 
 ---
 
 ### Note
 
 > <sup>1</sup>**Docente Aziendale**: Una figura che lavora nel settore e che tende dunque a spiegare i concetti più da un punto di vista aziendale/lavorativo. Le loro lezioni sono molto importanti in vista dello stage, che per molti potrebbe essere la prima vera e propria esperienza lavorativa
+
+> <sup>2</sup>Il riconoscimento dei crediti formativi ottenuti durante il percorso ITS, e gli esami che non è necessario preparare, possono variare da Università a Università
