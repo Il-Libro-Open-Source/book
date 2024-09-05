@@ -21,7 +21,7 @@ L'esempio classico è la produzione di un bene materiale dove per forza di cose,
 Questa casistica è piuttosto rara in campo informatico ma comunque presente, per fare un esempio potremmo pensare all'installazione di un plugin su un CMS e alla sua configurazione che può variare da cliente a cliente.
 In questo caso non è detto che ci metteremo lo stesso quantitativo di tempo per ogni cliente, ecco qui che quindi è meglio esprimere la stima in una forbice perché abbiamo un'esperienza che ci dice che possiamo metterci da un minimo ad un massimo.
 
-Nei due precedenti processi ci accorgiamo presto che un elemento determinante è avere una specifica ben definita di cosa vogliamo ottenere, "cosa significa fatto?", "dove vogliamo arrivare?".
+Nei due precedenti processi, definito e statistico, ci accorgiamo presto che un elemento determinante è avere una specifica ben definita di cosa vogliamo ottenere, "cosa significa fatto?", "dove vogliamo arrivare?".
 Il cliente ha un'esigenza e spesso non è in grado di esprimerla da subito in termini chiari e precisi, in un contesto come meccanica ed elettronica è più facile perché il cliente è in grado di descrivre le specifiche con caratteristiche fisiche misurabili; un cliente che chiede un sito internet invece difficilmente potrà fare altrettanto.
 Ad esempio possiamo trovarci di fronte a percezioni di un prodotto terzo e molto qui può fare l'analisi perché ci può chiarire meglio la specifica, la definizione di cosa si vuole ottenere.
 
