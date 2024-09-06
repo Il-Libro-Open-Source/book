@@ -143,6 +143,6 @@ Potremmo aver incontrato questo formato in diversi contesti, ad esempio in un se
 In questo capitolo abbiamo visto i principali protocolli di comunicazione, come funzionano e in quali ambiti vengono utilizzati. Abbiamo visto che i protocolli di comunicazione sono un insieme di regole che definiscono come avviene la comunicazione tra due o più entità, in questo caso tra due o più computer. Queste regole definiscono come avviene la comunicazione, come vengono trasmesse le informazioni e come vengono interpretate.
 Non tutti i protocolli di comunicazione sono uguali: nel capitolo abbiamo dato solo alcuni esempi non esaustivi dei diversi utilizzi.
 
-Da notare inoltre che i protocolli non sono studiati a taovlino a priori ma rispecchiano l'evoluzione di diverse esigenze scaturite da problemi reali tecnologici, come per esempio migliorare le performance, la sicurezza o la gestione degli errori.
+Da notare inoltre che i protocolli non sono studiati a tavolino, ma rispecchiano l'evoluzione di diverse esigenze scaturite da problemi reali tecnologici, come per esempio migliorare le performance, la sicurezza o la gestione degli errori.
 
 Pur non essendo uno degli argomenti più gettonati e divertenti, spero che il lettore sia riuscito ad arrivare fino a qui in fondo!
