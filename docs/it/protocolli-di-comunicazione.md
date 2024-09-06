@@ -114,11 +114,11 @@ La rappresentazione dei dati testuale è una rappresentazione che utilizza un fo
 
 La rappresentazione dei dati binaria è una rappresentazione che utilizza un formato binario per trasmettere le informazioni. Questo significa che le informazioni vengono trasmesse in un formato che non è leggibile da un essere umano, ma che è leggibile da un computer. Questo tipo di rappresentazione è più efficiente e veloce, ma è più difficile da implementare e da utilizzare. Esempi più comuni di rappresentazione dei dati binari sono il formato Protocol Buffers, Avro e MessagePack.
 
+Per approfondire:
 
-> Per approfondire:
-https://protobuf.dev/
-https://avro.apache.org/
-https://msgpack.org/
+- https://protobuf.dev/
+- https://avro.apache.org/
+- https://msgpack.org/
 
 ### Il formato JSON
 
