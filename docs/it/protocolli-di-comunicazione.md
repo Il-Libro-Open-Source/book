@@ -17,7 +17,7 @@ nav_order: 17
 
 In ambito tecnologico e informatico sono presenti concetti fondamentali e strutture consolidate da tempo che spesso diamo per scontato. I protocolli di comunicazione sono un esempio di questa casistica: sono strumenti che utilizziamo quotidianamente, sia nella nostra vita lavorativa sia in quella privata. Ogni giorno infatti effettuiamo chiamate verso un server, inviamo dati, riceviamo risposte e tutto questo avviene grazie ai protocolli di comunicazione anche se, a volte, non ne siamo consapevoli.
 
-Questi infatti sono un insieme di regole che definiscono come avviene la comunicazione tra due o più entità, in questo caso tra due o più computer. Queste regole definiscono come avviene la comunicazione, come vengono trasmesse le informazioni e come vengono interpretate.
+Questi infatti sono un insieme di regole che definiscono come avviene la comunicazione tra due o più entità, in questo caso tra due o più computer e come le informazioni vengono trasmesse e interpretate.
 
 L'esempio più comune nel nostro ambito lavorativo è quello delle chiamate HTTP, che avvengono tra un client e un server, dove, per esempio, il client è il nostro browser e il server è il server web che ospita il sito che stiamo visitando. In questo caso il protocollo HTTP definisce come avviene la comunicazione tra il nostro browser e il server web, come vengono trasmesse le informazioni e come queste vengono interpretate.
 Essendo così diffuso, spesso le specifiche del protocollo HTTP vengono date per scontate ma è importante tenerne conto, soprattutto quando si sviluppano applicazioni che sfruttano questo protocollo.
