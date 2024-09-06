@@ -45,7 +45,7 @@ Senza però entrare troppo nei dettagli, possiamo dire che i protocolli di comun
 
 Il protocollo TCP è un protocollo di comunicazione orientato alla connessione, questo significa che prima di trasmettere le informazioni, il client e il server devono stabilire una connessione tramite un handshake. Questo meccanismo permette di inizializzare la connessione che garantirà che le informazioni vengano trasmesse correttamente e che non vengano perse durante la trasmissione.
 
-Il protocollo UDP è un protocollo di comunicazione non orientato alla connessione, questo significa che non è necessario effettuare meccanismi di inizializzazione per la trasmissione delle informazioni. Vista la mancanza di azioni iniziali come quella dell'handshake, questo tipo di procolli permette di trasmettere le informazioni più velocemente, ma non ne garantisce la correttezza o che esse non vengano perse.
+Il protocollo UDP è un protocollo di comunicazione non orientato alla connessione, questo significa che non è necessario effettuare meccanismi di inizializzazione per la trasmissione delle informazioni. Vista la mancanza di azioni iniziali come quella dell'handshake, questo tipo di protocolli permette di trasmettere le informazioni più velocemente, ma non ne garantisce la correttezza o che esse non vengano perse.
 
 Il modello OSI è una struttura concettuale che ci permette di identificare e catalogare i protocolli di comunicazione, ma solitamente non viene utilizzato direttamente nella pratica. In pratica, i protocolli di comunicazione vengono utilizzati in modo trasparente, senza dover conoscere i dettagli del modello OSI.
 
