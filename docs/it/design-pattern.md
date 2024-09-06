@@ -17,7 +17,7 @@ Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 - [Design Patterns su Wikipedia Italiano](https://it.wikipedia.org/wiki/Design_pattern)
 - [Design Patterns su Wikipedia Inglese](https://en.wikipedia.org/wiki/Design_pattern)
 
-Per illustrarli meglio vorremmo fare soprattutto riferimento a [Refactoring Guru](https://refactoring.guru/design-patterns/) un sito molto dettagliato e che spiega i diversi Design Pattern evidenziando per ognuno vantaggi e svantaggi, mostrando esempi molto esplicativi e confrontandoli con gli altri. Sono presenti esempi in codice acquistabili separatamente in tutti i linguaggi.
+Questo capitolo ha come intento l'introduzione all'argomento, e non ha la presunzione di coprire ogni aspetto dei Design Pattern. Suggeriamo di affiancare la lettura alla navigazione del sito [Refactoring Guru](https://refactoring.guru/design-patterns/), che spiega i diversi Design Pattern evidenziando per ognuno vantaggi e svantaggi, mostrando esempi pratici ed esplicativi. Sono inoltre presenti esempi di codice acquistabili in vari linguaggi.
 
 Il libro della Gang of Four identifica un elenco iniziale di design pattern, ognuno dei quali ha un nome che identifica la soluzione al problema generico che andrà a risolvere.
 Durante lo sviluppo, può essere semplice individuare e applicare un design pattern mentre si analizza un problema specifico, ottenendo una serie di vantaggi, tra cui:
