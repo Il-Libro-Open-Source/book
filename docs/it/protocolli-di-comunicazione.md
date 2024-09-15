@@ -15,11 +15,11 @@ nav_order: 17
 
 #
 
-In ambito tecnologico e informatico sono presenti concetti fondamentali e strutture consolidate da tempo che spesso diamo per scontato. I protocolli di comunicazione sono un esempio di questa casistica: sono strumenti che utilizziamo quotidianamente, sia nella nostra vita lavorativa sia in quella privata. Ogni giorno infatti effettuiamo chiamate verso un server, inviamo dati, riceviamo risposte e tutto questo avviene grazie ai protocolli di comunicazione anche se, a volte, non ne siamo consapevoli.
+In ambito tecnologico e informatico esistono concetti fondamentali e strutture consolidate da tempo che spesso diamo per scontato. I protocolli di comunicazione sono un esempio di questa casistica: sono strumenti che utilizziamo quotidianamente, sia nella nostra vita lavorativa sia in quella privata. Ogni giorno infatti interroghiamo un server, inviamo dati, riceviamo risposte e tutto questo avviene grazie ai protocolli di comunicazione anche se, a volte, non ne siamo consapevoli.
 
 Questi infatti sono un insieme di regole che definiscono come avviene la comunicazione tra due o più entità, in questo caso tra due o più computer e come le informazioni vengono trasmesse e interpretate.
 
-L'esempio più comune nel nostro ambito lavorativo è quello delle chiamate HTTP, che avvengono tra un client e un server, dove, per esempio, il client è il nostro browser e il server è il server web che ospita il sito che stiamo visitando. In questo caso il protocollo HTTP definisce come avviene la comunicazione tra il nostro browser e il server web, come vengono trasmesse le informazioni e come queste vengono interpretate.
+L'esempio più comune nel nostro ambito lavorativo è quello delle chiamate HTTP, che avvengono tra un client e un server, dove, per esempio, il client è il nostro browser e il server è un computer che ospita il sito che stiamo visitando. In questo caso il protocollo HTTP definisce come avviene la comunicazione tra il nostro browser e il server web, come vengono trasmesse le informazioni e come queste vengono interpretate.
 Essendo così diffuso, spesso le specifiche del protocollo HTTP vengono date per scontate ma è importante tenerne conto, soprattutto quando si sviluppano applicazioni che sfruttano questo protocollo.
 
 Il protocollo HTTP è solo un esempio: esistono molti altri protocolli di comunicazione, e variano molto in base alla loro diffusione, complessità, sicurezza garantita, performance e contesto di utilizzo.
@@ -39,7 +39,7 @@ Entrambi i tipi di protocolli sono utilizzati e utilizzano lo stesso principio d
 
 ### Lo stack OSI e la distinzione tra TCP e UDP
 
-In base al modello [OSI](https://it.wikipedia.org/wiki/Modello_OSI), i protocolli di comunicazione possono essere divisi in vari livelli ma il concetto di base è il seguente: strutturare la comunicazione in più livelli, dove ogni livello ha un compito specifico e viene definito basandosi sui livelli precedenti. Per esempio, il protocollo HTTP/1.1 è definito al livello 7 e utilizza il protocollo TCP, che è definito invece al livello 4, il quale si basa sul protocollo IP, definito al livello 3. Questo permette di definire protocolli più complessi basandosi su protocolli più semplici e di riutilizzare i protocolli più semplici in più contesti.
+In base al modello [OSI](https://it.wikipedia.org/wiki/Modello_OSI), i protocolli di comunicazione si dividono in vari livelli ma il concetto di base è il seguente: la comunicazione è strutturata su più livelli, ogni livello ha un compito specifico e viene definito basandosi sui livelli precedenti. Per esempio, il protocollo HTTP/1.1 è definito al livello 7 e utilizza il protocollo TCP, che è definito invece al livello 4, il quale si basa sul protocollo IP, definito al livello 3. Questo permette di definire protocolli più complessi basandosi su protocolli più semplici e di riutilizzare i protocolli più semplici in più contesti.
 
 Senza però entrare troppo nei dettagli, possiamo dire che i protocolli di comunicazione possono essere divisi in due categorie: quelli orientati alla connessione e quelli non orientati alla connessione.
 
@@ -60,7 +60,7 @@ Questa tecnica è per esempio utilizzata quando si hanno dei nomi di dominio non
 
 Il meccanismo di traduzione viene usato in realtà per tutti i protocolli di comunicazione che richiedono la traduzione tra nome di dominio e indirizzo IP, non solo per il protocollo HTTP. Ad esempio, quando si invia una mail, il client deve tradurre il nome di dominio del server SMTP in un indirizzo IP per poter inviare la mail. Oppure, quando il backend di un'applicazione deve connettersi al database, deve tradurre il nome di dominio del database in un indirizzo IP per poter effettuare la connessione.
 
-Il protocollo DNS è complesso e supporta altre funzionalità oltre a quelle descritte sopra che putroppo per motivi di spazio non sono coperte in questo capitolo.
+Il protocollo DNS è complesso e supporta altre funzionalità oltre a quelle descritte sopra che putroppo per motivi pratici non sono coperte in questo capitolo.
 Rimandiamo comunque alla [pagina di Wikipedia](https://it.wikipedia.org/wiki/Domain_Name_System) per una spiegazione più dettagliata.
 
 ### Il protocollo HTTP
@@ -76,9 +76,9 @@ Con la versione 1.1, invece, la connessione TCP viene mantenuta aperta e riutili
 
 Le versioni 1.x dell'HTTP avevano tutte un grosso limite: per effettuare 2 richieste in parallelo si dovevano utilizzare 2 connessioni TCP differenti. Con la versione 2 del protocollo HTTP questo limite viene superato grazie al concetto di multiplexing: il protocollo HTTP/2 utilizza infatti un unico canale di comunicazione TCP per trasmettere più richieste in parallelo. Questo permette di migliorare le prestazioni e la velocità di trasmissione delle informazioni. Questa modifica migliora nettamente le performance in linea generale, ma in particolar modo delle applicazioni web che utilizzano molte risorse esterne come ad esempio le immagini, i file CSS e i file JavaScript. La versione 2 utilizza un nuovo formato binario per trasmettere le informazioni.
 
-La versione 3 del protocollo HTTP viene introdotta per migliorare la sicurezza delle connessioni. Infatti con questa versione, la comunicazione è forzata ad essere criptata e migliora le tempistiche per la creazione di una connessione sicura.
-Un ulteriore cambio tecnologico introdotto è l'utilizzo del protocollo UDP: tale scelta è stata necessaria visti i problemi riscontrati con HTTP versione 2 per cui il multiplexing in casi di errore di trasmissione non era performante. Pur prevedendo infatti il multiplexing, l'invio dei dati avviene in modo sequenziale: la gestione degli errori di trasmissione del protocollo TCP cu sui la versione 2 si basa soffre del problema noto come "head-of-line".
-Se sulla connessione vengono inviati tre pacchetti, e solo il secondo ha un errori di trasmissione, il client è costretto a inviare nuovamente gli ultimi due pacchetti anche se l'ultimo ha raggiunto la destinazione correttamente. La versione 3 basata su UDP, non soffre di questo problema per cui è consigliata in modo particolare in casi di bassa connettività o dove il numero di errori di trasmissione è alto.
+La versione 3 del protocollo HTTP è stata introdotta per migliorare la sicurezza delle connessioni. Infatti con questa versione, la comunicazione è forzata ad essere criptata e migliora le tempistiche per la creazione di una connessione sicura.
+Un ulteriore cambio tecnologico introdotto prevede l'utilizzo del protocollo UDP: tale scelta è stata necessaria visti i problemi riscontrati con HTTP versione 2 per cui il multiplexing in casi di errore di trasmissione non era performante. Pur prevedendo infatti il multiplexing, l'invio dei dati avviene in modo sequenziale: la gestione degli errori di trasmissione del protocollo TCP cu sui la versione 2 si basa soffre del problema noto come "head-of-line".
+Se sulla connessione vengono inviati tre pacchetti, e solo il secondo ha un errore di trasmissione, il client è costretto a inviare nuovamente gli ultimi due pacchetti anche se l'ultimo ha raggiunto la destinazione correttamente. La versione 3 basata su UDP, non soffre di questo problema per cui è consigliata in modo particolare in casi di bassa connettività o dove il numero di errori di trasmissione è alto.
 
 Una menzione va fatta anche al protocollo HTTPS (Hypertext Transfer Protocol Secure): non si tratta di un protocollo a tutti gli effetti, ma di un'estensione del protocollo HTTP, utile in particolare quando la connessione non è garantita sicura dal protocollo stesso, per esempio HTTP1.1 e HTTP2. In tali occasione, per rendere la comunicazione sicuro è necessario fare affidamento su un layer di criptazione.
 
@@ -88,7 +88,7 @@ Per esempio per endpoint interni, invocati solo da applicazioni, il protocollo H
 ### Il protocollo SSH
 
 Il protocollo SSH (Secure Shell) è un protocollo di comunicazione basato su TCP e permette di stabilire una connessione sicura tra due computer.
-Questo tipo di protocollo viene comunemente utilizzato per connettersi ad un computer remoto in modo sicuro, per trasferire file in modo sicuro e per eseguire comandi in modo sicuro. Il protocollo SSH è considerato ad oggi lo standard per eseguire queste operazioni.
+Questo tipo di protocollo viene comunemente utilizzato per connettersi ad un computer remoto, per trasferire file e per eseguire comandi, il tutto in modo sicuro. Il protocollo SSH è considerato ad oggi lo standard per eseguire queste operazioni.
 
 Il protocollo è diviso in tre layer distinti:
 
