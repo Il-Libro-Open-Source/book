@@ -4,7 +4,14 @@ title: Architettura software
 nav_order: 3
 ---
 
+<!-- prettier-ignore-start -->
 # Architetture Software
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Il termine "architettura software" viene spesso utilizzato in maniera molto generica e impropria. In questo documento cercheremo di dare una definizione e di descriverne le principali.
 
@@ -166,7 +173,7 @@ In questa architettura i layer applicativi sono tutti parte dello stesso applica
 - **Scalabilità**: 1. Il monolite, anche in forma modulare, è l'architettura software più difficile da scalare, in quanto non è possibile scalare i singoli componenti, ma è necessario scalare l'intero sistema. In questi casi, infatti, al monolite viene affiancato il concetto di _scalabilità verticale_. La valutazione è dovuta alla necessità, nella maggior parte delle implementazioni di questo tipo, di dover riavviare il sistema per scalare le risorse hardware.
 - **Performance**: 1. La performance del monolite modulare presenta le stesse problematiche del monolite _classico_, con l'aggiunta che per far funzionare questa architettura è necessario un ulteriore livello di astrazione, ovvero il modulo, che può portare ad un degrado delle performance.
 
-## Microkernel
+### Microkernel
 
 Chiamata anche _architettura a plugin_, si compone essenzialmente di un nucleo centrale che si occupa di gestire le comunicazioni tra i vari componenti, che sono sviluppati e distribuiti come plugin.
 Questi plugin possono essere sviluppati e distribuiti in maniera indipendente, ma funzionando attorno ad un nucleo centrale, faranno sempre parte dello stesso _blocco_, inteso che l'applicativo online è unico, come nel caso del monolite _classico_.
@@ -182,7 +189,7 @@ In questa architettura i layer applicativi sono tutti parte dello stesso applica
 - **Scalabilità**: 2. Le difficoltà di scalabilità sono anche in questo caso dovute alla _singola unità di rilascio_ o _single deployment unit_, ovvero trattandosi di un unico applicativo, è necessario scalare l'intero sistema, dovendo quindi ricorrere alla _scalabilità verticale_.
 - **Performance**: 4. Processi di comunicazione semplici e isolabilità rendono questa architettura molto performante.
 
-## Microservizi
+### Microservizi
 
 La _buzzword_ per eccellenza degli ultimi anni.
 
@@ -205,7 +212,7 @@ Da notare che il _decoupling_ creato da questa architettura può portare ad un n
 - **Scalabilità**: 5. La scalabilità è il punto di forza di questa architettura, in quanto ogni microservizio può essere replicato indipendentemente dagli altri.
 - **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli microservizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
 
-## Service-based
+### Service-based
 
 Il _service-based è un'architettura software in cui l'applicativo viene suddiviso in una manciata di servizi (Solitamente da 3 a 12) che comunicano tra di loro attraverso un meccanismo di comunicazione \_solitamente_ asincrono.
 
@@ -222,7 +229,7 @@ Questa architettura viene spesso indicata come "l'anello mancante" tra il monoli
 - **Scalabilità**: 4. La scalabilità è il punto di forza di questa architettura, in quanto ogni servizio può essere replicato indipendentemente dagli altri, ma la dimensione degli stessi può rendere più complicato del previsto il processo.
 - **Performance**: 4. La performance di questa architettura è legata alla capacità di scalare i singoli servizi. Con una buona configurazione di auto-scaling si possono raggiungere eccellenti risultati, anche se la necessità di mettere in comunicazione, via HTTP, socket o qualsiasi altra forma, una quantità elevata di sistemi può impattare sulle performance.
 
-## Altre architetture e pattern
+### Altre architetture e pattern
 
 Architetture come la _space-based architecture_ o la _service-oriented architecture_ vengono utilizzate in contesti specifici e non sono solitamente utilizzate come architetture software di riferimento, di conseguenza vengono citate solo per completezza d'informazione.
 
@@ -236,7 +243,7 @@ Altri termini, come la _event-driven architecture_ o la _event-sourcing architec
 
 Gli _Architecture Decision Records_ (ADR) sono un modo per documentare le decisioni prese durante la progettazione di un sistema software. Questo tipo di documentazione è molto utile per capire il perché di determinate scelte e per capire come il sistema è stato progettato.
 
-A differenza di una classica documentazione tecnica o di un diagramma, le ADR sono molto più semplici da scrivere e da leggere, in quanto sono composte da pochi elementi:
+A differenza di una classica documentazione tecnica o di un diagramma, gli ADR sono molto più semplici da scrivere e da leggere, in quanto sono composte da pochi elementi:
 
 - **Titolo**: il titolo della decisione presa.
 - **Stato**: lo stato della decisione presa. Solitamente può essere _Proposta_, _Accettata_, _Completata_, _Rifiutata_ o _Sostituita_.
@@ -244,7 +251,7 @@ A differenza di una classica documentazione tecnica o di un diagramma, le ADR so
 - **Decisione**: la decisione presa.
 - **Conseguenze**: le conseguenze della decisione presa.
 
-Le ADR vengono spesso utilizzate nelle aziende in cui si fa leva sul _BDD_ (Behavior Driven Development) per la stesura dei ticket nel proprio sistema di ticketing, puntando ad uno specifico ADR per dare informazioni aggiuntive e contesto a chi legge il ticket.
+Gli ADR vengono spesso utilizzate nelle aziende in cui si fa leva sul _BDD_ (Behavior Driven Development) per la stesura dei ticket nel proprio sistema di ticketing, puntando ad uno specifico ADR per dare informazioni aggiuntive e contesto a chi legge il ticket.
 
 ## Conclusioni
 

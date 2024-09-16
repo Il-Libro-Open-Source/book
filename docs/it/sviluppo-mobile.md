@@ -4,7 +4,14 @@ title: Sviluppo Mobile
 nav_order: 6
 ---
 
+<!-- prettier-ignore-start -->
 # Sviluppo Mobile
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Che cos'è lo sviluppo mobile?
 
@@ -26,7 +33,7 @@ Secondo [Wikipedia](https://it.wikipedia.org/wiki/Computer_palmare), "Un compute
 
 Questi computer sono nati principalmente con l'obiettivo di avere con sé agende, calendari, rubriche e calcolatrici dalle dimensioni contenute che potessero essere facilmente riposte in tasca o in un piccolo contenitore più facilmente trasportabile rispetto ad un laptop.
 
-Le aziende pioniere di questo settore sono state Palm, Texas Instruments e Microsoft: sebbene i primi palmare altro non erano che calcolatrici arricchite di funzionalità come rubrica e calendario, con il passare degli anni questi strumenti hanno iniziato ad evolvere e, di pari passo con il diffondersi a macchia d'olio di Internet e della microminiaturizzazione, a convergere verso un unico dispositivo ad oggi noto come smartphone.
+Le aziende pioniere di questo settore sono state Palm, Texas Instruments e Microsoft: sebbene i primi palmari altro non erano che calcolatrici arricchite di funzionalità come rubrica e calendario, con il passare degli anni questi strumenti hanno iniziato ad evolvere e, di pari passo con il diffondersi a macchia d'olio di Internet e della microminiaturizzazione, a convergere verso un unico dispositivo ad oggi noto come smartphone.
 
 I primi palmari ad essere di fatto degli smartphone sono stati i Pocket PC di Microsoft. L'azienda di Redmond realizzò una piattaforma denominata Windows CE (Windows Embedded Compact) installabile su tutta una serie di dispositivi tascabili. Su questa piattaforma Microsoft ha continuato a realizzare versioni parallele dei suoi principali sistemi operativi Microsoft Windows compatibili con processori ARM, MIPS o SH3.
 

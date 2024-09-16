@@ -4,7 +4,14 @@ title: Cosa significa "essere dev"?
 nav_order: 2
 ---
 
-# _Cosa significa "essere dev"?_
+<!-- prettier-ignore-start -->
+# Cosa significa "essere dev"?
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 La domanda, di per sé, è piuttosto semplice.
 
