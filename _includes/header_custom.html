@@ -32,18 +32,23 @@
 </style>
 <script>
     const toggleDarkMode = document.querySelector('#theme-switcher');
+    const hasLocalStorage = typeof localStorage !== 'undefined'
 
     function switchTo(theme) {
         if (theme === 'dark') {
             jtd.setTheme('dark');
             toggleDarkMode.classList.add('dark');
             toggleDarkMode.classList.remove('light');
-            localStorage.setItem('prefers-color-scheme', 'dark');
+            if (hasLocalStorage) {
+                localStorage.setItem('prefers-color-scheme', 'dark');
+            }
         } else if (theme === 'light') {
             jtd.setTheme('light');
             toggleDarkMode.classList.add('light');
             toggleDarkMode.classList.remove('dark');
-            localStorage.setItem('prefers-color-scheme', 'light');
+            if (hasLocalStorage) {
+                localStorage.setItem('prefers-color-scheme', 'light');
+            }
         }
     }
 
@@ -51,7 +56,7 @@
     var lightAsPrefersColorSchema = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches;
 
     var savedColorSchema = null;
-    if (typeof localStorage !== 'undefined') {
+    if (hasLocalStorage) {
         savedColorSchema = localStorage.getItem('prefers-color-scheme');
     }
 
