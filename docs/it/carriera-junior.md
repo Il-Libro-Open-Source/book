@@ -48,7 +48,7 @@ Non si smette mai di essere Junior Dev, anche se pratichiamo un apprendimento co
 
 Stabilito un punto fisso come definizione di Junior Dev, possiamo proseguire nell'esplorare questa figura analizzandola dal punto di vista della carriera, immaginandola come la prima fase di un percorso lavorativo.
 
-In primis è bene stabilire che ogni sviluppatore a seconda delle esperienze, ha i suoi tempi e di conseguenza non esiste un limite di tempo già stabilito entro cui dovrai evolvere come dev e nel titolo abbiamo deliberatamente ripreso un vecchio proverbio per introdurre un concetto per noi fondamentale: nessuno, se non te stess\* può far avanzare la tua carriera in termini di competenze.
+In primis è bene stabilire che ogni persona che lavora nello sviluppo, a seconda delle esperienze, ha i suoi tempi e di conseguenza non esiste un limite di tempo già stabilito entro cui dovrai evolvere come dev e nel titolo abbiamo deliberatamente ripreso un vecchio proverbio per introdurre un concetto per noi fondamentale: nessuno, se non te stess\* può far avanzare la tua carriera in termini di competenze.
 
 Con questa espressione intendiamo evidenziare che di "occasioni" se ne presenteranno molte: la spiegazione di un concetto da parte dei colleghi, affiancamenti ad un senior, contenuti grautiti online (per il momento lasciamo perdere la formazione a pagamento), serate spese a sperimentare in autonomia oppure un nuovo progetto in azienda dove poter toccare con mano un nuovo aspetto mai affrontato.
 
