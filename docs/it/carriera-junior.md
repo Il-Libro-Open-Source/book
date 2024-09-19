@@ -64,7 +64,7 @@ Potremmo dipingere il mondo come un bellissimo posto pieno di arcobaleni e di RA
 
 Con queste righe non vogliamo assolutamente promuovere una cultura tossica del lavoro ne incoraggiare ad accettare situazioni "scomode" di questo stampo che si ripetono nel tempo e soprattutto non vogliamo spingerti a gestire situazioni di grande responsabilità per le quali non hai le skills, ma siccome ci sono e ci saranno sempre probabilmente realtà di questo tipo, è bene che tu acquisisca una adeguata preparazione.
 
-Cosa possiamo fare per affrontare queste occasioni?
+Cosa possiamo fare per affrontare queste situazioni?
 
 Possiamo lamentarci, alzare le mani e sedersi immobili ad aspettare aiuto, oppure possiamo vedere queste situazioni, come detto in precedenza, come occasioni.
 
