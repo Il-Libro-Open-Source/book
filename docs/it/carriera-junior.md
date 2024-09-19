@@ -42,7 +42,7 @@ Magari in qualche modo hai curato in autonomia o in un team gli aspetti più com
 
 Questo cosa può significare?
 
-Probabilmente che gli Junior Devs che sono dentro di noi, se pratichiamo un apprendimento continuo e costante e che segue la natura mutevole di questa professione, forse non se ne vanno mai via del tutto (e magari è anche meglio cosí).
+Non si smette mai di essere Junior Dev, anche se pratichiamo un apprendimento continuo e costante e che segue la natura mutevole di questa professione, e forse è anche meglio cosí.
 
 ## "L'occasione fa del Dev un Senior"
 
