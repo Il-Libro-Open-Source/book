@@ -4,7 +4,7 @@
 
 All'interno di questo libro sono stati affrontati in diverse forme molti dei tecnicismi che fanno parte del mestiere di chi sviluppa; l'obiettivo di questo libro, però, non è parlare di devs visti solamente come artigiani/e del software, bensì in modo più generale: come risorse umane.
 
-Sono presenti infatti diversi capitoli pubblicati o in stesura che parlano del modo in cui formarsi, il significato di questa professione o i percorsi possibili di carriera e che quindi affrontano l'aspetto più "personale" e "lavorativo" di questo mestiere.
+Sono presenti infatti diversi capitoli, pubblicati o in stesura, che parlano del modo in cui formarsi, del significato di questa professione o dei percorsi possibili di carriera, e che affrontano quindi l'aspetto più "personale" e "lavorativo" di questo mestiere.
 
 L'obiettivo di questo capitolo è descrivere per noi cosa significa in linea generale essere Junior Developer, esplorare le pratiche giornaliere per poter crescere e collaborare in modo sano in un team e infine il percorso per crescere di livello e non solo, il fine è raccontare anche quanto questa fase della carriera possa essere complessa oltre che delicata e fondamentale per il futuro, a seconda di come viene affrontata.
 
