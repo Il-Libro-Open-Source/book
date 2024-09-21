@@ -36,7 +36,7 @@ Se volessimo schematizzare e fare qualche esempio a sostegno di questa tesi:
 
 Sicuramente ci sono fattori che non possono mancare in un/a dev con molta esperienza, come i test, l'attenzione alla security o le performance ottimali di un applicativo insieme alla sua architettura, che sono tutti aspetti più complessi da assorbire in autonomia come Junior Dev, anche se la passione e la voglia di imparare possono portarti ovunque.
 
-Potresti essere contributor di progetti FOSS da anni o potresti aver lavorato per molto in un'azienda ma arrivata/o in un'azienda nuova è facile trovarsi spaesati nonostante l'esperienza, ricadendo quindi nella figura di "Junior" in un certo senso, a prescindere dalla sfida da affrontare.
+Potresti essere contributor di progetti FOSS da anni o potresti aver lavorato per molto in un'azienda ma, arrivata/o in un'azienda nuova, è facile trovarsi spaesati nonostante l'esperienza, ricadendo quindi nella figura di "Junior" in un certo senso, a prescindere dalla sfida da affrontare.
 
 Magari in qualche modo hai curato in autonomia o in un team gli aspetti più complessi citati sopra -come security e performance, ad esempio-, iniziando da zero in una nuova realtà aziendale però tutto potrebbe sembrarti diverso e nuovo e come ribadito in diversi capitoli di questo nostro libro open, noi devs non finiamo mai di imparare, ricordandoci che chiunque potrebbe avere qualcosa da insegnarci, anche chi ha iniziato da poco.
 
