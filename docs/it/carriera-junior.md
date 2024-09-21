@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-All'interno di questo libro sono stati affrontati in diverse forme molti dei tecnicismi che fanno parte del mestiere di chi sviluppa, l'obiettivo di questo libro però non è parlare di devs solamente come artigiani/e del software ma anche in modo più generale come risorse umane.
+All'interno di questo libro sono stati affrontati in diverse forme molti dei tecnicismi che fanno parte del mestiere di chi sviluppa; l'obiettivo di questo libro, però, non è parlare di devs visti solamente come artigiani/e del software, bensì in modo più generale: come risorse umane.
 
 Sono presenti infatti diversi capitoli pubblicati o in stesura che parlano del modo in cui formarsi, il significato di questa professione o i percorsi possibili di carriera e che quindi affrontano l'aspetto più "personale" e "lavorativo" di questo mestiere.
 
