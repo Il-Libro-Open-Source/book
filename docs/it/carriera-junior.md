@@ -14,7 +14,7 @@ Come possiamo identificare un/a Junior Developer? Spoiler: non è semplice.
 
 A seconda dei panni che si stanno indossando (es. dev, recruiter, team leader, coach...) questo ruolo può assumere molteplici forme e declinazioni che aumentano esponenzialmente a seconda delle tipologie e delle dimensioni delle aziende, oppure se della categoria di consulenza o di prodotto e anche ad esempio se si è impiegati in ambito front-end o back-end.
 
-Anche affidandoci ad internet per trovare una definizione le sfumature che emergono sono diverse, potremmo classificare chi sviluppa in base all'età (ad oggi non è più di tanto un indice di esperienza), in base agli studi e da quanto tempo siano stati completati o anche in base agli anni di esperienza in una determinata azienda o in generale di carriera.
+Anche affidandoci ad internet per trovare una definizione, le sfumature che emergono sono diverse; potremmo classificare chi sviluppa in base all'età (ad oggi non è più di tanto un indice di esperienza), in base agli studi e da quanto tempo siano stati completati o anche in base agli anni di esperienza in una determinata azienda o in generale di carriera.
 
 Per creare un piano comune che ci permetta di esplorare facilmente l'argomento e fissare quello che per noi è il fulcro del capitolo, la definizione di Junior Dev per noi è la seguente:
 
