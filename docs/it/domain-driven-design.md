@@ -5,7 +5,7 @@ nav_order: 19
 ---
 
 <!-- prettier-ignore-start -->
-# _Domain Driven_Design
+# Domain Driven Design
 {: .no_toc }
 
 - TOC
