@@ -1,4 +1,17 @@
+---
+layout: default
+title: Università VS Self-Made
+nav_order: 20
+---
+
+<!-- prettier-ignore-start -->
 # Università VS Self-Made
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## La terza via: l’ITS
 
