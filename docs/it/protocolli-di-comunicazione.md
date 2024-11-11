@@ -60,7 +60,7 @@ Questa tecnica è per esempio utilizzata quando si hanno dei nomi di dominio non
 
 Il meccanismo di traduzione viene usato in realtà per tutti i protocolli di comunicazione che richiedono la traduzione tra nome di dominio e indirizzo IP, non solo per il protocollo HTTP. Ad esempio, quando si invia una mail, il client deve tradurre il nome di dominio del server SMTP in un indirizzo IP per poter inviare la mail. Oppure, quando il backend di un'applicazione deve connettersi al database, deve tradurre il nome di dominio del database in un indirizzo IP per poter effettuare la connessione.
 
-Il protocollo DNS è complesso e supporta altre funzionalità oltre a quelle descritte sopra che putroppo per motivi pratici non sono coperte in questo capitolo.
+Il protocollo DNS è complesso e supporta altre funzionalità oltre a quelle descritte sopra che purtroppo per motivi pratici non sono coperte in questo capitolo.
 Rimandiamo comunque alla [pagina di Wikipedia](https://it.wikipedia.org/wiki/Domain_Name_System) per una spiegazione più dettagliata.
 
 ### Il protocollo HTTP
@@ -80,7 +80,7 @@ La versione 3 del protocollo HTTP è stata introdotta per migliorare la sicurezz
 Un ulteriore cambio tecnologico introdotto prevede l'utilizzo del protocollo UDP: tale scelta è stata necessaria visti i problemi riscontrati con HTTP versione 2 per cui il multiplexing in casi di errore di trasmissione non era performante. Pur prevedendo infatti il multiplexing, l'invio dei dati avviene in modo sequenziale: la gestione degli errori di trasmissione del protocollo TCP cu sui la versione 2 si basa soffre del problema noto come "head-of-line".
 Se sulla connessione vengono inviati tre pacchetti, e solo il secondo ha un errore di trasmissione, il client è costretto a inviare nuovamente gli ultimi due pacchetti anche se l'ultimo ha raggiunto la destinazione correttamente. La versione 3 basata su UDP, non soffre di questo problema per cui è consigliata in modo particolare in casi di bassa connettività o dove il numero di errori di trasmissione è alto.
 
-Una menzione va fatta anche al protocollo HTTPS (Hypertext Transfer Protocol Secure): non si tratta di un protocollo a tutti gli effetti, ma di un'estensione del protocollo HTTP, utile in particolare quando la connessione non è garantita sicura dal protocollo stesso, per esempio HTTP1.1 e HTTP2. In tali occasione, per rendere la comunicazione sicuro è necessario fare affidamento su un layer di criptazione.
+Una menzione va fatta anche al protocollo HTTPS (Hypertext Transfer Protocol Secure): non si tratta di un protocollo a tutti gli effetti, ma di un'estensione del protocollo HTTP, utile in particolare quando la connessione non è garantita sicura dal protocollo stesso, per esempio HTTP1.1 e HTTP2. In tale occasione, per rendere la comunicazione sicuro è necessario fare affidamento su un layer di criptazione.
 
 Non esiste un protocollo HTTP migliore di un altro: mentre sono da sconsigliare i protocolli deprecati come HTTP 0.9 e HTTP 1.0, gli altri rimangono molto validi.
 Per esempio per endpoint interni, invocati solo da applicazioni, il protocollo HTTP 1.1 è solitamente la scelta utilizzata.
@@ -104,15 +104,15 @@ Questo protocollo è molto diffuso e viene spesso usato per accedere a server re
 
 Il protocollo FTP (File Transfer Protocol) è un protocollo testuale di comunicazione che permette di trasferire file tra un client e un server. Questo tipo di protocollo viene comunemente utilizzato per trasferire file tra un computer e un server, per esempio per trasferire file da un computer locale ad un server remoto o viceversa.
 
-Poiché questo protocollo non usa connessioni sicure, sono stati proposti dei protocolli derivati come il protocollo SFTP (Secure File Transfer Protocol) e il protocollo FTPS (FTP Secure) che permettono di trasferire file in modo sicuro. Questi protocolli utilizzano connessioni sicure basate su SSH o SSL/TLS per garantire la sicurezza del trasferimento dei file.
+Poiché questo protocollo non usa connessioni sicure, sono stati proposti dei protocolli derivati come SFTP (Secure File Transfer Protocol) e FTPS (FTP Secure) che permettono di trasferire file in modo sicuro. Questi protocolli utilizzano connessioni sicure basate su SSH o SSL/TLS per garantire la sicurezza del trasferimento dei file.
 
 ## La rappresentazione dei dati applicativi
 
-I protocolli di comunicazione sono utilizzati per poter trasmettere informazioni tra due o più entità, e i client e i server devono concordare sia sul protocollo della richiesta sia sul contenuto della stessa. Infatti una volta che il client e il server concordano su quale protocollo di comunicazione usare, devono anche concordare quale formato usare per scambarsi le informazioni applicative. Per fare questo, è necessario definire un formato comune per la trasmissione serializzando le informazioni in bytes. Questo processo è chiamato rappresentazione dei dati che può essere di due tipi: rappresentazione dei dati testuale e rappresentazione dei dati binaria.
+I protocolli di comunicazione sono utilizzati per poter trasmettere informazioni tra due o più entità, e i client e i server devono concordare sia sul protocollo della richiesta sia sul contenuto della stessa. Infatti una volta che il client e il server concordano su quale protocollo di comunicazione usare, devono anche concordare quale formato usare per scambarsi le informazioni applicative. Per fare questo, è necessario definire un formato comune per la trasmissione serializzando le informazioni in bytes. Questo processo è chiamato rappresentazione dei dati che può essere di due tipi: testuale e binaria.
 
-La rappresentazione dei dati testuale è una rappresentazione che utilizza un formato testuale per trasmettere le informazioni. Questo significa che le informazioni vengono trasmesse in un formato che è leggibile anche da un essere umano, oltre che dal computer. Questo tipo di rappresentazione è meno efficiente e veloce, ma è più facile da implementare e da utilizzare. Inoltre, essendo leggibile da un essere umano, è più facile da analizzare in caso di problemi. Esempi più comuni di rappresentazione dei dati testuali sono il formato JSON, XML e YAML.
+La rappresentazione dei dati testuale utilizza un formato testuale per trasmettere le informazioni. Questo significa che le informazioni che vengono trasmesse in un formato che è leggibile anche da un essere umano, oltre che dal computer. Questo tipo di rappresentazione è meno efficiente e veloce, ma è più facile da implementare e da utilizzare. Inoltre, essendo leggibile da un essere umano, è più facile da analizzare in caso di problemi. Esempi più comuni di rappresentazione dei dati testuali sono il formato JSON, XML e YAML.
 
-La rappresentazione dei dati binaria è una rappresentazione che utilizza un formato binario per trasmettere le informazioni. Questo significa che le informazioni vengono trasmesse in un formato che non è leggibile da un essere umano, ma che è leggibile da un computer. Questo tipo di rappresentazione è più efficiente e veloce, ma è più difficile da implementare e da utilizzare. Esempi più comuni di rappresentazione dei dati binari sono il formato Protocol Buffers, Avro e MessagePack.
+La rappresentazione dei dati binaria è invece una rappresentazione che utilizza un formato binario per trasmettere le informazioni. Questo significa che le informazioni vengono trasmesse in un formato che non è leggibile da un essere umano, ma che è leggibile da un computer. Questo tipo di rappresentazione è più efficiente e veloce, ma è più difficile da implementare e da utilizzare. Esempi più comuni di rappresentazione dei dati binari sono il formato Protocol Buffers, Avro e MessagePack.
 
 Per approfondire:
 
@@ -147,4 +147,4 @@ Non tutti i protocolli di comunicazione sono uguali: nel capitolo abbiamo dato s
 
 Da notare inoltre che i protocolli non sono studiati a tavolino, ma rispecchiano l'evoluzione di diverse esigenze scaturite da problemi reali tecnologici, come per esempio migliorare le performance, la sicurezza o la gestione degli errori.
 
-Pur non essendo uno degli argomenti più gettonati e divertenti, mi auguro che tu sia riuscito ad arrivare fino a qui in fondo e che l'argomento ti abbia stimolato un po' di curiosità!
+Pur non essendo uno degli argomenti più gettonati e divertenti, mi auguro che tu sia riuscito/a ad arrivare fino a qui in fondo e che l'argomento ti abbia stimolato un po' di curiosità!
