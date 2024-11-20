@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Testing
-nav_order: 4
+parent: Technical topics
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->

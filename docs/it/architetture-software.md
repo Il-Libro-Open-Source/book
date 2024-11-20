@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Architettura software
-nav_order: 3
+parent: Technical topics
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
