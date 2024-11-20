@@ -2,6 +2,7 @@
 layout: default
 title: Il profilo LinkedIn
 nav_order: 2
+parent: Carriera
 ---
 
 <!-- prettier-ignore-start -->
