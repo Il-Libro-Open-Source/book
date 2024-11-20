@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Come affrontare l'età nel mondo IT
-nav_order: 3
 parent: Carriera
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
