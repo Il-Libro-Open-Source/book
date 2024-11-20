@@ -18,19 +18,3 @@ gh_edit_link_text: "Contribuisci a questo contenuto su GitHub."
 gh_edit_repository: "https://github.com/Il-Libro-Open-Source/book"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
-
-collections:
-  technical_topics:
-    output: true
-    permalink: /:collection/:path/
-  career_development:
-    output: true
-    permalink: /:collection/:path/
-
-nav:
-  - title: "Technical topics"
-    collections:
-      - technical_topics
-  - title: "Career development"
-    collections:
-      - career_development
