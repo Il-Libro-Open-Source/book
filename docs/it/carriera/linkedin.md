@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Il profilo LinkedIn
-parent: Career development
 nav_order: 2
 ---
 
