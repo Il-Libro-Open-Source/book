@@ -23,8 +23,8 @@ Si precisa che il conteggio dei tempi di approvazione e raggiungimento del quoru
 
 Per l'approvazione di un contenuto all'interno di main, che sia da parte di un Ambassador che di una figura esterna, sarà sufficiente:
 
-- Approvazione di almeno 5 Ambassador.
-- Approvazione di almeno 1 membro del Drafting Group.
+- Approvazione di almeno 3 Ambassador non membro del Drafting Group.
+- Approvazione di almeno 1 Ambassador membro del Drafting Group.
 - Superato il tempo massimo di 15 giorni dall'apertura della PR - O 15 giorni dall'ultimo commento o approvazione da parte di un Ambassador -, questa sarà considerata non valida e verrà chiusa da qualsiasi Ambassador avesse modo di farlo e verrà richiesto alla persona che ha aperto la PR di riproporla cercando di creare più coinvolgimento o di modificarne il wording.
 
 ## Disapprovazione di un contenuto
@@ -33,5 +33,5 @@ Per esprimere la disapprovazione dei contenuti sarà sufficiente che un membro d
 
 La disapprovazione andrà a ridurre di 1 i numeri per il raggiungimento dei criteri di cui sopra.
 
-Di conseguenza, a titolo di esempio, una PR verso main con 5 voti a favore e approvazione del drafting group ma con una disapprovazione renderà necessaria un'ulteriore approvazione per poter passare.
+Di conseguenza, a titolo di esempio, una PR verso main con 3 voti a favore e approvazione del drafting group ma con una disapprovazione renderà necessaria un'ulteriore approvazione per poter passare.
 Lo stesso vale per il conteggio del Drafting Group, per cui la disapprovazione da parte di uno dei suoi membri richiederà l'approvazione di altri 2 di essi per raggiungere il netto positivo di 1.
