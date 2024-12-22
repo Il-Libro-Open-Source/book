@@ -8,6 +8,8 @@ Sono presenti infatti diversi capitoli, pubblicati o in stesura, che parlano del
 
 L'obiettivo di questo capitolo è descrivere per noi cosa significa in linea generale essere Junior Developer, esplorare le pratiche giornaliere per poter crescere e collaborare in modo sano in un team e infine il percorso per crescere di livello e non solo, il fine è raccontare anche quanto questa fase della carriera possa essere complessa oltre che delicata e fondamentale per il futuro, a seconda di come viene affrontata.
 
+Molti dei suggerimenti e alcune delle conclusioni proposte in questo capitolo sono tratte da esperienze personali e da riflessioni fatte in anni di lavoro in questo settore. Il fine ultimo non consiste nel fornire una guida perfetta e definitiva per essere un buon Junior Developer, ma piuttosto nel dare degli spunti di riflessione e delle linee guida che possano aiutare chi si trova in questa fase della carriera a crescere e a migliorare.
+
 ## L'identikit di Junior Dev
 
 Come possiamo identificare un/a Junior Developer? Spoiler: non è semplice.
