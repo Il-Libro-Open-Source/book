@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-All'interno di questo libro sono stati affrontati in diverse forme molti dei tecnicismi che fanno parte del mestiere di chi sviluppa; l'obiettivo di questo libro, però, non è parlare di devs visti solamente come artigiani/e del software, bensì in modo più generale: come risorse umane.
+All'interno di questo libro vengono affrontati, in diverse forme, molti dei tecnicismi che fanno parte del mestiere di chi sviluppa; l'obiettivo di questo libro, però, non è parlare di devs visti solamente come artigiani/e del software, bensì in modo più generale: come risorse umane.
 
 Sono presenti infatti diversi capitoli, pubblicati o in stesura, che parlano del modo in cui formarsi, del significato di questa professione o dei percorsi possibili di carriera, e che affrontano quindi l'aspetto più "personale" e "lavorativo" di questo mestiere.
 
@@ -70,7 +70,7 @@ Cosa possiamo fare per affrontare queste situazioni?
 
 Possiamo lamentarci, alzare le mani e sedersi immobili ad aspettare aiuto, oppure possiamo vedere queste situazioni, come detto in precedenza, come occasioni.
 
-Potresti iniziare a scorrere la codebase, indagare su internet, raccogliere più informazioni possibili, fare piccoli tentativi in codebase separate e magari ad esempio in caso di bug riprodurre le casistiche per delineare con più precisione il problema e poi, successivamente, confrontarti con altri devs e se non hai modo di farlo, beh, puoi solo provare in autonomia.
+Potresti iniziare a scorrere la codebase, indagare su internet, raccogliere più informazioni possibili, fare piccoli tentativi in codebase separate e magari, in caso di bug, riprodurre le casistiche per delineare con più precisione il problema e poi, successivamente, confrontarti con altri dev. E se non hai modo di farlo? Beh, non ti resta che provare in autonomia.
 
 In linea di massima finché non ci sono perdite di dati in produzione, interruzioni di servizio e perdite di codice importante, possiamo agire ed è quello lo spazio dove possiamo muoverci per aumentare le nostre abilità di coding con una certa confidenza.
 
@@ -80,9 +80,9 @@ Quello a cui dovremmo mirare è arrivare ad avere un sottile limite entro cui è
 
 Se decidiamo di non cogliere nessuna delle occasione che arrivano, abbiamo il rovescio della medaglia: essere stagni nella propria posizione.
 
-Questo per noi è un altro dei fondamenti dell'essere buoni Junior, non fossilizzarsi che in linea di massima è un termine generale per indicare che non dovrai porti dei limiti nell'apprendere, nel definire quando qualcosa è fuori dalla tua sfera d'interesse o delle tue responsabilità e soprattutto, fatto un "gradino" (ad esempio appreso un nuovo framework) è bene pensare al prossimo da superare, ritornando al concetto di apprendimento continuo.
+Questo per noi è un altro dei fondamenti dell'essere buoni Junior, ossia non fossilizzarsi, il che in linea di massima è un termine generale per indicare che non dovrai porti dei limiti nell'apprendere, nel definire quando qualcosa è fuori dalla tua sfera d'interesse o delle tue responsabilità e soprattutto, fatto un "gradino" (ad esempio appreso un nuovo framework) è bene pensare al prossimo da superare, ritornando al concetto di apprendimento continuo.
 
-Anche in questo caso però dobbiamo avvisarti, qui c'è un ulteriore punto fondamentale che è bene ricordare come Junior Dev ma è una costante nella carriera dei devs: attenzione alle tecnologie nuove.
+Anche in questo caso però dobbiamo avvisarti, perché c'è una costante che è bene ricordare sia come Junior Dev che in tutta la carriera nel campo dello sviluppo: attenzione alle nuove tecnologie.
 
 Spesso ti capiterà di veder persone che gridano che il framework, il linguaggio o la tecnologia che stai usando stanno morendo e che è bene imparare la nuovissima tecnologia di cui invece sono dei sostenitori o a cui hanno contribuito.
 In realtà potremmo vedere molti di questi esempi grazie all'IA, dello stampo "Inutile imparare a programmare ora!" ma la realtà dei fatti è che tutto va filtrato e analizzato singolarmente e l'aspetto fondamentale di una tecnologia da valutare è la sua robustezza e non c'è giudice più capace del tempo, la tua stella polare dovrebbe essere la giusta flessibilità accompagnata dalla solidità e la sicurezza di aver scritto (o aver tentato il più possibile) di scrivere codice di qualità.
@@ -91,13 +91,13 @@ In poche parole, equilibrio tra questi aspetti: innovazione, adattabilità, otti
 
 Non spingere la tua mente in uno stato mentale di stress o di FOMO, la paura di "perdersi qualcosa", solo perché non hai appreso l'ultima tecnologia e a sostegno di questa tesi ti segnaliamo che ci sono sistemi centrali per l'umanità che navigano con tecnologie inventati decenni fa o con codice a basso livello.
 
-Prendi le novità cosí come vengono, se ti interessano informati e magari provale ma fai attenzione ad integrarla ovunque e concentrati sul non dimenticare i fondamenti e la forma mentale in favore di ciò che arrivato ieri piuttosto che un mese fa.
+Prendi le novità cosí come vengono, se ti interessano informati e magari provale ma fai attenzione alla tentazione di integrare queste novità ovunque e concentrati sul non dimenticare i fondamenti e la forma mentale in favore di ciò che arrivato ieri piuttosto che un mese fa.
 
 Imparare, sperimentare e testare nuovi strumenti richiede tempo e sicuramente la frizione nell'assorbire una nuova tecnologia fa parte delle occasioni sopracitate ma è anche vero che forse un training di due settimane sul nuovo framework è poco sensato per ottenere semplicemente due millisecondi risparmiati durante il render di una pagina web, forse hai modi migliori di trascorrere il tuo tempo... magari contribuire all'open source :)
 
 Faccenda complessa vero?
 
-Come puoi vedere non vogliamo indorarti la pillola, la fase di carriera da Junior è parecchio delicata e composta di molteplici fattori da considerare e ancora non abbiamo esplorato cosa dovrebbe fare o non fare un Junior Dev per lavorare in modo ottimale, ci sono mille sfaccettature perché dopotutto in questa fase starai gettando le basi della tua carriera, quindi in realtà l'unico consiglio che possiamo darti è di non demordere, ora hai più chiaro quanto può essere complesso iniziare a sviluppare nel mondo di oggi.
+Come puoi vedere non vogliamo indorarti la pillola; la fase di carriera da Junior è parecchio delicata e composta di molteplici fattori da considerare e ancora non abbiamo esplorato cosa dovrebbe fare o non fare un/a Junior Dev per lavorare in modo ottimale, ci sono mille sfaccettature perché dopotutto in questa fase starai gettando le basi della tua carriera, quindi in realtà l'unico consiglio che possiamo darti è di non demordere, visto che ora avrai più chiaro quanto può essere complesso iniziare a sviluppare nel mondo di oggi.
 
 ## Come crescere professionalmente
 
@@ -107,7 +107,7 @@ La chiave di volta per la crescita professionale nel mondo dello sviluppo softwa
 I primi anni della carriera, così come i primi anni di vita, sono quelli in cui si impara di più. È in questa fase che si acquisiscono le competenze tecniche e non tecniche che saranno fondamentali per il proprio futuro professionale. È in questo momento che si impara a lavorare in team, a risolvere i problemi, a comunicare con gli altri, a gestire il tempo e le risorse a propria disposizione.
 
 Per tutte quelle persone che hanno appena avviato la propria carriera professionale, è importante scegliere la prima azienda nel modo giusto. Spesso si tende a sottovalutare l'importanza di questa decisione, ma è proprio da qui che si parte per costruire il proprio futuro professionale. È importante scegliere un'azienda che offra un ambiente di lavoro stimolante, che permetta di crescere professionalmente e che dia la possibilità di mettersi alla prova. In questa fase è molto importante riconsiderare le proprie priorità a breve termine per puntare quasi esclusivamente su quelle a lungo termine.
-Per anni, soprattutto a causa di influenze dettate dai tempi passati, siamo stati abituati a pensare al luogo di lavoro come ad un posto in cui scambiare il proprio tempo per denaro. La retorica degli ultimi cinquant'anni ci ha portato a credere che il lavoro fosse un obbligo, un dovere, una necessità. Ma la realtà è ben diversa. Il lavoro è una scelta, una scelta che facciamo ogni giorno e che ci permette di esprimere noi stessi, di realizzarci, di crescere. Ecco perché è importante scegliere con cura il luogo in cui lavorare, perché è da qui che parte tutto.
+Per anni, soprattutto a causa di influenze dettate dai tempi passati, siamo stati abituati a pensare al luogo di lavoro come ad un posto in cui scambiare il proprio tempo per denaro. La retorica degli ultimi cinquant'anni ci ha portato a credere che il lavoro fosse un obbligo, un dovere, una necessità, ma la realtà è ben diversa. Il lavoro è una scelta, una scelta che facciamo ogni giorno e che ci permette di esprimere noi stessi, di realizzarci, di crescere. Ecco perché è importante scegliere con cura il luogo in cui lavorare, perché è da qui che parte tutto.
 In generale, durante la scelta di un posto di lavoro, mettiamo sul piatto della bilancia diversi aspetti, e tendiamo ad attribuire un peso a ognuno di essi. La retribuzione, e anche la flessibilità sulla modalità di lavoro, spesso giocano un ruolo fondamentale nello spostare l'ago della bilancia, ma è importante non dimenticare che ci sono altri aspetti che possono fare la differenza, soprattutto se stiamo per varcare per la prima volta la soglia di un'azienda. Un lavoro non è per sempre, i nostri gusti, le nostre abitudini, i nostri modi di fare possono cambiare, e con essi anche le nostre priorità.
 
 Nei primi tre mesi di carriera il tuo obiettivo principale dovrebbe essere quello di farti conoscere e conoscere l'azienda nella quale ti trovi. Questo periodo di solito coincide con il periodo di prova, e quindi è importante capire se siete fatti per stare insieme. Non aver paura di fuggire se il tuo sesto senso ti dice che non è il posto giusto per te. Non è un fallimento, è solo un'altra tappa del tuo percorso. E ricorda, non è mai troppo tardi per cambiare strada. In questo momento l'obiettivo principale è imparare, imparare, imparare. Non preoccuparti troppo di fare errori, è normale, è umano.
