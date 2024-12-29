@@ -1,5 +1,7 @@
 # Il Libro Open Source
 
+> Vuoi entrare a far parte della community del libro? Entra nel nostro nuovissimo [canale Telegram](https://t.me/illibroopensource)!
+
 Questo progetto nasce da un post su LinkedIn che ha raccolto decine di persone attorno all'obiettivo di realizzare un libro completamente Open Source.  
 Dalla scelta del tema alla stesura del contenuto, il tutto verrà gestito e condiviso con la community e con chiunque voglia contribuire al progetto.
 
@@ -43,6 +45,7 @@ Trovi i capitoli già presi in considerazione o già in fase di stesura [qui](ht
 
 ## Dove posso scrivere le mie idee?
 
+Nel [canale Telegram](https://t.me/illibroopensource) creato apposta per la community!  
 Nella discussione [Idee sparse](https://github.com/Il-Libro-Open-Source/book/discussions/27) o aprendo una issue senza template.
 
 ## Domande Frequenti
