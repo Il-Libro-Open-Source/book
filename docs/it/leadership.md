@@ -21,11 +21,11 @@ Primo avvertimento quindi: il feedback non è immediato, né quando è positivo 
 Prendete una decisione oggi, e non sapete di preciso quando e che risultati otterrete.
 
 
-### DIVERSI TIPI DI LEADER TECH
+## Diversi tipi di leader tech
 
-Altro punto da chiarire: cos’è, ma soprattutto cosa fa un “leader” in ambito tecnologico? Se proviamo a supportarci con le etichette e i job title, stiamo pur certi di rimanere confusi. CTO, Engineering Manager, VP of Engineering, Head of, Tech Leader, Staff Engineer, Principal Engineer - aggiungete a piacere ed attribuite a ciascuno un significato piuttosto arbitrario.
+Altro punto da chiarire: cos’è, ma soprattutto cosa fa un “leader” in ambito tecnologico? Se proviamo a ragionare con le etichette e i job title, è matematicamente certo che ne usciremo più confusi di prima. CTO, Engineering Manager, VP of Engineering, Head of, Tech Leader, Staff Engineer, Principal Engineer - aggiungete a piacere ed attribuite a ciascuno un significato piuttosto arbitrario.
 
-Fatto questo, traslate la vostra mappatura in un’altra azienda, e vi renderete conto di dover ricominciare da capo.
+Fatto questo, traslate lo stesso ruolo in un’altra azienda, e vi renderete conto di dover ricominciare da capo.
 
 Due criteri che chi scrive ritiene più utile adottare per definire meglio la tipologia di “tech leadership” sono: 
 
