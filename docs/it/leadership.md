@@ -53,9 +53,11 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
   - È uno/a sviluppatore di elevata seniority e capacità tecnica - la sua astrazione dal codice e dall’operatività non è totale, il suo ambito e trasversalità riguardano l’intero dominio applicativo del team in cui lavora.
 
-  - Il suo ruolo è quello di garantire la qualità del codice e delle scelte tecnologiche del suo team, sia scrivendo codice che soprattutto assicurandosi che le altre persone del team lo facciano nel migliore dei modi.
+  - Il suo ruolo è quello di garantire la qualità del codice e delle scelte tecnologiche del suo team, in particolare nel processo di scrittura, durante il quale si scelgono gli algoritmi e le strutture dati pertinenti. Inoltre, deve assicurarsi che le altre persone del team facciano tutto questo nel migliore dei modi.
 
   - Non ha persone formalmente a riporto, ma deve indubbiamente guadagnarsi il rispetto e la fiducia dei suoi compagni di squadra grazie alla sua autorevolezza. Rispetto ad un Senior Developer, in ogni caso, il suo ruolo gli conferisce anche l’autorità per prendere delle decisioni (limitatamente all’ambito tecnico) nel momento in cui il team non dovesse riuscire a farlo in autonomia.
+  
+  - E' una figura di riferimento: nel caso in cui gli altri membri del team dovessero avere bisogno di supporto, dovrebbe essere la prima figura nel gruppo a fornire degli spunti affinché si possa risolvere un problema nel modo migliore e nel breve tempo possibile.  
 
 ### Engineering Manager
 
