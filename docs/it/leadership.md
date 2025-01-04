@@ -49,7 +49,7 @@ Immaginiamo di essere su un elicottero. Un buon leader dovrebbe sapersi muovere 
 
 Vediamo come classificare dei possibili “ruoli” di leadership in relazione ai diversi livelli di astrazione e trasversalità - ma ricordiamoci che non sono regole o dogmi, anche se un pò di standardizzazione potrebbe aiutare in fase di recruiting e comprensione tra aziende diverse:
 
-- **Tech Leader** 
+### Tech Leader
 
   - È uno/a sviluppatore di elevata seniority e capacità tecnica - la sua astrazione dal codice e dall’operatività non è totale, il suo ambito e trasversalità riguardano l’intero dominio applicativo del team in cui lavora.
 
@@ -57,7 +57,7 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
   - Non ha persone formalmente a riporto, ma deve indubbiamente guadagnarsi il rispetto e la fiducia dei suoi compagni di squadra grazie alla sua autorevolezza. Rispetto ad un Senior Developer, in ogni caso, il suo ruolo gli conferisce anche l’autorità per prendere delle decisioni (limitatamente all’ambito tecnico) nel momento in cui il team non dovesse riuscire a farlo in autonomia.
 
-- **Engineering Manager**
+### Engineering Manager
 
   - È una figura manageriale - anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli deve essere sulle Soft Skills
 
@@ -67,9 +67,9 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
   - Da organigramma, le persone dei team che gestisce sono formalmente a suo riporto
 
-- **VP (o Head of) of Engineering**
+### VP (o Head) of Engineering
 
-  - Il livello di astrazione aumenta; un tipo di figura di questo tipo non ha senso che sia coinvolta nella scrittura o nella revisione diretta di codice
+  - Il livello di astrazione aumenta; un tipo di figura di questo tipo non dovrebbe essere coinvolta nella scrittura o nella revisione diretta di codice
 
   - La trasversalità è ampia: tendenzialmente questa figura deve avere una vista sull’intero dominio ingegneristico aziendale
 
