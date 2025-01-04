@@ -45,7 +45,7 @@ Qui urge un disclaimer: “visione più ampia”, non equivale a “meglio”, e
 
 Visione più ampia significa livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile. 
 
-Immaginiamo di essere su un elicottero. Un buon leader deve sapersi muovere su più “aree geografiche” assicurandosi che ciascuna di esse si mostri armoniosa ed in buone condizioni. In alcuni casi è necessario scendere di quota e osservare più da vicino - e raramente l’elicottero dovrebbe atterrare. Quando se ne presenta bisogno, l’intento non è solo quello di “risolvere un problema”, ma soprattutto gettare le basi affinché tale intervento non sia più necessario in futuro.
+Immaginiamo di essere su un elicottero. Un buon leader dovrebbe sapersi muovere su più “aree geografiche” assicurandosi che ciascuna di esse si mostri armoniosa ed in buone condizioni. In alcuni casi è necessario scendere di quota e osservare più da vicino - e raramente l’elicottero dovrebbe atterrare. Quando se ne presenta il bisogno, l’intento non deve essere solo quello di “risolvere un problema”, ma soprattutto gettare le basi affinché tale intervento non sia più necessario in futuro.
 
 Vediamo come classificare dei possibili “ruoli” di leadership in relazione ai diversi livelli di astrazione e trasversalità - ma ricordiamoci che non sono regole o dogmi, anche se un pò di standardizzazione potrebbe aiutare in fase di recruiting e comprensione tra aziende diverse:
 
