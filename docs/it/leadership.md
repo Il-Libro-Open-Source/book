@@ -1,16 +1,16 @@
 # TecnoLeadership
 
-### LA GRATIFICAZIONE RITARDATA
+## LA GRATIFICAZIONE RITARDATA
 
-Forse avete giocato a FIFA. Oppure a PES, o ad un altro gioco di calcio. Se questo è il vostro caso, conoscete _quella sensazione_. Sapete cosa provate quando fate gol, soprattutto se farlo è stato difficile, ha richiesto tanto impegno, se la squadra avversaria era forte e vi siete dovuti mettere alla prova con tutte le vostre forze.
+Forse avete giocato a FIFA. Oppure a PES, o ad un altro gioco di calcio. Se questo è il vostro caso, conoscete _quella sensazione_. Sapete cosa si prova quando fate gol, soprattutto se farlo è stato difficile, ha richiesto tanto impegno, se la squadra avversaria era forte e vi siete dovuti mettere alla prova con tutte le vostre forze.
 
-Le/I developer provano una sensazione simile, ogni volta che risolvono un problema. Ogni volta che il loro codice _funziona come vogliono_. Per quanto i sistemi informatici siano complessi, per quanto anche un singolo programma possa esserlo, se qualcosa non funziona chi sviluppa sa che _il computer ha ragione_. Magari non riesce subito a capire perché, ma sa che sta facendo qualcosa di sbagliato. Ha un feedback immediato, e può rimettersi al lavoro per comprendere cosa non sta girando e perché, e sistemarlo.
+Le/I developer provano una sensazione simile ogni volta che risolvono un problema, ogni volta che il loro codice _funziona come vogliono_. Per quanto i sistemi informatici siano complessi, per quanto anche un singolo programma possa esserlo, se qualcosa non funziona, chi sviluppa sa che _il computer ha ragione_. Magari non riesce subito a capire perché, ma sa che sta facendo qualcosa di sbagliato. Ha un feedback immediato, e può rimettersi al lavoro per comprendere cosa non sta girando e perché, e sistemarlo.
 
-Ecco, questa dal punto di vista di chi scrive è la più grande differenza tra un mestiere come quello della developer e quello di una manager.
+Ecco, questa dal punto di vista di chi scrive è la più grande differenza tra un mestiere come quello del/della developer e quello di un/una manager.
 
 Quando decidiamo di passare ad un ruolo manageriale, entriamo in contatto con dei sistemi ancora più complessi da prevedere: le Persone e le Organizzazioni di Persone. Improvvisamente, il feedback smette di essere immediato, e i risultati delle nostre azioni li vediamo ad una distanza di tempo enormemente più grande (certo, se insulto deliberatamente un collega probabilmente avrò subito un feedback negativo circa la mia azione, ma converrete che si tratta di un caso limite - ed anche in quel caso potremmo sorprenderci circa l’imprevedibilità delle reazioni umane).
 
-Quella sensazione del “gol”, del momento liberatorio, quella voglia di urlare di soddisfazione, quel meccanismo di ricompensa, semplicemente nel mestiere del manager non c’è. È rimandata nel tempo, e questo è il primo aspetto su cui tendo a mettere in guardia una persona che da un ruolo tecnico vuole passare a quello manageriale.
+Quella sensazione del “gol”, del momento liberatorio, quella voglia di urlare di soddisfazione, quel meccanismo di ricompensa, nel mestiere del manager semplicemente non esiste. È rimandata nel tempo, e questo è il primo aspetto su cui tendo a mettere in guardia una persona che da un ruolo tecnico vuole passare a quello manageriale.
 
 Potreste esclamare: “Ma ci sono dei momenti tremendamente esaltanti nella carriera manageriale, soprattutto quando le cose vanno bene!”, ed è certamente vero, ma è comunque una sensazione diversa. Quando, durante la prima esperienza di fundraising io e il team con cui lavoravo siamo arrivati a chiudere l’accordo con i finanziatori, la nostra idea era di festeggiare in stile “Champions League appena vinta”. In realtà, eravamo talmente stanchi dopo le lunghe ore dal notaio, e talmente perplessi circa i termsheet complessi che avevamo dovuto studiare ed apprendere in tempi brevi, che la sensazione fu sì di grande soddisfazione, ma comunque non “esplosiva”.
 
@@ -100,6 +100,6 @@ Quello che un buon manager dovrebbe fare è creare un ambiente in cui le compete
 
 Alcuni tecnici _non_ vogliono diventare manager, e fanno bene a perseguire il loro sogno di carriera: diventare sempre più bravi nella loro area di competenza!
 
-Da un punto di vista aziendale, se si crede in questi presupposti, è importante creare un sistema incentivante anche per chi non vuole crescere in un percorso manageriale. Le figure tecniche devono sentire riconosciuto e premiato il loro continuo perfezionamento, a prescindere dal fatto che rimangano “individual contributor”. Quando parlo di sistema incentivante intendo ovviamente un percorso di carriera, che possa portare alle stesse soddisfazioni (anche a livello retributivo) di un manager di pari livello; sono sempre le competenze e il valore portato all’azienda che dovrebbero fungere da discriminante, non il job title.
+Da un punto di vista aziendale, se si crede in questi presupposti, è importante creare un sistema incentivante anche per chi non vuole crescere in un percorso manageriale. Le figure tecniche devono sentire riconosciuto e premiato il loro continuo perfezionamento, a prescindere dal fatto che rimangano _individual contributor_. Quando parlo di sistema incentivante intendo ovviamente un percorso di carriera, che possa portare alle stesse soddisfazioni (anche a livello retributivo) di un manager di pari livello; sono sempre le competenze e il valore portato all’azienda che dovrebbero fungere da discriminante, non il _job title_.
 
 Il Dual Ladder è una buona soluzione a questo punto, in quanto prevede dei “livelli” di crescita sia per le figure tecniche che per quelle manageriali; molti partono da una base comune ed operativa e poi si biforcano, il che è comunque sensato perché anche un manager di persone Tech deve conoscere la lingua ed il modo di lavorare di quel tipo di Team - guai a mettere un manager generalista in un ruolo di Engineering Manager.
