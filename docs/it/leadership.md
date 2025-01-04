@@ -61,7 +61,7 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
 ### Engineering Manager
 
-  - È una figura manageriale - anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli deve essere sulle Soft Skills
+  - È una figura manageriale - anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli dovrebbe essere sulle Soft Skill
 
   - La trasversalità è più ampia di quella di un Tech Lead o di un developer, in quanto la conoscenza deve estendersi sugli ambiti di dominio di tutti i team gestiti
 
