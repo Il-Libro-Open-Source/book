@@ -65,7 +65,7 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
   - La trasversalità è più ampia di quella di un Tech Lead o di un developer, in quanto la conoscenza deve estendersi sugli ambiti di dominio di tutti i team gestiti
 
-  - Il suo ruolo è quello di People Manager degli sviluppatori di uno o più team - è inevitabile che debba conoscere le tematiche tecnologiche, soprattutto in ottica di comprensione delle complessità che i tecnici affrontano nel day by day, ma la sua missione principale è assicurarsi che le dinamiche nei suoi team funzionino bene. Imperativi in questo senso sono i 1:1 con tutte le persone del Team nonché un forte allineamento con i Tech Lead e (nel caso ci siano), i Product manager
+  - Il suo ruolo è quello di People Manager degli sviluppatori di uno o più team - è inevitabile che debba conoscere le tematiche tecnologiche, soprattutto in ottica di comprensione delle complessità che i tecnici affrontano nel day-by-day, ma la sua missione principale è assicurarsi che le dinamiche nei suoi team siano positive. Imperativi in questo senso sono i 1:1 (momenti di incontro e confronto individuali tra il manager ed ogni singola persona del Team) nonché un forte allineamento con Tech Lead e - qualora ci siano - Product manager
 
   - Da organigramma, le persone dei team che gestisce sono formalmente a suo riporto
 
