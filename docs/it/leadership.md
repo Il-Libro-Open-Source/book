@@ -77,6 +77,8 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
   - Questo tipo di figura ha senso quando l’organizzazione diventa complessa, e ci sono diversi Engineering Manager con tanti team di sviluppo, ciascuno dei quali ha un prodotto (o una fetta di prodotto) da gestire e portare avanti
 
+  - Nelle aziende più grosse e volutamente più strutturate, l'Head of Engineering assume un ruolo intermedio fra gli engineering manager e il o i VP of Engineering. Non vi sono particolari differenze fra i due ruoli se non l'introduzione di un ulteriore livello di astrazione, che potrebbe avere senso se si vuole logicamente differenziare più business unit aziendali teoricamente indipendenti fra loro.
+
 Ho volutamente tenuto fuori il CTO (o CIO o chiamatelo come preferite), perché dal mio punto di vista questa figura è ancora diversa e non legata esclusivamente alla parte di Engineering. Questo è un altro bias molto frequente. In questo caso il livello di astrazione è ancora più alto e la trasversalità si estende ai processi dell’intera azienda, sia per quanto riguarda la cosiddetta “digitalizzazione” dell’organizzazione che anche per tutte le qustioni finanziarie ed amministrative, nonché gli allineamenti con gli executive ed il board o, in caso di aziende che richiedono finanziamenti, coinvolgimento in fase di fundraising.
 
 
