@@ -78,11 +78,11 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 Ho volutamente tenuto fuori il CTO (o CIO o chiamatelo come preferite), perché dal mio punto di vista questa figura è ancora diversa e non legata esclusivamente alla parte di Engineering. Questo è un altro bias molto frequente. In questo caso il livello di astrazione è ancora più alto e la trasversalità si estende ai processi dell’intera azienda, sia per quanto riguarda la cosiddetta “digitalizzazione” dell’organizzazione che anche per tutte le qustioni finanziarie ed amministrative, nonché gli allineamenti con gli executive ed il board o, in caso di aziende che richiedono finanziamenti, coinvolgimento in fase di fundraising.
 
 
-### DUAL LADDER
+## Dual Ladder
 
 Nel paragrafo precedente ho esplicitato come il tema della “visione più ampia” che generalmente un manager ha o dovrebbe avere non debba essere visto come una sorta di “aumento di livello di competenza”.
 
-Per reiterare l’importanza di questo concetto tengo a parlare di un punto molto caro a chi scrive: il principio del dual ladder. In ambito tecnologico fatico a vedere un approccio diverso che possa avere successo. Partiamo da tre concetti chiave da tenere a mente:
+Per reiterare l’importanza di questo concetto colgo l'occasione per tornare a parlare di un punto molto caro al sottoscritto: il principio del dual ladder. In ambito tecnologico fatico a vedere un approccio diverso che possa avere successo. Partiamo da tre concetti chiave da tenere a mente:
 
 - Il software engineering ricade nell’ambito di _knowledge work_, in cui le competenze specialistiche sono estremamente variegate e complesse.
 
@@ -94,7 +94,10 @@ Tradizionalmente, in molte aziende si sono visti schemi di crescita lineari o pi
 
 Questo approccio può funzionare in alcuni casi, soprattutto quando il lavoro operativo è sufficientemente semplice e ripetibile da essere “insegnato” da un singolo esperto ad un team più junior, che a quel punto può essere coordinato.
 
-Ma nell’ambito tecnologico, a causa dei due principi visti prima, questo approccio non scala.
+Ma nell’ambito tecnologico, a causa dei tre principi visti prima, questo approccio non scala.
+Il Command and Control (dire alle persone che sviluppano come fare le cose) porta nella maggior parte dei casi a disfunzionalità, calo di motivazione, deresponsabilizzazione e anche a far perdere valore all'azienda, in quanto le competenze pregiate degli individui non vengono utilizzate nel processo decisionale. 
+
+Peggio ancora, si dovesse ricadere nel meccanismo del micromanagement. Un manager con l'ossessione del controllo a tutti i costi ha il potere di rovinare un team in poco tempo.
 
 Quello che un buon manager dovrebbe fare è creare un ambiente in cui le competenze specialistiche possano brillare, generare valore ed evolvere insieme alle Persone che le coltivano.
 
