@@ -1,3 +1,18 @@
+---
+layout: default
+title: Carriera - Junior
+nav_order: 7
+---
+
+<!-- prettier-ignore-start -->
+# Carriera - Junior
+{: .no_toc }
+
+- TOC
+  {:toc}
+
+<!-- prettier-ignore-end -->
+
 # Carriera - Junior
 
 ## Introduzione
