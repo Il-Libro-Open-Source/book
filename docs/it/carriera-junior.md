@@ -13,8 +13,6 @@ nav_order: 7
 
 <!-- prettier-ignore-end -->
 
-# Carriera - Junior
-
 ## Introduzione
 
 All'interno di questo libro vengono affrontati, in diverse forme, molti dei tecnicismi che fanno parte del mestiere di chi sviluppa; l'obiettivo di questo libro, però, non è parlare di devs visti solamente come artigiani/e del software, bensì in modo più generale: come risorse umane.
