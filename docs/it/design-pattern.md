@@ -34,7 +34,7 @@ Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano
 
 **Come sempre, alla domanda se sia meglio utilizzarli o no, risponderemo con un cauto: _dipende_.**
 
-In generale, non è sempre facile attribuire ad un problema esistente un dato design pattern e applicarlo; a volte la soglia tra l'applicazione di un pattern e un altro può essere molto sottile. Per questa ragione, è consigliato scomporre un problema complesso in altri più piccoli, utilizzando la metodologia nota come _divide et impera_, che rende più semplice individuare dei pattern specifici per i singoli problemi scomposti.
+In generale, non è sempre facile attribuire ad un problema esistente un dato Design Pattern e applicarlo; a volte la soglia tra l'applicazione di un pattern e un altro può essere molto sottile. Per questa ragione, è consigliato scomporre un problema complesso in altri più piccoli, utilizzando la metodologia nota come _divide et impera_, che rende più semplice individuare dei pattern specifici per i singoli problemi scomposti.
 Non sempre, però, è possibile scomporre in questo modo un problema, e alle volte bisogna arrendersi alla impossibilità di applicare uno specifico pattern, adottando invece il puro buon senso e arrivando alla soluzione con gli strumenti che si hanno a disposizione.
 
 è possibile applicarli singolarmente, oppure applicarne più di uno; chiaramente una aderenza maggiore implica la facilità nel riconoscerli da parte di altri/e dev che conoscono l'argomento.
