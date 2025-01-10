@@ -24,7 +24,7 @@ Durante lo sviluppo, può essere semplice individuare e applicare un design patt
 
 - **Facilità di riuso e test del software**: ogni design pattern è stato studiato e catalogato di modo da essere una soluzione (quasi) universale ad ogni problema analogo a quello descritto; di conseguenza è possibile utilizzare un'implementazione simile in diverse porzioni di codice. All'interno della letteratura, questi pattern sono solitamente accompagnati da suggerimenti e metodologie per eseguire del testing, il che rende il processo di scrittura dei test automatizzati più semplice ed efficace.
 - **Miglior comprensione del codice**: essendo conosciuti e avendo un nome inequivocabile, è possibile riconoscere i design pattern e creare un linguaggio comune quando si documenta e sviluppa il software.
-- **Soluzioni provate e testate**: essendo frutto dell'esperienza congiunta di più persone che sviluppano, e avvalorati da diversi casi d'uso nel corso degli anni, i design pattern difficilmente nascondono delle sorprese, e la loro adozione può garantire una soluzione _battle-tested_ e dimostrata rispetto ad un problema specifico.
+- **Soluzioni provate e testate**: essendo frutto dell'esperienza congiunta di più persone che sviluppano, e avvalorati da diversi casi d'uso nel corso degli anni, i Design Pattern difficilmente nascondono delle sorprese, e la loro adozione può garantire una soluzione _battle-tested_ e dimostrata rispetto ad un problema specifico.
 
 Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano degli svantaggi, tra cui:
 
