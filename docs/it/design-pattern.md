@@ -1,4 +1,4 @@
-## Design Patterns
+## Design Pattern
 
 Il concetto di Design Patterns è definito su [Wikipedia](https://it.wikipedia.org/wiki/Design_pattern) come:
 
