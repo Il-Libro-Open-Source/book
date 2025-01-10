@@ -19,7 +19,7 @@ Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 
 Questo capitolo ha come intento l'introduzione all'argomento, e non ha la presunzione di coprire ogni aspetto dei Design Pattern. Suggeriamo di affiancare la lettura alla navigazione del sito [Refactoring Guru](https://refactoring.guru/design-patterns/), che spiega i diversi Design Pattern evidenziando per ognuno vantaggi e svantaggi, mostrando esempi pratici ed esplicativi. Sono inoltre presenti esempi di codice acquistabili in vari linguaggi.
 
-Il libro della Gang of Four identifica un elenco iniziale di design pattern, ognuno dei quali ha un nome che identifica la soluzione al problema generico che andrà a risolvere.
+Il libro della Gang of Four identifica un elenco iniziale di Design Pattern, ognuno dei quali ha un nome che identifica la soluzione al problema generico che andrà a risolvere.
 Durante lo sviluppo, può essere semplice individuare e applicare un design pattern mentre si analizza un problema specifico, ottenendo una serie di vantaggi, tra cui:
 
 - **Facilità di riuso e test del software**: ogni design pattern è stato studiato e catalogato di modo da essere una soluzione (quasi) universale ad ogni problema analogo a quello descritto; di conseguenza è possibile utilizzare un'implementazione simile in diverse porzioni di codice. All'interno della letteratura, questi pattern sono solitamente accompagnati da suggerimenti e metodologie per eseguire del testing, il che rende il processo di scrittura dei test automatizzati più semplice ed efficace.
