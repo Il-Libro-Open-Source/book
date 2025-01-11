@@ -20,14 +20,13 @@ Primo avvertimento quindi: il feedback non è immediato, né quando è positivo 
 
 Prendete una decisione oggi, e non sapete di preciso quando e che risultati otterrete.
 
-
 ## Diversi tipi di leader tech
 
 Altro punto da chiarire: cos’è, ma soprattutto cosa fa un “leader” in ambito tecnologico? Se proviamo a ragionare con le etichette e i job title, è matematicamente certo che ne usciremo più confusi di prima. CTO, Engineering Manager, VP of Engineering, Head of, Tech Leader, Staff Engineer, Principal Engineer - aggiungete a piacere ed attribuite a ciascuno un significato piuttosto arbitrario.
 
 Fatto questo, traslate lo stesso ruolo in un’altra azienda, e vi renderete conto di dover ricominciare da capo.
 
-Due criteri che chi scrive ritiene più utile adottare per definire meglio la tipologia di “tech leadership” sono: 
+Due criteri che chi scrive ritiene più utile adottare per definire meglio la tipologia di “tech leadership” sono:
 
 1. Il livello di astrazione rispetto alla materia prima, cioè ai dettagli implementativi ed operativi necessari per rendere concrete le idee da realizzare
 
@@ -43,7 +42,7 @@ Partendo dai due concetti espressi si può arrivare ad un’altra distinzione ch
 
 Qui urge un disclaimer: “visione più ampia”, non equivale a “meglio”, e non equivale a “persona di livello più importante”. Ritengo che per garantire un approccio costruttivo nel mondo tecnologico sia necessario uscire da questi stereotipi o bias inconsci. Ne parlerò meglio nella sottosezione relativa al Dual Ladder.
 
-Visione più ampia significa livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile. 
+Visione più ampia significa livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile.
 
 Immaginiamo di essere su un elicottero. Un buon leader dovrebbe sapersi muovere su più “aree geografiche” assicurandosi che ciascuna di esse si mostri armoniosa ed in buone condizioni. In alcuni casi è necessario scendere di quota e osservare più da vicino - e raramente l’elicottero dovrebbe atterrare. Quando se ne presenta il bisogno, l’intento non deve essere solo quello di “risolvere un problema”, ma soprattutto gettare le basi affinché tale intervento non sia più necessario in futuro.
 
@@ -51,38 +50,37 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
 ### Tech Leader
 
-  - È uno/a sviluppatore di elevata seniority e capacità tecnica - la sua astrazione dal codice e dall’operatività non è totale, il suo ambito e trasversalità riguardano l’intero dominio applicativo del team in cui lavora.
+- È uno/a sviluppatore di elevata seniority e capacità tecnica - la sua astrazione dal codice e dall’operatività non è totale, il suo ambito e trasversalità riguardano l’intero dominio applicativo del team in cui lavora.
 
-  - Il suo ruolo è quello di garantire la qualità del codice e delle scelte tecnologiche del suo team, in particolare nel processo di scrittura, durante il quale si scelgono gli algoritmi e le strutture dati pertinenti. Inoltre, deve assicurarsi che le altre persone del team facciano tutto questo nel migliore dei modi.
+- Il suo ruolo è quello di garantire la qualità del codice e delle scelte tecnologiche del suo team, in particolare nel processo di scrittura, durante il quale si scelgono gli algoritmi e le strutture dati pertinenti. Inoltre, deve assicurarsi che le altre persone del team facciano tutto questo nel migliore dei modi.
 
-  - Non ha persone formalmente a riporto, ma deve indubbiamente guadagnarsi il rispetto e la fiducia dei suoi compagni di squadra grazie alla sua autorevolezza. Rispetto ad un Senior Developer, in ogni caso, il suo ruolo gli conferisce anche l’autorità per prendere delle decisioni (limitatamente all’ambito tecnico) nel momento in cui il team non dovesse riuscire a farlo in autonomia.
-  
-  - E' una figura di riferimento: nel caso in cui gli altri membri del team dovessero avere bisogno di supporto, dovrebbe essere la prima figura nel gruppo a fornire degli spunti affinché si possa risolvere un problema nel modo migliore e nel breve tempo possibile.  
+- Non ha persone formalmente a riporto, ma deve indubbiamente guadagnarsi il rispetto e la fiducia dei suoi compagni di squadra grazie alla sua autorevolezza. Rispetto ad un Senior Developer, in ogni caso, il suo ruolo gli conferisce anche l’autorità per prendere delle decisioni (limitatamente all’ambito tecnico) nel momento in cui il team non dovesse riuscire a farlo in autonomia.
+
+- E' una figura di riferimento: nel caso in cui gli altri membri del team dovessero avere bisogno di supporto, dovrebbe essere la prima figura nel gruppo a fornire degli spunti affinché si possa risolvere un problema nel modo migliore e nel breve tempo possibile.
 
 ### Engineering Manager
 
-  - È una figura manageriale - anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli dovrebbe essere sulle Soft Skill
+- È una figura manageriale - anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli dovrebbe essere sulle Soft Skill
 
-  - La trasversalità è più ampia di quella di un Tech Lead o di un developer, in quanto la conoscenza deve estendersi sugli ambiti di dominio di tutti i team gestiti
+- La trasversalità è più ampia di quella di un Tech Lead o di un developer, in quanto la conoscenza deve estendersi sugli ambiti di dominio di tutti i team gestiti
 
-  - Il suo ruolo è quello di People Manager degli sviluppatori di uno o più team - è inevitabile che debba conoscere le tematiche tecnologiche, soprattutto in ottica di comprensione delle complessità che i tecnici affrontano nel day-by-day, ma la sua missione principale è assicurarsi che le dinamiche nei suoi team siano positive. Imperativi in questo senso sono i 1:1 (momenti di incontro e confronto individuali tra il manager ed ogni singola persona del Team) nonché un forte allineamento con Tech Lead e - qualora ci siano - Product manager
+- Il suo ruolo è quello di People Manager degli sviluppatori di uno o più team - è inevitabile che debba conoscere le tematiche tecnologiche, soprattutto in ottica di comprensione delle complessità che i tecnici affrontano nel day-by-day, ma la sua missione principale è assicurarsi che le dinamiche nei suoi team siano positive. Imperativi in questo senso sono i 1:1 (momenti di incontro e confronto individuali tra il manager ed ogni singola persona del Team) nonché un forte allineamento con Tech Lead e - qualora ci siano - Product manager
 
-  - Da organigramma, le persone dei team che gestisce sono formalmente a suo riporto
+- Da organigramma, le persone dei team che gestisce sono formalmente a suo riporto
 
 ### VP (o Head) of Engineering
 
-  - Il livello di astrazione aumenta; un tipo di figura di questo tipo non dovrebbe essere coinvolta nella scrittura o nella revisione diretta di codice
+- Il livello di astrazione aumenta; un tipo di figura di questo tipo non dovrebbe essere coinvolta nella scrittura o nella revisione diretta di codice
 
-  - La trasversalità è ampia: tendenzialmente questa figura deve avere una vista sull’intero dominio ingegneristico aziendale
+- La trasversalità è ampia: tendenzialmente questa figura deve avere una vista sull’intero dominio ingegneristico aziendale
 
-  - Questo tipo di figura ha senso quando l’organizzazione diventa complessa, e ci sono diversi Engineering Manager con tanti team di sviluppo, ciascuno dei quali ha un prodotto (o una fetta di prodotto) da gestire e portare avanti
+- Questo tipo di figura ha senso quando l’organizzazione diventa complessa, e ci sono diversi Engineering Manager con tanti team di sviluppo, ciascuno dei quali ha un prodotto (o una fetta di prodotto) da gestire e portare avanti
 
-  - Nelle aziende più grosse e volutamente più strutturate, l'Head of Engineering assume un ruolo intermedio fra gli engineering manager e il o i VP of Engineering. Non vi sono particolari differenze fra i due ruoli se non l'introduzione di un ulteriore livello di astrazione, che potrebbe avere senso se si vuole logicamente differenziare più business unit aziendali teoricamente indipendenti fra loro.
+- Nelle aziende più grosse e volutamente più strutturate, l'Head of Engineering assume un ruolo intermedio fra gli engineering manager e il o i VP of Engineering. Non vi sono particolari differenze fra i due ruoli se non l'introduzione di un ulteriore livello di astrazione, che potrebbe avere senso se si vuole logicamente differenziare più business unit aziendali teoricamente indipendenti fra loro.
 
-  - Nelle aziende più grosse e volutamente più strutturate, l'Head of Engineering assume un ruolo intermedio fra gli engineering manager e il o i VP of Engineering. Non vi sono particolari differenze fra i due ruoli se non l'introduzione di un ulteriore livello di astrazione, che potrebbe avere senso se si vuole logicamente differenziare più business unit aziendali teoricamente indipendenti fra loro.
+- Nelle aziende più grosse e volutamente più strutturate, l'Head of Engineering assume un ruolo intermedio fra gli engineering manager e il o i VP of Engineering. Non vi sono particolari differenze fra i due ruoli se non l'introduzione di un ulteriore livello di astrazione, che potrebbe avere senso se si vuole logicamente differenziare più business unit aziendali teoricamente indipendenti fra loro.
 
 Ho volutamente tenuto fuori il CTO (o CIO o chiamatelo come preferite), perché dal mio punto di vista questa figura è ancora diversa e non legata esclusivamente alla parte di Engineering. Questo è un altro bias molto frequente. In questo caso il livello di astrazione è ancora più alto e la trasversalità si estende ai processi dell’intera azienda, sia per quanto riguarda la cosiddetta “digitalizzazione” dell’organizzazione che anche per tutte le qustioni finanziarie ed amministrative, nonché gli allineamenti con gli executive ed il board o, in caso di aziende che richiedono finanziamenti, coinvolgimento in fase di fundraising.
-
 
 ## Dual Ladder
 
@@ -101,7 +99,7 @@ Tradizionalmente, in molte aziende si sono visti schemi di crescita lineari o pi
 Questo approccio può funzionare in alcuni casi, soprattutto quando il lavoro operativo è sufficientemente semplice e ripetibile da essere “insegnato” da un singolo esperto ad un team più junior, che a quel punto può essere coordinato.
 
 Ma nell’ambito tecnologico, a causa dei tre principi visti prima, questo approccio non scala.
-Il Command and Control (dire alle persone che sviluppano come fare le cose) porta nella maggior parte dei casi a disfunzionalità, calo di motivazione, deresponsabilizzazione e anche a far perdere valore all'azienda, in quanto le competenze pregiate degli individui non vengono utilizzate nel processo decisionale. 
+Il Command and Control (dire alle persone che sviluppano come fare le cose) porta nella maggior parte dei casi a disfunzionalità, calo di motivazione, deresponsabilizzazione e anche a far perdere valore all'azienda, in quanto le competenze pregiate degli individui non vengono utilizzate nel processo decisionale.
 
 Peggio ancora, si dovesse ricadere nel meccanismo del micromanagement. Un manager con l'ossessione del controllo a tutti i costi ha il potere di rovinare un team in poco tempo.
 
