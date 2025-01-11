@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
-# _Cosa significa "essere dev"?_
+# Cosa significa "essere dev"?
 {: .no_toc }
 
 - TOC
