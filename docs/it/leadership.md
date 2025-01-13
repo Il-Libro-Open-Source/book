@@ -36,7 +36,7 @@ Due criteri che chi scrive ritiene più utile adottare per definire meglio la ti
 
 Partendo dai due concetti espressi si può arrivare ad un’altra distinzione chiave tra un ruolo tecnico ed uno manageriale:
 
-- Un/a developer in un contesto sano dovrebbe mantenersi in uno stato di flow più lungo possibile concentrandosi unicamente sul codice per lunghi periodi di tempo, e magari su una stessa regione del dominio applicativo (sì, lo so, nella pratica accade di rado - ma stiamo ragionando di un _contesto sano_, no?)
+- Un/a developer in un contesto sano dovrebbe mantenersi in uno stato di flow più lungo possibile concentrandosi unicamente sul codice per lunghi periodi di tempo, e magari su una stessa regione del dominio applicativo (sì, lo so, nella pratica accade di rado - ma stiamo considerando un _contesto sano_, no?)
 
 - Una persona con un ruolo manageriale non può adottare lo stesso approccio, ma dovrebbe accettare sia un context switching frequente tra compiti anche molto diversi che una visione più ampia a livello di domini ed ambiti di azione
 
