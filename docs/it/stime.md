@@ -11,14 +11,14 @@ Ma come mai la stima e la pianificazione, nel nostro campo, è così complessa? 
 I processi si categorizzano infatti base ad una serie di variabili, ossia delle incognite che si incontrano durante il percorso; più è difficile predire quello che succederà durante il lavoro e più si dice che la variabilità cresce; è un poco come percorrere una strada e non sapere quanto traffico troveremo, se faremo quella strada molto spesso avremo comunque un'idea di cosa possa succedere e di quanto ci metteremo ad arrivare.
 
 Per capire meglio quanto delicata sia questa tematica bisogna ricordarsi che il software è di fatto equiparabile alla produzione di un bene, è un prodotto che deve soddisfare le esigenze di uno o più clienti, un mercato.
-Il processo di creazione di un prodotto, dal punto di vista prettamente ingegneristico, è suddivisibile secondo questa categorizzazione: definito, statistico e empirico, va applicato quello migliore per la situazione in cui siamo.
+Il processo di creazione di un prodotto, dal punto di vista prettamente ingegneristico, è suddivisibile secondo questa categorizzazione: definito, statistico e empirico. Va applicato quello migliore per la situazione in cui siamo.
 
 Il processo definito è quello più semplice, è qualcosa che abbiamo già fatto e di cui conosciamo bene le specifiche e il cui processo di esecuzione è ben definito; in questa sitazione conosco sia tempi che modi e non mi aspetto alcuna variabilità che in parole povere significa solo che non ci sono sorprese durante il processo, avviene sempre alla stessa maniera.
 Un esempio nel nostro campo questo potrebbe essere l'installazione di un sistema operativo, di un CMS; non ci aspettiamo grandi soprese da queste operazioni, al più possono chiederci qualche pacchetto accessorio ma nulla che possa impattare nè sui tempi nè sui risultati.
 
 Il processo statistico, invece, ha una variabilità più alta cioè durante la sua esecuzione le cose possono andare diversamente da quanto previsto e questo impatta sui tempi e costi.
 L'esempio classico è la produzione di un bene materiale dove per forza di cose, errori, difformità di materiali e altre variabili possono incidere sul risuotato che produciamo; ci troviamo di fronte ad un processo che può essere dominato con la statistica, cioè so che avrò un certo scarto percentuale.
-Questa casistica è piuttosto rara in campo informatico ma comunque presente, per fare un esempio potremmo pensare all'installazione di un plugin su un CMS e alla sua configurazione che può variare da cliente a cliente.
+Questa casistica è piuttosto rara in campo informatico ma comunque presente, per fare un esempio potremmo pensare all'installazione di un plugin su un CMS e alla sua configurazione che può variare da cliente a cliente; possiamo immaginare che un plugin di personalizzazione grafica vari ad esempio la livrea colori e magari un logo.
 In questo caso non è detto che ci metteremo lo stesso quantitativo di tempo per ogni cliente, ecco qui che quindi è meglio esprimere la stima in una forbice perché abbiamo un'esperienza che ci dice che possiamo metterci da un minimo ad un massimo.
 
 Nei due precedenti processi, definito e statistico, ci accorgiamo presto che un elemento determinante è avere una specifica ben definita di cosa vogliamo ottenere, "cosa significa fatto?", "dove vogliamo arrivare?".
@@ -30,7 +30,7 @@ Nei processi precedenti si nota che abbiamo un input, eseguiamo una lavorazione,
 Possiamo pensare di ragionare come nel caso di un pittore che deve creare un quadro che di per sè ha un soggetto e un tema ma non ha una definizione precisa del risultato finale.
 Si procede prima con un disegno, che poi viene ripassato a tempera per poi venire ritoccato più volte per andare incontro alle esigenze del committente.
 Il processo empirico è proprio questo, partire da una o più caratteristiche base, da uno scheletro, e agginugere elementi interagendo così da ottenere qualcosa che si adatta man mano che viene creato.
-Partire da elementi di base e poi costruire in manirea iterativa ci consente di scomporre tutto in elementi più piccoli e semplici, più predittibili e quindi più gestibili; questa scomposizione ci consente di riportarci ai due processi precedenti che possono essere predetti meglio e, obiettivo principale, automatizzati.
+Partire da elementi di base e poi costruire in manirea iterativa ci consente di scomporre tutto in elementi più piccoli e semplici, più predittibili e quindi più gestibili; questa scomposizione ci consente di riportarci ai due processi precedenti che possono essere predetti meglio e, obiettivo importante, automatizzati magari per un riuso in altri ambiti.
 
 #### Scomposizione
 
@@ -42,8 +42,11 @@ Nella suddivisione si possono scorgere, come si è visto, criticità; sono le pa
 
 #### Forbice
 
-L'espressione della stima è intuitivamente temporale in ore o giorni uomo, ma non è l'unica possibilità. In alcuni framework agili questa viene sostituita con delle unità adimensionali o addirittura con qualcosa di non numerico: l'esempio classico sono le taglie delle magliette. Questo approccio è tipico di quei team che lavorano per sessioni (chiamati a volte sprint) che durano da una settimana in su dove il gruppo sa che entreranno un certo numero di task con una determinata taglia, rimanere vaghi è un metodo per evitare due cose, la prima è che si faccia della matematica non opportuna sulle stime: la sequenza di come si svolge il lavoro è importante e sommarle ciecamente può comportare problemi nello svolgimento poi; capita spesso, infatti, che chi sovraintende il lavoro abbia bisogno di avere una scaletta (ancora meglio una data) e la cosa più immediata è sommare i tempi di stima. Purtroppo però questa scelta potrebbe non essere la soluzione migliore perché ci sono dipendenze tra i lavori o ci sono aree ancora troppo poco chiare per avere una stima affidabile.
-La seconda è che si vuole semplificare il lavoro di stima evitando di dare un numero in ore e quindi si sa che ce la si farà in una sessione ma si evita di approfondire quanto anche per non creare fraintendimenti.
+L'espressione della stima è intuitivamente temporale in ore o giorni uomo, ma non è l'unica possibilità. In alcuni framework agili questa viene sostituita con delle unità adimensionali o addirittura con qualcosa di non numerico: l'esempio classico sono le taglie delle magliette. Questo approccio è tipico di quei team che lavorano per sessioni (chiamati a volte sprint) che durano da una settimana in su dove il gruppo sa che entreranno un certo numero di task con una determinata taglia, rimanere vaghi è un metodo per evitare raggiungere due obiettivi:
+
+- Evitare che si faccia della matematica non opportuna sulle stime: la sequenza di come si svolge il lavoro è importante e sommarle ciecamente può comportare problemi nello svolgimento poi; capita spesso, infatti, che chi sovraintende il lavoro abbia bisogno di avere una scaletta (ancora meglio una data) e la cosa più immediata è sommare i tempi di stima. Purtroppo però questa scelta potrebbe non essere la soluzione migliore perché ci sono dipendenze tra i lavori o ci sono aree ancora troppo poco chiare per avere una stima affidabile.
+
+- Semplificare il lavoro di stima evitando di dare un numero in ore e quindi si sa che ce la si farà in una sessione ma si evita di approfondire quanto anche per non creare fraintendimenti.
 Se la stima invece è scritta sotto forma di tempo possiamo usare lo stratagemma di creare una forbice con un tempo minimo e massimo per lo svolgimento del lavoro, questo per conteggiare il rischio soprattutto di quelle parti che risultano nuove che potrebbero portare con sé delle criticità. Un altro modo è spesso quello di indicare una stima e poi aggiungere un margine, questo è forse il metodo più incerto perché il margine è spesso arbitrario; generalmente si usa Pareto aggiungendo il venti per cento a quanto ottenuto.
 
 #### Specifiche
