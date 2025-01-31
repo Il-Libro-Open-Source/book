@@ -4,7 +4,7 @@ Il concetto di Design Pattern è definito su [Wikipedia](https://it.wikipedia.or
 
 > Una soluzione progettuale generale ad un problema ricorrente.
 
-Questo concetto, derivante da quello similare esistente in architettura, è comparso per la prima volta nel libro [Design Patterns - Elementi per il riuso di software ad oggetti](https://it.wikipedia.org/wiki/Design_Patterns) i cui autori, detti [Gang of Four](<https://it.wikipedia.org/wiki/Gang_of_Four_(scrittori)>), sono 4 importanti figure del panorama informatico internazionale: Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
+Questo concetto, derivante da quello similare esistente in architettura, è comparso per la prima volta nel libro [Design Pattern - Elementi per il riuso di software ad oggetti](https://it.wikipedia.org/wiki/Design_Patterns) i cui autori, detti [Gang of Four](<https://it.wikipedia.org/wiki/Gang_of_Four_(scrittori)>), sono 4 importanti figure del panorama informatico internazionale: Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides.
 
 Per capire meglio il concetto possiamo dire che ogni design pattern identifica un problema generalizzato da risolvere e associa ad esso una soluzione; questo generalmente viene rappresentato tramite uno schema UML, di supporto per comprendere meglio quanto proposto.
 
