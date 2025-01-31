@@ -14,7 +14,7 @@ Questo non vuol dire che, ad esempio, nella programmazione funzionale non vengan
 Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 
 - [Il canale Youtube di Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi)
-- [Design Patterns su Wikipedia Italiano](https://it.wikipedia.org/wiki/Design_pattern)
+- [Design Pattern su Wikipedia Italiano](https://it.wikipedia.org/wiki/Design_pattern)
 - [Design Pattern su Wikipedia Inglese](https://en.wikipedia.org/wiki/Design_pattern)
 
 Questo capitolo ha come intento l'introduzione all'argomento, e non ha la presunzione di coprire ogni aspetto dei Design Pattern. Suggeriamo di affiancare la lettura alla navigazione del sito [Refactoring Guru](https://refactoring.guru/design-patterns/), che ne descrive le caratteristiche evidenziando per ognuno vantaggi e svantaggi. Mostrando anche esempi pratici ed esplicativi con diversi linguaggi di programmazione acquistabili nel sito.
