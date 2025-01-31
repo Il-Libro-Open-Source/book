@@ -45,7 +45,7 @@ Oltre al libro sui Design Patterns in questione ne sono stati introdotti altri c
 Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
 1. Patterns creazionali
-2. Patterns strutturali
+2. Pattern strutturali
 3. Patterns comportamentali
 
 ## Patterns creazionali
