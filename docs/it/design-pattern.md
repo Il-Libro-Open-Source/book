@@ -41,7 +41,7 @@ Non sempre, però, è possibile scomporre in questo modo un problema, e alle vol
 
 Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.\
 
-Oltre al libro sui Design Patterns in questione ne sono stati introdotti altri che vedremo successivamente.\
+Oltre al libro sui Design Pattern in questione ne sono stati introdotti altri che vedremo successivamente.\
 Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
 1. Patterns creazionali
