@@ -80,7 +80,7 @@ I pattern strutturali definiti dalla GOF sono:
 - Proxy: si interpone tra un oggetto (di solito di servizio) e il mondo esterno con cui comunica, utilizzando la stessa interfaccia, ma alterandone il comportamento. Un esempio sono i Proxy server che agiscono da intermezzo tra la propria macchina e il web, alterando e verificando ogni chiamata in ingresso e in uscita da essi, garantendo anonimato e un buon grado di sicurezza.
 
 
-## Patterns comportamentali
+## Pattern comportamentali
 
 I [Pattern comportamentali](https://refactoring.guru/design-patterns/behavioral-patterns) definiscono uno schema progettuale che in particolare risolve problematiche di comportamento degli oggetti definiti nel pattern. Generalmente questo comportamento si riflette in particolare sugli algoritmi e sulle responsabilità degli oggetti stessi.
 
