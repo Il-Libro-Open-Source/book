@@ -9,7 +9,7 @@ Questo concetto, derivante da quello similare esistente in architettura, è comp
 Per capire meglio il concetto possiamo dire che ogni design pattern identifica un problema generalizzato da risolvere e associa ad esso una soluzione; questo generalmente viene rappresentato tramite uno schema UML, di supporto per comprendere meglio quanto proposto.
 
 Spesso design pattern e programmazione ad oggetti sono strettamente legati poiché i primi vengono descritti e spiegati utilizzando gli oggetti.
-Questo non vuol dire che, ad esempio, nella programmazione funzionale non vengano utilizzati, ma naturalmente necessitano di strutture differenti; in alcuni casi, a dire il vero, alcuni Design Patterns sono più facilmente implementabili con quest'ultimo paradigma.
+Questo non vuol dire che, ad esempio, nella programmazione funzionale non vengano utilizzati, ma naturalmente necessitano di strutture differenti; in alcuni casi, a dire il vero, alcuni Design Pattern sono più facilmente implementabili con quest'ultimo paradigma.
 
 Internet ha molte risorse valide sull'argomento, fra queste possiamo citare:
 
