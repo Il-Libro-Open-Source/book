@@ -44,11 +44,11 @@ Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai 
 Oltre al libro sui Design Pattern in questione ne sono stati introdotti altri che vedremo successivamente.\
 Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
-1. Patterns creazionali
+1. Pattern creazionali
 2. Pattern strutturali
-3. Patterns comportamentali
+3. Pattern comportamentali
 
-## Patterns creazionali
+## Pattern creazionali
 
 I [Pattern creazionali](https://refactoring.guru/design-patterns/creational-patterns) definiscono uno schema progettuale che in particolare si concentra sulla creazione degli oggetti che concorrono a risolvere un determinato problema.
 In questo contesto indichiamo come _prodotti_ gli oggetti creati utilizzando un oggetto generalmente denominato Factory (tradotto in _fabbrica_) che, al suo interno, ne definisce la logica di costruzione, la quale risulta isolata dall'esterno.
@@ -65,7 +65,7 @@ I pattern creazionali definiti dalla GOF sono:
 Come già detto i confini non sono ben definiti per cui, ad esempio, un oggetto complesso potrebbe essere creato tramite un builder e, se una parte dovesse richiedere una clonazione con un successivo raffinamento, sarà necessario utilizzare anche un Prototype che si occuperà della parte di clonazione.
 Se non ci fosse la possibilità di effettuare una separazione netta si potrebbe utilizzare il Builder o il Prototype.
 
-## Patterns strutturali
+## Pattern strutturali
 
 I [Pattern strutturali](https://refactoring.guru/design-patterns/structural-patterns) definiscono uno schema progettuale atto a risolvere problematiche inerenti alla struttura degli oggetti, di modo da renderli flessibili ed efficienti; capiremo meglio questo concetto andando a vedere brevemente tutti i design pattern appartenenti a questa categoria.
 
