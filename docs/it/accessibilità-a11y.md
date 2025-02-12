@@ -232,18 +232,56 @@ Le interfacce devono poter essere utilizzate facilmente, anche senza mouse.
 
 **Obiettivi Chiave:**
 
-- Navigazione interamente accessibile tramite tastiera.
-- Indicatori di focus visibili.
-- Tempi di risposta adeguati e nessun contenuto che possa innescare crisi epilettiche.
+- Navigazione interamente accessibile tramite tastiera
 
 _Esempio:_
 
 ```html
-<a
-  href="#main-content"
-  class="skip-link"
-  >Salta al contenuto principale</a
->
+<a href="#main-content"
+  class="skip-link">
+  Salta al contenuto principale
+</a>
+```
+
+- Indicatori di focus visibili
+
+_Esempio:_
+
+```html
+<button aria-label="Aggiungi il prodotto nella quantità selezionata al Carrello">
+  Aggiungi al Carrello
+</button>
+
+<style>
+  .button {
+    &:focus {
+      outline: 3px solid rebeccapurple;
+      outline-offset: 3px;
+    }
+  }
+</style>
+```
+
+- Tempi di risposta adeguati e nessun contenuto che possa innescare crisi epilettiche (come ad esempio flash di colore, movimenti troppo pesanti e marcati, etc etc...)
+
+_Esempio:_
+
+```html
+<style>
+  .animation {
+    animation: pulse 1s linear infinite both;
+    background-color: purple;
+  }
+
+  /* Tone down the animation to avoid vestibular motion triggers. */
+  @media (prefers-reduced-motion) {
+    .animation {
+      animation: dissolve 4s linear infinite both;
+      background-color: green;
+      text-decoration: overline;
+    }
+  }
+</style>
 ```
 
 ### 3.3 - Comprensibile (Understandable)
@@ -326,6 +364,8 @@ Ecco una lista di strumenti automatici:
 
 - **Axe DevTools:**  
   Questa estensione per browser si integra direttamente nei workflow CI/CD, facilitando test automatizzati continui. Axe DevTools identifica rapidamente le criticità di **Accessibilità** digitale, consentendoti di correggerle prima che possano influenzare l’esperienza utente.
+  
+NOTA: Queste sono solo alcune delle possibili tecnologie o strumenti adatti allo scopo, la lista serve solamente a titolo di esempio.
 
 ### 4.2 - Strumenti di Testing Manuale
 
@@ -353,7 +393,7 @@ Contrasto ottenuto: 7.1:1 (Approvato)
 ### 4.4 - Lettori di Schermo e Tecnologie Assistive
 
 - **NVDA (NonVisual Desktop Access):**  
-  Un lettore open-source per Windows che consente di verificare come i contenuti vengano letti e interpretati, garantendo che ogni elemento del prodotto digitale sia accessibile anche a chi non può fare affidamento sulla vista.
+  Un lettore open source per Windows che consente di verificare come i contenuti vengano letti e interpretati, garantendo che ogni elemento del prodotto digitale sia accessibile anche a chi non può fare affidamento sulla vista.
 
 - **VoiceOver:**  
   Integrato nei dispositivi Apple, offre un’esperienza simile agli altri screen reader, permettendo di testare l’interazione e la navigazione in un ambiente familiare agli utenti Apple.
@@ -361,6 +401,11 @@ Contrasto ottenuto: 7.1:1 (Approvato)
 - **JAWS:**  
   Un lettore di schermo avanzato per Windows, particolarmente utile per simulare scenari complessi e navigazioni articolate. JAWS è ideale per assicurare che anche le interfacce più sofisticate siano Accessibili e intuitive.
 
+- **Orca Screen Reader:**
+  Uno screen reader open source per Linux, che replica le funzionalità disponibili in strumenti analoghi come NVDA
+
+NOTA: Queste sono solo alcune delle possibili tecnologie o strumenti adatti allo scopo, la lista serve solamente a titolo di esempio.
+  
 ### 4.5 - Integrazione Continua e Output
 
 Per rendere l’**Accessibilità** digitale parte integrante del processo di sviluppo, è importante:
@@ -368,7 +413,7 @@ Per rendere l’**Accessibilità** digitale parte integrante del processo di svi
 - **Automatizzare i test nelle pipeline CI/CD:**  
   Integra gli strumenti di testing direttamente nelle pipeline di integrazione continua e distribuzione, così da rilevare e correggere tempestivamente ogni problema di **Accessibilità**.
 
-- **Formare il team sull’uso degli strumenti:**  
+- **Formare il team in merito all'uso degli strumenti:**  
   La formazione continua è fondamentale: tutti gli stakeholder – dai designer agli sviluppatori – devono conoscere e saper utilizzare questi strumenti per garantire standard elevati di **Accessibilità** digitale.
 
 - **Documentare e analizzare i report:**  
