@@ -102,7 +102,7 @@ Di seguito valuteremo i diversi imperativi dell'Accessibilità.
 
 ### 2.1 - L'Accessibilità come Imperativo Etico
 
-Realizzare prodotti digitali Accessibili significa garantire pari opportunità a tutti, mettendo l’inclusione al centro di ogni progetto. Si tratta di un impegno etico e responsabile che va oltre la mera conformità tecnica, per abbatere le barriere e creare soluzioni fruibili da ogni utente, indipendentemente dalle sue abilità o dalle condizioni ambientali.
+Realizzare prodotti digitali Accessibili significa garantire pari opportunità a tutti, mettendo l’inclusione al centro di ogni progetto. Si tratta di un impegno etico e responsabile che va oltre la mera conformità tecnica, per abbattere le barriere e creare soluzioni fruibili da ogni utente, indipendentemente dalle sue abilità o dalle condizioni ambientali.
 
 **Principi Etici Fondamentali:**
 
