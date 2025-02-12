@@ -10,7 +10,7 @@ L’accessibilità digitale (nota anche come **A11y**) non è solo una questione
 
 Attraverso questa capitolo esploreremo insieme i fondamenti, le normative, i principi, gli strumenti e i benefici che fanno dell’accessibilità un pilastro imprescindibile nel mondo del web – perché, ricordiamolo, l'accessibilità è definita dalle WCAG (Web Content Accessibility Guidelines) con la parola Web ben in vista, ma definisce principi per tutto il mondo digitale.
 
-Possiamo considerare l'Accessibilità come uno dei concetti più OpenSource che ci siano
+Possiamo considerare l'Accessibilità come uno dei concetti più Open Source che ci siano
 
 > Il Sapere Umano appartiene al Mondo!
 
