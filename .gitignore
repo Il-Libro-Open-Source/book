@@ -17,6 +17,7 @@ dist/
 .DS_Store
 .idea/*
 .vscode/*
+.obsidian/
 !.vscode/settings.json
 !.vscode/extension.json
 
