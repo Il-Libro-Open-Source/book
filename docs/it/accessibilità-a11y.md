@@ -58,7 +58,6 @@ In sostanza, investire nell’accessibilità significa fare un passo avanti vers
 
 ### 1.3 - Il Contesto Normativo Globale e il European Accessibility Act
 
-
 Le normative costituiscono la spina dorsale dell’Accessibilità digitale, fornendo un quadro di riferimento indispensabile per la progettazione di prodotti digitali inclusivi e privi di barriere. Tra le più rilevanti troviamo:
 
 - **[WCAG](https://www.w3.org/Translations/WCAG22-it/) (Web Content Accessibility Guidelines):**  
