@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Refactoring
-nav_order: 15
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->

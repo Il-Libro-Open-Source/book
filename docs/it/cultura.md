@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Carriera
+title: Cultura
 nav_order: 1
 ---
 
-# Carriera
+# Cultura

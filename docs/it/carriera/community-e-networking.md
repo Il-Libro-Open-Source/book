@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community e Networking
-nav_order: 10
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->

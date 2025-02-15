@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Domain Driven Design
-nav_order: 20
+nav_order: 4
 ---
 
 <!-- prettier-ignore-start -->
