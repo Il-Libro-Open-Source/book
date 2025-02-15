@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cosa significa "essere dev"?
+parent: Cultura
 nav_order: 1
 ---
 

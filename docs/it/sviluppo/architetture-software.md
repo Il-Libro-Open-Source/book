@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Architettura software
-parent: Technical topics
+parent: Sviluppo
 nav_order: 1
 ---
 

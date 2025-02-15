@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testing
-parent: Technical topics
+parent: Sviluppo
 nav_order: 2
 ---
 

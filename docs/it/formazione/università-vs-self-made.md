@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Università VS Self-Made
+parent: Formazione
 nav_order: 1
 ---
 

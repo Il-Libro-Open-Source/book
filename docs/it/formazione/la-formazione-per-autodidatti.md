@@ -1,6 +1,7 @@
 ---
 layout: default
 title: La formazione per autodidatti
+parent: Formazione
 nav_order: 3
 ---
 

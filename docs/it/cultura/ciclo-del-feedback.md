@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Metodologie Agile e ciclo del feedback
+parent: Cultura
 nav_order: 2
 ---
 

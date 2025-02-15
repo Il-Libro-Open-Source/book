@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Percorsi di formazione alternativi
+parent: Formazione
 nav_order: 2
 ---
 

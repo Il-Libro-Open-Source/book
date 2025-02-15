@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AI
-parent: Technical topics
+parent: Altro
 nav_order: 1
 ---
 
