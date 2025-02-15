@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Community e Networking
+parent: Carriera
 nav_order: 7
 ---
 
