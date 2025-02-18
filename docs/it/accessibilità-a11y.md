@@ -38,34 +38,26 @@ L’accessibilità non è semplicemente il frutto dell’osservanza delle normat
 
 Ecco come si declinano in pratica i nostri obiettivi fondamentali:
 
-- **Inclusione Sociale:**  
-  L’Accessibilità è il ponte che collega tutti, senza eccezioni. Il nostro obiettivo è creare ambienti digitali in cui ogni persona, indipendentemente dalle proprie abilità o dalle eventuali diversità, possa trovare opportunità di crescita, apprendimento e interazione. Immagina un sito web che, con piccoli accorgimenti e grande cuore, trasforma ogni click in un invito all’inclusione: questo è il primo passo per una società più equa e solidale.
+- **Inclusione Sociale:** L’Accessibilità è il ponte che collega tutti, senza eccezioni. Il nostro obiettivo è creare ambienti digitali in cui ogni persona, indipendentemente dalle proprie abilità o dalle eventuali diversità, possa trovare opportunità di crescita, apprendimento e interazione. Immagina un sito web che, con piccoli accorgimenti e grande cuore, trasforma ogni click in un invito all’inclusione: questo è il primo passo per una società più equa e solidale
 
-- **Esperienza Utente Migliorata:**  
-  Un design intuitivo e una navigazione fluida non sono solo una questione estetica, ma il fondamento per un’interazione efficace con la tecnologia. Puntiamo a sviluppare interfacce che “parlino” la lingua dell’utente, semplificando il percorso e rendendo ogni interazione un’esperienza piacevole e, perché no, anche divertente. Un’esperienza utente ben progettata sa essere discreta e accogliente, quasi come un vecchio amico che ti guida con leggerezza nel mondo digitale.
+- **Esperienza Utente Migliorata:** Un design intuitivo e una navigazione fluida non sono solo una questione estetica, ma il fondamento per un’interazione efficace con la tecnologia. Puntiamo a sviluppare interfacce che “parlino” la lingua dell’utente, semplificando il percorso e rendendo ogni interazione un’esperienza piacevole e, perché no, anche divertente. Un’esperienza utente ben progettata sa essere discreta e accogliente, quasi come un vecchio amico che ti guida con leggerezza nel mondo digitale
 
-- **Innovazione:**  
-  L’innovazione in ambito accessibilità è sinonimo di creatività applicata alla risoluzione di problemi concreti. Non si tratta solo di adottare le tecnologie più avanzate, ma di saperle mettere al servizio di tutti, abbattendo le barriere digitali con soluzioni smart e sostenibili. È un invito a pensare “fuori dagli schemi”, trasformando ogni sfida in un’opportunità per reinventare il modo in cui interagiamo con il mondo digitale. Con un pizzico di genialità e tanto impegno, possiamo rendere la tecnologia un alleato che abbraccia la diversità.
+- **Innovazione:**  In ambito accessibilità è sinonimo di creatività applicata alla risoluzione di problemi concreti. Non si tratta solo di adottare le tecnologie più avanzate, ma di saperle mettere al servizio di tutti, abbattendo le barriere digitali con soluzioni smart e sostenibili. È un invito a pensare “fuori dagli schemi”, trasformando ogni sfida in un’opportunità per reinventare il modo in cui interagiamo con il mondo digitale. Con un pizzico di genialità e tanto impegno, possiamo rendere la tecnologia un alleato che abbraccia la diversità
 ### 1.3 - Il Contesto Normativo Globale e il European Accessibility Act
 
 Le normative costituiscono la spina dorsale dell’Accessibilità digitale, fornendo un quadro di riferimento indispensabile per la progettazione di prodotti digitali inclusivi e privi di barriere. 
 
 Tra le più rilevanti troviamo:
 
-- **[WCAG](https://www.w3.org/Translations/WCAG22-it/) (Web Content Accessibility Guidelines):**  
-  Le WCAG rappresentano le linee guida internazionali fondamentali per l’Accessibilità digitale. Sviluppate dal World Wide Web Consortium (W3C), offrono raccomandazioni e best practices per la creazione di prodotti digitali fruibili da tutti, superando le barriere e garantendo esperienze utente realmente inclusive. Per approfondimenti e applicazioni pratiche, dai un’occhiata ai [WCAG Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/).
+- **[WCAG](https://www.w3.org/Translations/WCAG22-it/) (Web Content Accessibility Guidelines):** Le WCAG rappresentano le linee guida internazionali fondamentali per l’Accessibilità digitale. Sviluppate dal World Wide Web Consortium (W3C), offrono raccomandazioni e best practices per la creazione di prodotti digitali fruibili da tutti, superando le barriere e garantendo esperienze utente realmente inclusive. Per approfondimenti e applicazioni pratiche, date un’occhiata ai [WCAG Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 
-- **[ADA](https://www.ada.gov) (Americans with Disabilities Act):**  
-  La ADA è una normativa statunitense che ha segnato un punto di svolta nell’Accessibilità digitale, imponendo requisiti rigorosi per assicurare che i prodotti digitali siano fruibili anche dalle persone con disabilità. Questo atto normativo ha avuto un impatto globale, incentivando sviluppatori e aziende a integrare soluzioni accessibili fin dalle prime fasi di progettazione.
+- **[ADA](https://www.ada.gov) (Americans with Disabilities Act):** La ADA è una normativa statunitense che ha segnato un punto di svolta nell’Accessibilità digitale, imponendo requisiti rigorosi per assicurare che i prodotti digitali siano fruibili anche dalle persone con disabilità. Questo atto normativo ha avuto un impatto globale, incentivando sviluppatori e aziende a integrare soluzioni accessibili fin dalle prime fasi di progettazione
 
-- **[EN 301 549](https://webaccessibile.org/normative/la-nuova-norma-tecnica-en-301549-le-novita/):**  
-  Lo standard EN 301 549 definisce i requisiti essenziali per l’Accessibilità digitale in ambito europeo. Si propone di armonizzare le soluzioni per prodotti digitali, fungendo da guida per chi sviluppa tecnologie inclusive e contribuendo a rendere il panorama digitale più equo e accessibile per tutti.
+- **[EN 301 549](https://webaccessibile.org/normative/la-nuova-norma-tecnica-en-301549-le-novita/):** Lo standard EN 301 549 definisce i requisiti essenziali per l’Accessibilità digitale in ambito europeo. Si propone di armonizzare le soluzioni per prodotti digitali, fungendo da guida per chi sviluppa tecnologie inclusive e contribuendo a rendere il panorama digitale più equo e accessibile per tutti
 
-- **[European Accessibility Act](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32019L0882):**  
-  Il European Accessibility Act è una direttiva volta a uniformare le regole sull’Accessibilità digitale in tutta l’Unione Europea. L’obiettivo è abbattere le barriere per utenti, imprese e istituzioni, promuovendo un ambiente digitale competitivo e inclusivo, dove l’innovazione si coniuga con la responsabilità sociale.
+- **[European Accessibility Act](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32019L0882):** Il European Accessibility Act è una direttiva volta a uniformare le regole sull’Accessibilità digitale in tutta l’Unione Europea. L’obiettivo è abbattere le barriere per utenti, imprese e istituzioni, promuovendo un ambiente digitale competitivo e inclusivo, dove l’innovazione si coniuga con la responsabilità sociale
   
-- [AGID - Dichiarazione di accessibilità](https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita)
-  La Dichiarazione di Accessibilità è uno strumento messo a disposizione dall'AGID finalizzato alla pubblicazione dello stato di conformità di un prodotto digitale rispetto ai requisiti della Direttiva UE 2016/2102. Dopo aver nominato un responsabile aziendale della Transizione Digitale, la dichiarazione va aggiornata annualmente entro il 23 settembre, 
+- **[AGID - Dichiarazione di accessibilità](https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita):** La Dichiarazione di Accessibilità è uno strumento messo a disposizione dall'AGID finalizzato alla pubblicazione dello stato di conformità di un prodotto digitale rispetto ai requisiti della Direttiva UE 2016/2102. Dopo aver nominato un responsabile aziendale della Transizione Digitale, la dichiarazione va aggiornata annualmente entro il 23 settembre di ogni anno.
 
 In sintesi, queste normative non sono solo una serie di regole da rispettare, ma veri e propri strumenti che guidano la trasformazione del digitale in un mondo più aperto, inclusivo e all’avanguardia.
 
@@ -92,23 +84,18 @@ Realizzare prodotti digitali Accessibili significa garantire pari opportunità a
 
 **Principi Etici Fondamentali:**
 
-- **Equità Digitale:**  
-  Ogni individuo ha diritto a un accesso completo alle risorse digitali. L’equità digitale si traduce nel progettare soluzioni che non escludano nessuno, facendo in modo che ogni funzionalità e contenuto sia pensato per raggiungere un pubblico il più ampio possibile.
+- **Equità Digitale:** Ogni individuo ha diritto a un accesso completo alle risorse digitali. L’equità digitale si traduce nel progettare soluzioni che non escludano nessuno, facendo in modo che ogni funzionalità e contenuto sia pensato per raggiungere un pubblico il più ampio possibile
 
-- **Inclusione:**  
-  L’Accessibilità digitale nasce dalla convinzione che nessuno debba essere escluso a causa di barriere tecnologiche. Includere significa ampliare il pubblico e valorizzare la diversità, creando ambienti digitali dove ogni utente, a prescindere dalle proprie necessità, si senta accolto e considerato.
+- **Inclusione:** L’Accessibilità digitale nasce dalla convinzione che nessuno debba essere escluso a causa di barriere tecnologiche. Includere significa ampliare il pubblico e valorizzare la diversità, creando ambienti digitali dove ogni utente, a prescindere dalle proprie necessità, si senta accolto e considerato
 
-- **Responsabilità Sociale:**  
-  Progettare in modo inclusivo è un dovere morale. Adottando un approccio che tiene conto delle esigenze di tutti, contribuiamo a una trasformazione sociale positiva, in cui la tecnologia diventa un alleato nella costruzione di comunità più giuste e coese.
+- **Responsabilità Sociale:** Progettare in modo inclusivo è un dovere morale. Adottando un approccio che tiene conto delle esigenze di tutti, contribuiamo a una trasformazione sociale positiva, in cui la tecnologia diventa un alleato nella costruzione di comunità più giuste e coese
 
-- **Miglior Esperienza Utente:**  
-  Interfacce chiare, intuitive e ben strutturate non solo facilitano la navigazione, ma rendono ogni interazione più piacevole e immediata. Un design pensato per l’Accessibilità digitale migliora l’esperienza complessiva, offrendo a ciascun utente un percorso senza ostacoli e ricco di soddisfazioni.
+- **Miglior Esperienza Utente:** Interfacce chiare, intuitive e ben strutturate non solo facilitano la navigazione, ma rendono ogni interazione più piacevole e immediata. Un design pensato per l’Accessibilità digitale migliora l’esperienza complessiva, offrendo a ciascun utente un percorso senza ostacoli e ricco di soddisfazioni
 
-- **SEO Ottimizzata:**  
-  Contenuti ben organizzati e strutturati in modo accessibile sono anche più facilmente riconoscibili e premiati dai motori di ricerca. In altre parole, investire nell’Accessibilità digitale porta benefici non solo in termini di inclusione, ma anche in termini di visibilità e competitività online.
+- **SEO Ottimizzata:** Contenuti ben organizzati e strutturati in modo accessibile sono anche più facilmente riconoscibili e premiati dai motori di ricerca. In altre parole, investire nell’Accessibilità digitale porta benefici non solo in termini di inclusione, ma anche in termini di visibilità e competitività online
 
-_Ad esempio_  
-Un sito governativo che offre informazioni critiche deve garantire l’Accessibilità digitale a tutti, comunicando in maniera trasparente e pro-attiva la volontà di includere ogni utente. Come in un’orchestra ben diretta, ogni strumento e ogni funzionalità, trovano il loro spazio, contribuendo a creare l'armonia necessaria.
+> [!ESEMPIO]
+> Un sito governativo che offre informazioni critiche deve garantire l’Accessibilità digitale a tutti, comunicando in maniera trasparente e pro-attiva la volontà di includere ogni utente. Come in un’orchestra ben diretta, ogni strumento e ogni funzionalità, trovano il loro spazio, contribuendo a creare l'armonia necessaria.
 
 ### 2.2 - Imperativo Legale
 
@@ -166,26 +153,21 @@ _Esempio best-practice di input email con label:_
 
 Per assicurare la conformità agli standard, è fondamentale adottare un approccio strutturato e integrato che consideri l’Accessibilità digitale come un valore aggiunto in ogni fase del ciclo di sviluppo dei prodotti digitali. Ecco alcuni punti chiave da tenere in considerazione:
 
-- **Audit automatizzati e test regolari:**  
-  Integrare strumenti di automazione nel del processo di sviluppo. Questi audit automatizzati sono preziosi per identificare e risolvere rapidamente eventuali criticità, garantendo che le soluzioni digitali rispettino gli standard di Accessibilità digitale fin dal primo momento.
+- **Audit automatizzati e test regolari:** Integrare strumenti di automazione nel del processo di sviluppo. Questi audit automatizzati sono preziosi per identificare e risolvere rapidamente eventuali criticità, garantendo che le soluzioni digitali rispettino gli standard di Accessibilità digitale fin dal primo momento
 
-- **Test con utenti reali e strumenti specifici:**  
-  Oltre ai test automatizzati, è essenziale condurre verifiche regolari con persone dedicate, preferibilmente con reali disabilità, che utilizzino strumenti fra i più diffusi sul mercato. Questi test devono essere effettuati su una varietà di device – o almeno su quelli che si intendono supportare – per assicurarsi che l’esperienza di Accessibilità digitale risulti coerente e fruibile in diversi contesti d’uso.
+- **Test con utenti reali e strumenti specifici:** Oltre ai test automatizzati, è essenziale condurre verifiche regolari con persone dedicate, preferibilmente con reali disabilità, che utilizzino strumenti fra i più diffusi sul mercato. Questi test devono essere effettuati su una varietà di device – o almeno su quelli che si intendono supportare – per assicurarsi che l’esperienza di Accessibilità digitale risulti coerente e fruibile in diversi contesti d’uso
 
-- **Formazione costante del team e coinvolgimento degli stakeholder:**  
-  È fondamentale mantenere il team aggiornato sulle normative e le best practice relative all’Accessibilità digitale. Coinvolgere designer, sviluppatori, project manager, tester QA e dirigenti aziendali favorisce una visione condivisa e una cultura dell’inclusione, dove ogni decisione è presa con la consapevolezza dell’impatto relativo all'esperienza utente.
+- **Formazione costante del team e coinvolgimento degli stakeholder:** È fondamentale mantenere il team aggiornato sulle normative e le best practice relative all’Accessibilità digitale. Coinvolgere designer, sviluppatori, project manager, tester QA e dirigenti aziendali favorisce una visione condivisa e una cultura dell’inclusione, dove ogni decisione è presa con la consapevolezza dell’impatto relativo all'esperienza utente
 
-- **Monitoraggio dei progressi con metriche chiare e report dettagliati:**  
-  Stabilire obiettivi misurabili e monitorare regolarmente i progressi consente di verificare l’efficacia delle azioni intraprese. Report dettagliati e metriche specifiche sono strumenti essenziali per identificare aree di miglioramento e per assicurare che l’Accessibilità digitale rimanga una priorità costante nel processo di sviluppo.
+- **Monitoraggio dei progressi con metriche chiare e report dettagliati:** Stabilire obiettivi misurabili e monitorare regolarmente i progressi consente di verificare l’efficacia delle azioni intraprese. Report dettagliati e metriche specifiche sono strumenti essenziali per identificare aree di miglioramento e per assicurare che l’Accessibilità digitale rimanga una priorità costante nel processo di sviluppo
 
-- **Team dedicato alla validazione iterativa:**  
-  Dedicare un team, o una parte del tempo di un team, esclusivamente alla validazione dell’Accessibilità digitale è una strategia vincente. Integrare i test di Accessibilità digitale nelle pipeline CI/CD permette di rilevare e correggere eventuali problematiche in maniera continua, riducendo il rischio di non conformità e garantendo un prodotto finale sempre allineato agli standard internazionali.
+- **Team dedicato alla validazione iterativa:** Dedicare un team, o una parte del tempo di un team, esclusivamente alla validazione dell’Accessibilità digitale è una strategia vincente. Integrare i test di Accessibilità digitale nelle pipeline CI/CD permette di rilevare e correggere eventuali problematiche in maniera continua, riducendo il rischio di non conformità e garantendo un prodotto finale sempre allineato agli standard internazionali
 
 Adottando questo approccio integrato e sistematico, non solo si assicura la conformità agli standard, ma si trasforma l’Accessibilità digitale in una risorsa strategica che migliora l’esperienza utente e promuove l’inclusione, contribuendo a creare prodotti digitali davvero per tutti.
 
 ## 4 - I Principi Fondamentali dell’Accessibilità Digitale (POUR)
 
-I principi **POUR** sono il cuore dei prodotti digitali inclusivi. Vediamo nel dettaglio di cosa si tratta:
+I principi **POUR** sono il cuore dei prodotti digitali inclusivi. Vediamo nel dettaglio di cosa si tratta.
 
 ### 4.1 - Percepibile (Perceivable)
 
@@ -313,11 +295,9 @@ _Esempio:_
 
 Controllate sempre che:
 
-- **Ogni contenuto rispetti i principi POUR:**  
-  Questi principi – **Percepibile, Usabile, Comprensibile e Robusto** – sono il fondamento per garantire che ogni prodotto digitale sia realmente fruibile da tutti gli utenti. Ad esempio, fornire un testo alternativo per immagini e media visivi assicura che anche chi utilizza tecnologie assistive possa comprendere pienamente il contenuto.
+- **Ogni contenuto rispetti i principi POUR:**  Questi quattro princípi sono il fondamento per garantire che ogni prodotto digitale sia realmente fruibile da tutti gli utenti. Ad esempio, fornire un testo alternativo per immagini e media visivi assicura che anche chi utilizza tecnologie assistive possa comprendere pienamente il contenuto
 
-- **Venga compilata una checklist di conformità alle WCAG:**  
-  Una checklist è uno strumento essenziale per verificare sistematicamente che ogni elemento del prodotto digitale rispetti gli standard di Accessibilità. Questo processo aiuta a individuare eventuali criticità e a mantenere un alto livello di inclusività.
+- **Venga compilata una checklist di conformità alle WCAG:** Una checklist è uno strumento essenziale per verificare sistematicamente che ogni elemento del prodotto digitale rispetti gli standard di Accessibilità. Questo processo aiuta a individuare eventuali criticità e a mantenere un alto livello di inclusività
 
 _Un esempio pratico di checklist potrebbe essere il seguente:_
 
@@ -340,14 +320,11 @@ Garantire un prodotto digitale **Accessibile** significa abbracciare un approcci
 
 Ecco una lista di strumenti automatici:
 
-- **Lighthouse:**  
-  Questo strumento di Google, integrato in Chrome DevTools, consente di eseguire audit su performance, SEO e **Accessibilità** digitale. Con un click, Lighthouse fornisce una panoramica dettagliata, evidenziando le aree che necessitano di miglioramenti e aiutandoti a mantenere uno standard elevato fin dalle prime fasi di sviluppo.
+- **Lighthouse:** Questo strumento di Google, integrato in Chrome DevTools, consente di eseguire audit su performance, SEO e **Accessibilità** digitale. Con un click, Lighthouse fornisce una panoramica dettagliata, evidenziando le aree che necessitano di miglioramenti e aiutandoti a mantenere uno standard elevato fin dalle prime fasi di sviluppo
 
-- **WAVE:**  
-  Un’applicazione basata su browser che mette in luce automaticamente errori come immagini prive di testo alternativo e altri problemi di **Accessibilità** digitale. WAVE è particolarmente utile per ottenere feedback immediato, permettendoti di intervenire tempestivamente e garantire un’esperienza inclusiva.
+- **WAVE:** Un’applicazione basata su browser che mette in luce automaticamente errori come immagini prive di testo alternativo e altri problemi di **Accessibilità** digitale. WAVE è particolarmente utile per ottenere feedback immediato, permettendoti di intervenire tempestivamente e garantire un’esperienza inclusiva
 
-- **Axe DevTools:**  
-  Questa estensione per browser si integra direttamente nei workflow CI/CD, facilitando test automatizzati continui. Axe DevTools identifica rapidamente le criticità di **Accessibilità** digitale, consentendoti di correggerle prima che possano influenzare l’esperienza utente.
+- **Axe DevTools:** Questa estensione per browser si integra direttamente nei workflow CI/CD, facilitando test automatizzati continui. Axe DevTools identifica rapidamente le criticità di **Accessibilità** digitale, consentendoti di correggerle prima che possano influenzare l’esperienza utente
   
 > [!NOTA]
 > Queste sono solo alcune delle possibili tecnologie o strumenti adatti allo scopo, la lista serve solamente a titolo di esempio.
@@ -356,32 +333,24 @@ Ecco una lista di strumenti automatici:
 
 Ecco una lista di strumenti manuali:
 
-- **Keyboard Testing:**  
-  Verifica la navigazione tramite tastiera – utilizzando tasti come Tab e Shift+Tab – per assicurarti che ogni elemento interattivo sia accessibile senza l’uso del mouse. Questo test è fondamentale per garantire che il prodotto digitale sia davvero inclusivo.
+- **Keyboard Testing:** Verifica la navigazione tramite tastiera – utilizzando tasti come Tab e Shift+Tab – per assicurarti che ogni elemento interattivo sia accessibile senza l’uso del mouse. Questo test è fondamentale per garantire che il prodotto digitale sia davvero inclusivo
 
-- **Screen Reader:**  
-  Simula l’esperienza di utenti con disabilità visive utilizzando strumenti dedicati. Questi test manuali aiutano a comprendere come i contenuti vengono interpretati dai lettori di schermo, mettendo in luce eventuali criticità e guidandoti verso soluzioni più efficaci
+- **Screen Reader:** Simula l’esperienza di utenti con disabilità visive utilizzando strumenti dedicati. Questi test manuali aiutano a comprendere come i contenuti vengono interpretati dai lettori di schermo, mettendo in luce eventuali criticità e guidandoti verso soluzioni più efficaci
 
-	- **NVDA (NonVisual Desktop Access):**  
-     Un lettore open source per Windows che consente di verificare come i contenuti vengano letti e interpretati, garantendo che ogni elemento del prodotto digitale sia accessibile anche a chi non può fare affidamento sulla vista.
+	- **NVDA (NonVisual Desktop Access):** Un lettore open source per Windows che consente di verificare come i contenuti vengano letti e interpretati, garantendo che ogni elemento del prodotto digitale sia accessibile anche a chi non può fare affidamento sulla vista
 
-	- **VoiceOver:**  
-     Integrato nei dispositivi Apple, offre un’esperienza simile agli altri screen reader, permettendo di testare l’interazione e la navigazione in un ambiente familiare agli utenti Apple.
+	- **VoiceOver:** Integrato nei dispositivi Apple, offre un’esperienza simile agli altri screen reader, permettendo di testare l’interazione e la navigazione in un ambiente familiare agli utenti Apple
 
-	- **JAWS:**  
-     Un lettore di schermo avanzato per Windows, particolarmente utile per simulare scenari complessi e navigazioni articolate. JAWS è ideale per assicurare che anche le interfacce più sofisticate siano Accessibili e intuitive.
+	- **JAWS:** Un lettore di schermo avanzato per Windows, particolarmente utile per simulare scenari complessi e navigazioni articolate. JAWS è ideale per assicurare che anche le interfacce più sofisticate siano Accessibili e intuitive
 
-	- **Orca Screen Reader:**
-     Uno screen reader open source per Linux, che replica le funzionalità disponibili in strumenti analoghi come NVDA
+	- **Orca Screen Reader:** Uno screen reader open source per Linux, che replica le funzionalità disponibili in strumenti analoghi come NVDA
 
 > [!NOTA]
 > Gli strumenti elencati sono solo alcune delle possibili tecnologie o strumenti adatti allo scopo, la lista serve solamente a titolo di esempio
 
-- **Contrast Checker:**  
-  Un indispensabile strumento per verificare il rapporto di contrasto tra testo e sfondo. Assicurarsi che il contrasto soddisfi i requisiti minimi è essenziale per garantire la leggibilità e l’Accessibilità digitale per tutti.
+- **Contrast Checker:** Un indispensabile strumento per verificare il rapporto di contrasto tra testo e sfondo. Assicurarsi che il contrasto soddisfi i requisiti minimi è essenziale per garantire la leggibilità e l’Accessibilità digitale per tutti.
 
-- **Color Oracle:**  
-  Simula diverse forme di daltonismo, permettendoti di testare le combinazioni di colori e assicurarti che il tuo prodotto digitale sia fruibile da utenti con differenti esigenze visive.
+- **Color Oracle o altri simulatori di daltonismo:** Simula le diverse forme di daltonismo esistenti e riconosciute, permettendoti di testare le combinazioni di colori e assicurarti che il tuo prodotto digitale sia fruibile da utenti con differenti esigenze visive.
 
 _Esempio pratico di validazione del contrasto:_
 
@@ -399,11 +368,9 @@ Contrasto ottenuto: 7.1:1 (Approvato)
 
 Per rendere l’**Accessibilità** digitale parte integrante del processo di sviluppo, è importante:
 
-- **Automatizzare i test nelle pipeline CI/CD:**  
-  Integra gli strumenti di testing direttamente nelle pipeline di integrazione continua e distribuzione, così da rilevare e correggere tempestivamente ogni problema di **Accessibilità**
+- **Automatizzare i test nelle pipeline CI/CD:** Integra gli strumenti di testing direttamente nelle pipeline di integrazione continua e distribuzione, così da rilevare e correggere tempestivamente ogni problema di **Accessibilità**
 
-- **Documentare e analizzare i report:**  
-  Mantieni una documentazione dettagliata e utilizza metriche chiare per monitorare i progressi. Report regolari aiutano a identificare aree di miglioramento e a verificare l’efficacia delle soluzioni implementate
+- **Documentare e analizzare i report:** Mantieni una documentazione dettagliata e utilizza metriche chiare per monitorare i progressi. Report regolari aiutano a identificare aree di miglioramento e a verificare l’efficacia delle soluzioni implementate
 
 _Esempio di output finale:_
 
@@ -425,28 +392,23 @@ Investire nell’**Accessibilità** digitale non è soltanto un obbligo morale o
 
 Implementare soluzioni di **Accessibilità** digitale offre vantaggi tangibili che si ripercuotono su più livelli:
 
-- **Espansione del Mercato:**  
-  Considerando che circa il 15% della popolazione vive con disabilità, rendere i prodotti digitali Accessibili significa includere milioni di potenziali clienti.  
+- **Espansione del Mercato:** Considerando che circa il 15% della popolazione vive con disabilità, rendere i prodotti digitali Accessibili significa includere milioni di potenziali clienti 
 
-- **Riduzione dei Costi:**  
-  Intervenire sin dalle prime fasi di sviluppo per integrare l’Accessibilità digitale permette di individuare e risolvere le criticità prima che diventino problemi complessi e costosi da sistemare. Questo approccio proattivo non solo previene sanzioni legali, ma riduce anche i costi di manutenzione a lungo termine.
+- **Riduzione dei Costi:** Intervenire sin dalle prime fasi di sviluppo per integrare l’Accessibilità digitale permette di individuare e risolvere le criticità prima che diventino problemi complessi e costosi da sistemare. Questo approccio proattivo non solo previene sanzioni legali, ma riduce anche i costi di manutenzione a lungo termine
 
-- **Miglior SEO e Performance:**  
-  Un design chiaro e semantico non favorisce solo l’esperienza utente, ma aiuta anche i motori di ricerca a comprendere e indicizzare meglio i contenuti. In pratica, un prodotto digitale Accessibile può tradursi in una migliore visibilità online e in tempi di caricamento più rapidi. 
+- **Miglior SEO e Performance:** Un design chiaro e semantico non favorisce solo l’esperienza utente, ma aiuta anche i motori di ricerca a comprendere e indicizzare meglio i contenuti. In pratica, un prodotto digitale Accessibile può tradursi in una migliore visibilità online e in tempi di caricamento più rapidi
 ### 6.2 - Benefici Reputazionali, Brand Awareness e Marketing
 
 L’**Accessibilità** digitale è un vantaggio strategico per vendite e marketing, che va oltre l’ottimizzazione tecnica:
 
-- **Responsabilità Sociale:**  
-  Un’azienda che investe in Accessibilità trasmette un messaggio forte di inclusione e rispetto, dimostrando un impegno concreto verso la comunità e i valori etici.
+- **Responsabilità Sociale:** Un’azienda che investe in Accessibilità trasmette un messaggio forte di inclusione e rispetto, dimostrando un impegno concreto verso la comunità e i valori etici
 
-- **Differenziazione Competitiva:**  
-  Essere pionieri nell’Accessibilità digitale significa distinguersi dalla concorrenza. I clienti apprezzano e si identificano con marchi che mettono al centro l’umanità e la diversità, creando così un vantaggio competitivo significativo.
+- **Differenziazione Competitiva:** Essere pionieri nell’Accessibilità digitale significa distinguersi dalla concorrenza. I clienti apprezzano e si identificano con marchi che mettono al centro l’umanità e la diversità, creando così un vantaggio competitivo significativo
 
-- **Fiducia e Fedeltà:**  
-  Un’esperienza utente inclusiva genera recensioni positive e porta a una maggiore fidelizzazione. L’Accessibilità si traduce in fedeltà e crescita del brand.
+- **Fiducia e Fedeltà:** Un’esperienza utente inclusiva genera recensioni positive e porta a una maggiore fidelizzazione. L’Accessibilità si traduce in fedeltà e crescita del brand
 
-Investire in accessibilità significa espandere il mercato, migliorare l’usabilità (per tutti gli utenti) e ottenere un vantaggio competitivo: non solo un obbligo normativo, ma una mossa strategica che apre il business a un mercato molto più ampio.
+> [!NOTA]
+> Investire in accessibilità significa espandere il mercato, migliorare l’usabilità (per tutti gli utenti) e ottenere un vantaggio competitivo: non solo un obbligo normativo, ma una mossa strategica che apre il business a un mercato molto più ampio.
 
 ### 6.3 - Un po' di numeri
 
@@ -454,19 +416,19 @@ Investire in accessibilità significa espandere il mercato, migliorare l’usabi
   * Fonti (quelli presi a riferimento sono dati del 2011, considerando quanto è aumentata la popolazione negli ultimi 14 anni, possiamo stimare un possibile 18-20%): 
 	- [World Report on Disability Summary](https://www.who.int/publications/i/item/WHO-NMH-VIP-11.01)
 	- [World Health Organization – World Report on Disability](https://www.who.int/publications/i/item/world-report-on-disability)
-  - Esiste anche uno specifico movimento in merito [#wethe15](https://www.wethe15.org) (versione italiana [#noiil15](https://www.wethe15.org/it)) lanciato ai Giochi Paralimpici di Tokyo 2020, vuole dare il via al cambiamento per il prossimo decennio. Dietro il movimento, infatti, c’è la più grande coalizione mai vista di organizzazioni internazionali di sport, diritti umani, politica, comunicazione, affari, arti e intrattenimento, una vera e propria campagna per abbattere le barriere, non solo digitali.
+	- Esiste anche uno specifico movimento in merito [#wethe15](https://www.wethe15.org) (ver. italiana [#noiil15](https://www.wethe15.org/it)) lanciato ai Giochi Paralimpici di Tokyo 2020, vuole dare il via al cambiamento per il prossimo decennio. Dietro il movimento, infatti, c’è la più grande coalizione mai vista di organizzazioni internazionali di sport, diritti umani, politica, comunicazione, affari, arti e intrattenimento, una vera e propria campagna per abbattere le barriere, non solo digitali
 
 2. **WebAIM Million 2020** ha analizzato 1 milione di pagine web, rivelando che il **98% dei siti presenta errori di accessibilità** che impattano negativamente sull’esperienza degli utenti.
-   * Fonte: [WebAIM Million 2020](https://webaim.org/projects/million/)*
+   * Fonte: [WebAIM Million 2020](https://webaim.org/projects/million/)
 
 3. Il **Nielsen Norman Group** evidenzia come un design accessibile migliori l’usabilità: siti che rispettano le linee guida per l’accessibilità offrono un’esperienza utente più fluida, favorendo maggiori conversioni e fidelizzazione.  
-   * Fonte: [Nielsen Norman Group – Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)*
+   * Fonte: [Nielsen Norman Group – Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 4. **Forbes** sottolinea che rendere i servizi digitali accessibili non solo promuove l’inclusione, ma si traduce in un vantaggio competitivo, incrementando conversioni e vendite.  
-   * Fonte: [Forbes – Accessibility isn't just Nice, it's good for Business](https://www.forbes.com/councils/forbestechcouncil/2023/07/24/accessibility-isnt-just-nice-its-good-business/)*
+   * Fonte: [Forbes – Accessibility isn't just Nice, it's good for Business](https://www.forbes.com/councils/forbestechcouncil/2023/07/24/accessibility-isnt-just-nice-its-good-business/)
 
 5. Il **UK Government Digital Service** fornisce linee guida pratiche per garantire l’accessibilità dei servizi digitali, dimostrando come le soluzioni inclusive siano fondamentali per ampliare l’utenza e migliorare l’efficacia dei canali online.  
-   * Fonte: [UK Government – Making Your Service Accessible](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)*
+   * Fonte: [UK Government – Making Your Service Accessible](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 
 ### 6.4 - Consapevolezza e Dichiarazione d’Intenti
 
@@ -497,14 +459,11 @@ _Esempio di dashboard:_
 
 Al termine della fase di analisi, l’azienda dovrebbe ottenere una serie di risultati concreti e documentati, tra cui:
 
-- **Report Chiari:**
-  Documenti dettagliati che evidenziano i benefici economici, operativi e reputazionali derivanti dall’adozione dell’Accessibilità digitale
+- **Report Chiari:** Documenti dettagliati che evidenziano i benefici economici, operativi e reputazionali derivanti dall’adozione dell’Accessibilità digitale
 
-- **KPI Definiti e Monitorati:**
-  Indicatori specifici che consentono di misurare l’impatto degli interventi, facilitando un monitoraggio continuo e una rapida individuazione delle aree di miglioramento
+- **KPI Definiti e Monitorati:** Indicatori specifici che consentono di misurare l’impatto degli interventi, facilitando un monitoraggio continuo e una rapida individuazione delle aree di miglioramento
 
-- **Roadmap Strategica:**
-  Un piano d’azione orientato al miglioramento continuo, che guida l’azienda verso nuovi obiettivi di inclusività e innovazione
+- **Roadmap Strategica:** Un piano d’azione orientato al miglioramento continuo, che guida l’azienda verso nuovi obiettivi di inclusività e innovazione
 
 _Esempio di output finale:_
 
