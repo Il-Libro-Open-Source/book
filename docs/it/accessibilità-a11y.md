@@ -43,6 +43,7 @@ Ecco come si declinano in pratica i nostri obiettivi fondamentali:
 - **Esperienza Utente Migliorata:** Un design intuitivo e una navigazione fluida non sono solo una questione estetica, ma il fondamento per un’interazione efficace con la tecnologia. Puntiamo a sviluppare interfacce che “parlino” la lingua dell’utente, semplificando il percorso e rendendo ogni interazione un’esperienza piacevole e, perché no, anche divertente. Un’esperienza utente ben progettata sa essere discreta e accogliente, quasi come un vecchio amico che ti guida con leggerezza nel mondo digitale
 
 - **Innovazione:**  In ambito accessibilità è sinonimo di creatività applicata alla risoluzione di problemi concreti. Non si tratta solo di adottare le tecnologie più avanzate, ma di saperle mettere al servizio di tutti, abbattendo le barriere digitali con soluzioni smart e sostenibili. È un invito a pensare “fuori dagli schemi”, trasformando ogni sfida in un’opportunità per reinventare il modo in cui interagiamo con il mondo digitale. Con un pizzico di genialità e tanto impegno, possiamo rendere la tecnologia un alleato che abbraccia la diversità
+
 ### 1.3 - Il Contesto Normativo Globale e il European Accessibility Act
 
 Le normative costituiscono la spina dorsale dell’Accessibilità digitale, fornendo un quadro di riferimento indispensabile per la progettazione di prodotti digitali inclusivi e privi di barriere. 
@@ -78,6 +79,7 @@ Contribuendo tutti con competenze e idee possiamo davvero abbattere le barriere 
 ## 2 - Gli Imperativi dell'Accessibilità Digitale
 
 L’Accessibilità digitale va ben oltre l’implementazione tecnica: è un impegno che abbraccia valori etici, responsabilità legali e vantaggi funzionali, trasformando ogni interfaccia in un ponte verso l’inclusione.
+
 ### 2.1 - Imperativo Etico
 
 Realizzare prodotti digitali Accessibili significa garantire pari opportunità a tutti, mettendo l’inclusione al centro di ogni progetto. Si tratta di un impegno etico e responsabile che va oltre la mera conformità tecnica, per abbattere le barriere e creare soluzioni fruibili da ogni utente, indipendentemente dalle sue abilità o dalle condizioni ambientali.
@@ -397,6 +399,7 @@ Implementare soluzioni di **Accessibilità** digitale offre vantaggi tangibili c
 - **Riduzione dei Costi:** Intervenire sin dalle prime fasi di sviluppo per integrare l’Accessibilità digitale permette di individuare e risolvere le criticità prima che diventino problemi complessi e costosi da sistemare. Questo approccio proattivo non solo previene sanzioni legali, ma riduce anche i costi di manutenzione a lungo termine
 
 - **Miglior SEO e Performance:** Un design chiaro e semantico non favorisce solo l’esperienza utente, ma aiuta anche i motori di ricerca a comprendere e indicizzare meglio i contenuti. In pratica, un prodotto digitale Accessibile può tradursi in una migliore visibilità online e in tempi di caricamento più rapidi
+
 ### 6.2 - Benefici Reputazionali, Brand Awareness e Marketing
 
 L’**Accessibilità** digitale è un vantaggio strategico per vendite e marketing, che va oltre l’ottimizzazione tecnica:
