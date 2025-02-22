@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sviluppatore "senior"
-nav_order: 8
+parent: Carriera
+nav_order: 4
 ---
 
 <!-- prettier-ignore-start -->

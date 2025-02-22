@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Architettura software
-nav_order: 3
+parent: Sviluppo
+nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->

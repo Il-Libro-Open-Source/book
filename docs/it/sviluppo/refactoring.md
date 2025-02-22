@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Refactoring
-nav_order: 15
+parent: Sviluppo
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->

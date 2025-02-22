@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sviluppo Mobile
-nav_order: 6
+parent: Sviluppo
+nav_order: 5
 ---
 
 <!-- prettier-ignore-start -->
