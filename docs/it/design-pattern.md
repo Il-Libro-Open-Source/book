@@ -39,9 +39,9 @@ Non sempre, però, è possibile scomporre in questo modo un problema, e alle vol
 
 è possibile applicarli singolarmente, oppure applicarne più di uno; chiaramente una aderenza maggiore implica la facilità nel riconoscerli da parte di altri/e dev che conoscono l'argomento.
 
-Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.\
+Generalmente dopo un refactoring, la nostra applicazione sarà più aderente ai [principi di sviluppo software SOLID](https://it.wikipedia.org/wiki/SOLID) il che implica il riuso e la facilità di test, come accennato in precedenza.
 
-Oltre al libro sui Design Pattern in questione ne sono stati introdotti altri che vedremo successivamente.\
+Oltre al libro sui Design Pattern in questione ne sono stati introdotti altri che vedremo successivamente.  
 Il libro della Gang of Four (GOF) suddivide i Design Pattern in 3 categorie:
 
 1. Pattern creazionali
@@ -102,10 +102,10 @@ I pattern comportamentali definiti dalla GOF sono:
 
 Come già detto la Gang of Four ha iniziato a definirli e successivamente sulla loro falsa riga ne sono stati individuati altri che descriveremo brevemente di seguito.
 
-- Client/Server: è un pattern cosiddetto architetturale poichè può essere ad esempio l'architettura del prodotto che si vuole sviluppare. Esistono due "componenti" il client che effettua richieste ed il server che le riceve e risponde ad uno o più client.\
+- Client/Server: è un pattern cosiddetto architetturale poichè può essere ad esempio l'architettura del prodotto che si vuole sviluppare. Esistono due "componenti" il client che effettua richieste ed il server che le riceve e risponde ad uno o più client.  
   Esempio classico sono quasi tutti i server di database che ad ogni richiesta, ad esempio di esecuzione di una query, rispondono con i risultati.
 - Model-View-Controller: è un pattern dove definiamo due entità separate, una per il considdetto _model_, ossia l'entità che vogliamo rappresentare e che contiene i suoi dati, contestualmente al View, che definisce come mostrarla all'utente esterno e ne permette l'interazione; infine esiste il Controller che serve a descrivere le interazioni fra i due.
-- Dependency Injection: è un pattern che permette di iniettare una dipendenza in una classe attraverso l'Inversion of control. Questo viene fatto iniettando un'interfaccia o una classe astratta in modo da poter cambiare la sua implementazione in qualsiasi momento.\
+- Dependency Injection: è un pattern che permette di iniettare una dipendenza in una classe attraverso l'Inversion of control. Questo viene fatto iniettando un'interfaccia o una classe astratta in modo da poter cambiare la sua implementazione in qualsiasi momento.  
   Abbiamo 3 tipi di iniezioni:
 
   - Injection nel costruttore
