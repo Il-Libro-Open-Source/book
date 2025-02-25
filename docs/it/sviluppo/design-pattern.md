@@ -1,4 +1,18 @@
-## Design Pattern
+---
+layout: default
+title: Design Pattern
+parent: Sviluppo
+nav_order: 1
+---
+
+<!-- prettier-ignore-start -->
+# Design Pattern
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Il concetto di Design Pattern è definito su [Wikipedia](https://it.wikipedia.org/wiki/Design_pattern) come:
 
