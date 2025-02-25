@@ -42,7 +42,7 @@ Durante lo sviluppo, può essere semplice individuare e applicare un design patt
 
 Naturalmente, come ogni cosa nel mondo del software, i design pattern comportano degli svantaggi, tra cui:
 
-1. Può portare ad aumentare la complessità del codice, per cui andrebbero utilizzati con parsimonia per non creare sovrastrutture non necessarie. 
+1. Può portare ad aumentare la complessità del codice, per cui andrebbero utilizzati con parsimonia per non creare sovrastrutture non necessarie.
 2. Per essere applicati nel modo migliore, i Design Pattern necessitano la conoscenza di alcune assunzioni, che però si maturano spesso tramite l'esperienza e la letteratura.
 3. Le prestazioni spesso non coincidono con l'adozione di design pattern, in quanto lo scopo di questi ultimi è di risolvere un problema, non necessariamente in maniera ottimizzata.
 
@@ -93,7 +93,6 @@ I pattern strutturali definiti dalla GOF sono:
 - Flyweight: è un pattern che permette di ottimizzare l'utilizzo della memoria di un sistema tramite il riutilizzo di membri comuni tra molti oggetti, senza doverne istanziare costantemente di nuovi. Ad esempio, se ho la necessità di realizzare 1.000 oggetti della classe _Dog_ che, tramite un metodo _Move_, modificano la propria posizione, è molto più sensato separare la classe _Dog_ in due classi, _Dog_ e _MovingDog_, collezionando nella prima le informazioni _statiche_, come razza e nome, mentre nella seconda le informazioni di _stato_ o _dinamiche_, come la posizione.
 - Proxy: si interpone tra un oggetto (di solito di servizio) e il mondo esterno con cui comunica, utilizzando la stessa interfaccia, ma alterandone il comportamento. Un esempio sono i Proxy server che agiscono da intermezzo tra la propria macchina e il web, alterando e verificando ogni chiamata in ingresso e in uscita da essi, garantendo anonimato e un buon grado di sicurezza.
 
-
 ## Pattern comportamentali
 
 I [Pattern comportamentali](https://refactoring.guru/design-patterns/behavioral-patterns) definiscono uno schema progettuale che in particolare risolve problematiche di comportamento degli oggetti definiti nel pattern. Generalmente questo comportamento si riflette in particolare sugli algoritmi e sulle responsabilità degli oggetti stessi.
@@ -125,5 +124,5 @@ Come già detto la Gang of Four ha iniziato a definirli e successivamente sulla 
   - Injection nel costruttore
   - Injection tramite setter
   - Injection tramite interfaccia
-  
+
 In questo libro li abbiamo definiti brevemente evitando di descriverli in maniera accademica; questo capitolo è infatti un modo per approcciarsi al tema e approfondire successivamente, grazie anche all'esistenza di numerose risorse, che li dettagliano in maniera più puntuale come quelle che abbiamo già elencato.
