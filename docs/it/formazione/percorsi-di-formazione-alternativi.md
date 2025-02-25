@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Percorsi di formazione alternativi
-nav_order: 18
+parent: Formazione
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->

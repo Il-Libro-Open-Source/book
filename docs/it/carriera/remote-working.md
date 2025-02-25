@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Remote working - tra mito e realtà
-nav_order: 16
+parent: Carriera
+nav_order: 6
 ---
 
 <!-- prettier-ignore-start -->

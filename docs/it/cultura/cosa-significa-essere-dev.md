@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Cosa significa "essere dev"?
-nav_order: 2
+parent: Cultura
+nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->

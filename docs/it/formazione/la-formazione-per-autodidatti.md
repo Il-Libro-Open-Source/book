@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La formazione per autodidatti
-nav_order: 19
+parent: Formazione
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->

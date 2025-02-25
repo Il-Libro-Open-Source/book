@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Università VS Self-Made
-nav_order: 21
+parent: Formazione
+nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->
