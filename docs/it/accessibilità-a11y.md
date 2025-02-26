@@ -3,6 +3,12 @@ layout: default
 title: Accessibilità (A11y)
 nav_order: 22
 ---
+<!-- prettier-ignore-start -->
+{: .no_toc }
+- TOC
+{:toc}
+<!-- prettier-ignore-end -->
+
 # Accessibilità Digitale (A11y): Un Approccio Inclusivo nel Design e nello Sviluppo Software
 
 L’Accessibilità digitale (nota anche come **A11y**) non è solo una questione tecnica: è una dichiarazione d’intenti, un impegno etico e una strategia vincente per creare prodotti digitali che accolgano ogni utente.
@@ -10,12 +16,6 @@ L’Accessibilità digitale (nota anche come **A11y**) non è solo una questione
 Attraverso questo capitolo esploreremo insieme i fondamenti, le normative, i principi, gli strumenti e i benefici che fanno dell’accessibilità un pilastro imprescindibile nel mondo del digital: le linee guida per l’accessibilità sono definite dalle WCAG (Web Content Accessibility Guidelines) con la parola Web ben in vista, ma definiscono principi validi per tutto il mondo digitale.
 
 > L’Accessibilità è uno dei concetti più Open Source che ci siano: "Il Sapere Umano appartiene al Mondo!"
-
-<!-- prettier-ignore-start -->
-{: .no_toc }
-- TOC
-{:toc}
-<!-- prettier-ignore-end -->
 
 ## 1 - Introduzione all’Accessibilità Digitale
 
