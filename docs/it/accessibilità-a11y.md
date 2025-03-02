@@ -409,7 +409,7 @@ Implementare soluzioni di **Accessibilità** digitale offre vantaggi tangibili c
 
 - **Miglior SEO e Performance:** Un design chiaro e semantico non favorisce solo l’esperienza utente, ma aiuta anche i motori di ricerca a comprendere e indicizzare meglio i contenuti. In pratica, un prodotto digitale Accessibile può tradursi in una migliore visibilità online e in tempi di caricamento più rapidi
 
-### 6.2 - Benefici Reputazionali, Brand Awareness e Marketing
+### 6.2 - Personal Branding, Brand Awareness e Marketing
 
 L’**Accessibilità** digitale è un vantaggio strategico per vendite e marketing, che va oltre l’ottimizzazione tecnica:
 
