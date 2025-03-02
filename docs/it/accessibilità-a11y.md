@@ -399,7 +399,7 @@ _Esempio di output finale:_
 
 Investire nell’**Accessibilità** digitale non è soltanto un obbligo morale o legale, ma rappresenta una strategia vincente in grado di ampliare il mercato, rafforzare la reputazione aziendale e stimolare l’innovazione. In questo modo, ogni azienda può trasformare le sfide in opportunità, creando prodotti digitali che parlano a tutti, con un occhio attento sia al business sia alla responsabilità sociale.
 
-### 6.1 - Benefici Economici, Operativi e Funzionali
+### 6.1 - Sostenibilità Economica, operativa e funzionale
 
 Implementare soluzioni di **Accessibilità** digitale offre vantaggi tangibili che si ripercuotono su più livelli:
 
