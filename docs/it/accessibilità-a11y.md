@@ -504,7 +504,7 @@ Il futuro riserva nuove sfide e opportunità: dall’uso dell’Intelligenza Art
 
 > [!IMPORTANTE] > **"L’Accessibilità non è un’opzione, ma una responsabilità collettiva nel costruire un mondo digitale inclusivo. Ogni scelta conta, ogni miglioramento è un passo avanti."**
 
-## 8. Altri link e Riferimenti
+## 8. Risorse utili
 
 - [Web Accessibility Initiative](https://www.w3.org/WAI/)
   Il sito ufficiale del W3C per l’Accessibilità digitale, con risorse, linee guida e strumenti per creare esperienze inclusive
