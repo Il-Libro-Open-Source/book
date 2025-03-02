@@ -395,7 +395,7 @@ _Esempio di output finale:_
 > [!NOTA]
 > Adottare questi strumenti e best practices trasforma il percorso verso un prodotto digitale veramente inclusivo in un processo organizzato e continuo. Mantenendo l’**Accessibilità** al centro dello sviluppo, non solo rispetti le normative, ma contribuisci anche a creare esperienze digitali di alta qualità, dove ogni utente, a prescindere dalle proprie esigenze, può sentirsi parte integrante di un ecosistema innovativo e accogliente
 
-## 6 - Benefici, Consapevolezza e Brand Awareness
+## 6 - Benefici, consapevolezza e brand awareness
 
 Investire nell’**Accessibilità** digitale non è soltanto un obbligo morale o legale, ma rappresenta una strategia vincente in grado di ampliare il mercato, rafforzare la reputazione aziendale e stimolare l’innovazione. In questo modo, ogni azienda può trasformare le sfide in opportunità, creando prodotti digitali che parlano a tutti, con un occhio attento sia al business sia alla responsabilità sociale.
 
