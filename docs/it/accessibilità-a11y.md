@@ -461,7 +461,7 @@ Misurare l'impatto degli interventi in ambito di **Accessibilità** digitale è 
 - **Tasso di conversione degli utenti con disabilità:** Misura quanti visitatori con esigenze particolari completano le azioni desiderate, monitorare il feedback diretto dagli utenti offre una visione reale dell'esperienza di chi utilizza il prodotto digitale
 - **Tempo medio di navigazione:** Indicatori che possono evidenziare una migliore usabilità e un'esperienza utente più soddisfacente
 - **Riduzione dei reclami relativi all'Accessibilità:** Un calo nei feedback negativi è un segnale positivo di inclusività
-- **Punteggio degli audit (es. Lighthouse, WCAG):** Un monitoraggio costante degli standard di Accessibilità garantisce che i miglioramenti siano duraturi e misurabili
+- **Punteggio degli audit (es. Lighthouse, WCAG):** Un monitoraggio costante degli standard di accessibilità garantisce che i miglioramenti siano duraturi e misurabili
 
 _Esempio di dashboard:_
 
