@@ -47,7 +47,7 @@ Ecco come si declinano in pratica i nostri obiettivi fondamentali:
 
 - **Innovazione:** In ambito accessibilità è sinonimo di creatività applicata alla risoluzione di problemi concreti. Non si tratta solo di adottare le tecnologie più avanzate, ma di saperle mettere al servizio di tutti, abbattendo le barriere digitali con soluzioni smart e sostenibili. È un invito a pensare "fuori dagli schemi", trasformando ogni sfida in un'opportunità per reinventare il modo in cui interagiamo con il mondo digitale. Con un pizzico di genialità e tanto impegno, possiamo rendere la tecnologia un alleato che abbraccia la diversità
 
-### 1.3 - Il Contesto Normativo Globale e il European Accessibility Act
+### 1.3 - Il Contesto Normativo Globale e lo European Accessibility Act
 
 Le normative costituiscono la spina dorsale dell'accessibilità digitale, fornendo un quadro di riferimento indispensabile per la progettazione di prodotti digitali inclusivi e privi di barriere.
 
@@ -59,7 +59,7 @@ Tra le più rilevanti troviamo:
 
 - **[EN 301 549](https://webaccessibile.org/normative/la-nuova-norma-tecnica-en-301549-le-novita/):** Lo standard EN 301 549 definisce i requisiti essenziali per l'accessibilità digitale in ambito europeo. Si propone di armonizzare le soluzioni per prodotti digitali, fungendo da guida per chi sviluppa tecnologie inclusive e contribuendo a rendere il panorama digitale più equo e accessibile per tutti
 
-- **[European Accessibility Act](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32019L0882):** Il European Accessibility Act è una direttiva volta a uniformare le regole sull'accessibilità digitale in tutta l'Unione Europea. L'obiettivo è abbattere le barriere per utenti, imprese e istituzioni, promuovendo un ambiente digitale competitivo e inclusivo, dove l'innovazione si coniuga con la responsabilità sociale
+- **[European Accessibility Act](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32019L0882):** Lo European Accessibility Act è una direttiva volta a uniformare le regole sull'accessibilità digitale in tutta l'Unione Europea. L'obiettivo è abbattere le barriere per utenti, imprese e istituzioni, promuovendo un ambiente digitale competitivo e inclusivo, dove l'innovazione si coniuga con la responsabilità sociale
 - **[AGID - Dichiarazione di accessibilità](https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita):** La Dichiarazione di Accessibilità è uno strumento messo a disposizione dall'AGID finalizzato alla pubblicazione dello stato di conformità di un prodotto digitale rispetto ai requisiti della Direttiva UE 2016/2102. Dopo aver nominato un responsabile aziendale della Transizione Digitale, la dichiarazione va aggiornata annualmente entro il 23 settembre di ogni anno.
 
 In sintesi, queste normative non sono solo una serie di regole da rispettare, ma veri e propri strumenti che guidano la trasformazione del digitale in un mondo più aperto, inclusivo e all'avanguardia.
@@ -157,7 +157,7 @@ _Esempio best-practice di input email con label:_
 
 Per assicurare la conformità agli standard, è fondamentale adottare un approccio strutturato e integrato che consideri l'accessibilità digitale come un valore aggiunto in ogni fase del ciclo di sviluppo dei prodotti digitali. Ecco alcuni punti chiave da tenere in considerazione:
 
-- **Audit automatizzati e test regolari:** Integrare strumenti di automazione nel del processo di sviluppo. Questi audit automatizzati sono preziosi per identificare e risolvere rapidamente eventuali criticità, garantendo che le soluzioni digitali rispettino gli standard di accessibilità digitale fin dal primo momento
+- **Audit automatizzati e test regolari:** Integrare strumenti di automazione nel processo di sviluppo. Questi audit automatizzati sono preziosi per identificare e risolvere rapidamente eventuali criticità, garantendo che le soluzioni digitali rispettino gli standard di accessibilità digitale fin dal primo momento
 
 - **Test con utenti reali e strumenti specifici:** Oltre ai test automatizzati, è essenziale condurre verifiche regolari con persone dedicate, preferibilmente con reali disabilità, che utilizzino strumenti fra i più diffusi sul mercato. Questi test devono essere effettuati su una varietà di device – o almeno su quelli che si intendono supportare – per assicurarsi che l'esperienza di accessibilità digitale risulti coerente e fruibile in diversi contesti d'uso
 
@@ -308,7 +308,7 @@ Controllate sempre che:
 
 - **Ogni contenuto rispetti i principi POUR:** Questi quattro princípi sono il fondamento per garantire che ogni prodotto digitale sia realmente fruibile da tutti gli utenti. Ad esempio, fornire un testo alternativo per immagini e media visivi assicura che anche chi utilizza tecnologie assistive possa comprendere pienamente il contenuto
 
-- **Venga compilata una checklist di conformità alle WCAG:** Una checklist è uno strumento essenziale per verificare sistematicamente che ogni elemento del prodotto digitale rispetti gli standard di accessibilità. Questo processo aiuta a individuare eventuali criticità e a mantenere un alto livello di inclusività
+- **Venga compilata una checklist di conformità alle specifiche WCAG:** Una checklist è uno strumento essenziale per verificare sistematicamente che ogni elemento del prodotto digitale rispetti gli standard di Accessibilità. Questo processo aiuta a individuare eventuali criticità e a mantenere un alto livello di inclusività
 
 _Un esempio pratico di checklist potrebbe essere il seguente:_
 
