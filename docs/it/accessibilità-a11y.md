@@ -103,7 +103,7 @@ Realizzare prodotti digitali Accessibili significa garantire pari opportunità a
 
 ### 2.2 - Imperativo Legale
 
-Le normative internazionali, già elencate al punto 1.3, impongono standard rigorosi per proteggere i diritti degli utenti e garantire che ogni prodotto digitale sia Accessibile e inclusivo.
+Le normative internazionali, già elencate al punto 1.3, impongono standard rigorosi per proteggere i diritti degli utenti e garantire che ogni prodotto digitale sia accessibile e inclusivo.
 
 Questi standard non sono solo regole da seguire, ma veri e propri strumenti che guidano lo sviluppo di soluzioni digitali responsabili e all'avanguardia.
 
