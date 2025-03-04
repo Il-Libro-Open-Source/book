@@ -527,7 +527,7 @@ Il futuro riserva nuove sfide e opportunità: dall'uso dell'Intelligenza Artific
 - [WebAIM](https://webaim.org/)
   Risorsa fondamentale per approfondire le problematiche legate all'Accessibilità digitale e scoprire strumenti di valutazione e best practices
 - [Deque University](https://dequeuniversity.com/)
-  Piattaforma formativa che propone corsi e risorse per imparare a progettare e sviluppare soluzioni digitali Accessibili
+  Piattaforma formativa che propone corsi e risorse per imparare a progettare e sviluppare soluzioni digitali accessibili
 - [MDN Web Docs - Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
   Sezione dedicata di MDN con guide pratiche, esempi e documentazione per sviluppatori orientati all'Accessibilità digitale
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
