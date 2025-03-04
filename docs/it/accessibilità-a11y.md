@@ -533,6 +533,6 @@ Il futuro riserva nuove sfide e opportunità: dall'uso dell'Intelligenza Artific
 - [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
   Raccolta di principi e linee guida per adottare un approccio inclusivo nella progettazione di prodotti digitali
 - [Microsoft Accessibility](https://www.microsoft.com/en-us/accessibility)
-  Risorsa che illustra come le tecnologie e i prodotti Microsoft siano progettati per essere Accessibili, con suggerimenti e case study utili
+  Risorsa che illustra come le tecnologie e i prodotti Microsoft siano progettati per essere accessibili, con suggerimenti e case study utili
 - [A11y by design: la rivoluzione dell'accessibilità digitale](https://www.codemotion.com/magazine/it/dev-community/A11y-by-design-la-rivoluzione-dellaccessibilita-digitale/)
   Un recente articolo che è stato il punto di inizio per questo capitolo: illustra come l'Accessibilità Digitale debba essere integrata fin dal design per garantire una vera rivoluzione nel settore
