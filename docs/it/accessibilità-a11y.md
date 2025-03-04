@@ -424,7 +424,7 @@ L'**Accessibilità** digitale è un vantaggio strategico per vendite e marketing
 
 ### 6.3 - Un po' di numeri
 
-1. **Oltre 1,3 miliardi di persone** – circa il **15% della popolazione globale** – convive con qualche forma di disabilità.
+1. **Oltre 1,3 miliardi di persone** – circa il **15% della popolazione globale** – convive con una qualche forma di disabilità.
 
 - Fonti (quelli presi a riferimento sono dati del 2011, considerando quanto è aumentata la popolazione negli ultimi 14 anni, possiamo stimare un possibile 18-20%):
   - [World Report on Disability Summary](https://www.who.int/publications/i/item/WHO-NMH-VIP-11.01)
