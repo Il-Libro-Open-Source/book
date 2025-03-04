@@ -511,7 +511,7 @@ Il futuro riserva nuove sfide e opportunità: dall'uso dell'Intelligenza Artific
 - [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
   Una guida pratica per implementare le tecnologie ARIA e migliorare l'Accessibilità digitale nelle interfacce utente
 - [WCAG Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
-  Raccolta di pattern e best practices per applicare le WCAG e realizzare prodotti digitali Accessibili
+  Raccolta di pattern e best practices per applicare i WCAG e realizzare prodotti digitali accessibili
 - [Web Content Accessibility Guidelines](https://wcag.it/)
   Risorsa dedicata alle linee guida internazionali per l'Accessibilità digitale, con approfondimenti e aggiornamenti
 - [European Accessibility Act (EAA)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)
