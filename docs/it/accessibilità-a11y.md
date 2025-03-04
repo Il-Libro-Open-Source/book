@@ -43,7 +43,7 @@ Ecco come si declinano in pratica i nostri obiettivi fondamentali:
 
 - **Inclusione Sociale:** L'accessibilità è il ponte che collega tutti, senza eccezioni. Il nostro obiettivo è creare ambienti digitali in cui ogni persona, indipendentemente dalle proprie abilità o dalle eventuali diversità, possa trovare opportunità di crescita, apprendimento e interazione. Immagina un sito web che, con piccoli accorgimenti e grande cuore, trasforma ogni click in un invito all'inclusione: questo è il primo passo per una società più equa e solidale
 
-- **Esperienza Utente Migliorata:** Un design intuitivo e una navigazione fluida non sono solo una questione estetica, ma il fondamento per un'interazione efficace con la tecnologia. Puntiamo a sviluppare interfacce che "parlino" la lingua dell'utente, semplificando il percorso e rendendo ogni interazione un'esperienza piacevole e, perché no, anche divertente. Un'esperienza utente ben progettata sa essere discreta e accogliente, quasi come un vecchio amico che ti guida con leggerezza nel mondo digitale
+- **Esperienza Utente Migliorata:** Un design intuitivo e una navigazione fluida non sono solo una questione estetica, ma il fondamento per un'interazione efficace con la tecnologia. Puntiamo a sviluppare interfacce che "parlino" la lingua dell'utente, semplificando il percorso e rendendo ogni interazione un'esperienza piacevole. Un'esperienza utente ben progettata sa essere discreta e accogliente, quasi come un vecchio amico che ti guida con leggerezza nel mondo digitale
 
 - **Innovazione:** In ambito accessibilità è sinonimo di creatività applicata alla risoluzione di problemi concreti. Non si tratta solo di adottare le tecnologie più avanzate, ma di saperle mettere al servizio di tutti, abbattendo le barriere digitali con soluzioni smart e sostenibili. È un invito a pensare "fuori dagli schemi", trasformando ogni sfida in un'opportunità per reinventare il modo in cui interagiamo con il mondo digitale. Con un pizzico di genialità e tanto impegno, possiamo rendere la tecnologia un alleato che abbraccia la diversità
 
@@ -232,7 +232,7 @@ _Esempio:_
 </style>
 ```
 
-- Tempi di risposta adeguati e nessun contenuto che possa innescare crisi epilettiche (come ad esempio flash di colore, movimenti troppo pesanti e marcati, etc etc...)
+- Tempi di risposta adeguati e nessun contenuto che possa innescare problematiche di fotosensibilità (come ad esempio flash di colore, movimenti troppo pesanti e marcati, etc etc...)
 
 _Esempio:_
 
