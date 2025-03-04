@@ -41,7 +41,7 @@ L'accessibilità non è semplicemente il frutto dell'osservanza delle normative:
 
 Ecco come si declinano in pratica i nostri obiettivi fondamentali:
 
-- **Inclusione Sociale:** L'Accessibilità è il ponte che collega tutti, senza eccezioni. Il nostro obiettivo è creare ambienti digitali in cui ogni persona, indipendentemente dalle proprie abilità o dalle eventuali diversità, possa trovare opportunità di crescita, apprendimento e interazione. Immagina un sito web che, con piccoli accorgimenti e grande cuore, trasforma ogni click in un invito all'inclusione: questo è il primo passo per una società più equa e solidale
+- **Inclusione Sociale:** L'accessibilità è il ponte che collega tutti, senza eccezioni. Il nostro obiettivo è creare ambienti digitali in cui ogni persona, indipendentemente dalle proprie abilità o dalle eventuali diversità, possa trovare opportunità di crescita, apprendimento e interazione. Immagina un sito web che, con piccoli accorgimenti e grande cuore, trasforma ogni click in un invito all'inclusione: questo è il primo passo per una società più equa e solidale
 
 - **Esperienza Utente Migliorata:** Un design intuitivo e una navigazione fluida non sono solo una questione estetica, ma il fondamento per un'interazione efficace con la tecnologia. Puntiamo a sviluppare interfacce che "parlino" la lingua dell'utente, semplificando il percorso e rendendo ogni interazione un'esperienza piacevole e, perché no, anche divertente. Un'esperienza utente ben progettata sa essere discreta e accogliente, quasi come un vecchio amico che ti guida con leggerezza nel mondo digitale
 
@@ -84,7 +84,7 @@ L'accessibilità digitale va ben oltre l'implementazione tecnica: è un impegno 
 
 ### 2.1 - Imperativo Etico
 
-Realizzare prodotti digitali Accessibili significa garantire pari opportunità a tutti, mettendo l'inclusione al centro di ogni progetto. Si tratta di un impegno etico e responsabile che va oltre la mera conformità tecnica, per abbattere le barriere e creare soluzioni fruibili da ogni utente, indipendentemente dalle sue abilità o dalle condizioni ambientali.
+Realizzare prodotti digitali accessibili significa garantire pari opportunità a tutti, mettendo l'inclusione al centro di ogni progetto. Si tratta di un impegno etico e responsabile che va oltre la mera conformità tecnica, per abbattere le barriere e creare soluzioni fruibili da ogni utente, indipendentemente dalle sue abilità o dalle condizioni ambientali.
 
 **Principi Etici Fondamentali:**
 
@@ -149,7 +149,7 @@ _Esempio best-practice di input email con label:_
 ```
 
 > [!MIC DROP]
-> Da notare che i due esempi a livello di Accessibilità sono equipollenti, una label che contiene un input/select/textarea non ha bisogno dell'attributo `for` ed allo stesso tempo l'input/select/textarea non ha bisogno dell'attributo `id` in quanto implicito con un risparmio netto di 23 byte
+> Da notare che i due esempi a livello di accessibilità sono equipollenti, una label che contiene un input/select/textarea non ha bisogno dell'attributo `for` ed allo stesso tempo l'input/select/textarea non ha bisogno dell'attributo `id` in quanto implicito con un risparmio netto di 23 byte
 >
 > Immaginate ora di seguire questo approccio in tutte le form che implementiamo, per tutti gli use case in generale!
 
@@ -308,7 +308,7 @@ Controllate sempre che:
 
 - **Ogni contenuto rispetti i principi POUR:** Questi quattro princípi sono il fondamento per garantire che ogni prodotto digitale sia realmente fruibile da tutti gli utenti. Ad esempio, fornire un testo alternativo per immagini e media visivi assicura che anche chi utilizza tecnologie assistive possa comprendere pienamente il contenuto
 
-- **Venga compilata una checklist di conformità alle WCAG:** Una checklist è uno strumento essenziale per verificare sistematicamente che ogni elemento del prodotto digitale rispetti gli standard di Accessibilità. Questo processo aiuta a individuare eventuali criticità e a mantenere un alto livello di inclusività
+- **Venga compilata una checklist di conformità alle WCAG:** Una checklist è uno strumento essenziale per verificare sistematicamente che ogni elemento del prodotto digitale rispetti gli standard di accessibilità. Questo processo aiuta a individuare eventuali criticità e a mantenere un alto livello di inclusività
 
 _Un esempio pratico di checklist potrebbe essere il seguente:_
 
@@ -321,7 +321,7 @@ _Un esempio pratico di checklist potrebbe essere il seguente:_
 
 > _"L'Accessibilità non è un requisito tecnico e non è relegata solo al web, ma un principio fondamentale per un digitale veramente inclusivo."_
 
-Adottare queste verifiche significa trasformare l'Accessibilità in un pilastro della progettazione, garantendo che ogni utente, indipendentemente dalle proprie esigenze o dalle tecnologie utilizzate, possa godere di un'esperienza digitale completa e soddisfacente.
+Adottare queste verifiche significa trasformare l'accessibilità in un pilastro della progettazione, garantendo che ogni utente, indipendentemente dalle proprie esigenze o dalle tecnologie utilizzate, possa godere di un'esperienza digitale completa e soddisfacente.
 
 ## 5 - Strumenti per l'Accessibilità e Best Practices
 
@@ -352,7 +352,7 @@ Ecco una lista di strumenti manuali:
 
   - **VoiceOver:** Integrato nei dispositivi Apple, offre un'esperienza simile agli altri screen reader, permettendo di testare l'interazione e la navigazione in un ambiente familiare agli utenti Apple
 
-  - **JAWS:** Un lettore di schermo avanzato per Windows, particolarmente utile per simulare scenari complessi e navigazioni articolate. JAWS è ideale per assicurare che anche le interfacce più sofisticate siano Accessibili e intuitive
+  - **JAWS:** Un lettore di schermo avanzato per Windows, particolarmente utile per simulare scenari complessi e navigazioni articolate. JAWS è ideale per assicurare che anche le interfacce più sofisticate siano accessibili e intuitive
 
   - **Orca Screen Reader:** Uno screen reader open source per Linux, che replica le funzionalità disponibili in strumenti analoghi come NVDA
 
@@ -403,7 +403,7 @@ Investire nell'**Accessibilità** digitale non è soltanto un obbligo morale o l
 
 Implementare soluzioni di **Accessibilità** digitale offre vantaggi tangibili che si ripercuotono su più livelli:
 
-- **Espansione del Mercato:** Considerando che circa il 15% della popolazione vive con disabilità, rendere i prodotti digitali Accessibili significa includere milioni di potenziali clienti
+- **Espansione del Mercato:** Considerando che circa il 15% della popolazione vive con disabilità, rendere i prodotti digitali accessibili significa includere milioni di potenziali clienti
 
 - **Riduzione dei Costi:** Intervenire sin dalle prime fasi di sviluppo per integrare l'accessibilità digitale permette di individuare e risolvere le criticità prima che diventino problemi complessi e costosi da sistemare. Questo approccio proattivo non solo previene sanzioni legali, ma riduce anche i costi di manutenzione a lungo termine
 
@@ -413,11 +413,11 @@ Implementare soluzioni di **Accessibilità** digitale offre vantaggi tangibili c
 
 L'**Accessibilità** digitale è un vantaggio strategico per vendite e marketing, che va oltre l'ottimizzazione tecnica:
 
-- **Responsabilità Sociale:** Un'azienda che investe in Accessibilità trasmette un messaggio forte di inclusione e rispetto, dimostrando un impegno concreto verso la comunità e i valori etici
+- **Responsabilità Sociale:** Un'azienda che investe in accessibilità trasmette un messaggio forte di inclusione e rispetto, dimostrando un impegno concreto verso la comunità e i valori etici
 
 - **Differenziazione Competitiva:** Essere pionieri nell'accessibilità digitale significa distinguersi dalla concorrenza. I clienti apprezzano e si identificano con marchi che mettono al centro l'umanità e la diversità, creando così un vantaggio competitivo significativo
 
-- **Fiducia e Fedeltà:** Un'esperienza utente inclusiva genera recensioni positive e porta a una maggiore fidelizzazione. L'Accessibilità si traduce in fedeltà e crescita del brand
+- **Fiducia e Fedeltà:** Un'esperienza utente inclusiva genera recensioni positive e porta a una maggiore fidelizzazione. L'accessibilità si traduce in fedeltà e crescita del brand
 
 > [!NOTA]
 > Investire in accessibilità significa espandere il mercato, migliorare l'usabilità (per tutti gli utenti) e ottenere un vantaggio competitivo: non solo un obbligo normativo, ma una mossa strategica che apre il business a un mercato molto più ampio.
@@ -448,7 +448,7 @@ L'**Accessibilità** digitale è un vantaggio strategico per vendite e marketing
 
 ### 6.4 - Consapevolezza e Dichiarazione d'Intenti
 
-L'**Accessibilità** digitale non è solo una lista di requisiti tecnici, ma una vera e propria dichiarazione d'intenti. Costruire interfacce Accessibili significa comunicare chiaramente a tutti:
+L'**Accessibilità** digitale non è solo una lista di requisiti tecnici, ma una vera e propria dichiarazione d'intenti. Costruire interfacce accessibili significa comunicare chiaramente a tutti:
 
 > "Qui, ognuno è il benvenuto!"
 
@@ -484,8 +484,8 @@ Al termine della fase di analisi, l'azienda dovrebbe ottenere una serie di risul
 _Esempio di output finale:_
 
 ```text
-✅ ROI dell'investimento in Accessibilità calcolato.
-✅ KPI di Accessibilità stabiliti e monitorati.
+✅ ROI dell'investimento in accessibilità calcolato.
+✅ KPI di accessibilità stabiliti e monitorati.
 ✅ Report trimestrali sugli impatti aziendali.
 ```
 
