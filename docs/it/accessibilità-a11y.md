@@ -68,7 +68,7 @@ In sintesi, queste normative non sono solo una serie di regole da rispettare, ma
 
 L'Accessibilità digitale non riguarda esclusivamente le persone con disabilità permanenti.
 
-Essa abbraccia anche chi si trova in situazioni di **disabilità temporanea** – come una frattura o altre condizioni che, pur essendo transitorie, possono impedire l'abituale svolgimento delle attività quotidiane e la necessità di ricorrere a strumenti e modalità di interazione con prodotti digitali diverse.
+Essa abbraccia anche chi si trova in situazioni di **disabilità temporanea** – come una frattura ad un arto o altre condizioni che, pur essendo transitorie, possono impedire l'abituale svolgimento delle attività quotidiane e la necessità di ricorrere a strumenti e modalità di interazione con prodotti digitali diverse.
 
 Inoltre, ci sono le **limitazioni ambientali**, come una connessione scarsa, l'utilizzo di device datati o condizioni di forte luce che compromettono una "corretta visione" e interazione con lo schermo.
 
