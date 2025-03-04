@@ -22,7 +22,7 @@ Attraverso questo capitolo esploreremo insieme i fondamenti, le normative, i pri
 
 ## 1 - Introduzione all'Accessibilità Digitale
 
-L'**Accessibilità (A11y)** è la pratica essenziale che garantisce che ogni utente possa navigare, comprendere, interagire e contribuire ai contenuti digitali, indipendentemente dalle proprie capacità fisiche, sensoriali, cognitive o tecnologiche.
+L'**Accessibilità** è la pratica essenziale che garantisce che **ogni** utente possa navigare, comprendere, interagire e contribuire ai contenuti digitali, indipendentemente dalle proprie capacità fisiche, sensoriali, cognitive o tecnologiche.
 
 Non si tratta soltanto di rendere i contenuti "visibili" o "cliccabili", ma di creare interfacce che siano percepibili, usabili, comprensibili e robuste, aggettivi che vanno a definire i 4 principi POUR di cui parleremo più avanti.
 
