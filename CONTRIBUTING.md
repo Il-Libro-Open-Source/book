@@ -40,6 +40,14 @@ Le modalità di stesura del capitolo sono principalmente due:
   Una volta aperta la Pull Request, la persona assegnataria del capitolo potrà iniziare a revisionare il contenuto e a suggerire modifiche.  
   Una volta terminato il lavoro, la persona assegnataria del capitolo aprirà una Pull Request (o modificherà quella già presente da `draft` a `ready for review`) e chiederà una revisione al resto della community. Le regole di approvazione dei contenuti sono regolate dal Governance Group del progetto e sono disponibili [qui](https://github.com/Il-Libro-Open-Source/book/blob/main/GUIDELINES-CONTENUTI.md).
 
+### Utilizzo di strumenti di GenAI nella stesura
+
+L'utilizo di strumenti di GenAI non è sconsigliato, ma si richiede trasparenza da parte degli autori dei contenuti sia in fase di review che di pubblicazione.  
+Qualora, in qualsiasi forma, l'autore utilizzi strumenti di GenAI per la stesura diretta del contenuto, è necessario indicare all'inizio del capitolo in questione la seguente dicitura sotto forma di blockquote:
+> La stesura di questo contenuto è stata supportata dall'AI, ma le esperienze e le nozioni contenute non lo sono. Vere persone hanno scritto e revisionato questo contenuto. Per saperne di più, leggi la nostra guida alla contribuzione.
+
+Il team Ambassador ha l'autorizzazione ad inserire tale contenuto in sostituzione all'autore qualora, previa discussione interna comprensiva di almeno un membro del Drafting Group, si valuti che il contenuto è stato scritto grazie a strumenti di GenAI in maniera significativa.
+
 ## Scrivere i contenuti
 
 I contenuti del libro sono scritti in formato markdown e sono organizzati in cartelle e file.  
