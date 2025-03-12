@@ -194,7 +194,7 @@ Per esempio, se usi Confluence, un'idea potrebbe essere quella di crearti uno sp
 
 ## La collaborazione coi technical writers
 
-Nonostante la figura del technical writer non sia particolarmente presente nel mondo informatico italiano, idevelopers oggi hanno la possibilità di poter collaborare con aziende internazionali dove questa figura, invece, risulta più presente. Per questo, riteniamo opportuno spendere alcune righe per definire, a livello generale, come i technical writers - che sono specialisti della documentazione - dovrebbero collaborare con un ambiente di sviluppatori.
+Nonostante la figura del technical writer non sia particolarmente presente nel mondo informatico italiano, chi sviluppa oggi ha la possibilità di poter collaborare con aziende internazionali dove questa figura, invece, risulta più presente. Per questo, riteniamo opportuno spendere alcune righe per definire, a livello generale, come chi faccia il technical writer - specialisti della documentazione - dovrebbe collaborare con un ambiente di developer.
 
 Nel panorama dello sviluppo software moderno, infatti, la collaborazione tra sviluppatori e technical writers è fondamentale per garantire una documentazione tecnica di alta qualità.
 
