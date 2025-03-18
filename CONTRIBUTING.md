@@ -44,6 +44,7 @@ Le modalità di stesura del capitolo sono principalmente due:
 
 L'utilizo di strumenti di GenAI non è sconsigliato, ma si richiede trasparenza da parte degli autori dei contenuti sia in fase di review che di pubblicazione.  
 Qualora, in qualsiasi forma, l'autore utilizzi strumenti di GenAI per la stesura diretta del contenuto, è necessario indicare all'inizio del capitolo in questione la seguente dicitura sotto forma di blockquote:
+
 > La stesura di questo contenuto è stata supportata dall'AI, ma le esperienze e le nozioni contenute non lo sono. Vere persone hanno scritto e revisionato questo contenuto. Per saperne di più, leggi la nostra guida alla contribuzione.
 
 Il team Ambassador ha l'autorizzazione ad inserire tale contenuto in sostituzione all'autore qualora, previa discussione interna comprensiva di almeno un membro del Drafting Group, si valuti che il contenuto è stato scritto grazie a strumenti di GenAI in maniera significativa.
