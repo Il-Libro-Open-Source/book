@@ -1,6 +1,20 @@
-#### Comprendere il processo
+# Le stime temporali di progetto
 
-Quando si parla di stima si intende riuscire a delineare un confine temporale per la realizzazione di un'opera di qualche genere. Ci troviamo di fronte ad un tema controverso, e sicuramente chiedendo a dieci persone cosa rappresenta per loro una stima, probabilmente otterremo dieci risposte diverse con metodi o approcci anche molto distanti. Qui non vogliamo andare nel profondo di uno o più metodi, ma chiarire il tema per comprenderlo e dare degli strumenti e spunti di approfondimento.
+## Introduzione
+
+Per una buona gestione sia del progetto che di un singolo task si passa attraverso a quello che è la stima del quantitativa delle risorse che si devono andare ad utilizzare per arrivare ad un prodotto che implementi delle funzionalità; e che quindi diano un valore per chi ce lo commissiona detto anche stakeholders, cioè la parte interessata. Si parla di risorse in generale perché, quello che è necessario per realizzare un progetto, è composto da diversi tipi di risorsa; istintivamente, e spesso implicitamente, si parla di tempo cioè di quanto ci si impiega ad arrivare sul mercato o comunque ad avere qualcosa di funzionante. In questo capitolo parleremo proprio di tempo di realizzazione ma non è l'unico elemento di cui dobbiamo tenere conto perché, per esempio, in una stima progettuale potrebbe essere richiesto anche di cosa ha bisogno per funzionare; di seguito facciamo alcuni esempi senza entrare troppo nel dettaglio.
+
+- Costo di funzionamento: sostanzialmente di cosa ha bisogno per girare questo prodotto, potremmo banalmente suddividerlo in hardware e software minimi. In caso di cloud native si parlerà più in generale di risorse allocate presso il provider, si dovrà avere una stima di cosa possa costare mantenerlo attivo; non solo, andrà anche capito quanto costerà monitorarlo e mantenerlo tecnicamente in piedi e.g. aggiornamenti di sicurezza o supporto. Questa è un'informazione piuttosto importante in una fase chiamata business plan, in cui si va a capire il costo di funzionamento perché andrà ad impattare sul costo finale se ad esempio erogate un servizio.
+
+- Capacity: termine che indica quanto lavoro si riesce a fare in una certa unità di tempo, con questo elemento si va ad indicare quanta forza lavoro è necessaria per la realizzazione; spesso in quanto tempo sono in grado di arrivare sul mercato può essere un elemento richiesto, metterci un mese o un anno impatta sulla fattibilità perché magari si va ad occupare una posizione strategica sul mercato stesso.
+
+- Competenze: realizzare un e-commerce è intuitivamente diverso che realizzare una piattaforma di streaming, di pari passo si deve analizzare se nel team (o nei team) ci sono tutte le conoscenze per poter arrivare alla fine del progetto; se manca per esempio la conoscenza di un database non relazionale per salvare dati particolati come vettori o serie di tempi. Bisoga capire se queste conoscenze o vengono colmate formando chi forma il team o se si va a cercarla esternamente in consulenza; in entrambi i casi questo impatta sul costo finale di relaizzazione.
+
+In opposizione, o per meglio dire a completamento, di queste stime ci sono anche quelle qualitative che citiamo per completezza; sono quelle che descrivono elementi non funzionali come ad esempio che performance ci aspettiamo dal sistema, quali requisiti di sicurezza, con quali sistemi deve essere compatibile o che tipo di scalabilità deve avere.
+
+## Comprendere il processo
+
+Quando si parla di stima temporale si intende riuscire a delineare un confine temporale per la realizzazione di un'opera di qualche genere; ci troviamo di fronte ad un tema controverso, e sicuramente chiedendo a dieci persone cosa rappresenta per loro una stima, probabilmente otterremo dieci risposte diverse con metodi o approcci anche molto distanti. Qui non vogliamo andare nel profondo di uno o più metodi, ma chiarire il tema per comprenderlo e dare degli strumenti e spunti di approfondimento.
 
 Nell'ambito informatico, la stima può essere usata per dare una dimensione ad un task o ad un intero progetto, aiutando il business a delineare un'idea o a pianificare le attività ed è quindi piuttosto importante perché consente di prendere decisioni su come spendere le risorse. Dobbiamo ricordarci infatti che lo sviluppo è parte del business, e lo stiamo facendo anche noi quando programmiamo.
 
@@ -32,17 +46,17 @@ Si procede prima con un disegno, che poi viene ripassato a tempera per poi venir
 Il processo empirico è proprio questo, partire da una o più caratteristiche base, da uno scheletro, e agginugere elementi interagendo così da ottenere qualcosa che si adatta man mano che viene creato.
 Partire da elementi di base e poi costruire in maniera iterativa ci consente di scomporre tutto in elementi più piccoli e semplici, più predittibili e quindi più gestibili; questa scomposizione ci consente di riportarci ai due processi precedenti che possono essere predetti meglio e, obiettivo importante, automatizzati magari per un riuso in altri ambiti.
 
-#### Scomposizione
+## Scomposizione
 
 La prima tattica è quello di dividere il problema in problemi più semplici: un task o un progetto diventano via via più raffinati e più piccoli e al tempo stesso più semplici da stimare ma anche più facili da confinare come problematica. Come in precedenza, si cerca di trovare un pattern conosciuto e partire con quello. Questo vuol dire gestire un lavoro più piccolo, il che ci consente di comprenderlo meglio, visto che il cervello umano non è in grado di tenere sotto controllo una moltitudine di elementi, ma ci consente di avere una visione prima di insieme e poi del dettaglio, così da rendere le cose più facili da dominare. La riduzione rende anche chiare altre due cose, ovvero le criticità: parliamo di quelle parti meno esplorate e in cui ci sono possono nascondersi delle difficoltà, ma soprattuttto sono quelle che hanno una maggiore incertezza nella stima. Mette in luce anche le dipendenze, cioè quali siano le fondamentali e quali siano le parti accessorie, cominciando anche a delineare una sequenza.
 
 Per fare un esempio, partendo dal classico to do list, potremmo mettere in risalto autenticazione, le operazioni di base di visione/creazione/modifica/cancellazione di un elemento, a questo aggiungiamo che il nostro committente voglia anche condivisione dell'item e magari memo sul calendario. Ora possiamo individuare l'autenticazione e le operazioni di base come piuttosto ben definite, ma condivisione e integrazione col calendario? Cominciamo a porci delle domande per esempio "condividere con chi" o "quale calendario usare" (Google?). Vediamo quindi emergere dei macro blocchi e degli elementi da chiarire per i quali individuare anche degli esperti sia tecnologici che non che possono aiutarci a farci un'idea di cosa vogliamo ottenere; in tutto questo, quando troviamo uno scoglio nella scomposizione, possiamo in prima battuta impegnare uno slot di tempo per lo studio ben definito il classico "time boxed" oltre il quale non andare e dopo il quale va cercato aiuto.
 
-#### Isolare le criticità
+## Isolare le criticità
 
 Nella suddivisione si possono scorgere, come si è visto, criticità; sono le parti più complesse da stimare, quelle che ci pongono di fronte a situazioni nuove dove un pattern già conosciuto non è visibile o proprio è assente. Si possono adottare due strategie concatenate: la prima è quella di "assegnare ad una stima del tempo di stima": sembra un gioco di parole ma non lo è. Se un tema è complesso e non scomponibile e ha bisogno di essere studiato è necessario prendersi il tempo per farlo. Assegnare a questo task una stima per consentirci di avere le idee più chiare ci da la maniera di introdurre il concetto di PoC: proof of concept. Di fatto è un micro task orientato alla creazione di uno o più proprietà del progetto finale che sono critiche e che, una volta sbrogliate, rendono tutto il processo di creazione più chiaro. Può anche essere utile mostrarlo, a volte può bastare provare se l'idea funziona a livello tecnico, ma a volte è possibile anche mostrarlo a chi poi prenderà decisioni perché dà immediatamente un'idea di dove si vuole arrivare, che prestazioni o di che interattività si parla.
 
-#### Unità di misura
+### Unità di misura
 
 L'espressione della stima è intuitivamente temporale in ore o giorni uomo, ma non è l'unica possibilità. In alcuni framework agili questa viene sostituita con delle unità adimensionali o addirittura con qualcosa di non numerico: l'esempio classico sono le taglie delle magliette. Questo approccio è tipico di quei team che lavorano per sessioni (chiamati a volte sprint) che durano da una settimana in su dove il gruppo sa che entreranno un certo numero di task con una determinata taglia, rimanere vaghi è un metodo per evitare raggiungere due obiettivi:
 
@@ -51,12 +65,12 @@ L'espressione della stima è intuitivamente temporale in ore o giorni uomo, ma n
 - Semplificare il lavoro di stima evitando di dare un numero in ore e quindi si sa che ce la si farà in una sessione ma si evita di approfondire quanto anche per non creare fraintendimenti.
   Se la stima invece è scritta sotto forma di tempo possiamo usare lo stratagemma di creare una forbice con un tempo minimo e massimo per lo svolgimento del lavoro, questo per conteggiare il rischio soprattutto di quelle parti che risultano nuove che potrebbero portare con sé delle criticità. Un altro modo è spesso quello di indicare una stima e poi aggiungere un margine, questo è forse il metodo più incerto perché il margine è spesso arbitrario; generalmente si usa Pareto aggiungendo il venti per cento a quanto ottenuto.
 
-#### L'impatto delle specifiche sulla stima
+## L'impatto delle specifiche sulla stima
 
 Partendo sempre dal metodo empirico ci accorgiamo prima di tutto che l'incertezza comporta una cosa tanto banale quanto vera: sappiamo quanto ci abbiamo messo quando lo abbiamo fatto. Questo perché è solamente alla fine che è chiaro quello che si voleva produrre, in una parola serviva sapere quale era la definizione di fatto.
 Per saperlo è necessario avere delle specifiche ed è facile intuire che più sono precise più è semplice pianificare. Anche chi lavora da poco nel settore sa che sono complicate da ottenere e a volte fumose. Il primo consiglio qui è quello di studiare il dominio applicativo perché avere una nomenclatura delle cose dà uno slancio non irrisorio. Poi è necessario parlare con chi ha questa conoscenza, andare a cercare alla fonte e chiedere più chiarimenti possibili; anche in questo caso la scomposizione e l'iterazione sono utili. Ci sono delle cerimonie specifiche in alcuni framework e metodologie che possono venirci incontro, ad esempio l'[event storming](https://en.wikipedia.org/wiki/Event_storming) il cui scopo è proprio quello di chiarire i flussi e nomi del dominio il più possibile; questo è un vero e proprio workshop che ha lo scopo di far incontrare chi sviluppa con chi ha bene chiaro il dominio dove l'applicazione che vogliamo sviluppare va ad operare, se per esempio stiamo creando una web app per degli ordini di una pizzeria, parlare col personale e raccogliere informazioni e far si che il software segua i processi è molto utile perché di fa capire quali problemi stiamo risolvendo in maniera diretta, la contaminazione è fondamentale per un prodotto di qualità e per ridurre al minimo i fraintendimenti.
 
-#### Condivisione
+## Condivisione
 
 La ricerca di pattern, come già citato, può essere molto utile poiché ci consente di riconoscere requisiti o funzionalità già visti o fatti; abbiamo poi accennato al concetto di Proof of Concept, che aiuta laddove ci si trovi davanti ad un problema nuovo.
 
