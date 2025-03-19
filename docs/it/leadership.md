@@ -16,7 +16,7 @@ Potreste esclamare: “Ma ci sono dei momenti tremendamente esaltanti nella carr
 
 A livello neurologico, questo meccanismo è ben documentato: quando completiamo un task con successo, il nostro cervello rilascia dopamina, il neurotrasmettitore responsabile di quella sensazione di realizzazione e piacere. Non a caso, i game designer più bravi usano con caparbietà questa dinamica cerebrale nella creazione dei loro videogiochi, per tenerci agganciati e spingerci a continuare a giocare.
 
-Primo avvertimento quindi: il feedback non è immediato, né quando è positivo né quando è negativo.
+> Primo avvertimento quindi: il feedback non è immediato, né quando è positivo né quando è negativo.
 
 Prendete una decisione oggi, e non sapete di preciso quando e che risultati otterrete.
 
@@ -60,11 +60,11 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
 ### Engineering Manager
 
-- È una figura manageriale - anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli dovrebbe essere sulle Soft Skill
+- È una figura manageriale. Anche se in alcuni contesti gli Engineering Manager scrivono ancora codice, chi scrive ritiene che non dovrebbe essere il caso in un team del tutto funzionale; il focus di questi ruoli dovrebbe essere sulle Soft Skill
 
 - La trasversalità è più ampia di quella di un Tech Lead o di un developer, in quanto la conoscenza deve estendersi sugli ambiti di dominio di tutti i team gestiti
 
-- Il suo ruolo è quello di People Manager degli sviluppatori di uno o più team - è inevitabile che debba conoscere le tematiche tecnologiche, soprattutto in ottica di comprensione delle complessità che i tecnici affrontano nel day-by-day, ma la sua missione principale è assicurarsi che le dinamiche nei suoi team siano positive. Imperativi in questo senso sono i 1:1 (momenti di incontro e confronto individuali tra il manager ed ogni singola persona del Team) nonché un forte allineamento con Tech Lead e - qualora ci siano - Product manager
+- Il suo ruolo è quello di People Manager di chi sviluppa in uno o più team - è inevitabile che debba conoscere le tematiche tecnologiche, soprattutto in ottica di comprensione delle complessità che i tecnici affrontano nel day-by-day, ma la sua missione principale è assicurarsi che le dinamiche nei suoi team siano positive. Imperativi in questo senso sono i 1:1 (momenti di incontro e confronto individuali tra il/la manager ed ogni singola persona del Team) nonché un forte allineamento con Tech Lead e - qualora ci siano - Product manager.
 
 - Da organigramma, le persone dei team che gestisce sono formalmente a suo riporto
 
@@ -80,11 +80,11 @@ Vediamo come classificare dei possibili “ruoli” di leadership in relazione a
 
 - Nelle aziende più grosse e volutamente più strutturate, l'Head of Engineering assume un ruolo intermedio fra gli engineering manager e il o i VP of Engineering. Non vi sono particolari differenze fra i due ruoli se non l'introduzione di un ulteriore livello di astrazione, che potrebbe avere senso se si vuole logicamente differenziare più business unit aziendali teoricamente indipendenti fra loro.
 
-Ho volutamente tenuto fuori il CTO (o CIO o chiamatelo come preferite), perché dal mio punto di vista questa figura è ancora diversa e non legata esclusivamente alla parte di Engineering. Questo è un altro bias molto frequente. In questo caso il livello di astrazione è ancora più alto e la trasversalità si estende ai processi dell’intera azienda, sia per quanto riguarda la cosiddetta “digitalizzazione” dell’organizzazione che anche per tutte le qustioni finanziarie ed amministrative, nonché gli allineamenti con gli executive ed il board o, in caso di aziende che richiedono finanziamenti, coinvolgimento in fase di fundraising.
+_Nota_: ho volutamente tenuto fuori il CTO (o CIO o chiamatelo come preferite), perché dal mio punto di vista questa figura è ancora diversa e non legata esclusivamente alla parte di Engineering. Questo è un altro bias molto frequente. In questo caso il livello di astrazione è ancora più alto e la trasversalità si estende ai processi dell’intera azienda, sia per quanto riguarda la cosiddetta “digitalizzazione” dell’organizzazione che anche per tutte le qustioni finanziarie ed amministrative, nonché gli allineamenti con gli executive ed il board o, in caso di aziende che richiedono finanziamenti, coinvolgimento in fase di fundraising.
 
 ## Dual Ladder
 
-Nel paragrafo precedente ho esplicitato come il tema della “visione più ampia” che generalmente un manager ha o dovrebbe avere non debba essere visto come una sorta di “aumento di livello di competenza”.
+Nel paragrafo precedente ho esplicitato come il tema della “visione più ampia” che generalmente un/a manager ha o dovrebbe avere non debba essere visto/a come una sorta di “aumento di livello di competenza”.
 
 Per reiterare l’importanza di questo concetto colgo l'occasione per tornare a parlare di un punto molto caro al sottoscritto: il principio del dual ladder. In ambito tecnologico fatico a vedere un approccio diverso che possa avere successo. Partiamo da tre concetti chiave da tenere a mente:
 
