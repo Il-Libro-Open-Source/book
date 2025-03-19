@@ -90,22 +90,22 @@ Per reiterare l’importanza di questo concetto colgo l'occasione per tornare a 
 
 - Il software engineering ricade nell’ambito di _knowledge work_, in cui le competenze specialistiche sono estremamente variegate e complesse.
 
-- Un manager non potrà mai essere un _superset_ delle conoscenze di tutto il suo Team, e qualora ciò dovesse accadere allora la prima domanda da porsi sarebbe “quali sono le carenze del Team?”
+- Un/a manager non potrà mai essere un _superset_ delle conoscenze di tutto il suo Team, e qualora ciò dovesse accadere allora la prima domanda da porsi sarebbe “quali sono le carenze del Team?”
 
-- Le skill manageriali sono notevolmente diverse da quelle richieste ad un tecnico (di nuovo, non più o meno complesse - _diverse_) ed il tempo per formarsi è limitato per tutti, ergo bisogna scegliere.
+- Le skill manageriali sono notevolmente diverse da quelle richieste a un ruolo tecnico (di nuovo, non più o meno complesse - _diverse_) ed il tempo per formarsi è limitato per tutti, ergo bisogna scegliere.
 
 Tradizionalmente, in molte aziende si sono visti schemi di crescita lineari o piramidali, in cui “prima si parte dal lavoro operativo, poi si diventa bravi a farlo e allora si può diventare manager di altri”.
 
 Questo approccio può funzionare in alcuni casi, soprattutto quando il lavoro operativo è sufficientemente semplice e ripetibile da essere “insegnato” da un singolo esperto ad un team più junior, che a quel punto può essere coordinato.
 
 Ma nell’ambito tecnologico, a causa dei tre principi visti prima, questo approccio non scala.
-Il Command and Control (dire alle persone che sviluppano come fare le cose) porta nella maggior parte dei casi a disfunzionalità, calo di motivazione, deresponsabilizzazione e anche a far perdere valore all'azienda, in quanto le competenze pregiate degli individui non vengono utilizzate nel processo decisionale.
+Il "Command and Control" (dire alle persone che sviluppano come fare le cose) porta nella maggior parte dei casi a disfunzionalità, calo di motivazione, deresponsabilizzazione e anche a far perdere valore all'azienda, in quanto le competenze pregiate degli individui non vengono utilizzate nel processo decisionale.
 
-Peggio ancora, si dovesse ricadere nel meccanismo del micromanagement. Un manager con l'ossessione del controllo a tutti i costi ha il potere di rovinare un team in poco tempo.
+Peggio ancora, si dovesse ricadere nel meccanismo del micromanagement. Un/a manager con l'ossessione del controllo a tutti i costi ha il potere di rovinare un team in poco tempo.
 
-Quello che un buon manager dovrebbe fare è creare un ambiente in cui le competenze specialistiche possano brillare, generare valore ed evolvere insieme alle Persone che le coltivano.
+Quello che un/a buon/a manager dovrebbe fare è creare un ambiente in cui le competenze specialistiche possano brillare, generare valore ed evolvere insieme alle Persone che le coltivano.
 
-Alcuni tecnici _non_ vogliono diventare manager, e fanno bene a perseguire il loro sogno di carriera: diventare sempre più bravi nella loro area di competenza!
+Ci sono persone che lavorano come tecnici/che _non_ vogliono diventare manager, e fanno bene a perseguire il loro sogno di carriera: diventare sempre più bravi/e nella loro area di competenza!
 
 Da un punto di vista aziendale, se si crede in questi presupposti, è importante creare un sistema incentivante anche per chi non vuole crescere in un percorso manageriale. Le figure tecniche devono sentire riconosciuto e premiato il loro continuo perfezionamento, a prescindere dal fatto che rimangano _individual contributor_. Quando parlo di "sistema incentivante" intendo ovviamente un percorso di carriera, che possa portare alle stesse soddisfazioni (anche a livello retributivo) di un/a manager di pari livello; sono sempre le competenze e il valore portato all’azienda che dovrebbero fungere da discriminante, non il _job title_.
 
