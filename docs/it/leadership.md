@@ -40,23 +40,23 @@ Partendo dai due concetti espressi si può arrivare ad un’altra distinzione ch
 
 - Una persona con un ruolo manageriale non può adottare lo stesso approccio, ma dovrebbe accettare sia un context switching frequente tra compiti anche molto diversi che una visione più ampia a livello di domini ed ambiti di azione
 
-Qui urge un disclaimer: “visione più ampia”, non equivale a “meglio”, e non equivale a “persona di livello più importante”. Ritengo che per garantire un approccio costruttivo nel mondo tecnologico sia necessario uscire da questi stereotipi o bias inconsci. Ne parlerò meglio nella sottosezione relativa al Dual Ladder.
+Qui urge un disclaimer: “visione più ampia”, non equivale a “visione migliore”, e non equivale a “essere una persona di livello più importante”. Ritengo che per garantire un approccio costruttivo nel mondo tecnologico sia necessario uscire da questi stereotipi o bias inconsci. Ne parlerò meglio nella sottosezione relativa al Dual Ladder.
 
-Visione più ampia significa livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile.
+"Visione più ampia" significa avere un livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile.
 
-Immaginiamo di essere su un elicottero. Un buon leader dovrebbe sapersi muovere su più “aree geografiche” assicurandosi che ciascuna di esse si mostri armoniosa ed in buone condizioni. In alcuni casi è necessario scendere di quota e osservare più da vicino - e raramente l’elicottero dovrebbe atterrare. Quando se ne presenta il bisogno, l’intento non deve essere solo quello di “risolvere un problema”, ma soprattutto gettare le basi affinché tale intervento non sia più necessario in futuro.
+Immaginiamo di essere su un elicottero. Un/a buon leader dovrebbe sapersi muovere su più “aree geografiche” assicurandosi che ciascuna di esse si mostri armoniosa e in buone condizioni. In alcuni casi è necessario scendere di quota e osservare più da vicino - e raramente l’elicottero dovrebbe atterrare. Quando se ne presenta il bisogno, l’intento non deve essere solo quello di “risolvere un problema”, ma soprattutto gettare le basi affinché tale intervento non sia più necessario in futuro.
 
 Vediamo come classificare dei possibili “ruoli” di leadership in relazione ai diversi livelli di astrazione e trasversalità - ma ricordiamoci che non sono regole o dogmi, anche se un pò di standardizzazione potrebbe aiutare in fase di recruiting e comprensione tra aziende diverse:
 
 ### Tech Leader
 
-- È uno/a sviluppatore di elevata seniority e capacità tecnica - la sua astrazione dal codice e dall’operatività non è totale, il suo ambito e trasversalità riguardano l’intero dominio applicativo del team in cui lavora.
+- È uno/a sviluppatore di elevata seniority e capacità tecnica. La sua astrazione dal codice e dall’operatività non è totale, il suo ambito e trasversalità riguardano l’intero dominio applicativo del team in cui lavora.
 
 - Il suo ruolo è quello di garantire la qualità del codice e delle scelte tecnologiche del suo team, in particolare nel processo di scrittura, durante il quale si scelgono gli algoritmi e le strutture dati pertinenti. Inoltre, deve assicurarsi che le altre persone del team facciano tutto questo nel migliore dei modi.
 
-- Non ha persone formalmente a riporto, ma deve indubbiamente guadagnarsi il rispetto e la fiducia dei suoi compagni di squadra grazie alla sua autorevolezza. Rispetto ad un Senior Developer, in ogni caso, il suo ruolo gli conferisce anche l’autorità per prendere delle decisioni (limitatamente all’ambito tecnico) nel momento in cui il team non dovesse riuscire a farlo in autonomia.
+- Non ha persone formalmente a riporto, ma deve indubbiamente guadagnarsi il rispetto e la fiducia di chi lavora nello stesso team grazie alla sua autorevolezza. Rispetto ad un/a Senior Developer, in ogni caso, il suo ruolo gli conferisce anche l’autorità per prendere delle decisioni (limitatamente all’ambito tecnico) nel momento in cui il team non dovesse riuscire a farlo in autonomia.
 
-- E' una figura di riferimento: nel caso in cui gli altri membri del team dovessero avere bisogno di supporto, dovrebbe essere la prima figura nel gruppo a fornire degli spunti affinché si possa risolvere un problema nel modo migliore e nel breve tempo possibile.
+- È una figura di riferimento: nel caso in cui gli altri membri del team dovessero avere bisogno di supporto, dovrebbe essere la prima figura nel gruppo a fornire degli spunti affinché si possa affrontare un problema nel modo migliore e nel breve tempo possibile.
 
 ### Engineering Manager
 
