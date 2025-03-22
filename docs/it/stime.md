@@ -58,7 +58,7 @@ Nella suddivisione si possono scorgere, come si è visto, criticità; sono le pa
 
 - Assegnare ad una stima del tempo di stima: sembra un gioco di parole ma non lo è. Se un tema è complesso e non scomponibile e ha bisogno di essere studiato è necessario prendersi il tempo per farlo; assegnare a questo task una stima per consentirci di avere le idee più chiare ci da la maniera di introdurre il concetto successivo.
 
-- PoC: proof of concept, di fatto è un micro task orientato alla creazione di uno o più proprietà del progetto finale che sono critiche e che, una volta sbrogliate, rendono tutto il processo di creazione più chiaro. Può anche essere utile mostrarlo, a volte può bastare provare se l'idea funziona a livello tecnico, ma a volte è possibile anche mostrarlo a chi poi prenderà decisioni perché dà immediatamente un'idea di dove si vuole arrivare, che prestazioni o di che interattività si parla.
+- PoC: Proof of Concept, di fatto è un micro task orientato alla creazione di uno o più proprietà del progetto finale che sono critiche e che, una volta sbrogliate, rendono tutto il processo di creazione più chiaro. Può anche essere utile mostrarlo, a volte può bastare provare se l'idea funziona a livello tecnico, ma a volte è possibile anche mostrarlo a chi poi prenderà decisioni perché dà immediatamente un'idea di dove si vuole arrivare, che prestazioni o di che interattività si parla.
 
 ### Unità di misura
 
