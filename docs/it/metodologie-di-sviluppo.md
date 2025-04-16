@@ -16,7 +16,7 @@ nav_order: 15
 ## Storie di Sviluppo: Viaggio tra le Metodologie del Software
 
 Nel mondo frenetico dello sviluppo software, dove codici prendono vita e idee si trasformano in realtà, le metodologie sono la bussola che guida il processo. Ogni metodologia ha la sua storia, il suo fascino e le sue battaglie, raccontandoci l'evoluzione del pensiero e l'ingegno di chi le ha create.
-La narrazione di una buona storia parte sempre dalle sue radici e quando si parla di metodologie di sviluppo e passato, non si può non citare il pilastro delle metodologie: Modello a cascata.
+La narrazione di una buona storia parte sempre dalle sue radici e quando si parla di metodologie di sviluppo e passato, non si può non citare il pilastro delle metodologie: il Modello a cascata.
 
 ## Nascita e Ascesa: I Pilastri del Passato
 
