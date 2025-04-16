@@ -41,6 +41,12 @@ Questo processo implicava la produzione di versioni iniziali in grado di simular
 Nel 1986, Barry Boehm descrisse il processo di sviluppo del software sotto forma di modello a spirale. I processi a spirale utilizzano concetti di sviluppo iterativo per ridurre i rischi. Questo modello è ideale per progetti grandi e complicati. Inoltre, segue le stesse fasi del modello Waterfall, colmando le grandi lacune di quest’ultimo includendo la pianificazione, la valutazione del rischio, creazione e simulazioni di prototipi.
 I contro principali di questa metodologia sono: È sicuramente un modello costoso da utilizzare in termini di sviluppo e il successo del progetto dipende tutto dall’analisi fatta all’inizio.
 
+## Il Ciclo dei Feedback: Cuore Pulsante dell’Evoluzione
+
+È proprio in questo contesto che prende forma uno degli elementi più trasformativi dell'intero sviluppo software: il ciclo dei feedback. Nelle prime fasi, i feedback arrivavano tardi, spesso solo a progetto quasi concluso, causando ritardi, costi aggiuntivi e risultati lontani dalle aspettative. Con l’evolversi delle metodologie iterative e agili, il feedback è stato riscoperto come strumento vitale: non più posticipato, ma continuo, tempestivo e integrato in ogni fase del processo.
+
+Il ciclo dei feedback è diventato il battito cardiaco del progetto, scandendo il ritmo delle iterazioni, delle revisioni, dei rilasci. Che si tratti di un commento dell’utente su un prototipo o di un bug scoperto in un test automatico, ogni feedback contribuisce a un apprendimento rapido e allineato con la realtà. È attraverso questo ciclo costante che il software smette di essere un prodotto statico per diventare un organismo in evoluzione, plasmato da chi lo usa e da chi lo costruisce. Il feedback, così, non è solo un’opinione: è una direzione, un allarme, una conferma, un’opportunità.
+
 ## Rivoluzione Agile: Manifesto per un Nuovo Mondo
 
 Primi anni 2000, precisamente 2001, un gruppo di ribelli si riunì a Snowbird nello Utah. Erano gli esponenti del **Movimento Agile**, stanchi dei modelli pesanti e desiderosi di un cambiamento radicale. Da quell’incontro nacque uno dei manifesti più famosi nel mondo dell’informatica. Il manifesto agile divenne la bandiera di una rivoluzione: sviluppo incrementale, collaborazione tra team e clienti, adattamento continuo al cambiamento e focus su individui e le loro interazioni erano i loro concetti chiave.
@@ -63,11 +69,11 @@ Gli stand-up sono solitamente il momento migliore per il team per mostrare o ril
 
 I tre ruoli cardine della metodologia sono:
 
-**Proprietario del prodotto**, questa persona è responsabile della pianificazione iniziale, dell'assegnazione delle attività, della definizione delle priorità e del mantenimento della comunicazione durante tutto il progetto.
+**Product Owner**, questa persona è responsabile della pianificazione iniziale, dell'assegnazione delle attività, della definizione delle priorità e del mantenimento della comunicazione durante tutto il progetto.
 
-**Maestro di mischia**, questa persona supervisiona il processo durante lo sprint e garantisce che i programmi vengano rispettati e che vengano compiuti progressi.
+**Scrum Master**, questa persona supervisiona il processo durante lo sprint e garantisce che i programmi vengano rispettati e che vengano compiuti progressi.
 
-**Membri della squadra**, si tratta di singoli sviluppatori incaricati di svolgere i ruoli assegnati durante lo sprint.
+**Development team**, si tratta di singoli sviluppatori incaricati di svolgere i ruoli assegnati durante lo sprint.
 Simile al suo omonimo rugby, la mischia consente alle squadre di organizzarsi, adattarsi ai cambiamenti nell'ambiente e imparare dall'esperienza per migliorare il processo.
 
 ## Kanban: Visualizzare il Flusso
@@ -132,11 +138,11 @@ Nel panorama dello sviluppo software, il **Test Driven Development (TDD)** emerg
 Le origini del TDD possono essere rintracciate in diverse correnti di pensiero: Sviluppo incrementale ed Extreme Programming.
 Kent Beck ha introdotto il TDD in modo più formale con la pubblicazione del libro "Test-Driven Development: By Example" nel 2002. In questo libro, Beck descriveva il processo di sviluppo guidato dai test, fornendo esempi pratici e linee guida per gli sviluppatori.
 
-Il TDD si basa su tre semplici principi:
+Il TDD si basa su tre semplici principi (Red-Green-Refactor):
 
-- **Scrivere un test automatico che fallisce**: Prima di scrivere una linea di codice, definire un test automatico che specifica il comportamento desiderato della nuova funzionalità.
-- **Far passare il test con il minimo codice necessario**: Scrivere il codice più semplice possibile per far passare il test appena scritto.
-- **Riorganizzare il codice senza modificare il comportamento**: Migliorare la struttura e la leggibilità del codice senza alterare il comportamento testato.
+- **Scrivere un test automatico che fallisce (Red)**: Prima di scrivere una linea di codice, definire un test automatico che specifica il comportamento desiderato della nuova funzionalità.
+- **Far passare il test con il minimo codice necessario (Green)**: Scrivere il codice più semplice possibile per far passare il test appena scritto.
+- **Riorganizzare il codice senza modificare il comportamento (Refactor)**: Migliorare la struttura e la leggibilità del codice senza alterare il comportamento testato.
 
 Il TDD ha avuto un impatto significativo sul modo in cui viene sviluppato il software, diventando una pratica fondamentale non solo in XP, ma anche in molte altre metodologie agili e di sviluppo software. Ha contribuito a diffondere l'importanza del testing automatico e della qualità del codice, influenzando positivamente la disciplina e la professionalità nello sviluppo software.
 
