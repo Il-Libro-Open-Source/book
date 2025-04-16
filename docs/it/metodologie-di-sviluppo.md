@@ -27,7 +27,7 @@ Negli anni ’80 il modello a cascata ricevette molte critiche. Gli addetti ai l
 
 DeGrace non introdusse idee rivoluzionarie, ma cercò di dare un po' di flessibilità alla metodologia Waterfall. Nel modello di DeGrace, tutte le fasi di sviluppo del software vicine si sovrappongono tra loro. Ciò significa che, durante la fase di codifica vera e propria, sono stati eseguiti anche la progettazione dettagliata e i test.
 
-Quello che doveva essere il suo punto di forza alla fine si rivelò la sua debolezza. Se Waterfall era una metodologia troppo rigida, Sashimi era troppo traballante. Nessuno sapeva cosa stesse succedendo esattamente in un dato momento, la gestione del progetto divenne un disastro.
+Quello che doveva essere il suo punto di forza alla fine si rivelò la sua debolezza. Se Waterfall era una metodologia troppo rigida, Sashimi era troppo traballante. Nessuno sapeva cosa stesse succedendo esattamente in un dato momento, la gestione dei progetti finiva con il diventare un disastro.
 
 ## Sfide e Adattamenti: L'Era dell'Evoluzione
 
