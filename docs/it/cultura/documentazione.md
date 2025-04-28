@@ -133,7 +133,7 @@ Per velocizzarne la realizzazione, una possibilità è quella di prepararsi dei 
 
 Per esempio, se consideriamo la possibilità di scrivere documentazione su un file markdown, un esempio di template standard per un tutorial potrebbe essere il seguente:
 
-```
+```markdown
 ---
 converter: markdown
 metadata:
@@ -165,7 +165,7 @@ Questa guida ti aiuterà a [descrivi a cosa saprà fare l'utente alla fine].
 
 Un altro esempio di template potrebbe essere quello dei changelogs. Sempre in markdown, se ne potrebbe creare uno così:
 
-```
+```markdown
 converter: markdown
 metadata:
     title: "..."

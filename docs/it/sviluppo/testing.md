@@ -165,7 +165,7 @@ Questo tipo di test viene scritto con un linguaggio chiamato _gherkins_, compost
 
 Di seguito un esempio che descrive una semplice ricerca su Google:
 
-```
+```gherkin
 Feature: Google Searching
   As a web surfer, I want to search Google, so that I can learn new things.
 

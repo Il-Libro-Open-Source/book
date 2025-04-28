@@ -76,7 +76,7 @@ Ci sono metodi che hanno nomi degni di un codice morse ma che poco dicono sulle 
 Un buon inizio potrebbe essere quello di rinominarli in modo che chi legge abbia la possibilità di capire cosa fa quel metodo, senza necessità alcuna di andarlo a verificare.
 Prendiamo ad esempio questo metodo:
 
-```
+```typescript
 function getNetto() {
   basePrice = cart.totalPrice();
   return basePrice * discount();
@@ -86,7 +86,7 @@ function getNetto() {
 Leggendone il contenuto è chiaro che ci sta tornando il totale del carrello al netto di eventuali sconti ma, senza conoscerne il contenuto, come facciamo a esserne sicuri?
 Proviamo quindi a rinominarlo con qualcosa di più espressivo.
 
-```
+```typescript
 function getAmountWithAppliedDiscount() {
   basePrice = cart.totalPrice();
   return basePrice * discount();
@@ -103,13 +103,13 @@ Un altro caso può essere quello in cui un metodo necessiti di numerose informaz
 
 Prendiamo ad esempio la seguente funzione:
 
-```
+```typescript
 function updateAddress(userId: number, street: string, city: string, zipCode: string, country: string): void {}
 ```
 
 Questa funzione potrebbe essere semplificata tramite l'introduzione di un aggregato/tipo `Address` che possa racchiudere al proprio interno tutte le informazioni necessarie:
 
-```
+```typescript
 function updateAddress(userId: number, address: Address): void {}
 ```
 
@@ -137,7 +137,7 @@ Sebbene questo potrebbe non essere sempre possibile, dopo avere estratto i metod
 
 Un caso semplice, ma spesso presente nel nostro codice, potrebbe essere quello di migliorare le performance rimuovendo le variabili temporanee (il codice che segue è pseudo-codice):
 
-```
+```typescript
 function applyDiscount() {
   basePrice = cart.totalPrice();
   return basePrice * discount();
@@ -146,7 +146,7 @@ function applyDiscount() {
 
 Il codice di partenza potrebbe già andare bene così ma, volendolo migliorare, potremmo dichiare la variabile temporanea in modo da facilitare al compilatore la vita, ovvero:
 
-```
+```typescript
 function applyDiscount() {
   final basePrice = cart.totalPrice();
   return basePrice * discount();
@@ -156,7 +156,7 @@ function applyDiscount() {
 Con questa modifica non abbiamo cambiato in alcun modo il comportamento. Ovviamente otterremo un piccolo vantaggio sulle performance, a patto che il linguaggio che stiamo usando possa trarre vantaggi dalla differenza tra variabili mutabili e non.
 Ma, riguardando ancora un attimo il codice, potremmo apportare un'altra modifica:
 
-```
+```typescript
 function applyDiscount() {
   return cart.totalPrice() * discount();
 }
