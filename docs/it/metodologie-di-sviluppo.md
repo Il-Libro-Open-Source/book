@@ -49,7 +49,7 @@ Il ciclo dei feedback è diventato il battito cardiaco del progetto, scandendo i
 
 ## Rivoluzione Agile: Manifesto per un Nuovo Mondo
 
-Primi anni 2000, precisamente 2001, un gruppo di ribelli si riunì a Snowbird nello Utah. Erano gli esponenti del **Movimento Agile**, stanchi dei modelli pesanti e desiderosi di un cambiamento radicale. Da quell’incontro nacque uno dei manifesti più famosi nel mondo dell’informatica. Il manifesto agile divenne la bandiera di una rivoluzione: sviluppo incrementale, collaborazione tra team e clienti, adattamento continuo al cambiamento e focus su individui e le loro interazioni erano i loro concetti chiave.
+Primi anni 2000, precisamente 2001, un gruppo di ribelli si riunì a Snowbird nello Utah. Erano gli esponenti del **Movimento Agile**, stanchi dei modelli pesanti e desiderosi di un cambiamento radicale. Da quell’incontro nacque uno dei manifesti più famosi nel mondo dell’informatica. Il manifesto agile divenne la bandiera di una rivoluzione: sviluppo incrementale, collaborazione tra team e clienti, adattamento continuo al cambiamento, e focus su individui e le loro interazioni erano i loro concetti chiave.
 
 Il Manifesto Agile non definì una metodologia specifica, ma piuttosto un insieme di principi guida. Negli anni successivi, diverse metodologie Agile sono nate ispirandosi a questi principi, tra cui: Scrum, Kanban, Extreme Programming (XP) e Lean Development.
 
