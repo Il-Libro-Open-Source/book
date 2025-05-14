@@ -154,7 +154,7 @@ Uno degli eventi chiave che segnò la nascita del movimento DevOps fu la confere
 I punti chiave del loro talk sono:
 - **1. Dev e Ops non devono essere separati**: Tradizionalmente, gli sviluppatori scrivono codice e lo “buttano oltre il muro” agli ops. Questo crea frizioni, rallenta i rilasci e aumenta il rischio di errori.
 - **2. Automazione e strumenti**: Flickr ha adottato automazione ovunque possibile, incluso il deploy, il testing e il monitoraggio. Usavano strumenti come Fabric (per il deploy) e scripts personalizzati per facilitare i rilasci.
-- **3. Deploy piccoli e frequenti**: Invece di fare pochi rilasci grandi e dolorosi, è meglio fare molti piccoli cambiamenti: sono più facili da testare, monitorare e roll back. Rilasci frequenti riducono il rischio perché ogni modifica è isolata.
+- **3. Deploy piccoli e frequenti**: Invece di fare pochi rilasci grandi e dolorosi, è meglio fare molti piccoli cambiamenti: sono più facili da testare, monitorare ed eventualmente ritirare. Rilasci frequenti riducono il rischio perché ogni modifica è isolata.
 - **4. Feature toggles**: Le nuove funzionalità venivano rilasciate in produzione ma disattivate per gli utenti, in modo da testarle in sicurezza. Permettevano anche di fare test A/B o rollout graduali.
 - **5. Responsabilità condivisa**:  Tutti erano responsabili della stabilità del sistema, non solo gli ops. Se qualcosa andava storto, si lavorava insieme per risolvere e imparare, evitando colpe e cercando collaborazione continua.
 
