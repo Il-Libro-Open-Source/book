@@ -117,7 +117,7 @@ Nonostante sia nata negli anni '90, XP continua ad evolversi e ad adattarsi alle
 
 Nato negli anni '90 come adattamento dei principi del **Toyota Production System (TPS)** al mondo software, il Lean Development propone un approccio che valorizza il flusso continuo, la riduzione delle code e la centralità del cliente.
 
-Le origini del Lean Development affondano negli anni '50, quando **Taiichi Ohno**, ingegnere della Toyota, rivoluzionò il sistema produttivo dell'azienda nipponica con il TPS. L'obiettivo era eliminare gli sprechi (muda), produzione Just-in-Time (JIT) basata sulla domanda reale e non sulla produzione di massa e autonomazione (Jidoka) dove le macchine sono progettate per rilevare automaticamente i problemi e fermarsi per evitare la produzione di pezzi difettosi.
+Le origini del Lean Development affondano negli anni '50, quando **Taiichi Ohno**, ingegnere della Toyota, rivoluzionò il sistema produttivo dell'azienda nipponica con il TPS. L'obiettivo era eliminare gli sprechi (muda), produzione Just-in-Time (JIT) basata sulla domanda reale e non sulla produzione di massa, e autonomazione (Jidoka) dove le macchine sono progettate per rilevare automaticamente i problemi e fermarsi per evitare la produzione di pezzi difettosi.
 
 Negli anni '90, ispirati dai successi della Toyota, **Mary e Tom Poppendieck**, due studiosi americani, applicarono i principi del TPS al mondo dello sviluppo software. Nacque così il Lean Development, un paradigma che proponeva di adattare i concetti di flusso continuo, riduzione delle code e rispetto per le persone al processo di creazione di software.
 
