@@ -31,7 +31,7 @@ Quello che doveva essere il suo punto di forza alla fine si rivelò la sua debol
 
 ## Sfide e Adattamenti: L'Era dell'Evoluzione
 
-Gli anni '70 e '80 videro nascere nuovi eroi per domare il caos crescente. Il primo tentativo di donare flessibilità alle metodologie di sviluppo avviene con il **Modello Incrementale**. Già dai primi anni ’70 troviamo diverse menzioni a concetti che richiamano l’attenzione sul concetto della pianificazione e controllo iterativo. Le menzioni più interessanti le troviamo nel libro “General System Theory” di Victor Weinberg e nel pioniere David Parnas che introdusse il concetto di modularità, suggerendo di suddividere i sistemi software in componenti più piccoli e gestibili.
+Gli anni '70 e '80 videro nascere nuovi eroi per domare il caos crescente. Il primo tentativo di donare flessibilità alle metodologie di sviluppo avviene con il **Modello Incrementale**. Già dai primi anni ’70 troviamo diverse menzioni a concetti che richiamano l’attenzione sul concetto della pianificazione e controllo iterativo. Le menzioni più interessanti le troviamo nel libro “An Introduction to General Systems Thinking” di Gerald M. Weinberg e nel pioniere David Parnas che introdusse il concetto di modularità, suggerendo di suddividere i sistemi software in componenti più piccoli e gestibili.
 
 Il principio base del modello incrementale è proprio quello di suddividere il progetto in piccoli moduli o incrementi, con test e feedback a ogni iterazione.
 
@@ -39,7 +39,9 @@ Il **Modello Prototipazione** si presentò come esploratore coraggioso, creando 
 Questo processo implicava la produzione di versioni iniziali in grado di simulare il prodotto finale, raccogliendo nel contempo parametri di prestazione e feedback degli utenti. I risultati servono come base per eventuali miglioramenti alla versione finale prima del rilascio. La prototipazione ha aggiunto una fase vitale al ciclo di vita dello sviluppo del software, durante le fasi di progettazione e sviluppo. Ciò ha condotto a due scoperte distinte che alla fine hanno portato allo sviluppo della metodologia di sviluppo Agile. Innanzitutto, ha aperto il software a un approccio iterativo. Lo sviluppo del software è diventato un processo ciclico di prototipazione, test, analisi e perfezionamento del prodotto. Inoltre, la prototipazione ha aperto gli sviluppatori al valore dei dati generati dagli utenti. Ciò ha aiutato a testare il software in una moltitudine di scenari utente, generando feedback critici nel miglioramento delle prestazioni.
 
 Nel 1986, Barry Boehm descrisse il processo di sviluppo del software sotto forma di modello a spirale. I processi a spirale utilizzano concetti di sviluppo iterativo per ridurre i rischi. Questo modello è ideale per progetti grandi e complicati. Inoltre, segue le stesse fasi del modello Waterfall, colmando le grandi lacune di quest’ultimo includendo la pianificazione, la valutazione del rischio, creazione e simulazioni di prototipi.
-I contro principali di questa metodologia sono: È sicuramente un modello costoso da utilizzare in termini di sviluppo e il successo del progetto dipende tutto dall’analisi fatta all’inizio.
+I contro principali di questa metodologia sono: 
+- È sicuramente un modello costoso da utilizzare in termini di sviluppo 
+- Il successo del progetto dipende tutto dall’analisi fatta all’inizio.
 
 ## Il Ciclo dei Feedback: Cuore Pulsante dell’Evoluzione
 
@@ -65,7 +67,10 @@ Gli sprint, che di solito durano due settimane, sono il periodo in cui gli svilu
 
 Durante gli sprint, i progressi vengono visualizzati sulla lavagna mostrando quali attività devono essere completate, quali sono in corso e quali sono state completate. Sono previsti incontri giornalieri (stand-up) (con gli ‘sprint’ in movimento) per valutare lo stato di avanzamento del progetto.
 
-Gli stand-up sono solitamente il momento migliore per il team per mostrare o rilasciare versioni demo ai clienti prima del lancio.
+Gli stand-up sono solitamente il momento migliore per allineare i membri del team. Si basano su 3 principi cardine:
+- Durata, non oltre i 15 minuti.
+- Partecipanti, si consiglia non superare i 10 membri
+- Domande, 'Cosa hai fatto ieri?, Cosa farai oggi?, Qualcosa sta bloccando i tuoi progressi?'
 
 I tre ruoli cardine della metodologia sono:
 
