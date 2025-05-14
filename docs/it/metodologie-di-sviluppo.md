@@ -59,7 +59,7 @@ In un ambiente Agile, l’idea iniziale è prepararsi per un ciclo di sviluppo a
 
 ## Scrum: Rugby nello Sviluppo
 
-Il framework Scrum suddivide il tempo del ciclo di sviluppo in periodi di lavoro specifici chiamati sprint. Prima dello “sprint” vero e proprio, viene convocata una sessione di pianificazione in cui vengono assegnati i compiti e fissati gli obiettivi. Il product Owner delineerà un product backlog con priorità e discuterà con i team come completare ciascun elemento in backlog. Il gruppo stima collettivamente lo sforzo richiesto, il che porta a una previsione dello sprint. Questa, elenca la quantità di lavoro che può essere completata dal backlog. Scrum fornisce la struttura per aiutare i team a lavorare insieme.
+Il framework Scrum suddivide il tempo del ciclo di sviluppo in periodi di lavoro specifici chiamati sprint. Prima dello "sprint" vero e proprio, viene convocata una sessione di pianificazione in cui vengono assegnati i compiti e fissati gli obiettivi. Il Product Owner delineerà un product backlog con priorità e discuterà con i team come completare ciascun elemento. Il gruppo stima collettivamente lo sforzo richiesto, il che porta a una previsione dello sprint. Questa, elenca la quantità di lavoro che può essere completata dal backlog. Scrum fornisce la struttura per aiutare i team a lavorare insieme.
 
 Gli sprint, che di solito durano due settimane, sono il periodo in cui gli sviluppatori si mettono al lavoro per completare un obiettivo determinato dai project manager.
 
