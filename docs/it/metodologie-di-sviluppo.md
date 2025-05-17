@@ -20,7 +20,7 @@ La narrazione di una buona storia parte sempre dalle sue radici e quando si parl
 
 ## Nascita e Ascesa: I Pilastri del Passato
 
-Tutto ebbe inizio negli anni '60, lo sviluppo software iniziò a industrializzarsi e c'era bisogno di un metodo che definisse bene la strada da percorrere tra l’idea e il prodotto finito. La prima metodologia a nascere è il **Modello a Cascata**, il pioniere strutturato. Introdotto per la prima volta dal Dr. Winston W. Royce che ne ha parlato in un articolo pubblicato nel 1970, il modello a cascata prevede la divisione in fasi rigide e sequenziali: analisi, progettazione, implementazione, test e manutenzione. Un approccio ordinato, perfetto per progetti ben definiti e con requisiti chiari. Ma la sua rigidità iniziò a scricchiolare con l'avanzare della complessità.
+Tutto ebbe inizio negli anni '60, lo sviluppo software iniziò a industrializzarsi e c'era bisogno di un metodo che definisse bene la strada da percorrere tra l’idea e il prodotto finito. La prima metodologia a nascere è il **Modello a Cascata** (O Waterfall), il pioniere strutturato. Introdotto per la prima volta dal Dr. Winston W. Royce che ne ha parlato in un articolo pubblicato nel 1970, il modello a cascata prevede la divisione in fasi rigide e sequenziali: analisi, progettazione, implementazione, test e manutenzione. Un approccio ordinato, perfetto per progetti ben definiti e con requisiti chiari. Ma la sua rigidità iniziò a scricchiolare con l'avanzare della complessità.
 Negli anni ’70, i computer iniziarono a prendere piede portando ad una richiesta di produzione e aggiornamento dei software sempre più rapida e dinamica.
 
 Negli anni ’80 il modello a cascata ricevette molte critiche. Gli addetti ai lavori si sforzarono di inventare un modello che potesse sostituire il Waterfall una volta per tutte. Uno di questi fu Peter DeGrace, che creò il modello Sashimi.
@@ -122,7 +122,7 @@ Nonostante sia nata negli anni '90, XP continua ad evolversi e ad adattarsi alle
 
 Nato negli anni '90 come adattamento dei principi del **Toyota Production System (TPS)** al mondo software, il Lean Development propone un approccio che valorizza il flusso continuo, la riduzione delle code e la centralità del cliente.
 
-Le origini del Lean Development affondano negli anni '50, quando **Taiichi Ohno**, ingegnere della Toyota, rivoluzionò il sistema produttivo dell'azienda nipponica con il TPS. L'obiettivo era eliminare gli sprechi (muda), produzione Just-in-Time (JIT) basata sulla domanda reale e non sulla produzione di massa, e autonomazione (Jidoka) dove le macchine sono progettate per rilevare automaticamente i problemi e fermarsi per evitare la produzione di pezzi difettosi.
+Le origini del Lean Development affondano negli anni '50, quando **Taiichi Ohno**, ingegnere della Toyota, rivoluzionò il sistema produttivo dell'azienda nipponica con il TPS. L'obiettivo era eliminare gli sprechi (muda), produzione Just-in-Time (JIT) basata sulla domanda reale e non sulla produzione di massa, e automazione (Jidoka) dove le macchine sono progettate per rilevare automaticamente i problemi e fermarsi per evitare la produzione di pezzi difettosi.
 
 Negli anni '90, ispirati dai successi della Toyota, **Mary e Tom Poppendieck**, due studiosi americani, applicarono i principi del TPS al mondo dello sviluppo software. Nacque così il Lean Development, un paradigma che proponeva di adattare i concetti di flusso continuo, riduzione delle code e rispetto per le persone al processo di creazione di software.
 
@@ -130,7 +130,7 @@ Per affrontare queste sfide, il Lean Development si basa su sette principi fonda
 
 - **Eliminare gli sprechi**: Identificare e rimuovere le attività non produttive che non apportano valore al cliente.
 - **Amplificare il feedback**: Raccogliere e utilizzare costantemente feedback da clienti e utenti per migliorare il software.
-- **Decidere il più tardi possibile**: Posticipare le decisioni non critiche fino a quando si dispone di maggiori informazioni per ridurne il rischio di errore.
+- **Decidere il più tardi possibile**: Posticipare le decisioni non critiche fino a quando si dispone di maggiori informazioni per ridurre il rischio di errore.
 - **Consegnare il più velocemente possibile**: Rilasciare frequentemente nuove versioni del software per incorporare feedback e adattarsi alle esigenze.
 - **Creare una base di conoscenza solida**: Documentare le lezioni apprese e le migliori pratiche per migliorare continuamente.
 - **Rispettare le persone**: Valorizzare le competenze e l'esperienza del team per creare un ambiente di lavoro positivo e collaborativo.
