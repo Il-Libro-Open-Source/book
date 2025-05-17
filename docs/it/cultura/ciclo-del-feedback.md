@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Metodologie Agile e ciclo del feedback
-nav_order: 12
+parent: Cultura
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: AI
-nav_order: 13
+parent: Altro
+nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->

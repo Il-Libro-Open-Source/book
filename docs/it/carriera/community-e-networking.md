@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Community e Networking
-nav_order: 9
+parent: Carriera
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->

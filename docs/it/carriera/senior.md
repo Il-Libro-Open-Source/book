@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sviluppatore "senior"
-nav_order: 8
+parent: Carriera
+nav_order: 4
 ---
 
 <!-- prettier-ignore-start -->
@@ -124,11 +125,11 @@ Concentriamoci un attimo sulle competenze tecniche. Dopotutto, visto come funzio
 
 In qualità di sviluppatore senior, possedere competenze tecniche che coprano diverse aree è fondamentale. Per essere uno sviluppatore senior di successo è essenziale avere un profilo a _“forma di T”_ (o _T-Shaped profile_), che si concretizza nel saper padroneggiare una specifica competenza pur possedendo solide e ampie basi in altre aree.
 
-Immagina di disegnare una "T". la linea verticale rappresenta una profonda conoscenza in una specifica area tecnica. Più questa linea è lunga più si è raggiunta una padronanza della specifica area tecnica. Invece, la linea orizzontale rappresenta una vasta conoscenza in tante altre aree, non necessariamente una conoscenza approfondita ma sufficiente sviluppata da fornire i mezzi per poter spaziare tra gli argomenti piú disparati durante una conversazione tecnica.
+Immagina di disegnare una "T", la linea verticale rappresenta una profonda conoscenza in una specifica area tecnica. Più questa linea è lunga più si è raggiunta una padronanza della specifica area tecnica. Invece, la linea orizzontale rappresenta una vasta conoscenza in tante altre aree, non necessariamente una conoscenza approfondita ma sufficientemente sviluppata da fornire i mezzi per poter spaziare tra gli argomenti piú disparati durante una conversazione tecnica.
 
 Questo tipo di profilo permette al singolo individuo di poter contribuire in modi diversi ad un progetto pur essendo esperto nella propria area di specializzazione primaria: avendo competenze diverse, i profili a T consentono una collaborazione efficace con membri di lavoro, aprendo la strada ad un processo di sviluppo con maggiori probabilità di successo.
 
-Un buon modo per costruire il profilo a T è quello di iniziare a sviluppare il tuo tratto verticale, ovvero quello che alla fine diventerà il tuo punto di forza! Concentrati per un po’ su una singola area. Ovviamente è meglio preferire delle aree tecniche per le quale ci si senta particolarmente propensi e per le quali si abbia un grosso interesse. Più qualcosa ci appassiona, più è facile stare al passo con l'innovazione e trovare il tempo per sperimentare ed imparare.
+Un buon modo per costruire il profilo a T è quello di iniziare a sviluppare il tuo tratto verticale, ovvero quello che alla fine diventerà il tuo punto di forza! Concentrati per un po’ su una singola area. Ovviamente è meglio preferire delle aree tecniche per le quali ci si senta particolarmente propensi e per le quali si abbia un grosso interesse. Più qualcosa ci appassiona, più è facile stare al passo con l'innovazione e trovare il tempo per sperimentare ed imparare.
 
 Quando pensi di avere raggiunto la padronanza di una data competenza tecnica, allora potrai espandere la tua conoscenza partendo da lì, sviluppando così il tratto orizzontale. Esci fuori dalla tua comfort zone ed esplora argomenti correlati. Questi argomenti dovrebbero auspicabilmente arricchire le tue conoscenze pregresse e permetterti di contribuire in modo più esteso ai vari aspetti dello sviluppo di un prodotto software.
 
