@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sviluppo Mobile
+parent: Sviluppo
 nav_order: 6
 ---
 

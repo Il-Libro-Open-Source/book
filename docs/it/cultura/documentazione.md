@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Documentazione
-nav_order: 17
+parent: Cultura
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
@@ -132,7 +133,7 @@ Per velocizzarne la realizzazione, una possibilità è quella di prepararsi dei 
 
 Per esempio, se consideriamo la possibilità di scrivere documentazione su un file markdown, un esempio di template standard per un tutorial potrebbe essere il seguente:
 
-```
+```markdown
 ---
 converter: markdown
 metadata:
@@ -164,7 +165,7 @@ Questa guida ti aiuterà a [descrivi a cosa saprà fare l'utente alla fine].
 
 Un altro esempio di template potrebbe essere quello dei changelogs. Sempre in markdown, se ne potrebbe creare uno così:
 
-```
+```markdown
 converter: markdown
 metadata:
     title: "..."
@@ -193,7 +194,7 @@ Per esempio, se usi Confluence, un'idea potrebbe essere quella di crearti uno sp
 
 ## La collaborazione coi technical writers
 
-Nonostante la figura del technical writer non sia particolarmente presente nel mondo informatico italiano, idevelopers oggi hanno la possibilità di poter collaborare con aziende internazionali dove questa figura, invece, risulta più presente. Per questo, riteniamo opportuno spendere alcune righe per definire, a livello generale, come i technical writers - che sono specialisti della documentazione - dovrebbero collaborare con un ambiente di sviluppatori.
+Nonostante la figura del technical writer non sia particolarmente presente nel mondo informatico italiano, chi sviluppa oggi ha la possibilità di poter collaborare con aziende internazionali dove questa figura, invece, risulta più presente. Per questo, riteniamo opportuno spendere alcune righe per definire, a livello generale, come chi faccia il technical writer - specialisti della documentazione - dovrebbe collaborare con un ambiente di developer.
 
 Nel panorama dello sviluppo software moderno, infatti, la collaborazione tra sviluppatori e technical writers è fondamentale per garantire una documentazione tecnica di alta qualità.
 

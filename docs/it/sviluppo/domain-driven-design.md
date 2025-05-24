@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Domain Driven Design
-nav_order: 20
+parent: Sviluppo
+nav_order: 5
 ---
 
 <!-- prettier-ignore-start -->
