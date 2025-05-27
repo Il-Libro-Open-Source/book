@@ -43,7 +43,7 @@ In questo contesto di incertezza nasce il processo empirico che ha preso piede n
 Nei processi precedenti si nota che abbiamo un input, eseguiamo una lavorazione, emettiamo un output, a questo punto quello che abbiamo ottenuto è qualcosa che può andare bene o no; non abbiamo in mano specifiche molto precise (lo voglio lungo X e largo Y) e quindi il rischio di non soddisfare il cliente è alto.
 Possiamo pensare di ragionare come nel caso di un pittore che deve creare un quadro che di per sè ha un soggetto e un tema ma non ha una definizione precisa del risultato finale.
 Si procede prima con un disegno, che poi viene ripassato a tempera per poi venire ritoccato più volte per andare incontro alle esigenze del committente.
-Il processo empirico è proprio questo, partire da una o più caratteristiche base, da uno scheletro, e agginugere elementi interagendo così da ottenere qualcosa che si adatta man mano che viene creato.
+Il processo empirico è proprio questo, partire da una o più caratteristiche base, da uno scheletro, e aggiungere elementi interagendo così da ottenere qualcosa che si adatta man mano che viene creato.
 Partire da elementi di base e poi costruire in maniera iterativa ci consente di scomporre tutto in elementi più piccoli e semplici, più predittibili e quindi più gestibili; questa scomposizione ci consente di riportarci ai due processi precedenti che possono essere predetti meglio e, obiettivo importante, automatizzati magari per un riuso in altri ambiti.
 
 ## Scomposizione
