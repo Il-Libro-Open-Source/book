@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Il Curriculum
-nav_order: 11
+parent: Carriera
+nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->

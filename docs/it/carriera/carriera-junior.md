@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Carriera - Junior
-nav_order: 7
+parent: Carriera
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
