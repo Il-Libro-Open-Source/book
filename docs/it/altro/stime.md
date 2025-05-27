@@ -1,4 +1,18 @@
+---
+layout: default
+title: Le stime temporali di progetto
+parent: Altro
+nav_order: 1
+---
+
+<!-- prettier-ignore-start -->
 # Le stime temporali di progetto
+{: .no_toc }
+
+- TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Introduzione
 
