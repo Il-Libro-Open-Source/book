@@ -2,7 +2,7 @@
 layout: default
 title: Documentazione
 parent: Cultura
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
@@ -137,29 +137,34 @@ Per esempio, se consideriamo la possibilità di scrivere documentazione su un fi
 ---
 converter: markdown
 metadata:
-    title: "..."
-    description: "..."
+  title: "..."
+  description: "..."
 ---
+
 Questa guida ti aiuterà a [descrivi a cosa saprà fare l'utente alla fine].
 
 [Descrivi gli obiettivi, le infomazioni di base, e qualsiasi altra cosa necessaria a capire lo scopo e la terminologia del tutorial]
 
 ## Requirements
+
 [Lista dei requirements con eventuali link (interni o esterni) e con le spiegazioni necessarie].
 
 - [Requirement 1: spiegazione se necessaria]
 - [Requirement n: spiegazione se necessaria]
 
 ## Steps
+
 [Lista degli steps per completare il tutorial].
 
 - [Step 1: spiegazione se necessaria]
 - [Step n: spiegazione se necessaria]
 
 ## Troubleshooting
+
 [Lista delle informazioni necessarie a risolvere problemi tipici che eventualmente potrebbero presentarsi]
 
 ## Risorse aggiuntive
+
 [Lista di risorse aggiuntive per comprendere in modo più ampio ciò che sta attorno al tema trattato nel tutorial]
 ```
 
@@ -168,20 +173,25 @@ Un altro esempio di template potrebbe essere quello dei changelogs. Sempre in ma
 ```markdown
 converter: markdown
 metadata:
-    title: "..."
-    description: [gg-mm-aaaa]
+title: "..."
+description: [gg-mm-aaaa]
+
 ---
 
 [gg-mm-aaaaa, nuovo rilascio]:
+
 ## Nuove features
+
 - [**Nuova feature 1: descrizione della nuova feature. Link alla documentazione, se necessario]
 - [**Nuova feature n: descrizione della nuova feature. Link alla documentazione, se necessario]
 
 ## Miglioramenti
+
 - [**Miglioramento 1: descrizione del miglioramento]
 - [**Miglioramento n: descrizione del miglioramento]
 
 ## Bug risolti
+
 - [**Fix 1: descrizione del bug risolto]
 - [**Fix n: descrizione del bug risolto]
 ```
