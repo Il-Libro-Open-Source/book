@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Metodologie di sviluppo
-nav_order: 15
+parent: Cultura
+nav_order: 4
 ---
 
 <!-- prettier-ignore-start -->
