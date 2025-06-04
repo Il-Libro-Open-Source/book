@@ -14,6 +14,8 @@ nav_order: 4
 
 <!-- prettier-ignore-end -->
 
+_Aggiornato al 2025-06-04_
+
 Nel mondo open source, le conferenze non sono solo occasioni per presentare codice o mostrare progetti: sono il luogo dove le idee prendono forma, le comunità si rafforzano, e le collaborazioni nascono o si consolidano.
 
 Sono momenti di incontro reale in un universo spesso distribuito e virtuale.
@@ -32,9 +34,7 @@ Di seguito si è voluto mettere un elenco delel conferenze italiane e internazio
 
 Non è certo un elenco completo, ma questo capito fa parte de "Il libro Opensource" perciò siamo aperti ad aggiunte! ^\_^
 
-## Conferenze Italiane
-
-Aggiornato al 2025-06-04
+## Italiane
 
 | Conferenza                 | Luogo         | Descrizione                                                                                                   | Sito di riferimento                     | Promotore            |
 | -------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------- | -------------------- |
@@ -56,9 +56,7 @@ Aggiornato al 2025-06-04
 | Google Summit              | Milano        | Evento dedicato all'innovazione e alla trasformazione digitale con le tecnologie Google Cloud.                | cloudonair.withgoogle.com               | Google               |
 | Codemotion Tech Conference | Roma / Milano | Una delle principali conferenze tech in Europa su sviluppo software, AI, cloud, DevOps, frontend e community. | codemotion.com                          | Codemotion           |
 
-## Conferenze Internazionali
-
-Aggiornato al 2025-06-02
+## Internazionali
 
 | Conferenza               | Luogo               | Descrizione                                                                        | Sito di riferimento                    | Promotore           |
 | ------------------------ | ------------------- | ---------------------------------------------------------------------------------- | -------------------------------------- | ------------------- |

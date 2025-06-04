@@ -1,41 +1,31 @@
 #!/bin/bash
 set -e
 
-FILE="conferenze.md"
+FILE="docs/it/formazione/conferenze.md"
 
-# Controlla se il file esiste
-if [ ! -f "$FILE" ]; then
-    echo "❌ File $FILE non trovato"
-    exit 0
-fi
-
-# Controlla se il file è staged (aggiunto al commit)
-if ! git diff --cached --name-only | grep -q "^$FILE$"; then
-    echo "ℹ️  $FILE non è stato modificato in questo commit"
-    exit 0
-fi
-
-# Controlla se il file è già tracciato da git
-if git ls-files --error-unmatch "$FILE" >/dev/null 2>&1; then
-    # File già tracciato - usa git diff normale
-    if git diff --cached "$FILE" | grep -v "aggiornato al" | grep -q "^[+-]"; then
-        echo "🔄 Contenuto di $FILE modificato, aggiorno la data..."
-        update_date=true
+if git diff --name-only --cached | grep -q "$FILE" || git diff --name-only | grep -q "$FILE"; then
+    echo "🔄 $FILE modificato, aggiorno la data..."
+    
+    if git ls-files --error-unmatch "$FILE" >/dev/null 2>&1; then
+        old_content=$(git show HEAD:"$FILE" 2>/dev/null | grep -v "_Aggiornato al" || echo "")
+        new_content=$(grep -v "Aggiornato al" "$FILE" 2>/dev/null || echo "")
+        
+        if [ "$new_content" != "$old_content" ]; then
+            current_date=$(date '+%Y-%m-%d')
+            # Semplice sostituzione senza gruppi
+            sed -i '' "s/Aggiornato al [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/Aggiornato al $current_date/g" "$FILE"
+            
+            git add "$FILE"
+            echo "✅ Data aggiornata a $current_date"
+        else
+            echo "ℹ️  Nessuna modifica sostanziale rilevata"
+        fi
     else
-        echo "ℹ️  Solo la data è cambiata in $FILE, nessun aggiornamento necessario"
-        update_date=false
+        current_date=$(date '+%Y-%m-%d')
+        sed -i '' "s/Aggiornato al [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]/Aggiornato al $current_date/g" "$FILE"
+        git add "$FILE"
+        echo "✅ Data aggiornata a $current_date (nuovo file)"
     fi
 else
-    # File nuovo - aggiorna sempre la data
-    echo "🔄 Nuovo file $FILE rilevato, aggiorno la data..."
-    update_date=true
-fi
-
-# Aggiorna la data se necessario
-if [ "$update_date" = true ]; then
-    current_date=$(date '+%Y-%m-%d')
-    sed -i -E "s/(aggiornato al )[0-9]{4}-[0-9]{2}-[0-9]{2}/\1$current_date/g" "$FILE"
-    
-    git add "$FILE"
-    echo "✅ Data aggiornata a $current_date in $FILE"
+    echo "ℹ️  $FILE non modificato in questo commit"
 fi

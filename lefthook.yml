@@ -5,7 +5,7 @@ pre-commit:
       glob: "*.md"
       run: npm run format:write:automation {staged_files}
     update-date-conference:
-      glob: "conferenze.md"
+      glob: "docs/it/formazione/conferenze.md"
       run: ./.lefthook/update-date-conference.sh
 commit-msg:
   scripts:
