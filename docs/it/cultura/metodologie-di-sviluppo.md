@@ -40,8 +40,9 @@ Il **Modello Prototipazione** si presentò come esploratore coraggioso, creando 
 Questo processo implicava la produzione di versioni iniziali in grado di simulare il prodotto finale, raccogliendo nel contempo parametri di prestazione e feedback degli utenti. I risultati servono come base per eventuali miglioramenti alla versione finale prima del rilascio. La prototipazione ha aggiunto una fase vitale al ciclo di vita dello sviluppo del software, durante le fasi di progettazione e sviluppo. Ciò ha condotto a due scoperte distinte che alla fine hanno portato allo sviluppo della metodologia di sviluppo Agile. Innanzitutto, ha aperto il software a un approccio iterativo. Lo sviluppo del software è diventato un processo ciclico di prototipazione, test, analisi e perfezionamento del prodotto. Inoltre, la prototipazione ha aperto gli sviluppatori al valore dei dati generati dagli utenti. Ciò ha aiutato a testare il software in una moltitudine di scenari utente, generando feedback critici nel miglioramento delle prestazioni.
 
 Nel 1986, Barry Boehm descrisse il processo di sviluppo del software sotto forma di modello a spirale. I processi a spirale utilizzano concetti di sviluppo iterativo per ridurre i rischi. Questo modello è ideale per progetti grandi e complicati. Inoltre, segue le stesse fasi del modello Waterfall, colmando le grandi lacune di quest’ultimo includendo la pianificazione, la valutazione del rischio, creazione e simulazioni di prototipi.
-I contro principali di questa metodologia sono: 
-- È sicuramente un modello costoso da utilizzare in termini di sviluppo 
+I contro principali di questa metodologia sono:
+
+- È sicuramente un modello costoso da utilizzare in termini di sviluppo
 - Il successo del progetto dipende tutto dall’analisi fatta all’inizio.
 
 ## Il Ciclo dei Feedback: Cuore Pulsante dell’Evoluzione
@@ -69,6 +70,7 @@ Gli sprint, che di solito durano due settimane, sono il periodo in cui gli svilu
 Durante gli sprint, i progressi vengono visualizzati sulla lavagna mostrando quali attività devono essere completate, quali sono in corso e quali sono state completate. Sono previsti incontri giornalieri (stand-up) (con gli ‘sprint’ in movimento) per valutare lo stato di avanzamento del progetto.
 
 Gli stand-up sono solitamente il momento migliore per allineare i membri del team. Si basano su 3 principi cardine:
+
 - Durata, non oltre i 15 minuti.
 - Partecipanti, si consiglia non superare i 10 membri
 - Domande, 'Cosa hai fatto ieri?, Cosa farai oggi?, Qualcosa sta bloccando i tuoi progressi?'
@@ -154,18 +156,18 @@ Il TDD ha avuto un impatto significativo sul modo in cui viene sviluppato il sof
 
 ## DevOps: storia di una collaborazione vincente
 
-Il termine DevOps nasce dall'unione di Development e Operations ed è emerso ufficialmente alla fine degli anni 2000, quando le crescenti tensioni tra sviluppatori e sistemisti minacciavano l’agilità dei processi software, ampliando sempre più quella che veniva considerata una disfunzione fatale nel settore. 
+Il termine DevOps nasce dall'unione di Development e Operations ed è emerso ufficialmente alla fine degli anni 2000, quando le crescenti tensioni tra sviluppatori e sistemisti minacciavano l’agilità dei processi software, ampliando sempre più quella che veniva considerata una disfunzione fatale nel settore.
 
-Uno degli eventi chiave che segnò la nascita del movimento DevOps fu la conferenza Velocity del 2009, durante la quale John Allspaw e Paul Hammond (ingegneri di Flickr) presentarono il celebre talk “10+ Deploys per Day: Dev and Ops Cooperation at Flickr”. Dimostrarono come fosse possibile effettuare oltre dieci deploy al giorno grazie a una stretta collaborazione tra sviluppo e operazioni. 
+Uno degli eventi chiave che segnò la nascita del movimento DevOps fu la conferenza Velocity del 2009, durante la quale John Allspaw e Paul Hammond (ingegneri di Flickr) presentarono il celebre talk “10+ Deploys per Day: Dev and Ops Cooperation at Flickr”. Dimostrarono come fosse possibile effettuare oltre dieci deploy al giorno grazie a una stretta collaborazione tra sviluppo e operazioni.
 I punti chiave del loro talk sono:
+
 - **1. Dev e Ops non devono essere separati**: Tradizionalmente, gli sviluppatori scrivono codice e lo “buttano oltre il muro” agli ops. Questo crea frizioni, rallenta i rilasci e aumenta il rischio di errori.
 - **2. Automazione e strumenti**: Flickr ha adottato automazione ovunque possibile, incluso il deploy, il testing e il monitoraggio. Usavano strumenti come Fabric (per il deploy) e scripts personalizzati per facilitare i rilasci.
 - **3. Deploy piccoli e frequenti**: Invece di fare pochi rilasci grandi e dolorosi, è meglio fare molti piccoli cambiamenti: sono più facili da testare, monitorare ed eventualmente ritirare. Rilasci frequenti riducono il rischio perché ogni modifica è isolata.
 - **4. Feature toggles**: Le nuove funzionalità venivano rilasciate in produzione ma disattivate per gli utenti, in modo da testarle in sicurezza. Permettevano anche di fare test A/B o rollout graduali.
-- **5. Responsabilità condivisa**:  Tutti erano responsabili della stabilità del sistema, non solo gli ops. Se qualcosa andava storto, si lavorava insieme per risolvere e imparare, evitando colpe e cercando collaborazione continua.
+- **5. Responsabilità condivisa**: Tutti erano responsabili della stabilità del sistema, non solo gli ops. Se qualcosa andava storto, si lavorava insieme per risolvere e imparare, evitando colpe e cercando collaborazione continua.
 
 Da quel momento, DevOps si è trasformato da semplice metodologia a cultura aziendale, promuovendo automazione, integrazione continua e monitoraggio costante. Oggi, aziende come Netflix, Amazon e Google ne sono esempi iconici, avendo reso i rilasci frequenti e affidabili una routine quotidiana.
-
 
 ## Conclusioni: Un Viaggio Continuo
 
