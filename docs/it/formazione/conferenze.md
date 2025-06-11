@@ -14,7 +14,7 @@ nav_order: 4
 
 <!-- prettier-ignore-end -->
 
-_Aggiornato al 2025-06-04_
+_Aggiornato al 2025-06-11_
 
 Nel mondo open source, le conferenze non sono solo occasioni per presentare codice o mostrare progetti: sono il luogo dove le idee prendono forma, le comunità si rafforzano, e le collaborazioni nascono o si consolidano.
 
@@ -55,6 +55,7 @@ Non è certo un elenco completo, ma questo capito fa parte de "Il libro Opensour
 | AWS Summit                 | Milano        | Conferenza di AWS sulle notiva del RE-invent                                                                  | aws.amazon.com/it/events/summits/milano | Amazon Web Services  |
 | Google Summit              | Milano        | Evento dedicato all'innovazione e alla trasformazione digitale con le tecnologie Google Cloud.                | cloudonair.withgoogle.com               | Google               |
 | Codemotion Tech Conference | Roma / Milano | Una delle principali conferenze tech in Europa su sviluppo software, AI, cloud, DevOps, frontend e community. | codemotion.com                          | Codemotion           |
+| Digital Design Days | Milano / Palermo | evento internazionale su innovazione, design digitale, creatività, tecnologia e ispirazione. | ddd.live/                          | DDD srl           |
 
 ## Internazionali
 
