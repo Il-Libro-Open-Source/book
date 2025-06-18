@@ -36,13 +36,12 @@ Due criteri che chi scrive ritiene più utile adottare per definire meglio la ti
 
 Partendo dai due concetti espressi si può arrivare ad un’altra distinzione chiave tra un ruolo tecnico ed uno manageriale:
 
-- Un/a developer in un contesto sano dovrebbe mantenersi in uno stato di flow più lungo possibile concentrandosi unicamente sul codice per lunghi periodi di tempo, e magari su una stessa regione del dominio applicativo (sì, lo so, nella pratica accade di rado - ma stiamo considerando un _contesto sano_, no?)
+- Un Team di developer in un contesto sano dovrebbe essere messo in condizione di lavorare nel modo più congeniale a garantire la giusta concentrazione per scrivere codice, nel rispetto delle diversità individuali. Per alcuni potrebbe trattarsi di uno stato assimilabile al "flow", per altri potrebbe esserci la necessità di fare frequenti pause. La cosa importante però è che il Team sia in grado di organizzarsi autonomamente, e che eventuali interruzioni non derivino dall'esterno e con modalità diverse da quelle concordate dal Team stesso. Un Leader dovrebbe avere tra i suoi obiettivi la creazione di questo ambiente, comprendendo i bisogni specifici delle sue Persone e garantendo che possano esprimersi al meglio. Inoltre, è molto probabile che un developer, per un certo periodo di tempo, si concentri su uno sviluppo perimetrato ad una precisa area verticale della codebase e quindi del Prodotto.
 
-- Una persona con un ruolo manageriale non può adottare lo stesso approccio, ma dovrebbe accettare sia un context switching frequente tra compiti anche molto diversi che una visione più ampia a livello di domini ed ambiti di azione
-
+- Una persona con un ruolo manageriale non può adottare lo stesso approccio, ma dovrebbe accettare: 1) un context switching frequente tra compiti anche molto diversi e 2) una visione più ampia a livello di domini ed ambiti di azione.
 Qui urge un disclaimer: “visione più ampia”, non equivale a “visione migliore”, e non equivale a “essere una persona di livello più importante”. Ritengo che per garantire un approccio costruttivo nel mondo tecnologico sia necessario uscire da questi stereotipi o bias inconsci. Ne parlerò meglio nella sottosezione relativa al Dual Ladder.
 
-"Visione più ampia" significa avere un livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile.
+"Visione più ampia" significa avere un livello di zoom diverso, guardare le cose dall’alto. Questo non è necessariamente più semplice, e non è necessariamente più difficile. Anzi, a livello di profondità, avere una visione più ampia si paga generalmente con una minor comprensione verticale degli aspetti di dettaglio.
 
 Immaginiamo di essere su un elicottero. Un/a buon leader dovrebbe sapersi muovere su più “aree geografiche” assicurandosi che ciascuna di esse si mostri armoniosa e in buone condizioni. In alcuni casi è necessario scendere di quota e osservare più da vicino - e raramente l’elicottero dovrebbe atterrare. Quando se ne presenta il bisogno, l’intento non deve essere solo quello di “risolvere un problema”, ma soprattutto gettare le basi affinché tale intervento non sia più necessario in futuro.
 
