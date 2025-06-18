@@ -14,7 +14,7 @@ nav_order: 4
 
 <!-- prettier-ignore-end -->
 
-_Aggiornato al 2025-06-11_
+_Aggiornato al 2025-06-18_
 
 Nel mondo open source, le conferenze non sono solo occasioni per presentare codice o mostrare progetti: sono il luogo dove le idee prendono forma, le comunità si rafforzano, e le collaborazioni nascono o si consolidano.
 
@@ -30,9 +30,11 @@ Le conferenze sono importanti per:
 
 - **Spirito di condivisione**: si promuovono valori come trasparenza, collaborazione e meritocrazia.
 
-Di seguito si è voluto mettere un elenco delel conferenze italiane e internazionali.
+Di seguito si è voluto mettere un elenco delle conferenze italiane e internazionali.
 
 Non è certo un elenco completo, ma questo capito fa parte de "Il libro Opensource" perciò siamo aperti ad aggiunte! ^\_^
+
+Citiamo anche https://eventitech.it/ una piattaforma italiana che raccoglie e promuove eventi tech, community meetup, workshop e conferenze su temi come cloud, AI/ML, DevOps, agilità, frontend, backend e molte altre aree tecnologiche.
 
 ## Italiane
 
@@ -55,7 +57,13 @@ Non è certo un elenco completo, ma questo capito fa parte de "Il libro Opensour
 | AWS Summit                 | Milano        | Conferenza di AWS sulle notiva del RE-invent                                                                  | aws.amazon.com/it/events/summits/milano | Amazon Web Services  |
 | Google Summit              | Milano        | Evento dedicato all'innovazione e alla trasformazione digitale con le tecnologie Google Cloud.                | cloudonair.withgoogle.com               | Google               |
 | Codemotion Tech Conference | Roma / Milano | Una delle principali conferenze tech in Europa su sviluppo software, AI, cloud, DevOps, frontend e community. | codemotion.com                          | Codemotion           |
-| Digital Design Days | Milano / Palermo | evento internazionale su innovazione, design digitale, creatività, tecnologia e ispirazione. | ddd.live/                          | DDD srl           |
+| Digital Design Days | Milano / Palermo | evento internazionale su innovazione, design digitale, creatività, tecnologia e ispirazione. | ddd.live                         | DDD srl           |
+| Open Source Day                | Roma / online     | Evento sull’open source con talk tecnici e casi d’uso per promuovere collaborazione e innovazione. | osday.dev                        | DevRomagna + GrUSP       |
+| Come To Code                   | Bologna           | Conferenza per sviluppatori con talk e workshop su coding, tecnologie e buone pratiche.            | cometocode.it                    | LinkMe + ideato          |
+| Coderful                       | Online / Italia   | Percorso per sviluppatori con eventi, sfide tecniche e occasioni di crescita professionale.        | coderful.io                      | Coderful Srl             |
+| SoCraTes                       | Rimini            | Unconferenza su qualità del software, sviluppo consapevole e scambio peer-to-peer.                 | socrates-conference.it           | SoCraTes Italy Community |
+| Working Software               | Bologna           | Evento agile dedicato a tecniche e cultura per creare software funzionante e di valore.            | agilemovement.it/workingsoftware | Agile Movement           |
+                       | -           |
 
 ## Internazionali
 
@@ -66,3 +74,4 @@ Non è certo un elenco completo, ma questo capito fa parte de "Il libro Opensour
 | JSConf                   | Rotazione globale   | Conferenze dedicate all'ecosistema JavaScript e web moderno.                       | jsconf.com                             | JSConf Organizers   |
 | KubeCon + CloudNativeCon | Rotazione globale   | Tutto su Kubernetes, CNCF, microservizi e tecnologie cloud-native.                 | cncf.io/events/kubecon-cloudnativecon/ | CNCF                |
 | Google Cloud Next        | San Francisco, USA  | Innovazioni, DevOps e sicurezza in ambiente Google Cloud.                          | cloud.withgoogle.com/next              | Google              |
+| WeAreDevelopers World Congress | Berlino, Germania | Uno dei più grandi eventi globali per sviluppatori, con speaker, workshop e networking.            | wearedevelopers.com              | WeAreDevelopers GmbH     |
