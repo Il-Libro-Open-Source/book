@@ -14,7 +14,7 @@ nav_order: 7
 
 <!-- prettier-ignore-end -->
 
-## LA GRATIFICAZIONE RITARDATA
+## La gratificazione ritardata
 
 Forse avete giocato a FIFA. Oppure a PES, o ad un altro gioco di calcio. Se questo è il vostro caso, conoscete _quella sensazione_. Sapete cosa si prova quando fate gol, soprattutto se farlo è stato difficile, ha richiesto tanto impegno, se la squadra avversaria era forte e vi siete dovuti mettere alla prova con tutte le vostre forze.
 
