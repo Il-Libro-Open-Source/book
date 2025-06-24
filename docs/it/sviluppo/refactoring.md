@@ -104,7 +104,13 @@ Un altro caso può essere quello in cui un metodo necessiti di numerose informaz
 Prendiamo ad esempio la seguente funzione:
 
 ```typescript
-function updateAddress(userId: number, street: string, city: string, zipCode: string, country: string): void {}
+function updateAddress(
+  userId: number,
+  street: string,
+  city: string,
+  zipCode: string,
+  country: string
+): void {}
 ```
 
 Questa funzione potrebbe essere semplificata tramite l'introduzione di un aggregato/tipo `Address` che possa racchiudere al proprio interno tutte le informazioni necessarie:
