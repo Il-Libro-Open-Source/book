@@ -1,0 +1,17 @@
+name: Dispatch EPUB Build
+
+on:
+  push:
+    tags:
+      - "*"
+
+jobs:
+  dispatch-epub-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger EPUB build workflow
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.EPUB_BUILD_TOKEN }}
+          repository: Il-Libro-Open-Source/book-epub
+          event-type: book-tagged
