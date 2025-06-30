@@ -61,7 +61,7 @@ Citiamo anche https://eventitech.it/ una piattaforma italiana che raccoglie e pr
 | Open Source Day                | Roma / online     | Evento sull’open source con talk tecnici e casi d’uso per promuovere collaborazione e innovazione. | osday.dev                        | DevRomagna + GrUSP       |
 | Come To Code                   | Bologna           | Conferenza per sviluppatori con talk e workshop su coding, tecnologie e buone pratiche.            | cometocode.it                    | LinkMe + ideato          |
 | Coderful                       | Online / Italia   | Percorso per sviluppatori con eventi, sfide tecniche e occasioni di crescita professionale.        | coderful.io                      | Coderful Srl             |
-| SoCraTes                       | Rimini            | Unconferenza su qualità del software, sviluppo consapevole e scambio peer-to-peer.                 | socrates-conference.it           | SoCraTes Italy Community |
+| SoCraTes                       | Rimini            | Una conferenza su qualità del software, sviluppo consapevole e scambio peer-to-peer.                 | socrates-conference.it           | SoCraTes Italy Community |
 | Working Software               | Bologna           | Evento agile dedicato a tecniche e cultura per creare software funzionante e di valore.            | agilemovement.it/workingsoftware | Agile Movement           |
                        | -           |
 
