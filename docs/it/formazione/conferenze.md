@@ -32,7 +32,7 @@ Le conferenze sono importanti per:
 
 Di seguito si è voluto mettere un elenco delle conferenze italiane e internazionali.
 
-Non è certo un elenco completo, ma questo capito fa parte de "Il libro Opensource" perciò siamo aperti ad aggiunte! ^\_^
+Non è certo un elenco completo, ma questo capito fa parte de "Il libro Open Source" perciò siamo aperti ad aggiunte! ^\_^
 
 Citiamo anche https://eventitech.it/ una piattaforma italiana che raccoglie e promuove eventi tech, community meetup, workshop e conferenze su temi come cloud, AI/ML, DevOps, agilità, frontend, backend e molte altre aree tecnologiche.
 
@@ -54,7 +54,7 @@ Citiamo anche https://eventitech.it/ una piattaforma italiana che raccoglie e pr
 | ContainerDay               | Bologna       | Conferenza su tecnologie container, Docker, Kubernetes e microservizi.                                        | containerday.it                         | GrUSP                |
 | LaravelDay                 | Verona        | Evento dedicato al framework Laravel e al suo ecosistema.                                                     | laravelday.it                           | GrUSP                |
 | AngularDay                 | Verona        | Conferenza su Angular e tecnologie correlate, con sessioni in lingua inglese.                                 | angularday.it                           | GrUSP                |
-| AWS Summit                 | Milano        | Conferenza di AWS sulle notiva del RE-invent                                                                  | aws.amazon.com/it/events/summits/milano | Amazon Web Services  |
+| AWSà del RE-invent                                                                  | aws.amazon.com/it/events/summits/milano | Amazon Web Services  |
 | Google Summit              | Milano        | Evento dedicato all'innovazione e alla trasformazione digitale con le tecnologie Google Cloud.                | cloudonair.withgoogle.com               | Google               |
 | Codemotion Tech Conference | Roma / Milano | Una delle principali conferenze tech in Europa su sviluppo software, AI, cloud, DevOps, frontend e community. | codemotion.com                          | Codemotion           |
 | Digital Design Days | Milano / Palermo | evento internazionale su innovazione, design digitale, creatività, tecnologia e ispirazione. | ddd.live                         | DDD srl           |
