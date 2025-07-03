@@ -5,6 +5,8 @@ on:
     tags:
       - "*"
 
+permissions:
+  repository_dispatch: write
 jobs:
   dispatch-epub-build:
     runs-on: ubuntu-latest
