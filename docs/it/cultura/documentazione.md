@@ -2,7 +2,7 @@
 layout: default
 title: Documentazione
 parent: Cultura
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
@@ -200,7 +200,7 @@ Questi, naturalmente, sono solo alcuni possibili esempi di standardizzazione del
 
 Per esempio, se usi Confluence, un'idea potrebbe essere quella di crearti uno spazio in cui scrivi i template prer la tua documentazione.
 
-> **NOTA**: Gli esempi riportati, tradotti in italiano e modificati per una audience adatta agli dviluppatori, sono stati ripresi dal libro [Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://link.springer.com/book/10.1007/978-1-4842-9594-6)
+> **NOTA**: Gli esempi riportati, tradotti in italiano e modificati per una audience adatta agli sviluppatori, sono stati ripresi dal libro [Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://link.springer.com/book/10.1007/978-1-4842-9594-6)
 
 ## La collaborazione coi technical writers
 

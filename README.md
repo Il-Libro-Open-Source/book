@@ -1,6 +1,8 @@
 # Il Libro Open Source
 
-> Vuoi unirti alla community del libro? Entra nel nostro nuovissimo [canale Telegram](https://t.me/illibroopensource)!
+> Vuoi unirti alla community del libro? Entra nel nostro [canale Telegram](https://t.me/illibroopensource)!
+
+> Vuoi leggere il libro in formato ePUB? [Scaricalo qui](https://github.com/Il-Libro-Open-Source/book-epub)!
 
 Questo progetto nasce da un post su LinkedIn che ha raccolto decine di persone attorno all'obiettivo di realizzare un libro completamente Open Source.  
 Dalla scelta del tema alla stesura del contenuto, il tutto verrà gestito e condiviso con la community e con chiunque voglia contribuire al progetto.

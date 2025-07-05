@@ -121,8 +121,8 @@ Come già detto la Gang of Four ha iniziato a definirli e successivamente sulla 
 - Dependency Injection: è un pattern che permette di iniettare una dipendenza in una classe attraverso l'Inversion of control. Questo viene fatto iniettando un'interfaccia o una classe astratta in modo da poter cambiare la sua implementazione in qualsiasi momento.  
   Abbiamo 3 tipi di iniezioni:
 
-  - Injection nel costruttore
-  - Injection tramite setter
-  - Injection tramite interfaccia
+- Injection nel costruttore
+- Injection tramite setter
+- Injection tramite interfaccia
 
 In questo libro li abbiamo definiti brevemente evitando di descriverli in maniera accademica; questo capitolo è infatti un modo per approcciarsi al tema e approfondire successivamente, grazie anche all'esistenza di numerose risorse, che li dettagliano in maniera più puntuale come quelle che abbiamo già elencato.
