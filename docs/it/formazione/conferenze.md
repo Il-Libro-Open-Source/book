@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Le conferenze: il cuore pulsante dell'open source
+title: Le conferenze, il cuore pulsante dell'open source
 parent: Formazione
 nav_order: 4
 ---
