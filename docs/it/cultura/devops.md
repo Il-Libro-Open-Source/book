@@ -18,9 +18,9 @@ nav_order: 1
 
 ## Il Problema: Perché i team piccoli faticano a scalare
 
-Il panorama dello sviluppo software è cambiato drasticamente negli ultimi anni. Le aziende non possono più permettersi cicli di rilascio lunghi mesi: il mercato richiede agilità, sicurezza e qualità simultanee. DDevOps è diventato “una mentalità, una cultura e un insieme di pratiche tecniche che supporta l'integrazione, automazione e collaborazione necessarie per sviluppare e operare efficacemente una soluzione".
+Il panorama dello sviluppo software è cambiato drasticamente negli ultimi anni. Le aziende non possono più permettersi cicli di rilascio lunghi mesi: il mercato richiede agilità, sicurezza e qualità simultanee. DevOps è diventato “una mentalità, una cultura e un insieme di pratiche tecniche che supporta l'integrazione, automazione e collaborazione necessarie per sviluppare e operare efficacemente una soluzione".
 
-La cultura DevOps enfatizza la responsabilità condivisa, empatia, trasparenza e miglioramento continuo, spesso riassunti nei principi CAMS: Culture, Automation, Measurement, Sharing. Questo cambiamento di mindset, supportato da pratiche Agile e Lean, rende lo sviluppo incrementale e la distribuzione rapida parte integrante del lavoro quotidiano.
+La cultura DevOps enfatizza la responsabilità condivisa, empatia, trasparenza e miglioramento continuo, spesso riassunti nei principi CAMLS: Culture, Automation, Measurement, Lean, Sharing. Questo cambiamento di mindset, supportato da pratiche Agile e Lean, rende lo sviluppo incrementale e la distribuzione rapida parte integrante del lavoro quotidiano.
 
 ## La Soluzione: DevOps come filosofia, non solo tool
 
