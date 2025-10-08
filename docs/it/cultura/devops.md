@@ -16,9 +16,15 @@ nav_order: 1
 
 # DevOps: Sicurezza e Automazione per Team Agili
 
-## Il Problema: Perché i team piccoli faticano a scalare
+Prima dell'avvento delle pratiche DevOps, lo sviluppo software seguiva un modello rigidamente compartimentato che in molte organizzazioni persiste ancora oggi.
+Gli sviluppatori scrivevano codice per settimane o mesi, poi lo passavano al team di QA, che a sua volta, dopo ulteriori settimane di test, lo passava al team operations per il deployment. Ogni step era un collo di bottiglia: configurazioni manuali su server, deployment notturni del venerdì sera con l'intero team in conference call, e l'inevitabile gioco dello "scaricabarile" quando qualcosa andava storto in produzione ("funzionava nel mio ambiente 😅").
 
-Il panorama dello sviluppo software è cambiato drasticamente negli ultimi anni. Le aziende non possono più permettersi cicli di rilascio lunghi mesi: il mercato richiede agilità, sicurezza e qualità simultanee. DevOps è diventato “una mentalità, una cultura e un insieme di pratiche tecniche che supporta l'integrazione, automazione e collaborazione necessarie per sviluppare e operare efficacemente una soluzione".
+La sicurezza era relegata a un audit finale prima del rilascio - una checklist che spesso diventava un ostacolo da aggirare piuttosto che un alleato.
+Le vulnerabilità scoperte a ridosso del deploy causavano ritardi di mesi o, peggio, venivano ignorate con la promessa di "fixarle nella prossima release".
+Gli sviluppatori non avevano visibilità su cosa accadesse in produzione, mentre gli operations non capivano il codice che dovevano mantenere in vita. Il risultato? Cicli di rilascio misurati in trimestri, fix di emergenza nel weekend, e una cultura della paura dove ogni deploy era un evento ad alto rischio.
+
+Questa realtà non è storia vecchia: molte aziende, specialmente in settori regolamentati o con sistemi legacy complessi, operano ancora così.
+La differenza è che ora questo approccio non è più sostenibile - il mercato punisce chi non riesce ad adattarsi rapidamente, e i competitor che hanno adottato DevOps rilasciano feature mentre altri sono ancora in fase di pianificazione.
 
 La cultura DevOps enfatizza la responsabilità condivisa, empatia, trasparenza e miglioramento continuo, spesso riassunti nei principi CAMLS: Culture, Automation, Measurement, Lean, Sharing. Questo cambiamento di mindset, supportato da pratiche Agile e Lean, rende lo sviluppo incrementale e la distribuzione rapida parte integrante del lavoro quotidiano.
 
@@ -128,17 +134,18 @@ Prima di scrivere la prima riga di codice applicativo, stabilisci i foundation d
 Il Principio: Security as Code
 Trasforma le policy di sicurezza da procedure manuali a codice eseguibile.
 
+```mermaid
 graph TD
-A[📝 PRIMA: Approccio Manuale] --> B[👨‍💻 Developer scrive codice]
-B --> C[📋 Checklist manuale]
-C --> D{🤔 Ricorda di controllare<br/>vulnerabilità?}
-D -->|Si| E[🔍 Controllo manuale]
-D -->|No| F[❌ Deploy senza controlli]
-E --> G{🎯 Trova vulnerabilità?}
-G -->|Si| H[📞 Segnala al team]
-G -->|No| I[✅ Deploy manuale]
-H --> J[⏰ Attesa fix manuale]
-F --> K[🚨 Vulnerabilità in produzione]
+    A[📝 PRIMA: Approccio Manuale] --> B[👨‍💻 Developer scrive codice]
+    B --> C[📋 Checklist manuale]
+    C --> D{🤔 Ricorda di controllare<br/>vulnerabilità?}
+    D -->|Si| E[🔍 Controllo manuale]
+    D -->|No| F[❌ Deploy senza controlli]
+    E --> G{🎯 Trova vulnerabilità?}
+    G -->|Si| H[📞 Segnala al team]
+    G -->|No| I[✅ Deploy manuale]
+    H --> J[⏰ Attesa fix manuale]
+    F --> K[🚨 Vulnerabilità in produzione]
 
     L[⚙️ ORA: Security as Code] --> M[👨‍💻 Developer scrive codice]
     M --> N[🔄 Git push]
@@ -160,31 +167,6 @@ F --> K[🚨 Vulnerabilità in produzione]
     style U fill:#99ff99
     style F fill:#ff9999
     style V fill:#ffcc99
-
-Implementazione Pratica (_a livello concettuale_)
-
-```yaml
-security_baseline:
-  # Scansione automatica delle dipendenze
-  dependency_scanning:
-    enabled: true
-    fail_on: ["high", "critical"]
-
-  # Rilevamento automatico di segreti nel codice
-  secret_detection:
-    enabled: true
-    patterns: ["api_keys", "passwords", "tokens"]
-
-  # Verifica automatica delle licenze
-  license_compliance:
-    enabled: true
-    blocked_licenses: ["GPL-3.0", "AGPL"]
-
-  # Soglia di tolleranza per vulnerabilità
-  vulnerability_threshold:
-    max_critical: 0
-    max_high: 2
-    max_medium: 10
 ```
 
 Ogni commit e deploy viene automaticamente validato contro questi criteri.
@@ -228,30 +210,6 @@ La pipeline trasforma il codice in valore business in modo sicuro e ripetibile:
 4. **Build**: Artifact creation con security hardening
 5. **Deploy**: Deployment automatico con verification
 6. **Monitor**: Health check e security monitoring
-
-Esempio di pipeline (_a livello concettuale_)
-
-```yaml
-pipeline:
-  validate:
-    - lint_check
-    - format_check
-  security:
-    - sast_scan
-    - dependency_scan
-    - secret_scan
-  test:
-    - unit_tests
-    - integration_tests
-    - security_tests
-  build:
-    - secure_build
-    - vulnerability_report
-  deploy:
-    - staging_deploy
-    - security_verification
-    - production_deploy
-```
 
 ## La Misura: Come sapere se funziona
 
@@ -358,4 +316,4 @@ Ogni pipeline automatizzata, ogni security check aggiunto, ogni metrica monitora
 
 ## Disclaimer
 
-Correzione ortografica e sintattica gentilmente offerta da una AI 🤖✍️: io ci ho messo le idee 💡, lei i congiuntivi 📚.
+Correzione ortografica e lessicale gentilmente offerta da una AI 🤖✍️: io ci ho messo le idee 💡, lei i congiuntivi 📚.
