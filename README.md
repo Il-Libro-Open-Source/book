@@ -2,9 +2,10 @@
 
 > Vuoi unirti alla community del libro? Entra nel nostro [canale Telegram](https://t.me/illibroopensource)!
 
-> Vuoi leggere il libro in formato ePUB? [Scaricalo qui](https://github.com/Il-Libro-Open-Source/book-epub)!
-
 > Vuoi ascoltare il nostro Podcast? Seguici su [Spotify](https://open.spotify.com/show/3EAhXkBUmHE1a8vFTH84Yg), [Spreaker](https://www.spreaker.com/podcast/il-podcast-open-source--6544191) o [Apple Podcasts](https://podcasts.apple.com/us/podcast/il-podcast-open-source/id1800173926)
+
+> Vuoi leggere il libro in formato ePUB, Mobi o PDF? [Scaricalo qui](https://github.com/Il-Libro-Open-Source/book-epub)!
+
 
 Questo progetto nasce da un post su LinkedIn che ha raccolto decine di persone attorno all'obiettivo di realizzare un libro completamente Open Source.  
 Dalla scelta del tema alla stesura del contenuto, il tutto verrà gestito e condiviso con la community e con chiunque voglia contribuire al progetto.
