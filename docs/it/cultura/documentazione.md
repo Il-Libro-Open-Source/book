@@ -68,7 +68,7 @@ Per garantire coerenza e chiarezza, è essenziale adottare uno standard per la d
 
 - **Struttura della specifica**: è importante utilizzare una struttura predefinita che copra tutti gli aspetti rilevanti, come obiettivi, requisiti, descrizione tecnica, vincoli, e criteri di accettazione al fine di non tralasciare nulla di importante.
 
-- **Linguaggio e terminologia**: per rendere chiare le specifiche, è fondamentale adottare un linguaggio chiaro e una terminologia uniforme per evitare ambiguità. Per non dare nulla per scontato circa il significato di alcuni termini, si può utilizzare il glossario: in questo modo, in poche righe, si specificano i significati per quei termini tecnici specifici che potrebbero risultare ambigui, o comunque non del tutto chiari iniversalmente.
+- **Linguaggio e terminologia**: per rendere chiare le specifiche, è fondamentale adottare un linguaggio chiaro e una terminologia uniforme per evitare ambiguità. Per non dare nulla per scontato circa il significato di alcuni termini, si può utilizzare il glossario: in questo modo, in poche righe, si specificano i significati per quei termini tecnici specifici che potrebbero risultare ambigui, o comunque non del tutto chiari universalmente.
 
 - **Tracciabilità**: Ogni specifica tecnica dovrebbe essere tracciabile rispetto ai requisiti funzionali corrispondenti. Questo facilita la verifica e la validazione.
 
