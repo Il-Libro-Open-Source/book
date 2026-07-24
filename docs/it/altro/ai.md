@@ -86,26 +86,89 @@ In questo campo, l'intelligenza artificiale generativa è un termine che compren
 
 In sintesi, la differenza fondamentale sta nel focus: i modelli linguistici comprendono una gamma più ampia di sistemi di intelligenza artificiale che lavorano con il linguaggio, mentre i modelli linguistici di grandi dimensioni sono specificamente adattati per compiti legati alla lingua con particolare attenzione alla generazione di contenuto testuale.
 
-Alcuni esempi di moderni LLMs includono:
+Il panorama dei modelli disponibili evolve così rapidamente che qualsiasi lista puntuale rischia di essere obsoleta in pochi mesi. È più utile ragionare per **categorie di provider e modelli**:
 
-- GPT (Generative Pretrained Transformer): prodotto da OpenAI, è un LLM ampiamente noto utilizzato nei chatbot come ChatGPT e per la piattaforma Bing Chat di Microsoft.
-- LaMDA: sviluppato da Google, alimenta il chatbot conversazionale di Google, Bard.
-- LLaMA: LLM di Meta AI, con una versione open source chiamata LLama 2.
-- Megatron-Turning NLG: sviluppato da Nvidia e Microsoft, questo modello è uno dei più grandi modelli in lingua inglese con trasformatore monolitico.
-- Claude: il LLM di prossima generazione di Anthropic utilizzato nei chatbot conversazionali.
-- LLM 1-bit: viene utilizzato per memorizzare i parametri di peso rispetto ai 32/16 bit degli LLM tradizionali. Ciò riduce le dimensioni complessive di una grande percentuale consentendo quindi anche ai dispositivi più piccoli di utilizzare i più recenti LLM.
+- **Closed-source commerciali**: OpenAI (famiglia GPT e modelli reasoning come o1/o3/o4), Google (famiglia Gemini), Anthropic (famiglia Claude). Accessibili via API o interfacce web, sono costantemente aggiornati dai rispettivi provider.
+- **Open-weight**: modelli i cui pesi sono pubblicamente disponibili e scaricabili, come LLaMA di Meta, Mistral/Mixtral di Mistral AI, DeepSeek, Phi di Microsoft. Possono essere eseguiti localmente senza dipendere da servizi cloud.
+- **Modelli specializzati**: LLM ottimizzati per domini specifici come il codice (Code Llama, DeepSeek Coder), la medicina o il diritto.
 
-Questi modelli sono all’avanguardia nell’intelligenza artificiale generativa e consentono varie applicazioni nell’elaborazione del linguaggio naturale e nella generazione di testi.
+Per seguire l'evoluzione del settore, classifiche come [LMSYS Chatbot Arena](https://lmarena.ai/) offrono confronti aggiornati basati su valutazioni umane reali.
 
-Una delle tecniche più recenti in questo ambito è la Retrieval Augmented Generation (abbreviata in RAG), che combina le capacità avanzate di generazione di testo di modelli come GPT con funzioni di recupero delle informazioni per fornire output precisi e contestualmente rilevanti. Questo approccio innovativo migliora la capacità dei modelli linguistici di comprendere ed elaborare le query degli utenti integrando i dati più recenti e pertinenti.
+### RAG: recuperare conoscenza per rispondere in modo affidabile
 
-Questo perché, in generale, gli LLM sono davvero efficaci nello svolgimento di molte attività di elaborazione del linguaggio naturale: spesso, il testo generato va diretto al punto, è accurato ed è proprio ciò di cui l'utente ha bisogno... Ma la maggior parte delle volte non è così.
+Una delle tecniche più importanti per rendere gli LLM utili in contesti reali è la **Retrieval Augmented Generation** (RAG). Invece di affidarsi esclusivamente alla conoscenza "memorizzata" durante l'addestramento, il sistema recupera dinamicamente informazioni rilevanti da una base di conoscenza esterna e le include nel prompt, fornendo al modello un contesto aggiornato e verificabile.
 
-Molto probabilmente ti sei imbattuto/a in una situazione in cui fai una domanda a ChatGPT e ritieni che ci sia qualcosa che non va nell'output generato; se vai a controllare le informazioni, scopri che GPT in realtà "ha mentito". Questo fenomeno viene comunemente chiamato allucinazione ed ha una causa ben precisa.
+Il flusso tipico di un sistema RAG è:
 
-I modelli linguistici generici sono pre-addestrati su grandi quantità di dati provenienti da qualsiasi luogo, ma questo non significa che conosca la risposta ad ogni domanda. I LLM "generalisti" non sono infatti all'altezza in casi ci sia la necessità di informazioni aggiornate o pertinenti, di un contesto specifico del dominio, della verifica dei fatti, e via dicendo, tutte proprietà che sono state ampiamente messe in discussione anche rispetto all'utilizzo di questi strumenti.
+1. **Indicizzazione**: i documenti sorgente vengono suddivisi in frammenti (_chunk_) e convertiti in vettori numerici tramite un modello di _embedding_.
+2. **Archiviazione**: i vettori vengono salvati in un _vector store_ (es. Pinecone, Weaviate, pgvector).
+3. **Retrieval**: alla ricezione di una query, questa viene a sua volta trasformata in un vettore e confrontata con quelli archiviati per trovare i frammenti semanticamente più simili.
+4. **Generation**: i frammenti recuperati vengono aggiunti al prompt insieme alla domanda originale, permettendo al modello di rispondere con informazioni contestualmente rilevanti e tracciabili alla fonte.
+
+RAG è oggi uno dei pattern architetturali più adottati in produzione per sistemi di Q&A su documentazione, chatbot aziendali e assistenti specializzati di ogni tipo.
+
+### Allucinazioni: quando il modello confabula
+
+Molto probabilmente ti sei imbattuto/a in una situazione in cui fai una domanda a un modello e ritieni che ci sia qualcosa che non va nell'output generato; se vai a controllare le informazioni, scopri che il modello in realtà "ha inventato" la risposta. Questo fenomeno viene comunemente chiamato **allucinazione** ed è una caratteristica strutturale dei modelli generativi, non un "bug" risolvibile con un semplice aggiornamento.
+
+È importante distinguere tra:
+
+- **Allucinazioni fattuali**: il modello afferma cose false ma plausibili (date errate, fatti inventati, attribuzioni sbagliate).
+- **Confabulazione**: il modello inventa referenze, citazioni, URL o paper scientifici inesistenti, ma che suonano convincenti.
+
+La causa radice è che gli LLM sono modelli probabilistici: generano il token successivo più probabile dato il contesto, senza avere accesso a una "banca dati della verità". Non "mentono" intenzionalmente - non hanno intenzioni - ma producono testo statisticamente plausibile.
+
+Le principali strategie di mitigazione includono il già citato RAG (che ancora le risposte a fonti verificabili), il _function calling_ (che permette al modello di invocare API esterne per ottenere dati reali), e tecniche di _grounding_ che richiedono al modello di citare esplicitamente le fonti delle proprie affermazioni.
 
 Particolarmente interessante è il progetto creato da Piero Savastano per la creazione di un framework open-source che permettesse lo sviluppo di soluzioni production-ready sulla base dei LLM disponibili nel mercato: si parla del progetto [Cheshire Cat](https://cheshirecat.ai/), che conta ormai diversi plugin a disposizione, una documentazione molto ricca di tutorial per estendere le funzionalità attuali e utilizzare la memoria a lungo termine e ha il vantaggio di essere fruibile anche tramite Docker.
+
+### Modelli multimodali
+
+I modelli moderni non si limitano al testo. I **modelli multimodali** sono in grado di ricevere in input e produrre in output combinazioni di testo, immagini, audio e video. GPT-4o, Gemini e Claude 3/4, ad esempio, possono analizzare immagini, rispondere a domande su grafici, trascrivere audio e generare contenuti in formati diversi all'interno della stessa conversazione.
+
+Questa evoluzione apre scenari applicativi molto più ampi rispetto agli LLM puramente testuali: dall'analisi automatica di documenti scansionati, all'assistenza visiva per persone con disabilità, fino all'ispezione automatica di prodotti in ambito industriale tramite visione artificiale.
+
+### AI Agent: dall'assistente all'autonomia
+
+Un **AI Agent** è un sistema basato su un LLM che non si limita a rispondere a una singola domanda, ma è in grado di pianificare una sequenza di azioni, utilizzare strumenti esterni (ricerca web, esecuzione di codice, accesso a database, chiamate API) e iterare autonomamente verso un obiettivo.
+
+La differenza rispetto a un chatbot tradizionale è sostanziale: mentre un chatbot risponde a un prompt, un agente riceve un _goal_ e decide autonomamente quali passi compiere per raggiungerlo, adattando il piano in base ai risultati intermedi.
+
+Tra i componenti chiave di un agente troviamo:
+
+- **Pianificazione** (_planning_): capacità di scomporre un obiettivo complesso in sotto-task gestibili.
+- **Memoria**: sia a breve termine (il contesto della conversazione corrente) che a lungo termine (informazioni persistenti tra sessioni, spesso realizzata tramite RAG o database vettoriali).
+- **Uso di strumenti** (_tool use_): la capacità di invocare funzioni esterne come la ricerca web, l'esecuzione di codice o l'interazione con sistemi aziendali.
+
+Framework come LangChain, LlamaIndex e il protocollo **MCP (Model Context Protocol)** di Anthropic stanno emergendo come standard per costruire agenti e collegarli a strumenti e fonti dati eterogenee. Gli AI Agent rappresentano oggi uno dei fronti di ricerca e sviluppo più attivi dell'intero settore.
+
+### Reasoning models
+
+Una categoria distinta rispetto agli LLM "classici" è quella dei **modelli di ragionamento** (_reasoning models_). Mentre un LLM tradizionale genera la risposta in un unico passaggio, i reasoning model dedicano una fase esplicita di "riflessione interna" prima di produrre l'output finale - una tecnica nota come _chain-of-thought_.
+
+Questa fase intermedia, spesso non visibile all'utente, permette al modello di scomporre problemi complessi, verificare passaggi intermedi e correggere errori di ragionamento prima di fornire la risposta definitiva. I rappresentanti principali di questa categoria includono i modelli o1 e o3 di OpenAI, DeepSeek-R1 (open-weight, disponibile localmente) e Gemini Thinking di Google.
+
+I reasoning model eccellono in matematica, logica formale, programmazione complessa e ragionamento multi-step, ma tendono ad essere più lenti e costosi rispetto ai modelli standard. La scelta tra le due tipologie dipende dal tipo di problema da affrontare.
+
+### AI on-device: l'intelligenza artificiale nel tuo dispositivo
+
+Un trend in forte crescita è quello dell'**AI on-device** (o _Edge AI_): l'esecuzione di modelli di intelligenza artificiale direttamente sul dispositivo dell'utente, senza inviare dati a server remoti. Questo approccio porta con sé vantaggi significativi in termini di **privacy** (i dati non lasciano mai il dispositivo), **latenza** (nessuna dipendenza dalla connessione di rete) e **disponibilità offline**.
+
+Strumenti come **Ollama** e **llama.cpp** permettono di eseguire modelli open-weight direttamente su laptop e workstation. Su mobile, un esempio concreto è **[Edge AI Gallery](https://github.com/google-ai-edge/gallery)**, un'applicazione Android di Google che consente di scaricare e gestire modelli LLM localmente sul proprio smartphone, sperimentare con diverse configurazioni e testarne le capacità conversazionali senza alcuna connessione a servizi cloud.
+
+Un concetto fondamentale in questo contesto è la **quantizzazione dei modelli**, cioè la riduzione della precisione numerica dei pesi (ad esempio da FP16/FP32 a INT8 o INT4) per diminuire il consumo di memoria e accelerare l'inferenza.
+
+Per intenderci meglio, per FP32 o FP16 si intende la rappresentazione dei numeri in virgola mobile a 32 o 16 bit, mentre INT8 o INT4 indica la rappresentazione dei numeri interi a 8 o 4 bit. La quantizzazione riduce la precisione dei calcoli, ma permette di eseguire modelli più grandi su hardware più limitato.
+
+Questo vuol dire che i modelli così come escono, non quantizzati, vengono solitamente associati a FP32 o FP16, mentre i modelli quantizzati vengono associati a INT8 o INT4. La quantizzazione può essere applicata in fase di addestramento (quantizzazione-aware training) o dopo l'addestramento (post-training quantization).
+
+Perché è importante:
+
+- Riduce i requisiti hardware, rendendo possibili deployment anche su laptop non recenti e smartphone.
+- Migliora i tempi di risposta e abbassa il consumo energetico.
+- Introduce un compromesso: quantizzazione più aggressiva significa maggiore efficienza, ma può ridurre la qualità in task complessi.
+
+I modelli ottimizzati per il deployment su dispositivi con risorse limitate - come Phi-4 di Microsoft, Gemma di Google o le varianti "small" di LLaMA - hanno dimensioni ridotte e sono spesso quantizzati per abbattere i requisiti di memoria, sacrificando solo marginalmente la qualità delle risposte rispetto alle controparti cloud.
 
 ## Data science
 
@@ -121,7 +184,46 @@ Il concetto di "AI etica" si riferisce a sistemi di intelligenza artificiale che
 
 Garantire un’intelligenza artificiale etica è essenziale per prevenire pregiudizi, salvaguardare la privacy, evitare errori che potrebbero causare danni e gestire l’impatto ambientale delle tecnologie di intelligenza artificiale. Basti pensare a sistemi di questo tipo applicati nell'ambito della sanità: quali sono i limiti con cui progettare un sistema che sfrutti l'intelligenza artificiale per interagire con possibili pazienti? In che modo vengono trattati i dati inseriti da questi, e come valutare l'operato? Seguendo i principi etici nello sviluppo e nell’utilizzo dell’intelligenza artificiale, le aziende possono mitigare rischi come guasti dei prodotti, problemi legali e danni al marchio. L’intelligenza artificiale etica non riguarda solo il comportamento responsabile, ma anche la garanzia di un buon valore aziendale e del benessere sociale.
 
-Negli ultimi anni l'aspetto legato all'etica durante il processo di progettazione e ideazione di sistemi che usino questa tecnologia è diventato un punto importante: non a caso, moltissimi colossi del settore tecnologie hanno stilato dei veri e propri manifesti in cui rendono pubbliche le intenzioni, le responsabilità e l'impatto che hanno studiato e che usano per valutare i propri prodotti. Per leggere alcuni di questi, è sufficiente cercare all'interno dei siti ufficiali di aziende come IBM o Google post relativi al termine "responsable AI". Le buone intenzioni non sempre si traducono in fatti: nonostante ciò, la presa di coscienza di queste società di fronte all'impatto sociale, economico e ambientale è estremamente importante e deve essere al centro di un'attenta valutazione.
+Negli ultimi anni l'aspetto legato all'etica durante il processo di progettazione e ideazione di sistemi che usino questa tecnologia è diventato un punto importante: non a caso, moltissimi colossi del settore tecnologie hanno stilato dei veri e propri manifesti in cui rendono pubbliche le intenzioni, le responsabilità e l'impatto che hanno studiato e che usano per valutare i propri prodotti. Per leggere alcuni di questi, è sufficiente cercare all'interno dei siti ufficiali di aziende come IBM o Google post relativi al termine "responsible AI". Le buone intenzioni non sempre si traducono in fatti: nonostante ciò, la presa di coscienza di queste società di fronte all'impatto sociale, economico e ambientale è estremamente importante e deve essere al centro di un'attenta valutazione.
+
+### L'AI Act europeo
+
+Il quadro normativo sull'intelligenza artificiale ha trovato la sua prima concretizzazione a livello globale con l'**AI Act** dell'Unione Europea, entrato in vigore nel 2024. Si tratta della prima legge organica al mondo che disciplina lo sviluppo e l'uso dell'intelligenza artificiale, con un approccio fondato sul **rischio**: più un sistema può impattare diritti fondamentali e sicurezza delle persone, maggiori sono gli obblighi a cui è soggetto chi lo sviluppa o lo distribuisce.
+
+**Scopo del documento**: garantire che i sistemi di IA immessi nel mercato europeo siano sicuri, trasparenti, tracciabili, non discriminatori e rispettosi dei diritti fondamentali, pur preservando uno spazio di innovazione per le aziende e i ricercatori.
+
+**Criteri principali - classificazione per livello di rischio**:
+
+- **Rischio inaccettabile** (vietati): sistemi che manipolano le persone a loro insaputa, sistemi di _social scoring_ governativi, riconoscimento emotivo sui luoghi di lavoro, identificazione biometrica in tempo reale in spazi pubblici (con eccezioni limitate).
+- **Alto rischio**: sistemi usati in infrastrutture critiche, istruzione, occupazione, servizi essenziali, forze dell'ordine, migrazione, amministrazione della giustizia. Sono consentiti ma soggetti a obblighi stringenti di trasparenza, documentazione, supervisione umana e registrazione in una banca dati europea.
+- **Rischio limitato**: sistemi come chatbot, che devono dichiarare all'utente di essere IA.
+- **Rischio minimo**: la grande maggioranza dei sistemi IA (es. filtri antispam, raccomandatori), soggetti solo alle norme generali di legge.
+
+**Checklist per chi sviluppa o integra sistemi che utilizzano IA** - domande da porsi per valutare il livello di applicazione dell'AI Act al proprio contesto:
+
+- [ ] Il sistema interagisce direttamente con persone fisiche? In quale contesto (lavoro, sanità, istruzione, giustizia)?
+- [ ] Il sistema prende o influenza decisioni che hanno un impatto significativo sulla vita delle persone (accesso a servizi, valutazioni, selezione del personale)?
+- [ ] Il sistema utilizza dati biometrici o è in grado di identificare individui?
+- [ ] Il sistema è in grado di generare o diffondere contenuti (testo, immagini, audio, video) che potrebbero essere scambiati per reali (_deepfake_)?
+- [ ] L'utente finale è informato del fatto che sta interagendo con una macchina?
+- [ ] Esiste un meccanismo di supervisione umana (_human-in-the-loop_) per le decisioni ad alto impatto?
+- [ ] I dati di addestramento sono documentati e verificabili rispetto a bias e rappresentatività?
+- [ ] Il sistema rientra nella categoria ad alto rischio e, se sì, è stato registrato nella banca dati EU AI Act?
+
+Rispondere a queste domande non è solo un esercizio di compliance legale: è anche un buon punto di partenza per progettare sistemi più robusti, equi e trasparenti.
+
+## AI e il mestiere del/la dev
+
+L'intelligenza artificiale generativa ha introdotto una trasformazione profonda nel lavoro quotidiano di chi scrive software. Strumenti come **GitHub Copilot**, **Cursor** e **Claude Code** integrano direttamente nell'IDE la capacità di suggerire, completare e riscrivere blocchi di codice sulla base del contesto del progetto. Non si tratta solo di autocompletamento avanzato: questi strumenti comprendono l'architettura del progetto, generano test, effettuano refactoring e spiegano porzioni di codice complesse in linguaggio naturale.
+
+Il termine **vibe coding** è entrato nel lessico del settore per descrivere un approccio in cui lo sviluppatore guida la generazione del codice attraverso prompt in linguaggio naturale, iterando velocemente verso un risultato desiderato. **Questo non elimina la necessità di competenze tecniche, ma ne cambia la natura**: la capacità di descrivere con precisione l'obiettivo, valutare criticamente il codice generato, l'aderenza ai requisiti di progetto e identificarne i difetti diventa importante quanto la capacità di scriverlo da zero.
+
+Alcune implicazioni pratiche da tenere a mente:
+
+- **Il codice generato va sempre revisionato**: i modelli possono introdurre bug, pattern deprecati o vulnerabilità di sicurezza che solo una lettura attenta può individuare.
+- **Il contesto conta**: più un agente IA conosce il progetto (struttura, convenzioni, dipendenze), migliore è la qualità del codice prodotto. Il protocollo MCP consente di connettere gli agenti direttamente a sistemi interni (documentazione, database, issue tracker).
+- **La responsabilità resta umana**: l'output di un sistema AI non è automaticamente corretto o adatto al contesto. La validazione, i test e le scelte architetturali rimangono prerogativa dello sviluppatore.
+- **Impatto sul mercato del lavoro**: l'adozione di questi strumenti sta ridefinendo le competenze richieste, con un crescente valore per chi sa lavorare _con_ i sistemi AI in modo efficace - prompt engineering, architettura di sistemi agentici, valutazione critica degli output.
 
 ## Lavorare nel campo dell'IA
 
@@ -130,6 +232,6 @@ Lavorare in questo settore implica ricoprire ruoli come quello di ingegnere/a de
 Per accedere a questo campo, in genere è necessaria una laurea in Informatica o in un campo correlato, con titoli di studio di livello magistrale nell'intelligenza artificiale o nell'apprendimento automatico, forti capacità di comunicazione, una passione per la risoluzione di problemi complessi e il rispetto degli standard etici e legali.
 Tuttavia, la laurea non è un requisito obbligatorio, ma piuttosto un qualcosa che può supportare nella definizione di una forma mentis e di un percorso lineare per approcciarsi al tema.
 
-La domanda di professionisti/e dell’IA è elevata, con opportunità di crescita e innovazione in tutti i settori. Competenze specializzate in linguaggi di programmazione come Python e Java, modellazione dei dati, machine learning, deep learning e familiarità con framework come TensorFlow e PyTorch sono cruciali per il successo nelle carriere nel campo dell'intelligenza artificiale.
+La domanda di professionisti/e dell’IA continua a essere elevata, con opportunità di crescita e innovazione in tutti i settori. Competenze specializzate in linguaggi di programmazione come Python, Go e Rust, modellazione dei dati, conoscenza di algoritmi di machine learning, deep learning e familiarità con framework come TensorFlow e PyTorch sono cruciali per il successo nelle carriere nel campo dell'intelligenza artificiale.
 
 Per avere una panoramica abbastanza ampia, alcune delle professioni che ricadono in questo settore sono disponibili all'interno del [repository](https://github.com/GuidoPenta/galactic-tech-job-roles-guide) di Guido Penta, corredate di descrizione, skill e responsabilità associate ad ognuna di esse.
