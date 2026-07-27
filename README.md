@@ -45,7 +45,7 @@ Il tema del libro è: "Il Manuale Del Buon Dev", un compendio di buone pratiche 
 ## Quali sono i capitoli del libro?
 
 I capitoli del libro sono costantemente in fase di definizione.  
-Trovi i capitoli già presi in considerazione o già in fase di stesura [qui](https://github.com/Il-Libro-Open-Source/book/labels/nuovo-capitolo), proporne uno nuovo aprendo una nuova isse o puoi trarre ispirazione nella [discussione apposita](https://github.com/Il-Libro-Open-Source/book/discussions/3).
+Trovi i capitoli già presi in considerazione o già in fase di stesura [qui](https://github.com/Il-Libro-Open-Source/book/labels/nuovo-capitolo), proporne uno nuovo aprendo una nuova issue o puoi trarre ispirazione nella [discussione apposita](https://github.com/Il-Libro-Open-Source/book/discussions/3).
 
 ## Dove posso scrivere le mie idee?
 
