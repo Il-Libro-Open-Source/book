@@ -150,6 +150,20 @@ Questa fase intermedia, spesso non visibile all'utente, permette al modello di s
 
 I reasoning model eccellono in matematica, logica formale, programmazione complessa e ragionamento multi-step, ma tendono ad essere più lenti e costosi rispetto ai modelli standard. La scelta tra le due tipologie dipende dal tipo di problema da affrontare.
 
+### Mixture of Experts (MoE): più capacità, costo operativo controllato
+
+Un'architettura sempre più diffusa nei modelli moderni è la **Mixture of Experts (MoE)**. Invece di usare sempre tutti i parametri del modello a ogni passaggio, un sistema MoE suddivide parte della rete in più "esperti" specializzati e usa un componente chiamato _router_ per selezionarne solo alcuni per ciascun token in input.
+
+In pratica, il modello può avere una capacità complessiva molto elevata, ma attivarne solo una frazione durante l'inferenza. Questo approccio consente spesso di migliorare il rapporto tra qualità delle risposte e costo computazionale rispetto a modelli densi equivalenti.
+
+I vantaggi principali sono:
+
+- maggiore scalabilità della capacità del modello;
+- migliore efficienza nell'uso della computazione per token;
+- possibilità di specializzazione implicita degli esperti su pattern linguistici differenti.
+
+Esistono però anche dei compromessi: i modelli MoE sono più complessi da addestrare e servire in produzione, richiedono bilanciamento tra esperti per evitare colli di bottiglia e possono introdurre variabilità di latenza in alcuni scenari.
+
 ### AI on-device: l'intelligenza artificiale nel tuo dispositivo
 
 Un trend in forte crescita è quello dell'**AI on-device** (o _Edge AI_): l'esecuzione di modelli di intelligenza artificiale direttamente sul dispositivo dell'utente, senza inviare dati a server remoti. Questo approccio porta con sé vantaggi significativi in termini di **privacy** (i dati non lasciano mai il dispositivo), **latenza** (nessuna dipendenza dalla connessione di rete) e **disponibilità offline**.
@@ -160,7 +174,7 @@ Un concetto fondamentale in questo contesto è la **quantizzazione dei modelli**
 
 Per intenderci meglio, per FP32 o FP16 si intende la rappresentazione dei numeri in virgola mobile a 32 o 16 bit, mentre INT8 o INT4 indica la rappresentazione dei numeri interi a 8 o 4 bit. La quantizzazione riduce la precisione dei calcoli, ma permette di eseguire modelli più grandi su hardware più limitato.
 
-Questo vuol dire che i modelli così come escono, non quantizzati, vengono solitamente associati a FP32 o FP16, mentre i modelli quantizzati vengono associati a INT8 o INT4. La quantizzazione può essere applicata in fase di addestramento (quantizzazione-aware training) o dopo l'addestramento (post-training quantization).
+Questo vuol dire che i modelli così come escono, non quantizzati, vengono solitamente associati a FP32 o FP16, mentre i modelli quantizzati vengono associati a INT8 o INT4. La quantizzazione può essere applicata in fase di addestramento (chiamata "Quantization-aware training", e abbreviata in QAT) o dopo l'addestramento (post-training quantization).
 
 Perché è importante:
 
@@ -232,6 +246,6 @@ Lavorare in questo settore implica ricoprire ruoli come quello di ingegnere/a de
 Per accedere a questo campo, in genere è necessaria una laurea in Informatica o in un campo correlato, con titoli di studio di livello magistrale nell'intelligenza artificiale o nell'apprendimento automatico, forti capacità di comunicazione, una passione per la risoluzione di problemi complessi e il rispetto degli standard etici e legali.
 Tuttavia, la laurea non è un requisito obbligatorio, ma piuttosto un qualcosa che può supportare nella definizione di una forma mentis e di un percorso lineare per approcciarsi al tema.
 
-La domanda di professionisti/e dell’IA continua a essere elevata, con opportunità di crescita e innovazione in tutti i settori. Competenze specializzate in linguaggi di programmazione come Python, Go e Rust, modellazione dei dati, conoscenza di algoritmi di machine learning, deep learning e familiarità con framework come TensorFlow e PyTorch sono cruciali per il successo nelle carriere nel campo dell'intelligenza artificiale.
+La domanda di professionisti/e dell'IA continua a essere elevata, con opportunità di crescita e innovazione in tutti i settori. Competenze specializzate in linguaggi di programmazione come Python, Go e Rust, modellazione dei dati, conoscenza di algoritmi di machine learning, deep learning e familiarità con framework come TensorFlow e PyTorch sono cruciali per il successo nelle carriere nel campo dell'intelligenza artificiale.
 
 Per avere una panoramica abbastanza ampia, alcune delle professioni che ricadono in questo settore sono disponibili all'interno del [repository](https://github.com/GuidoPenta/galactic-tech-job-roles-guide) di Guido Penta, corredate di descrizione, skill e responsabilità associate ad ognuna di esse.
