@@ -121,14 +121,14 @@ I punti chiave sono espressi con dei voti che vanno da 1 a 5, dove 1 è il voto 
 
 Segue una tabella riepilogativa dei punti di forza e di debolezza di ogni architettura.
 
-|                             | **Monolite**    | **Monolite modulare** | **Microkernel** | **Microservizi** | **Service-based** |
-| --------------------------- | --------------- | --------------------- | --------------- | ---------------- | ----------------- |
-| **Start-up**                | ⭐️⭐️⭐️⭐️⭐️ | ⭐️⭐️⭐️⭐️          | ⭐️⭐️⭐️⭐️    | ⭐️⭐️           | ⭐️⭐️⭐️         |
-| **Costi**                   | ⭐️⭐️⭐️       | ⭐️⭐️⭐️             | ⭐️⭐️⭐️       | ⭐️⭐️⭐️⭐️     | ⭐️⭐️⭐️⭐️      |
-| **Sviluppo e manutenzione** | ⭐️⭐️⭐️⭐️    | ⭐️⭐️⭐️⭐️⭐️       | ⭐️⭐️⭐️⭐️    | ⭐️⭐️           | ⭐️⭐️⭐️         |
-| **Tracciabilità**           | ⭐️⭐️⭐️⭐️    | ⭐️⭐️                | ⭐️⭐️⭐️       | ⭐️⭐️⭐️        | ⭐️⭐️⭐️⭐️      |
-| **Scalabilità**             | ⭐️             | ⭐️                   | ⭐️⭐️          | ⭐️⭐️⭐️⭐️⭐️  | ⭐️⭐️⭐️⭐️      |
-| **Performance**             | ⭐️⭐️          | ⭐️                   | ⭐️⭐️⭐️⭐️    | ⭐️⭐️⭐️⭐️     | ⭐️⭐️⭐️⭐️      |
+|                             | **Monolite** | **Monolite modulare** | **Microkernel** | **Microservizi** | **Service-based** |
+| --------------------------- | ------------ | --------------------- | --------------- | ---------------- | ----------------- |
+| **Start-up**                | ⭐️⭐️⭐️⭐️⭐️   | ⭐️⭐️⭐️⭐️              | ⭐️⭐️⭐️⭐️        | ⭐️⭐️             | ⭐️⭐️⭐️            |
+| **Costi**                   | ⭐️⭐️⭐️       | ⭐️⭐️⭐️                | ⭐️⭐️⭐️          | ⭐️⭐️⭐️⭐️         | ⭐️⭐️⭐️⭐️          |
+| **Sviluppo e manutenzione** | ⭐️⭐️⭐️⭐️     | ⭐️⭐️⭐️⭐️⭐️            | ⭐️⭐️⭐️⭐️        | ⭐️⭐️             | ⭐️⭐️⭐️            |
+| **Tracciabilità**           | ⭐️⭐️⭐️⭐️     | ⭐️⭐️                  | ⭐️⭐️⭐️          | ⭐️⭐️⭐️           | ⭐️⭐️⭐️⭐️          |
+| **Scalabilità**             | ⭐️           | ⭐️                    | ⭐️⭐️            | ⭐️⭐️⭐️⭐️⭐️       | ⭐️⭐️⭐️⭐️          |
+| **Performance**             | ⭐️⭐️         | ⭐️                    | ⭐️⭐️⭐️⭐️        | ⭐️⭐️⭐️⭐️         | ⭐️⭐️⭐️⭐️          |
 
 Nelle sezioni che seguono verranno indicati alcuni termini che possono non essere familiari a tutti. Per questo motivo, quanto segue è un glossario dei termini più utilizzati.
 
